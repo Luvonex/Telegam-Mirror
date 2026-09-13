@@ -8,93 +8,12 @@
   },
   "posts": [
     {
-      "id": 230426,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-09-13T18:22:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230427,
-      "message": "روایت سپيده قليان در «عمق میدان» از حال‌ و‌هوای زندانیان پس از شنیدن خبر کشته‌شدن خامنه‌ای.",
-      "date": "2026-09-13T18:26:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/AOux7w7wYlweidzPskHiYKA-NOFYxD89gZlLklmuOWF6pdTT__28NNs4wgAKCt5kJ0Pf2in_WtJaR-XppkuQJ-6Gw02UEMpCvoSjGGvcKWIpR496LedntumYp5VKh14SbwuUwEV9AsKzP2xSALG1QVan50pmw-7A7yzz0QXVv9BgSFFyrV9JjLnUFJS_4OhIc0VvfeQ4g7PKk1aiC7AiHWmQJGa8GAfMdiKNhnPbj_5DD4Y-vFu_0qiloE1RoF11bdh59z1WFoif9CH7ryMSepAm23CqzMi1D0-Y06lwQy7Wpx0HQpwmD7FuKPLG9DJ4LeQnt5i_xKWhRC3ZBGyBYw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230428,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eادامه پیشروی حوثی‌ها به سوی تنگه باب‌المندب\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eحوثی‌های مورد حمایت جمهوری اسلامی با ادامه پیشروی سریع در سواحل غربی یمن و حملات تازه موشکی و پهپادی به عربستان سعودی، به تنگه راهبردی باب‌المندب نزدیک‌تر شده‌اند؛ تحولی که همزمان با اختلال در کشتیرانی تنگه هرمز، نگرانی‌ها درباره امنیت یکی دیگر از مهم‌ترین مسیرهای تجارت و انتقال انرژی جهان را افزایش داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-backed-houthis-bab-el-mandeb-us-base-djibouti/8197607.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-backed-houthis-bab-el-mandeb-us-base-djibouti/8197607.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-13T18:34:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230429,
-      "message": "سپيده قليان در گفت‌و‌گو با فهیمه خضرحیدری در «عمق میدان» از خستگی و نگرانی‌اش بابت فضای دو‌قطبی شده در میان اپوزیسیون می‌گوید.",
-      "date": "2026-09-13T18:46:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jwLmobJrl7w6ospfRwwhesYhi8EAK4u1p4rjSlnLC9iBF1vv8J5ZOvNvmmF5okoHMdUMQdhO4z5tuOL0IkLIKq6cgCdWa2m_pqLfS9-_d-_7QhAU6FF9ZjtBzeTunMKsj4KIO4ArnmPJyx3a94LUXCxz-5Y3NsAzNDiDMPPExfSdMmHBk55w4zgkNoVYKr-NFI1wGd96aZslbsGY2g7a_NITGZG3erHT1_EcCPY6lGIuMKW1JFYZg0V5ef96yC7OpaRkY3t4MFnZZQ_Isw97esUep6rdsfgV5NBSLBTpIEZ0q4Ovow9Ao4L63ELjEIpTht6PyhblsaabAazFTeFi3w",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230430,
-      "message": "جمهوری اسلامی برای آینده تنگه هرمز با کشورهای منطقه مذاکره می‌کند، اما بحرین از نشست مشترک کنار کشیده و کیهان از هدف‌ گرفتن نفتکش‌ها می‌گوید. هم‌زمان یک کشتی تجاری هدف قرار گرفته، کارینا از محاصره آمریکا عبور کرده، و ایالات متحده بر ادامه فشار تأکید دارد.",
-      "date": "2026-09-13T18:49:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/WCJ8mANZzvkUMoJDbO0E_EItQvaxyilf6U-X2Q31wnPEyOUIWVzFKED7tPiF2OqTv22q12Ho36GmDKqUcPkrcufUB6TVTXhr6mn5MgJx2jjeW6-xfvkz09GlaeHWcZ8ljvmr9qf36G-ao2pcEluFCK__mpl3er8uWkuK2YA8y40b2Ar13eZ6AXxIjs0TbwnLUj0dHfWubOv9hD5vYwcH6fjvxlQXsMhgE-tyvF61eEF8EozwKLbixgKFV4q2xOJqQd349fKitCwmNowGkqv97j_an7h38pztoWaSOXOZpsPDjzXFm5KCMNwKTAekf-YV_o4ZmAGl9PvTu8a1bUD_kw",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 230431,
       "message": "هشتاد و سومین جشنواره فیلم ونیز به پایان رسید. لاله مرزبان برای بازی در «مراقب» جایزه بهترین بازیگر بخش «افق‌ها» را دریافت کرد، و فیلم «زن ناشناس» به کارگردانی می ال‌توخی جایزه اصلی جشنواره یعنی شیر طلایی بهترین فیلم را از آن خود کرد.",
       "date": "2026-09-13T18:57:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2940,
+      "views": 3170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +32,7 @@
       "date": "2026-09-13T19:08:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
+      "views": 3110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +44,7 @@
       "date": "2026-09-13T19:18:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3000,
+      "views": 3320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +56,7 @@
       "date": "2026-09-13T19:20:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3000,
+      "views": 3320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +75,7 @@
       "date": "2026-09-13T19:29:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3370,
+      "views": 3720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +87,7 @@
       "date": "2026-09-13T19:35:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
+      "views": 3590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +106,7 @@
       "date": "2026-09-13T19:48:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 3520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +118,7 @@
       "date": "2026-09-13T20:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 3120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +137,7 @@
       "date": "2026-09-13T20:26:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2350,
+      "views": 2840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +156,7 @@
       "date": "2026-09-13T20:56:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1860,
+      "views": 2470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +168,7 @@
       "date": "2026-09-13T21:06:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 2130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +187,7 @@
       "date": "2026-09-13T21:16:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1350,
+      "views": 2180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +199,7 @@
       "date": "2026-09-13T21:32:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 863,
+      "views": 1940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +211,7 @@
       "date": "2026-09-13T21:37:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 681,
+      "views": 1870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +230,88 @@
       "date": "2026-09-13T22:06:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 1640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230446,
+      "message": "جمهوری اسلامی محمدرضا مجیدی‌اصل، از معترضان دی‌ماه را به اتهام «پرتاب سنگ» به اعدام محکوم کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-13T22:37:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/d5et7yB07Cn680jmk8P8iRzcG91h7iQT2ouKkZmFBw_DCqb6gYwwdxAabszbNUpJ3QRGwf-s9zdTZr6YSCYQrE_-7wY_OJYDeIVbuU8Mmc9cfEQQjcyrwjU6AQXCAGSXrPQl9MF6pdt9fFWHdfHnG48xt72d-ju5pSAXS_rsuKpS298t16kpFAFyG3cGljixv5nqjFZt8ov3zw_N0-ZLtkmf4gKaPZjFbYG2xHoPpW4_chMPsVeKK0Nc3DYmLvtQfCYnp6VQouUkC008vIDGS2VdSCEEpiSz1qZSCXWQbQBUXQVzAL-mmPb3DH3W9YjE5AiNBaHgw844ioMQmoH1sQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230447,
+      "message": "فقر در جنوب تهران؛ ساکنان محله‌های جنوب تهران نان را نسیه می‌خرند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-13T22:45:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 945,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/BDWlQAshcD727xvAULQkyuIRU_w4NvldB6GbF0hd50jGldji8Q9u2nnAAfJ8Op8txViYLjgrjXLnwW1Q3i9BJ2RJw1LQp3bUoTeEI6gVxboDB6nm1MHZ7gG8DM5u5v3dE8S-iViCFtHLT7cGofV33B7qJ-UilE4Ib1Sf97hl6CqVKzVTUh8ZDGoPK87tZ4QZ2uJ4mtekxuOYdfdBYQqo2L_C2OFoledoFn-rb5buU5nzyAXltzu-Ah0VDhPG3fHX1hxqmn0r0qE8PA6AuQnxCHkA7OQ12gMNBX80-oPKIU7wdxUUPLLBIGno_Bkh25mTR55FMnC0JhHxPsKeBqdjFg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230448,
+      "message": "اهداف سفر نخست وزیر عراق به فرانسه و آلمان\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-13T23:07:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 583,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/nHsybq5_xTZyhtHIVd3VYRcHJz_imIXkrAol8lLfeAPF7Iu4vdalW24pDTxWfHUF3pKDyDBaGXyk5NDDvlJn0a6KSXtRKT0Gz5u9t09-UWYksEXNkj3UdgYFFLL_Boo33KB0AXTkdW5-ufB2NFTjAgZHv88SrEzZMbqRx9u04Fd-7syC3XLjNeOApU91Suoh5n7YvXxhbqMtAvjrBj1XYWzArXn8b8M5DVFotfk0l038urnjpxqqulnNeatLt-ZqRtB7sMt7PGrH-_kf9ItWWxo_54quHwc-DJn5BOoBrZ2PvvQkprwfrj_uBK2YWLUB-X1QpyRD6--2ZpZsUXL-Ow",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230449,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدونالد ترامپ گزارش فشار اقتصادی بر جمهوری اسلامی را بازنشر کرد؛ بنزین در ایران «رو به تمام شدن» است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، روز یکشنبه ۲۲ شهریور گزارشی از روزنامه وال‌استریت ژورنال را درباره وخامت شرایط بنزین در ایران منتشر کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8197635.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8197635.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-13T23:09:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 622,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230450,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eفرمانده سنتکام: ارتش آمریکا به‌خوبی مسلح است و برای هر شرایطی آمادگی دارد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبرد کوپر، فرمانده ستاد فرماندهی مرکزی آمریکا، سنتکام، می‌گوید با وجود استفاده گسترده آمریکا از موشک‌های پدافندی در درگیری‌های اخیر با جمهوری اسلامی، درباره توانایی ایالات متحده برای مقابله با تهدیدهای آینده هیچ نگرانی ندارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8197636.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8197636.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-13T23:42:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 103,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
