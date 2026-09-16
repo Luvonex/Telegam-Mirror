@@ -3,126 +3,17 @@
     "id": 0,
     "title": "خبرگزاری هرانا",
     "username": "hranews",
-    "photo_url": "https://cdn1.telesco.pe/file/otbSOcXmKuSfhmDRCqzUArKR5Iww2TbGnJN0XKkX5lldnVYdfohoJrB-EcH3Sg8bGm2Xdydj61n5s5sF_FYZtA1ePWizcVj8LP-9PI17RK-ZDamVC_Aw7_tURPSEbHw0dTmVzMZXgoX-jo0uKJhMK95U910Ta9CZLIt2sa-_T_npPXUbSnY0MfdsjgbFH1KuwPOZEs5PlyVEHxu-mZ6T1nTJBYujSXSZ0Rg7RgTcLYRCJcYRDz4n34Zb68IQBnHK9wdaw71IHkXXfaTtEe8hUIjn_26bkh4Y9hRs6Vslwv3scCpOGpwEw3E5yBC_1JcyfdzJ-NKjFqtVKGEZs-Uiyg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/sg7HWPxMcwVt3rAlWpLy-C_txuhEPGKWHO5rTZphiX4Y651-F2Sbb3hp5RYKP0eG5XL-tmZSrBaAZPdz6cdFM97wxjPevV23TXro--JmmIAbIm1GryYXr0k8CyIGMyFhH3kBQypnotnrhByIVczIxWsuxLedsljqWN_dtMrWz2uCBSrfUUneUEGq_m2GdnWpHN-w5Grevkk9bENWPio7yUAgq0V3cRhpSUazYDuh7_QbZZljGQ-gBR2tyYYSY_JLQ5tJAOo1n3qT-_hjZb5E4k3yXYytgQzxhpFb4yxue2kMhl8HOdnzlYgEpRQ2ht_7IUXRsWXkIoPcq3AgcVzAQA.jpg",
     "description": "خبرگزاری هرانا - ارگان خبری مجموعه فعالان حقوق بشر در ایران\n@hranews\nتماس با هرانا\n@hranews_bot\n\nhttps://www.facebook.com/Hranews\nhttps://twitter.com/hra_news"
   },
   "posts": [
-    {
-      "id": 115662,
-      "message": "بر اساس آمارهای منتشرشده توسط سازمان هدفمندسازی یارانه‌ها، در مردادماه سال جاری ۲۸ میلیون و ۲۱۳ هزار و ۱۴۳ نفر از جمعیت کشور در دهک‌های اول تا سوم درآمدی قرار داشته‌اند. این رقم نسبت به تیرماه بیش از ۴۷ هزار نفر و در مقایسه با اردیبهشت‌ماه حدود ۲۹۶ هزار نفر افزایش نشان می‌دهد.\u003cbr/\u003e\u003cbr/\u003eبر اساس این آمار، در مجموع ۷۳ میلیون و ۴۳۷ هزار و ۷۱۲ نفر در دهک‌های اول تا نهم قرار دارند و مشمول دریافت یارانه نقدی هستند.\u003cbr/\u003e\u003cbr/\u003eدهک درآمدی معیاری برای دسته‌بندی خانوارها بر اساس وضعیت اقتصادی آنها است. در این تقسیم‌ بندی، جمعیت کشور به ۱۰ گروه تقریباً برابر تقسیم می‌شود؛ دهک اول کم‌درآمدترین و دهک دهم پردرآمدترین گروه محسوب می‌شود. دهک‌های اول تا سوم در این تقسیم‌بندی، پایین‌ترین گروه‌های درآمدی هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T10:41:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 896,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MuRUgkrNSqlcz1Ed0GaatNF9JBOGUMsFWlTyWFL1CJy7ZTnIF6FAtjq3CiLTRSiDgfAMm_QWKl4tjv3kMJ1xcFwIb1kc9pXviR7Gy1RtQT0u2T2mtvpHfeXnyuM1gCCfNqk5NVJDA6Ryx6jfaaXPOD0Yr5mXvggl5KSf4z6-klmLkZv5Qji0EqEgTL3VmhyAvCDPfL1MCDJjyOkUyyk-pvsUrV_3ovlu4CsakJ-cSTGfXVV893uHZsrae-CELycvwns8dr1J2nw0KwikrX8z4PB1riMo18Eog3DSTo1sVDstAEwjBhPxHzVdDVE_x1KEG77_D_WkptPLDS-E8COAuQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 115663,
-      "message": "یک شهروند توسط نیروهای امنیتی در مهاباد بازداشت شد \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e–  روز دوشنبه ۲۳ شهریورماه، حاصل فقری، شهروند ساکن مهاباد، توسط نیروهای امنیتی در این شهر بازداشت و به مکان نامعلومی منتقل شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-283ea115/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D8%A7%D8%B5%D9%84_%D9%81%D9%82%D8%B1%DB%8C\"\u003e#حاصل_فقری\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T11:31:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 683,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا"
-    },
-    {
-      "id": 115664,
-      "message": "گزارشی از بازداشت و بی‌خبری از وضعیت ۲ شهروند در سراوان \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– عبدالرزاق میرکی و محمدانس الله‌دادزاده، شهروندان ساکن سراوان مورخ ۲۶ مردادماه توسط نیروهای امنیتی در این شهرستان بازداشت شدند. از زمان بازداشت تاکنون از محل نگهداری این شهروندان اطلاعی حاصل نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-16374da8/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%82_%D9%85%DB%8C%D8%B1%DA%A9%DB%8C\"\u003e#عبدالرزاق_میرکی\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%86%D8%B3_%D8%A7%D9%84%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%AF%D8%B2%D8%A7%D8%AF%D9%87\"\u003e#محمدانس_الله‌دادزاده\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T12:05:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 659,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا"
-    },
-    {
-      "id": 115665,
-      "message": "سهند نجات‌بخش، دانشجوی دانشگاه علم و صنعت به منع موقت از تحصیل محکوم شد \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– امروز سه شنبه ۲۴ شهریورماه، سهند نجات‌بخش، دانشجوی مقطع کارشناسی مهندسی شیمی دانشگاه علم و صنعت با حکم کمیته انضباطی تجدیدنظر این دانشگاه به یک ترم محرومیت از تحصیل محکوم شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-0408430a/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D9%87%D9%86%D8%AF_%D9%86%D8%AC%D8%A7%D8%AA%E2%80%8C%D8%A8%D8%AE%D8%B4\"\u003e#سهند_نجات‌بخش\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T12:32:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا"
-    },
-    {
-      "id": 115666,
-      "message": "بهروز مروتی، مدیر کمپین معلولان، در گفتگو با رسانه های رسمی اعلام کرد کمک‌هزینه تهیه اقلام بهداشتی ۱۳ هزار فرد دارای معلولیت شدید و خیلی شدید توسط سازمان بهزیستی و بدون اطلاع قبلی قطع شده است. وی این اقدام را فاقد مجوز مراجع بالادستی دانست و هشدار داد قطع این حمایت می‌تواند دسترسی معلولان به اقلام ضروری بهداشتی را بیش از پیش محدود کند.\u003cbr/\u003e\u003cbr/\u003eمروتی با اشاره به فشارهای اقتصادی و کاهش حمایت‌ها گفت برخی افراد دارای معلولیت ناچار به استفاده از «کهنه‌پارچه» شده‌اند و قطع این کمک‌هزینه می‌تواند خطر عفونت و مرگ‌ومیر را افزایش دهد. پیش‌تر نیز از افزایش حدود ۳۰۰ درصدی قیمت برخی اقلام بهداشتی مورد نیاز افراد دارای آسیب نخاعی و استفاده چندباره از وسایل یک‌بارمصرف به دلیل گرانی خبر داده شده بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D9%81%D8%B1%D8%A7%D8%AF_%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C_%D9%85%D8%B9%D9%84%D9%88%D9%84%DB%8C%D8%AA\"\u003e#افراد_دارای_معلولیت\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%B9%D9%84%D9%88%D9%84%D8%A7%D9%86\"\u003e#معلولان\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T13:03:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 781,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Mxgb10c2gPlFaqkjY63J7lBp5g93N5KBTSnONSGg9PTigwD_7WcQ81E0kS1F5HnbbBZ-cThR5HSyQsi24DvVjhiN1fH9ApKbbw-o2AwmrC_C2Fm4Fbk4NqR-lcYHYypxaN5o-R6ieuHDJ_KL7q6tXJBDvEOPjdC0J1lA3Hflth05ECV88glOPMdQ_LRLq-s9htSEITO4nHEYagwM7fDgETa264bR-GuZGwMv7wok560HLYExpS93wDmwI09YrTQrxgFYUE9TriZ8w0XhCkghVV68Eifomymamn3MdxlrYbhCGrjqUB1GFfO5hN4LSBOK8M0hUwhIeQKi0LBaRhOD3Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 115667,
-      "message": "گزارشی از آخرین وضعیت علیرضا سپاهی، زندانی محکوم به اعدام در زندان اصفهان \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– علیرضا سپاهی، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ و یکی از محکومان به اعدام پرونده موسوم به «میدان علیخانی اصفهان»، در بند امنیتی موسوم به «الف‌طا» زندان دستگرد اصفهان نگهداری می‌شود. پرونده وی پس از رد اعاده دادرسی، به اجرای احکام ارسال شده است.\u003cbr/\u003e\u003cbr/\u003eبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، علیرضا سپاهی، در زندان اصفهان است.\u003cbr/\u003e\u003cbr/\u003eبر اساس اطلاعات دریافتی هرانا، آقای سپاهی اکنون در بند امنیتی موسوم به «الف‌طا» زندان دستگرد اصفهان به‌سر می‌برد.\u003cbr/\u003e\u003cbr/\u003eهرانا پیشتر گزارش داده بود که پس از موافقت دیوان عالی کشور با اعاده دادرسی در پرونده علیرضا سپاهی، پرونده وی برای رسیدگی مجدد به شعبه هم‌عرض شعبه دوم دادگاه انقلاب اصفهان ارجاع شد. با این حال، شعبه مذکور بدون تشکیل جلسه رسیدگی، اعاده دادرسی را نپذیرفت و پرونده را برای اجرای حکم اعدام به شعبه اجرای احکام ارسال کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-f18427ef/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7_%D8%B3%D9%BE%D8%A7%D9%87%DB%8C\"\u003e#علیرضا_سپاهی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T13:19:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Azb5hNBGyiWFoEfKSzBEJwFsBStbiPnRQrLct-OSnv0UCHb8A9d0DNMXSQkT49h4jkmtH03AOffo1gbh322UnQBo-eJk50B5ihy9JSkQhOCvFu7yVViwfksz3KHJeyX-ozIfOxwD2hToJmzB02akS0CS1jnyk0mjUMg_-oy3chUjp4X7qzxy8OAWv4qEEnQx9ClGo6GzRSuAWFL7TBxb9UnZsSw6SQRWd_IeMWgBPRUN6VMB-2SwBdWhaF5yMLY8nuxDoerzRzY1ypzVqDsm88j_ar98OUskuza4nZqU9GY1-BV96e-5rltnFd4c9pahzVY6eyktLARiud9sdoM5mA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 115668,
-      "message": "امروز سه شنبه ۲۴ شهریورماه، شماری از متقاضیان مسکن ملی کاشان در مقابل فرمانداری این شهرستان تجمع اعتراضی برگزار کردند. این افراد خواستار رسیدگی به مطالبات خود هستند و می‌گویند علیرغم پرداخت مبالغ خواسته شده، واحدهای مسکونی به آنها تحویل داده نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%AC%D9%85%D8%B9_%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%DB%8C\"\u003e#تجمع_اعتراضی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-15T14:35:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 628,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "خبرگزاری هرانا",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/h97HBFBrXqLOQhIhmkqsZ0XkI97iMPybrQzbLrofv_wmxAvlJgGpsRPeV23uff1z6N85htyWTpsKCbuEhuR4WGcmtgWp-9mf9-dcECax_kie_jtIEbI5PyEa5MB4HRvpSZuDL0XuHpxKk7akwDcDZfB2tUkq-nBTS3MdUvqQt3XZUX3mxgZGDTPq8ZOgSKKBxCcK4usxdgFaHMjThx1mZ3NiwnplkYHGpgyV6WlenIC3dseBXr83PwZxpDyu-l5hadAlSLXaWqbvVcXt-AI3yb547GougjfCvUQV-kwuqfkfg0Ij2rMtW1cS68Ei0O5d4iAbtghzZCVlFsQ5AEjJFw",
-          "width": 1080
-        }
-      ]
-    },
     {
       "id": 115669,
       "message": "همزمان با تفتیش منزل؛ رها جلیلیان به اطلاعات سپاه احضار شد \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– روز گذشته، منزل رها جلیلیان، شهروند ساکن کرمانشاه توسط ماموران اطلاعات سپاه مورد تفتیش قرار گرفت. ماموران برخی از لوازم دیجیتال خانم جلیلیان و اعضای خانواده وی را نیز ضبط کردند. همزمان با این رویداد، وی به اطلاعات سپاه کرمانشاه احضار شده است.\u003cbr/\u003e\u003cbr/\u003eبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، منزل رها جلیلیان، شهروند ساکن کرمانشاه تفتیش شد.\u003cbr/\u003e\u003cbr/\u003eیک منبع مطلع نزدیک به خانواده رها جلیلیان با تایید این موضوع به هرانا گفت: “روز دوشنبه ۲۳ شهریورماه، ماموران اطلاعات سپاه برای بازداشت خانم جلیلیان با شکستن درب ورودی وارد منزل وی شدند. به دلیل عدم حضور رها در منزل موفق به بازداشت او نشدند.”\u003cbr/\u003e\u003cbr/\u003eوی افزود: “با این حال ماموران ضمن ایجاد رعب و وحشت و توهین به اعضای خانواده اقدام به تفتیش محل کردند. در جریان این بازرسی شماری از لوازم دیجیتال خانم جلیلیان، پدر و مادرش همچون تبلت و تلفن های همراه آنها توسط ماموران ضبط شده است.”\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-a8aad168/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B1%D9%87%D8%A7_%D8%AC%D9%84%DB%8C%D9%84%DB%8C%D8%A7%D9%86\"\u003e#رها_جلیلیان\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-09-15T15:17:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 687,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +31,7 @@
       "date": "2026-09-15T15:35:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 664,
+      "views": 734,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +49,7 @@
       "date": "2026-09-15T16:31:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685,
+      "views": 745,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +67,7 @@
       "date": "2026-09-15T17:07:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 555,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +85,7 @@
       "date": "2026-09-15T17:34:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 695,
+      "views": 787,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +103,7 @@
       "date": "2026-09-15T17:47:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 499,
+      "views": 583,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +115,7 @@
       "date": "2026-09-15T18:02:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 485,
+      "views": 581,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +127,7 @@
       "date": "2026-09-15T18:05:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 543,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +145,7 @@
       "date": "2026-09-15T18:25:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 507,
+      "views": 589,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +157,7 @@
       "date": "2026-09-15T18:30:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 540,
+      "views": 637,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +169,7 @@
       "date": "2026-09-15T18:35:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 583,
+      "views": 711,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +181,7 @@
       "date": "2026-09-15T18:52:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 661,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +193,111 @@
       "date": "2026-09-15T19:01:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 865,
+      "views": 1120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا"
+    },
+    {
+      "id": 115682,
+      "message": "یک شهروند در مهاباد بازداشت شد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– روز گذشته، هیوا عبداللهی، شهروند اهل مهاباد، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%87%DB%8C%D9%88%D8%A7_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%DB%8C\"\u003e#هیوا_عبداللهی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-3c5bc0ff/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T07:11:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 481,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا"
+    },
+    {
+      "id": 115683,
+      "message": "تداوم بازداشت و بی‌خبری از وضعیت آزاد محمدی در دیواندره \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– با وجود گذشت ۵۰ روز از زمان بازداشت آزاد محمدی، شهروند اهل دیواندره، کماکان اطلاعی از محل نگهداری و وضعیت او در دست نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-65d9515d/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D8%B2%D8%A7%D8%AF_%D9%85%D8%AD%D9%85%D8%AF%DB%8C\"\u003e#آزاد_محمدی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T07:59:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 391,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا"
+    },
+    {
+      "id": 115684,
+      "message": "امروز، ۲۵ شهریور ۱۴۰۵، چهار سال از جان‌باختن مهسا (ژینا) امینی می‌گذرد؛ زن جوان ۲۲ ساله اهل سقز که پس از بازداشت توسط پلیس امنیت اخلاقی در تهران، از بازداشتگاه به بیمارستان منتقل شد و سه روز بعد جان خود را از دست داد. مرگ او در بازداشت، موج گسترده‌ای از اعتراضات سراسری را در ایران رقم زد که با شعار «زن، زندگی، آزادی» شناخته شد و در جریان آن شمار زیادی از شهروندان کشته، زخمی یا بازداشت شدند.\u003cbr/\u003e\u003cbr/\u003eچهار سال پس از این واقعه، همچنان پاسخ‌گویی قضایی مؤثری درباره چگونگی مرگ مهسا امینی و مسئولیت افراد و نهادهای دخیل صورت نگرفته است. مقام‌های جمهوری اسلامی از ابتدا ارتباط مرگ او با خشونت یا برخورد فیزیکی مأموران را رد کرده‌اند؛ این در حالی است که هیأت حقیقت‌یاب مستقل سازمان ملل، پس از بررسی شواهد، اعلام کرد مهسا امینی در بازداشت مورد خشونت فیزیکی قرار گرفته که به مرگ او انجامیده و دولت ایران را مسئول مرگ غیرقانونی او دانست. \u003cbr/\u003e\u003cbr/\u003eخانواده مهسا امینی و نهادهای حقوق بشری همچنان بر روشن شدن ابعاد مرگ او، تعیین مسئولیت عاملان و اجرای عدالت تأکید دارند. با این حال، تا امروز گزارشی از محاکمه یا مجازات فرد یا افرادی در ارتباط با مرگ او منتشر نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#مهسا_امینی\u003c/a\u003e (\u003ca href=\"?q=%23%DA%98%DB%8C%D9%86%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#ژینا_امینی\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T08:22:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 415,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OhN1aeI_C-jBkDbWbICC-j55lCCGnDeuL9xdEZSTSxM0nFUganGaECFok0ZxwftM2W8Or17cNVDJ4BUJeXpa3azG9tefyhaOFnPAHJUo3F4Nmavb8co86EBcKI1rXqX7c7MnGD-4s7XJunJvkIQJvewnZwVaHLVUPUgC5hWgdU-q925OUkiTWXK747QG5EAi4UzLo5B2WBcTkUb4icqzcj6PyiPwBRb019rY_QzJvIwSBUVJL-jjEAh2SSv3F4dkj-gPkMcNy42HtQKUrijLFZM_830KQuPKQjcRB_Pj5Tuxtb0691AIDQYwdqiv8sgCn0ShVnNfSX4wswI_--unzA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 115685,
+      "message": "امروز چهارشنبه ۲۵ شهریورماه، همزمان با چهارمین سالگرد جانباختن مهسا (ژینا) امینی، شماری از کسبه و بازاریان در شهرهای مختلف از جمله بانه، سنندج و بوکان از انجام فعالیت‌های روزانه خود امتناع کرده و دست به اعتصاب زده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#مهسا_امینی\u003c/a\u003e \u003ca href=\"?q=%23%DA%98%DB%8C%D9%86%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#ژینا_امینی\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D8%A8\"\u003e#اعتصاب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T08:34:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 415,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/OJ2S2Ylj0pyu52CMpZGMtT_8VHmDLCMOa6ayN_cnrkS8avOEwqANxwYPqwK3arPMKXhSm-9k2uwBzzvlksKaE0wKxxiSqMqwX0bLE9kk9jSjO7glSmnhI-nfQTYUQbzdxj0-esXhDnE_pM35-NHUyi2GMCjEsyAr04tyLN9XTYNjiWLK8E-yTE2pyNVGfJSCIG173hsare7PcSTd5-bRPoipybFVePT3mqD-0e8W17H0ghM6F2D3bzFA2eKxu4vco_QfQmzUsy9FPDqA1gHvQnCELKWXRjRW1z7fjqH8uKBJ3-41rJRH7H3BOCcqt8liA6Z8YCy62A2DETPhIaosTQ",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 115686,
+      "message": "پرونده سازی در زندان؛ مسعود فرهیخته به حبس و مجازات تکمیلی محکوم شد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– مسعود فرهیخته، فعال صنفی معلمان که دوران محکومیت حبس خود را در ندامتگاه مرکزی کرج سپری میکند، در خصوص پرونده‌ جدیدی که در طول دوران حبس علیه وی گشوده شده است، توسط دادگاه انقلاب این شهرستان به یک سال حبس تعزیری و مجازات‌های تکمیلی محکوم شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D8%B3%D8%B9%D9%88%D8%AF_%D9%81%D8%B1%D9%87%DB%8C%D8%AE%D8%AA%D9%87\"\u003e#مسعود_فرهیخته\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-2c4600bd/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T09:02:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 284,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا"
+    },
+    {
+      "id": 115687,
+      "message": "امروز چهارشنبه ۲۵ شهریور، مصادف با چهارمین سالگرد جانباختن مهسا (ژینا) امینی، شماری از کسبه و بازاریان در شهرهای سقز و دیواندره نیز دست به اعتصاب زدند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#مهسا_امینی\u003c/a\u003e \u003ca href=\"?q=%23%DA%98%DB%8C%D9%86%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C\"\u003e#ژینا_امینی\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D8%A8\"\u003e#اعتصاب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T09:17:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 236,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "خبرگزاری هرانا",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/H9IGe7uVV_F_JdVz9Itz__YHlnMKHZhVm5a5mHGyxlHi8DAHzupWjAdJJDfwpXFGhT333fkXVahOx8NARlxYFqDOK7R2o_jZ33BkX5PAQohuzeznbhsZm-mS8HOMEz5HLiIA-onVqdEIAxgPnddDnaZe20Rigcon4VvL2xz5qGcXaWih2dqqMul7m4BR8A3Zfn5H9-KjWcQKRT-3y6gaHXPoABnaDKHOt7sHchd0UNXINKOriC6MypTZTXNudOtRX543CQuIvHHCrKpJDVlAn3LsN364QA0TgjKmXeYk5iCutJk-z-mo2HBrvexDJKxCNXI7eVDr5cFuF4QZr3rWrw",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 115688,
+      "message": "امیر سلیمانی از زندان مهاباد آزاد شد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4936376861581116178\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936234406105842841\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4936202185261187827\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933936920725029797\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4933769043338331221\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e– روز سه شنبه ۲۴ شهریورماه، امیر سلیمانی، شهروند ساکن مهاباد با تودیع وثیقه از زندان این شهرستان آزاد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D9%85%DB%8C%D8%B1_%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C\"\u003e#امیر_سلیمانی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-ffa8224b/\u0026amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eادامه مطلب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-16T09:36:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 149,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
