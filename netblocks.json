@@ -8,24 +8,6 @@
   },
   "posts": [
     {
-      "id": 1528,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eConfirmed: Metrics show a disruption to internet service in \u003ca href=\"?q=%23Kenya\"\u003e#Kenya\u003c/a\u003e with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-29T20:47:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h--VD4WN6p33uCULqIzsDs64cihJE4cTewD1Gow9UjBXniCVxNkRNH9J5xfZMzaFX93zswv6kF9YTXFJqtuZRFIVJHTgo5RK7_rZAPRzed68jP_siA1easb-sq8IWreeEaxf_1ONPzUSTrftZwVkJUgBIza0SLLwdudae4FY3EqPLQM-4DgqxKY4VOsuEFMZxRZem9JazO2APbQwFQFLLbLaMa6xmshP4NOM44VAF6nDsiNTthC4rtDj17kZ65xW0asaLMwFw_FZG1FI73rjfVxf5imco--OYw7YzlhtvY9Z0uvO6iXli4cx_W3vatghQfLx5jdiAoPLJjBIwKx7GQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 1529,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e corresponding to power outages after overnight Russian attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-07-30T08:23:18Z",
@@ -49,7 +31,7 @@
       "date": "2026-07-30T15:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
+      "views": 34800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-08-05T20:28:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 29900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-08-09T12:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-08-13T02:36:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "date": "2026-08-13T14:32:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-08-13T22:24:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-08-16T08:06:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-08-16T20:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-08-20T02:45:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-08-27T23:45:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-09-04T02:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,7 @@
       "date": "2026-09-14T03:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8980,
+      "views": 9430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +337,7 @@
       "date": "2026-09-18T20:55:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1810,
+      "views": 2270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,6 +346,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/V6FIlt-rqi-QtprESEuQB4ch4AioE3wau6gBn9XwF4gBnAXmWZv9vwCqzaKOywjGmJN4FgL8cERiM165W01OOSeqpJShr38SJxuqDdR-pW_t1fiBY2jHdcCTW8B6z2LfsDQqd2oryfIBJofUNsztsk9RWjcBvFE17yeLCUlCXtFRiLoYwx-43E8_uUS6kjptH7fcvRJ-LbDjLODNSsMeDYyKfXJ2qXw-P45LFxHhZ-wJStYjz5PsU6Ihq7TU9rbmfX9edcuLOGWxAadAPl18Jp2r8mKOAsO0tp9yJFnOt7BH9-6P1OBCSAwZBegw1pIko_crWGz-MJtNe9epb3hFeg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1549,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a major disruption to internet connectivity in Donetsk Oblast, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, corresponding to local reports of a widespread power and telecoms outage \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-18T21:22:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dOt837t_6L4UVzyboJllZw7ZvN_nNcfaj-yPBjPeZNbPil-0NgX_S-65Y_ua_7tXw62a8S5bk8jO3lgb0Inl_CPSBSTvRaYwXtk2QbMC43WUhPma3LULXwRfDx2BPmG3q83RwYAoYQ2BgFPBf-Y2pwfF5RyBz2aG8YePV1sKfp6ptywjFLeZkPVpV68hPuCaXdc5FWxo4SVtZli7FJmq0VynI7hfgV9ldQeVwAO9LngylAuaI8tCqPHXr5Qii6w22OLjKA1rVuZcGee1pHsVNP3EZT-v5qPm9SlMPEshGIHn4q_CA_JcqEkMxdMZpv_DFADndFHbuy6iVpsD4yAUhA.jpg"
         }
       ]
     }
