@@ -55,7 +55,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XHihBdg1NUDcT8oG48VVqp0BXH8t5XOVcTp2XbbLvpZ6n2rqyrKE8jO5fJ8NtEy0t72vETodHm-lHyc-SB5Iq7VyMp9_lyFMkE4pyx92EJYl3bS2uvFPYk_ZGuiInoCVKpkNtsjVCJrMSJjZkerugtHIVbydrrwY8lctA7eZQOVUQicPj92fuCRtc3NPsTNsjAvkS2mtbQ9FeqoAF-6nIE9PBqarwiJ3X1-KgVcYSZtaJuaNPdPTEZ8b5SS1oUqXZIXh8mYEy3iQ4HJ4cKlJk-5nHiGpyfQBhpiH7AuLKCH_xiJAijQ5KA-_Jak_3dBoJl2J0lVzMbt42ERp3lNB3g.jpg"
+          "url": "https://cdn1.telesco.pe/file/WG9Yufgd3jOvBMu90Z64LecwpGBa7nidHDI06jfZ8D-6UAY7pTEizeAETF92HBvACDNiyrme6m2IK3JQf8mnjbLcKaZkspFnjj9Ca6eYASUfmArS_LpBWUTe2ErjvBjBI5QQqYn0B61B29PoK648CqqnSfG28VICram7MbN_gVGiuFGsYZFGP4wKU843UF_OF2hlbfBw-qN1wBJ9yWA1TYMLjasx7f3SpDo5F-bFo1WLaIA3VX-sHhjAVZVB10oP6whxDbQbh9VYoi1Bt--eFcXZSNOflJS_G_ziKHl_dLRk5VJYOQlU5n1-NElDtmL3qG-dNdKLKeqeYk7Fu8Avuw.jpg"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "date": "2026-09-19T17:30:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +83,7 @@
       "date": "2026-09-19T18:58:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1350,
+      "views": 1360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-09-19T19:26:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1650,
+      "views": 1660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-09-20T06:47:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-09-20T07:45:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 909,
+      "views": 962,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +157,7 @@
       "date": "2026-09-20T13:21:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 488,
+      "views": 563,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +175,7 @@
       "date": "2026-09-20T13:24:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 2890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +194,7 @@
       "date": "2026-09-20T13:25:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 466,
+      "views": 489,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +212,7 @@
       "date": "2026-09-20T13:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 558,
+      "views": 662,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +230,7 @@
       "date": "2026-09-20T14:49:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 431,
+      "views": 565,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +272,7 @@
       "date": "2026-09-20T15:52:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 208,
+      "views": 410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,6 +281,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/Yk8QPJzaECX6AiRP9TNBYnWhPGIvGbS4EYMVyBnE7_gL32l4Y555dg3u3pI1A3cg_s1MJ1mYIKaO-RperN_4PvDfTbj0EAerpibMTIozMQOs-NNRftXWrOEmBe85hwkmWL9VmuKkUq26xIemydAHqS94bCJPBwJk4IFksXfNW0pYmcIayvXDxS5TiJ_6I_fGfsR9m7an84QtuiUWr9EhJLpjaAwJd2gJCA_Veq5OYDvunsIdqf3DZVqKt24k3In7mKGJbnPA7aBnXqk9Krdml3MhTXnHkxtBWo_teD7CMafOdkFFjJ9ouTAoGSXba8W0C5jEb79wCWyd17Hq4wMMCg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106289,
+      "message": "یورش همزمان ماموران به منازل پنج خانواده بهائی در شیراز؛ ضبط وسایل و احضار به بازداشتگاه وزارت اطلاعات\u003cbr/\u003e\u003cbr/\u003eامروز یکشنبه ۲۹ شهریور ۱۴۰۵، ماموران وزارت اطلاعات در اقدامی هماهنگ و همزمان به منازل پنج خانواده بهائی و یک انبار مرتبط با کار در شیراز یورش بردند. ماموران پس از تفتیش این اماکن، شماری از وسایل شخصی، تجهیزات الکترونیکی، کتاب‌ها و تصاویر مرتبط با آیین بهائی و برخی اسناد را ضبط کردند. در پی این یورش‌ها، پنج تن از این شهروندان نیز برای حضور در یکی از بازداشتگاه‌های وزارت اطلاعات احضار شدند.\u003cbr/\u003e\u003cbr/\u003eمنازل مورد یورش محل سکونت پژمان زارع و همسرش نازنین نیکوسرشت، مینا زارع، مهشید زارع، محبوبه زارع و پرهام زارع بوده است. لازم به ذکر است که مینا، مهشید، محبوبه، پژمان و پرهام خواهر و برادر هستند.\u003cbr/\u003e\u003cbr/\u003eدر جریان یورش به ساختمان محل سکونت پژمان زارع و مینا زارع، هشت مامور وزارت اطلاعات با دو خودرو در محل حاضر شدند. چهار مامور وارد منزل پژمان زارع و همسرش نازنین نیکوسرشت شدند و چهار مامور دیگر منزل مینا زارع، واقع در طبقه بالای همان ساختمان، را مورد تفتیش قرار دادند.\u003cbr/\u003e\u003cbr/\u003eدر جریان تفتیش منزل پژمان زارع و همسرش، ماموران اعضای خانواده را به دلیل بهائی بودن «نجس» خطاب کردند. همچنین یکی از ماموران زن، نازنین نیکوسرشت را که هنگام ورود ماموران لباس خواب به تن داشت، به اتاقی برده و او را وادار کرد در حضور وی لباس خود را تعویض کند.\u003cbr/\u003e\u003cbr/\u003eبخشی از اسنادی که ماموران در این منزل ضبط کردند، مربوط به شکایت‌ها و پیگیری‌های حقوقی پژمان زارع در ارتباط با بازداشت پیشین او بود. پژمان زارع در تاریخ ۲۴ اسفند ۱۴۰۴ بازداشت شده و پس از طی دوران بازجویی، که بنا بر گزارش‌ها با ضرب و شتم همراه بوده است، در تاریخ ۲۴ مرداد ۱۴۰۵ با تودیع قرار وثیقه از زندان عادل‌آباد شیراز آزاد شده بود.\u003cbr/\u003e\u003cbr/\u003eآقای زارع در دوران بازداشت و همچنین پس از آزادی موقت خود، در اعتراض به نحوه برخورد ماموران، ضرب و شتم و تخلفات صورت‌گرفته در جریان رسیدگی به پرونده‌اش، نامه‌هایی را خطاب به نهادهای مختلف، از جمله دفتر ریاست جمهوری، رئیس قوه قضائیه و کمیسیون اصل ۹۰ مجلس ارسال کرده بود. او همچنین در ارتباط با رفتار خشونت‌آمیز و ضرب و شتم از سوی بازجویان، شکایتی را در دادسرای نظامی استان فارس طرح کرده بود.\u003cbr/\u003e\u003cbr/\u003eطی یورش امروز، ماموران با اشاره به این نامه‌ها و پیگیری‌های حقوقی، خطاب به پژمان زارع با لحنی تمسخرآمیز گفتند: «نامه‌هایی که نوشتی سلام می‌رسانند.» ماموران در نهایت تلفن همراه نازنین نیکوسرشت، تعدادی کتاب و تصویر مرتبط با آیین بهائی، اسناد مربوط به شکایت‌های پژمان زارع و نامه پزشکی قانونی او را ضبط کرده و با خود بردند.\u003cbr/\u003e\u003cbr/\u003eهمزمان، در منزل مینا زارع، ماموران تلفن همراه، تصاویر و کتاب‌های مرتبط با آیین بهائی و شماری از وسایل شخصی او را ضبط کردند. تلفن همراه خانم زارع از ابزارهای مورد نیاز برای کار بوده است و با وجود توضیح او درباره نیاز شغلی به این وسیله، ماموران آن را ضبط کردند.\u003cbr/\u003e\u003cbr/\u003eدر یورش به منزل پرهام زارع نیز ماموران سه تلفن همراه و دو لپ‌تاپ را ضبط کردند. ماموران همچنین انبار محل کار او را مورد بازرسی قرار داده و دوربین نصب‌شده در محل را با خود بردند.\u003cbr/\u003e\u003cbr/\u003eماموران در منزل محبوبه زارع نیز چند تلفن همراه و تعدادی کتاب مرتبط با آیین بهائی را ضبط کردند.\u003cbr/\u003e\u003cbr/\u003eدر جریان تفتیش منزل مهشید زارع نیز دو لپ‌تاپ، سه تلفن همراه، طلا، مقداری دلار، هارد اکسترنال، گذرنامه و مدارک شناسایی او توسط مأموران ضبط شد.\u003cbr/\u003e\u003cbr/\u003eگفته می‌شود بازرسی این منازل بر اساس حکمی صورت گرفته است که نشانی منازل مورد یورش در آن درج نشده بود.\u003cbr/\u003e\u003cbr/\u003eدر نهایت، به نازنین نیکوسرشت، مینا زارع، مهشید زارع، محبوبه زارع و پرهام زارع احضاریه‌هایی ابلاغ شد که بر اساس آن، این پنج شهروند باید روز اول مهرماه در بازداشتگاه وزارت اطلاعات موسوم به «پلاک ۱۰۰» حاضر شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7_%DB%8C%DA%A9%DB%8C%D8%B3%D8%AA\"\u003e#داستان_ما_یکیست\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D9%87%D8%A7%D8%A6%DB%8C%D8%A7%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#بهائیان_ایران\u003c/a\u003e \u003ca href=\"?q=%23%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%AA%D9%88%D8%A7%D9%86%D8%A7\"\u003e#گفتگو_توانا\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dialogue1402\" target=\"_blank\"\u003e@Dialogue1402\u003c/a\u003e",
+      "date": "2026-09-20T16:48:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "آموزشکده توانا",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/odCUSmLVdWXozt_ZBYJG-FSby4hxuUsPfSEmrfMEE9atGxu1SrEj6JNYwKYEGIB1kSrVBSpmSXEhDVeKh1YoFpHZgBwLNMHdFhTfyv0fYsahaGM6d_WXxN8IWSPqlWbzgAI-Zq2K3AglM_xdVs2tTb3e7eGz4cW5SNQkVVyyZWI5KBL1dGQSNgRhNnbAMXQE7LfdHUNqiYewiyeXNV9Xw5hYOkPcgAESvWJtvuaw3g9hMsjWOFp34Mf7k4N9xIXpDWKiNcqKyHlz2bik73-W_2VkhiKfJqjkvtZ4CyieOLChgNSQWwv-sVDhcvchM5MqkY89FibdmPg2DI8EpeBEWQ.jpg"
         }
       ]
     }
