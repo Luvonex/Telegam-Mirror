@@ -8,62 +8,12 @@
   },
   "posts": [
     {
-      "id": 231902,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eبازداشت فعالان صنفی و صدور احکام قضایی علیه چند چهره سیاسی و رسانه‌ای در ایران\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدر تازه‌ترین موارد مرتبط با حقوق شهروندی در ایران، دو فعال صنفی معلمان در نورآباد ممسنی بازداشت شده‌اند و قوه قضاییه جمهوری اسلامی نیز از صدور یا قطعی شدن احکام حبس و محدودیت‌های رسانه‌ای برای عباس عبدی، صادق زیباکلام، حشمت‌الله فلاحت‌پیشه، و حمید رسایی خبر داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-crackdown-targets-critics/8204971.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-crackdown-targets-critics/8204971.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-27T17:00:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 231903,
-      "message": "معصومه طاهرخانی، تحلیلگر اقتصادی، می‌گوید که روزهای خوش «کاسبان تحریم» گذشته است و محاصره اقتصادی کمر جمهوری اسلامی را خواهد شکست.",
-      "date": "2026-09-27T17:06:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/im3wOhUKRAViMZQW28rmG5RQlEdXEkH-huP9FTYNs0J22NSbnaf9G-rdkFfmIy3AORmQT-VBNaLLlYltdNOAbEbIKDUK0N3rfqTMRIffcMplGGgkaPM-U3mDMWr9dfg9ZJ3rx6VSg44NSbJE6w8ciJ0qe3BOfmcXOG_WmBvQaoXCEjghqNU9TcBL55_9R-qexxUabidxBMdZLdOmhfrSV7woyVGWDZUalAmEZCHOwgRx9QQolOZaZr1oTPWXFHtXhqlnQZx_ZGonHVhc1ne-EL4Q3ccSBCi2ibCPTCrNsEIOhxfDnTL4K6ARySsvJxv6D2kPBU5ZaSOaMCoto5yOsA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 231904,
-      "message": "مسعود نقره‌کار، پزشک، نویسنده و پژوهشگر در «عمق میدان» از بی‌راه‌ها در مسیر حرکت اپوزیسیون می‌گوید.",
-      "date": "2026-09-27T17:21:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4019,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/MzqwyqdXEeiWoTKqGBXxyejRl9OTCB8QSZJyhgKMPqCD9l4X0KFab_AyP1_IUo1ViCs2attM27EM0aQ84SM1lw7HIFgRL-OubMVb8Yh5cwHPRIg1L9odyW4o_XrlCXgxaDrHtp94x637FiMXpyrheWmyAVX2oPE6tXFRSPg7X4hpJnGXoXGszsm-SDDEw6r3KkYK79JxuBocbTb1T_Bh-1krdrAVNqHWA6xA8CEqyHWWjnk3jss7mBllXb9BbY1IMLfKuBnWSp24foR31KoJbeM2pNHJvbFzGIdKUF8veteuElMZ_kQk7LD7zdC1X_IsftML-Uge9oY3bCstJaFc6w",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 231905,
       "message": "مسیرهای جایگزین صادرات نفت عراق؛ چالش‌های امنیتی و سیاسی پیش رو",
       "date": "2026-09-27T17:41:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3670,
+      "views": 3740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +32,7 @@
       "date": "2026-09-27T17:50:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3510,
+      "views": 3610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +51,7 @@
       "date": "2026-09-27T17:50:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +70,7 @@
       "date": "2026-09-27T17:50:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 3920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +82,7 @@
       "date": "2026-09-27T17:53:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4220,
+      "views": 4330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +94,7 @@
       "date": "2026-09-27T18:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +113,7 @@
       "date": "2026-09-27T18:22:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +125,7 @@
       "date": "2026-09-27T18:30:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +144,7 @@
       "date": "2026-09-27T18:31:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5220,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +156,7 @@
       "date": "2026-09-27T18:54:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4840,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +175,7 @@
       "date": "2026-09-27T19:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3220,
+      "views": 3430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +187,7 @@
       "date": "2026-09-27T21:22:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1610,
+      "views": 1850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +206,7 @@
       "date": "2026-09-27T21:43:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +224,7 @@
       "date": "2026-09-27T21:45:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +243,7 @@
       "date": "2026-09-27T22:14:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +255,7 @@
       "date": "2026-09-27T22:15:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 615,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,11 +274,67 @@
       "date": "2026-09-27T22:38:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 176,
+      "views": 799,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 231927,
+      "message": "حسام دست‌پیش در برنامه تفسیر خبر: حمله ۷ اکتبر موجب تسریع اقدام علیه جمهوری اسلامی شد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-27T22:45:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 684,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/ecNozn318wSYDjNngluX0VCXqA4cX072IOrBkejh-vxrpgrC4l3bTB4xX4zTJ3ZMLqTmNmDld4CPSQ5jfAt_vyRqAxJWMXib-m85JlsP6IpMqpjk4E2VpTdYAMeCdWJCgI6lifnNag1ttONMa4Nmttw_HxsvRcXnw4Bqnw07xFFQ0SoX0qoxe18Xpns4RMZ3gmYVF5X_UTOX4HDvHV3dNrhnMowqNiVfj_yxrDvAqX-24iZ9BYbTcE-X_hafOh04lESVjO7vX-KbcZzufzUWMqT6vVhVaCDOROt5IYBrq0HVh2tH7aF29ljLWxG7er6pu_UfuKzqJAZdKVxIbiWo8w",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 231928,
+      "message": "کانال‌های تلگرامی پر طرفدار در ایران که قیمت‌های «لحظه‌ای» ارزهای خارجی را اعلام می‌کنند، دقایقی قبل قیمت فروش «دلار فردایی» را ۲۳۸ هزار و ۳۵۰ تومان اعلام کرده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-27T23:01:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 521,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/DQagEvvLX-zpAJnDwRpr_lnUsL7QgpcziFN4SwAV-FjM16_eeCUgY5IUMu8EaDwaVZG0f2lhK78bpg9qsU1fHVJi_AiX-4DpkaRKvWZA0sDacCeXw1hpcWA3SUPrdVbbFNiyN_zNpqoUrsNZFSa6vEVR41Sj90FOESRvYftleCuHfRemVcp6mZ7KYiR-W3PWn-Z51lml1KAzsSY5oq3wTcM1AZlRR_PR_WsWXiq0MDpTroTDP-aBTG5KNjYDV97w84GwjDm5zOA7kci13zM-JohOOS5Qi-XMAQH2lDKKVxxSj3nqk4JND0rIl5nyDJAN4eUub0_wlwwIT5aQGB_2hA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 231929,
+      "message": "شاهین مدرس: برای چین، هزینه دوستی با جمهوری اسلامی از منافع آن بیشتر شده است\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-27T23:15:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 247,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/haCa7997Z7VvQvZvelll7OJps4tvjBaYlJBY__gMdjLzKyZWu6FNEyomnEaHhP-1KdfAhFwpM-zl0w_q7TjPNncyQ4GDSCq7RfyM4898KrXpSq9muidld8lgfF3f_y39AeRqX9Drke152K-W6fXpZQkI3yHJa7KKqig9yxB9IrcfgfDXt8bY28O4rTIZd4JhlDmFvDvO7bGRdM9RNYgM_RaYaJsxqRdU7Qx5Fv8CT5UZqsmk5EoEg8LgJXz3PTBceOeMqEx8AdkR4aF8TFfHm4X4wtBa0yCbKEvu0PzasIXBoS0NGQApa6UW-j9Z53XNkJnlhTdeoqVA4lpOcl09Zg",
+          "width": 640
+        }
+      ]
     }
   ],
   "last_updated": 0
