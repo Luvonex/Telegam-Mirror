@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 5363,
-      "message": "یه مدل جدید به اسم Pixel Canary (پیکسل قناری(!)) اومده روی Cline، به صورت مخفی و هنوز نمیدونیم مال کیه. \u003cbr/\u003eمیییــگن که هم قدرت Gpt 6 astra هست اما فکر نمی‌کنم.\u003cbr/\u003eتست‌های کامیونیتی رو می‌ذارم ازش به زودی",
-      "date": "2026-09-26T09:43:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/JKUPlHw1-5CCTblRxhq6uFMD7Da_bcm9dp3Vvzgf28_VoDN-5w93PWtSx4TlWcWa5QJA5M3fWSs2QNOq_3QjTF3EE8-tK7p43Xo_9FS5rpbY0tk9Vt-dozz0VKdDW7_5VkgE5H7caPPotQoJb9Ppc_aTjTsq7N2NKXhTTLKrw1WOAXWbZhwwwF5AHcRNcuq2tLfWiGkT-wVGrEKhlpQDV85DmRMjit7DKcFCzkdYEz5jWT6NQDK-ivb7t16evUZT1BzbcpkE7vk0WQr0WpPzFqmmkVfIvWeXsOAnrJKFWSExS4ax2Z-I9hp7yDmLCl4oqasTVfcaMkeNcYQvxNJowQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5364,
-      "message": "با توجه به علاقه گوگل به اسم قناری، خیلی طول کشیدنِ Gemini 4 pro، و چیزای دیگه حدسم اینه که ممکنه گوگل پشتش باشه\u003cbr/\u003e\u003cbr/\u003eکاربرا فعلا گزارش دادن که به شدت کنده...",
-      "date": "2026-09-26T09:58:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YEFI1hbdfxw4-IHzaDZ4zZUowcWnC6PVVrmbefnFzSdT_YeqX_1c5xWglZaemptLGwDhcVqHSuqrD1P3YwCr37GyGTKFyghqFjSHFdb6eHVrpw-Jnt9xaCStT7c1z5El07KhbCGzNlZzxPS8_ymW52DSBTMj6n0o4O-NZLJGN2Xyf_TjZ7DoiRr-xydkeaXiKYhi3p0SafACKDQUmOwk8xUqAeOXt9SE6GAiVjc33W4yNBfbdY_kljkwSOEhvc4B8t_RHluHiqXw3BuoGbkNORq9M158I8HkDXj1-Vkwn5t_1z78i2uhX82fqR-jxZERBpMynD-efnWcgqyrRiZ6GA.jpg"
-        }
-      ]
-    },
-    {
       "id": 5365,
       "message": "تیم Tokio نسخه‌ی ۰.۹ فریم‌ورک Topcoat (یه فریم‌ورک فول استک برای Rust) رو منتشر کرده که می‌خواد ساختن اپ وب با Rust رو به اندازه‌ی Ruby on Rails راحت کنه.\u003cbr/\u003eتوی این نسخه ری‌اکتیوی سمت کلاینت جدی‌تر شده: توی macro مربوط به view سیگنال‌ها و عبارت‌های تایپ‌چک‌شده می‌نویسید که به جاوااسکریپت ترنسپایل می‌شن و توی مرورگر اجرا می‌شن، ولی بقیه‌ی رندر و منطق می‌مونه سمت سرور. نکته‌ی جالب‌تر اینکه نویسنده میگه راست بهترین زبان general-purpose برای دنیای توسعه‌ی مبتنی بر AI هست، چون قراردادهای مشخص به مدل کمک می‌کنه با توکن و خطای کمتری کار کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://tokio.rs/blog/2026-09-24-topcoat-server-applications\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-26T13:33:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +25,7 @@
       "date": "2026-09-26T14:07:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +37,7 @@
       "date": "2026-09-26T14:43:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +63,7 @@
       "date": "2026-09-26T15:15:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +82,7 @@
       "date": "2026-09-26T15:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +112,7 @@
       "date": "2026-09-26T17:19:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +131,7 @@
       "date": "2026-09-26T18:05:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +143,7 @@
       "date": "2026-09-26T18:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +161,7 @@
       "date": "2026-09-26T19:56:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +179,7 @@
       "date": "2026-09-26T20:40:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +197,7 @@
       "date": "2026-09-26T20:42:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +209,7 @@
       "date": "2026-09-26T20:56:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +221,7 @@
       "date": "2026-09-26T21:18:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,6 +230,42 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/AZxef-4vC0UIr1iBB2JGIbTW3ylgmrcLt5hKJQwO2PhsRZw_i-ySCWRWAh8a7LThlCOYOmSBGgsDltRHngne-iCZZpC3a1lxvZbIlhmQz2hW5L2GUTDtEglc7XfdRG-6RfAICCen76fReGXmsCs4hXBMRKgjXMnI30yXbo42l-kU5uqV7btGcwaxkI1FeJoa0gTMoDONsiGpTABioFowd3ij8HCvgzQtgipEqShcu9zHuSowdWpVyHIsvxk1DYqeGV-DwstJ-IfLMayKK9_EX1Hx1AkYo_X_yloOq1ZXwQKaCjMfZQdLR7lvoKqaGsXAry6hzX9E1EXEPc6apIy4Rw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5383,
+      "message": "\u003cb\u003eاولایا (Ollaya)؛ مثل Ollama ولی برای مدل‌های تصمیم‌گیری\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخود Ollama، اپلیکیشنیه برای اجرای مدل‌های Open Weight روی سیستم خودتون. حالا Ollaya، همون Decision Models که Jev ساخته رو می‌خواد لوکال و متن‌باز اجرا کنه: سوال تایپ‌شده از هر متن یا JSON میدی و جواب کالیبره‌شده رو توی چند میلی‌ثانیه می‌گیری. جواب از یه پاس روبه‌جلو میاد، نه از تولید توکن‌به‌توکن: حدود ۸ تا ۱۰ میلی‌ثانیه برای ۵ تا سؤال روی RTX 4090، در برابر ۲۳۶ تا ۲۷۶ میلی‌ثانیه‌ی API عمومی Jev. با API سازگار با TypeSafe کار می‌کنه، پس SDK رسمیش بدون تغییر وصل می‌شه و مدل‌ها هم همونطور که گفتم، open-weight هستن.\u003cbr/\u003eاما یه بحثی که وجود داره، API خود Jev انقدر ارزونه که فعلا من با اینهمه کار باهاش 5 دلارمو هنوز تموم نکردم. لوکال اجرا کردن لایا هم خوبه اما شاید بهترین گزینه نباشه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://ollaya.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-27T03:55:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8119,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BpDG2yUnmCRKO-DR9vwe-uroJTETdAEwwEX-G4CmTC7ccEKrficbIsqdY-2iAt0MdDMHG6ob38VDnr-Tq5EVS9OzKXk6WgyewPj9B3mDkRT5QjVBk0BQfd4JRyl2WuiDVbZHH7HDArjtmVFnrtxb6G9KUMgGYt1rJMCDL0UDiYMyDj4t2EMDcIbOPfR3FmndfHriXncMtBVPnjQkOyukB0297wivo3CFVfZaVPFU8ZPggfPqfP2r9zrf1k5Ut4gjXnA_WuJiZ5JqodlOKPTb44_4ucHvFhIdfhL3Fqr_dtWusLeYdMj6qicaLtoLXvoqW46kHL1mTqJ_L4wFLAs16Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5384,
+      "message": "+ متأسفم اما AI هیچوقت نمی‌تونه همچین چیزی بسازه.\u003cbr/\u003e- عاااااشقش شدممم. با کدوم ابزار ساختیش؟\u003cbr/\u003e+ الکی گفتم. با Opus 5.5 ساختمش\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-27T06:16:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Wa_7S39YtpsQg8vggxPZ1iJH33WvuhrqFXU5TVm6ixhZdHp5yvhXJ69dy1b39q4DhU7mtxdcj9dvJlV_HPYxHeZtp7H_R9dyVhVt5QFTp9oaEii4k4yM_MHsHTnhWfHtLPZaZAIis_J9DxNG2f5RZa6AXO8M9uLUHWJ0TkSaY6yAxEA6Y6twmN16oUIkCEn0_BcrChMWTWWbJ96PvALUWLK5bpdPqnRc7z3-74a0SHxJdBKsEKESBLhocw_VK--pb9mVtHf4cP_u0cyX8A8gY5xdIgogVMJ5iJP_MjIafZ53QH-BQou2_9csVRxo_oSrfg0jZUygcmECDGpvRv440A.jpg"
         }
       ]
     }
