@@ -8,133 +8,12 @@
   },
   "posts": [
     {
-      "id": 5383,
-      "message": "\u003cb\u003eاولایا (Ollaya)؛ مثل Ollama ولی برای مدل‌های تصمیم‌گیری\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخود Ollama، اپلیکیشنیه برای اجرای مدل‌های Open Weight روی سیستم خودتون. حالا Ollaya، همون Decision Models که Jev ساخته رو می‌خواد لوکال و متن‌باز اجرا کنه: سوال تایپ‌شده از هر متن یا JSON میدی و جواب کالیبره‌شده رو توی چند میلی‌ثانیه می‌گیری. جواب از یه پاس روبه‌جلو میاد، نه از تولید توکن‌به‌توکن: حدود ۸ تا ۱۰ میلی‌ثانیه برای ۵ تا سؤال روی RTX 4090، در برابر ۲۳۶ تا ۲۷۶ میلی‌ثانیه‌ی API عمومی Jev. با API سازگار با TypeSafe کار می‌کنه، پس SDK رسمیش بدون تغییر وصل می‌شه و مدل‌ها هم همونطور که گفتم، open-weight هستن.\u003cbr/\u003eاما یه بحثی که وجود داره، API خود Jev انقدر ارزونه که فعلا من با اینهمه کار باهاش 5 دلارمو هنوز تموم نکردم. لوکال اجرا کردن لایا هم خوبه اما شاید بهترین گزینه نباشه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://ollaya.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-27T03:55:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jBnwhx9CTHnDCQFBOPxKyo9vUXe6CRzAWKTv9ACYndUndGZklZ1WQrRyLSkL45EzVm9-cZ0Cw2kMvpGaE5lpQtn4E1RfqXUUQmqKo4_7VTb0pSSiMS9_Ik2On7-4vrvRVMoHOihv0_zNTHyGL8M7LI0yVQz6oCln44WBRESL3tBLWodYhU69OeckD-OYch-PB4Fpwh5Br-bdDEohUn8uVhcmFt5bAPka2dSrlDald-wbgQw9HC6N7S0VGc8kUVpjtiCqk_NXG04JS7DVahWrLFeEuTdQrWnLqf_NmEiFYx_2fszKSPQh1F6a8vCJBxk0UTYgb2RV29vcIxY3udVWmg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5384,
-      "message": "+ متأسفم اما AI هیچوقت نمی‌تونه همچین چیزی بسازه.\u003cbr/\u003e- عاااااشقش شدممم. با کدوم ابزار ساختیش؟\u003cbr/\u003e+ الکی گفتم. با Opus 5.5 ساختمش\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-27T06:16:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nFPhlf536hfQgUFvlC4reP6RC0Ladv3AUk02SGscUfkzzh4hR-uxksV9vcZWYEmLWy9J6AdQ7DFGrZvcFrAP82AuIZw2qg8pLipgxKEvKdvU2mKghHgCKHg_R-zelV1NRO1H5R4WCMHjE-mWRzq8JS_61Vb7bvQasPXVo6QJ_AT7zRtdzg-KCZD6nH-hLpNNI9KhbxUz4Sd09JbGnGxeZCaur1Ib9AQCc8anfsgLJur2RimsWFz8PrHq4O6Uj8QgAf1GxL5qt1oziy4UeBgl3ik0w64j1QzhmpYPLwuWSmJ8ayb1-AB4MmxY8Jv6w9xOQJtZ5IrGQ4rQJDuKSPy1Dw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5385,
-      "message": "ویدئوش",
-      "date": "2026-09-27T06:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/CxTSo2Q7vStaLqHwc_Lc4UfWDECkblSZh8z0sEceFYhSRx3C-hFDQKq7s1nRsNaFdSyho4hqHFVZXVMLghlvnTXyJlq8piF3ItlCs3rTOmHMxNHX5hDCDiYxpMfxRyclgV9usXpywpCtt1Xri4TiV2WpTKw1j_0fnDvjRsS4Uft-pDY7dwYCiEvqLr-Gc54dcVrHoj3p7KMWMeAMliMxKU5LSfdcyrHJBG_iS-nFqBe38Lk_RFsUhP2E46niIbQdDLbs63kbwCUOwOZc_1fhPxM-XpxGG4n0yve5t86IAZFOwU031fDgB2i2zThBwGYNzigKyTVkNN166Epmu2OvOw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 5386,
-      "message": "\u003cb\u003e۱۶ هزار دیتابیس Supabase داده‌های مردم رو لو داده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپژوهش شرکت UpGuard نشون داده حدود ۱۶ هزار دیتابیس میزبانی‌شده روی Supabase بخشی از داده‌های شخصی‌شون رو عمومی کرده: اسم، آدرس، شماره تلفن و گاهی پسورد و توکن. \u003cbr/\u003eو بین اینها دیتابیس یه کنسولگری دولتی توی فرانسه هست، پلاک هزاران خودروی یه پارکینگ، و دیتابیسی که برای دریافت رمز یک‌بارمصرف کلاهبرداری استفاده می‌شده. Supabase که امسال به ارزش ۱۰ میلیارد دلار رسیده می‌گه پروژه‌ها پیش‌فرض امنن و امنیت یه مسئولیت مشترکه.\u003cbr/\u003eبخشی از ماجرا هم کدهای Vibe Code شده هستن که بدون پیکربندی درست، داده‌های کاربر رو  لو دادن(شبیه یه بنده خدایی که یه بار پروژه اوپن سورس گذاشته بود با به به و چه چه و بعد دیدیم apiهاش توی کد فلاترش هاردکد شده. (طرف مخالف سرسخت ai بود و میگفت به کد ai نمیشه اعتماد کرد)).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-27T07:37:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pkszzl0HrLnr1iByFWt3152Z9Ve-XFnqSQ3uAYNpTfZZgQEF3gBsr-xEqUiBpqX0mhb43PuUuM9bcPmIKAdI0EYilX3IcVfTuzhpMzO2VJlWpLvRaAZX0XHIJCIm5y_uzHMa_syFivgALSPYH83v37WAxDbtng0yT-mmPc_rrM-RhwZjy2ijd86nRBeZlBROUrt4s0Bvo7lC1yQ8xpPsOfM2AQJDft6upZO3kECRNqshViqMNssWnyp63AwqUQ-FpA55ANUj0y3OfFsDIBkz3VspuB3kzdKYl88HN6wJzPp455qDM-HnTTfTgelOE-gYsr9UpRMnChC0ptLX2u9pdw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5387,
-      "message": "چرا حس می‌کنیم هر مدل جدیدی که میاد، انقدر از مدل‌های قدیمی قدرتمندتره؟\u003cbr/\u003eباید بگم که این بیشتر از منطقی بودن، «کلک» شرکت‌هاست برای مارکتینگ\u003cbr/\u003e\u003cbr/\u003eاگه یادتون باشه، 2 هفته پیش همه‌ی این بنچمارک‌ها(خصوصا سه بعدی) جوری از GPT Astra تعریف می‌کردن و چیزای خفن می‌ساختن که انگار خدای همه‌ی مدل‌هاست.\u003cbr/\u003eبعد که Claude Opus 5.5 اومد، خروجی‌هاش رو جوری نشون دادن انگار اون مقابلش پیامبره.\u003cbr/\u003eحالا این قضیه برای هر دوی اونا در مورد Gemini 4 Pro داره تکرار می‌شه\u003cbr/\u003e\u003cbr/\u003eبه این کار اکانت‌های بنچمارک و Ai Enthusiast ، قضیه‌ی Strawman Fallacy می‌گن. یعنی مغالطه‌ی آدمکِ پوشالی\u003cbr/\u003e\u003cbr/\u003eتوی فلسفه، Strawman fallacy یعنی از رقیب قدرتمندت، یه فرض پوشالی بسازی جلوی مخاطب، شکستش بدی، و بعد خودت رو پیروز جلوه بدی\u003cbr/\u003e\u003cbr/\u003eهم خود کمپانی‌ها، هزینه می‌کنن که اکانت‌های توییتری/ردیتی این کار رو انجام بدن؛ هم خود آدما خیلی وقتا این کارو سر هایپ و ... انجام می‌دن.\u003cbr/\u003eچه شکلی انجام می‌شه؟\u003cbr/\u003e\u003cbr/\u003e1- مدل رقیب با پرامپت ساده یا بد تست می‌شه، ولی مدل خودشون با پرامپت بهینه‌شده.\u003cbr/\u003e2- قابلیت‌های رقیب مثل reasoning، ابزارها یا context بلند خاموش می‌شه.\u003cbr/\u003e3- هایپرپارامترهای رقیب به درستی تنظیم نمی‌شه ولی مال خودشون با دقت tune می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین شکلیه که می‌گم هیچوقت به بنچمارک‌های این شکلی توییتری، نمی‌شه اعتماد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-27T10:50:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kUsBrATmuhsnDikJvOyEfUu6De_TUDynRV-MuAAoqPcQK2GaFOh3unMmC89Ln6RrK1eHr0XOYE9be74pnhnySKT7MbPZPfM89HD-7wx-zwr_goRt4kJKfv4u-UeeE0ntMS3PrGLapOHP1DDfxeKGIFsa_q7Komp8I7a4xBXZScm14c-ck5q0Gm8yGHZgwaUZD77bHmFwdM4vF0CnNi_zQLmGLYxofHLA9mVKhnVC2DtdgVF4fAbxMWJIiABEeCO1esxpPlgLoX1Gd9YJODMgUMgI5IsmoIUvc9gpVu7wgHXs4KssADPbqAV-IQQpvKNwPt5lqIJkO-yu5wpl8GpFhA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5388,
-      "message": "\u003cb\u003eکلودفلر بلاگش رو از WordPress کوچ داد به EmDash\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکلودفلر جزئیات کوچ دادن بلاگ اصلی‌ش از WordPress به EmDash — سیستم مدیریت محتوای متن‌بازی که خودش داخلی ساخته — رو منتشر کرده. EmDash با TypeScript نوشته شده، روی Worker خود کلودفلر اجرا می‌شه و تا ۷۰۰۰ درخواست در ثانیه تست شده، در حالی که بلاگ معمولا ۷۵ درخواست در ثانیه داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-27T12:07:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EV3COECMekWqjsFV7fmmykegTnLANrcpA1RIKfmpy_zknpBFRr9sDHB-8DYexDsPQMZQU__zS7GBic1TI15s7Vlt7FXpfbJJFSRX9AxxqPEnSulIOK-1jRXOEo01lmWJjkNpfbyZvvN5loPL4ChMuU5IKalH5uMFSACxZJOX5neQOdAsKgwIFBNf_3QN23cO-jHBWdkXdBbW4sbnFhyQbFrIKfqWgRdnS6IQhL1tDFznenME4U_qtshwFQIjb6zcB8iGt7iryT4ZJR4PjCt5qIH10nVXCVrB36zmcB2MKU-522kag5ex4gwpIUP5gaOrbu5bx0ieY2EsBAF_P5O_nw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5389,
-      "message": "دوستان این خبر هم اشتباه بوده گویا و نمی‌دونم چرا grok به من گفت تاریخ این مقاله 2026 و بیست و شیش سپتامبره\u003cbr/\u003e\u003ca href=\"https://www.vesti.ru/article/1419285\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.vesti.ru/article/1419285\u003c/a\u003e\u003cbr/\u003eعاقبت اعتماد به llm. تجربه شد واسم",
-      "date": "2026-09-27T13:10:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5390,
       "message": "\u003cb\u003eسندباکس‌های ابری Docker برای ایجنت‌های کدنویسی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eداکر سرویس Cloud Sandboxes رو منتشر کرده: محیط‌های اجرای امن و میزبانی‌شده روی زیرساخت خودش، با ایزوله‌سازی microVM توی سطح سخت‌افزار. با یه دستور میشه سندباکس رو بین لپ‌تاپ و سرور جابه‌جا کنیم طوری که فایل‌سیستمش هم منتقل بشه؛ یعنی کار رو محلی شروع کنیم و قبل از خاموش کردن لپ‌تاپ بسپاریمش به کلود. هدف، ایجنت‌هاییه که ساعت‌ها کار می‌کنن و می‌خوایم چندتاشون موازی پیش برن. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-27T19:09:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +25,7 @@
       "date": "2026-09-27T19:56:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +37,7 @@
       "date": "2026-09-27T20:14:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +49,7 @@
       "date": "2026-09-28T04:24:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +67,7 @@
       "date": "2026-09-28T12:04:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +85,7 @@
       "date": "2026-09-28T12:34:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +97,7 @@
       "date": "2026-09-28T13:08:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +109,7 @@
       "date": "2026-09-28T14:01:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +131,7 @@
       "date": "2026-09-28T14:20:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +149,7 @@
       "date": "2026-09-28T15:10:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +167,7 @@
       "date": "2026-09-28T15:40:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,11 +185,106 @@
       "date": "2026-09-28T16:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8900,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5403,
+      "message": "389 تا ویدئوی ساخته‌شده با Opus 5.5\u003cbr/\u003e\u003cbr/\u003eاز موشن‌گرافیک و ویدیوهای توضیحی گرفته تا صحنه‌های ۳D و بازی.\u003cbr/\u003e\u003cbr/\u003eهم ویدیو اصلی و هم ریمیک رو می‌تونید کنار هم ببینید، پرامپت‌ها رو هم مستقیم کپی کنید.\u003cbr/\u003e\u003ca href=\"https://skillry.dev/ai-videos/opus-5-5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://skillry.dev/ai-videos/opus-5-5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/ai_ba_reza/status/2104604422143938680\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eai_ba_reza\u003c/a\u003e",
+      "date": "2026-09-28T17:45:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/T6v3bFyFzU9lc-UCEpsbZ5StZjNLWjbxObLVJ90xDWkywAsv3zjyqm7Evu1TUzAFXimpPc6kitBxQrZU5Z4axUNVNiIXQ4QvbkGfza95oOGhg4Tbs2guFupGJkOb8hQXspddd8xsmLe5yr01ljp4eqSpG9braHIh5lTvWoSb-pu7MVrlvFy8VtTqd_hDi_Pjj2LDGjnZG022xqHPSNPLoe43nGF8hzEnK81uoDog2h7s5SQ2aRc0v1x3M-U30ERK2IqMoOco-4B4KFoNLk5m7EdKrEsHUOWTtUTjHbEsdhjWDbsWnao6EDbA-cb1oZlkZXZL-1r7wdgvjw_-kvuHKQ",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "message": "سعی کنید هیچوقت پرامپت کپی نکنید برای هیچ چیزی. بخونید، تغییر بدید، بپرسید و بفهمید پس‌زمینه چه کاری داره انجام میشه.",
+      "date": "2026-09-28T18:00:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5405,
+      "message": "مدل Claude Sonnet 5.5 معرفی شد.\u003cbr/\u003eهم قیمت با GPT-6 Sol، اما به شدت قدرتمندتر!\u003cbr/\u003eنزدیک به Opus 5.5\u003cbr/\u003e\u003cbr/\u003e• $2/M input\u003cbr/\u003e• $10/M output\u003cbr/\u003e• $0.20/M cache reads\u003cbr/\u003e1M context + 128K max output\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-28T18:52:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WL_LaFZ4MkQpuLnWHMInJFpZYuBwThlUN5Uj7-shMUasPuDb1k_Ax1dRhTlVxQXMKBQ4vjFeETMincwbc19_-2OMgywHkFwLUyTXako4UM7kJzCekyFtRw4VjlwirZtJxhFABrCQukY7uIWP0a2Zy9xBcooLZ7251HjH1w8YXu94BVO-0cYf2T5yV8Aa9v2HsDb7eoPyGFO8KhtSr3OYVUiK_ydBbvqSoz8zjWayHDeDHr_4T-dOdxyTzsj38Hvq1z_hw2jojHmKXv7CDuUidhxg7MfazKFtrsI4Oc1lNh8RL4M9WIYWYlTl4XT4Te0rgRXXzwgKv_8aqdqBPP3OmQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FW9PZHwFve1TH6p6mgnjQkjiKVByWBZKM8fwXIgtUvziT6VTIKkIKueERLCkT1vmaDG_cXSkwZNLHsnXjFWAogptu6NuwAW_DdTnNz2ZqQFQEYq6zYwaBelKtzvMi172Hx4jW4QnW7Ub9WBCG2i88lyw_MkV3cazIsuliAE5gBKMPFZb-rRXwidgXOpT5Yd9j7a3DkPXtmPbs63V07R_6i2-J8EhiUQjtVb5Pl_q2S1PK_h-IY_7nQCDBvwmHxMBL_-nJUlhWHh4AFeqM2Ug6domhMFaE1o8Nm5sL2TJUFueVdQdd2yPojXu0i-QDIfCZ3emuy5z6m-2N4ADULRWNQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "message": "توکن سوزیش خیلی خیلی کمتر شده",
+      "date": "2026-09-28T19:31:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5408,
+      "message": "هرمس خوبیش اینه که سمجه. اگر از ترکیب هرمس + مدل رایگان(مثل mimo) استفاده کنید، واقعا غصه‌ی توکن سوزی یا انجام کارهای سختتون رو ندارید",
+      "date": "2026-09-28T20:19:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5409,
+      "message": "این قسمت ویم واقعا بامزست\u003cbr/\u003e\u003ca href=\"https://v1m.ir/compare\" target=\"_blank\" rel=\"noopener\"\u003ehttps://v1m.ir/compare\u003c/a\u003e",
+      "date": "2026-09-28T21:24:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JU6Tm93GeGtdhkjGRBwZ64GVQF9ckLa_WYW9BU1fFwp9nz_qgHggifdGhU1zpCBLkOYordaj2edfsGU2jCzsew4BCEaGjN_QPuhTchGs3T4Cnw_z25Q5yDpEjVcgWOFul7diD-fmeovsF5q-VkMv4h96TkcXgyTLrptvZOR7yhwfrU4cpYaXJOMubmGUzmBVT4h1RULb_HD1zQYrc1-ewlMpUNppiWNZ9xrDZLomPSXxL5gemQ47f5xJov1PdcVRTejg7Vw___zXxIU-anpGX2FmNI0ZbjgFuOczLkolpdIac0fF9ZMWD0O6fM4gU4MouuyN_KrKvGgpx-YfHtX0xw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
