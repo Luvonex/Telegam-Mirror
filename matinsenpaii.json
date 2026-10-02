@@ -8,96 +8,12 @@
   },
   "posts": [
     {
-      "id": 5457,
-      "message": "شدیدا حس میکنم مدلهای چینی اوایل که اومدن غول بودن، بعد از عرضه یهو ضعیف شدن\u003cbr/\u003eمثلا هممون به Ox Alpha دسترسی داشتیم، بعدش که glm 5.3 flash معرفی شد اصلا اون هوش رو نداشت.\u003cbr/\u003e\u003cbr/\u003eیا من به Qwen 3.8 preview دسترسی داشتم و خارق‌العاده بود. سرچ کنید توی چنل نوشتم از تجربیاتم. اما الان Qwen 3.8 max وقتی ریلیز شد هم از مدلهای Frontier خیلی عقبت‌تره هم توی بنچمارک و هم توی عمل",
-      "date": "2026-10-01T08:05:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5458,
-      "message": "\u003cb\u003eهر ویدئویی رو رایگان به فارسی دوبله کن! آموزش Gemini 3.5 Live Translate\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو بهتون یاد میدم که چه شکلی، هر ویدئویی رو از هر زبان به یه زبان دیگه، دوبله کنید!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/dPKSMUR5cQE\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/dPKSMUR5cQE\u003c/a\u003e",
-      "date": "2026-10-01T09:00:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/k-0PAwTpofDbGE656yhnYq1PE57tTlM27xqre2PKGBiFottezdR8ddj9PRChKj6LOVDme5muliDYAbJM3cdeRhi-OJjZPTX4i0_I25Mdf36PHhl6kuoJ7gjeNtZPwzttyAH18QF57qCgkvzb8cNbEQDdnnaxzaTkkAGZUL68U81LSqdc8rN8lAiyihrPGNI5oE9hLM0kMHAejpFiAwVIBVuvrEUn7vCa03UFz2JpbC7G_TqDTEOU1raQkMU7v2ZSeTrNor_enGHU5UlItF-AJh-j1ADCGQEpyHRJjShppdPBSDO1U8mIp3ek7lyqPXG6AoqE2runV0RS7O9CIMMMaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5459,
-      "message": "بله ما نسل Z هستیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-10-01T09:11:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jeAswI76VUE8BZsEELqKPgdsnQsOxjHs42pIo8SjnSRUdjPGFY-ywyrgiMrt2JqrDa75JhPO-E1eHCx4KPAmiOU08-K14VRLXTfKh3KP62XDOVBqHGl8SxvyqGbHFgxNrTlicxSJsYFkWTi_R_EJ0gVpQ1F1wgDueoa1AdPEyyLhVUBHv5sGvzsWfQwPG0KvBpLu13UBBslvraaRKSQ3Noy92ZrHucH3Q_2TfmWgW7YMCDbh4JIyn2AzB5T7S6vHE_6qx7w5oDTeutQw89ALLCpBgewZqkmcmBJqAuMgvxn9eiCQiWBuBCXX5Ku3y8aing4tAaJvDxkXyhOXU65pAg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5460,
-      "message": "به قول Theo، چرا واقعا OpenAI هنوز داره از GPT-5.6 Sol استفاده میکنه توی چتش:))\u003cbr/\u003eنه تنها 6 sol اومد، بلکه 6.1 sol رو هم دادن و چت هنوز روی 5.6 گیر کرده\u003cbr/\u003eاولین باریه همچین چیزی رو میبینم حقیقتا بین کمپانیا",
-      "date": "2026-10-01T10:37:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/s9SUHzVxItN6Y5HtuoC2Jc2ujht7uSutt_MSTN_9xiqGlIlR-cWOlaBU1R1DiLX8zeUA4Gde3vT-aFJzQBOTBWOPtkVPGLkNrEtIQnU3IXQB1l7PU7ePZSf5kSinjPwga5ueu95nqQvZlZWNswjL4CuhDGeRg77jSGaZhgXSln4a6I5goxm8KF2z1WppIcZgm51BGLC2pvBw_cidBmxQVCZLi2e066bIi1ASg7YslkdI8IBXOelu3R17SghAa7UWuwusnS4PHN0obMc5Ah_VULIpjyCYHRp7egYrlz_SbHe15OLxJa0VvQdfhwwczzUofoxLjuoy32XEsvy29YvXyg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5461,
-      "message": "\u003cb\u003eمعرفی Decisions API توسط OpenAI برای اتوماسیون فوق‌سریع تصمیم‌گیری در ایجنت‌ها\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسم آلتمن از عرضه قابلیت جدیدی به نام Decisions API خبر داد که ساختاری مشابه مدل سریع Jev از استارتاپ TypeSafe دارد. این رابط برنامه‌نویسی به توسعه‌دهندگان اجازه می‌دهد مجموعه‌ای مشخص از گزینه‌ها را به مدل Luna بدهند تا با سرعت بسیار بالا و هزینه بسیار ناچیز، به صورت احتمالی بهترین تصمیم یا اکشن را انتخاب کند. این رویکرد به ویژه برای کنترل ازدحام ایجنت‌ها و اتوماسیون لحظه‌ای نرم‌افزارها کاربرد دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-01T13:43:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fIaiXJAyJZfK7FRkM6HI9KK7sflRpR_TKA3fC4v4hc31dzEwh7GEXtXv6ZBY0QoN_eT7qbyUZJiPBGHKVarox8h06UemfSOEj4AamNAoLj1TqK77ZBgtEZP2jGQKH1Bbf7ey-nhoZmIJ6YazPeJ7X5oK3-zjQSBj8YNCtA4mA6KnCv420q_2kTHF9aSIb-GZlcKSmgY9q1nKQCxhGHk3eOCoTP9dPQr1xSuqC_w0a_tboV_mgTdme-gJ1KSaIl2T3UHgkLBdBSnLpC8bb3cGs7vbSe4L6hwJ4TJiKAKggodamcz0yQcbaOuEpj7zXkwT0HmCep4bkOAAsxXcfQRw8Q.jpg"
-        }
-      ]
-    },
-    {
       "id": 5462,
       "message": "بچه‌ها من قابلیت Hype رو برای یوتوب فعال کردم\u003cbr/\u003eچون اکثرا لایک‌ها رو می‌پرونه سر ویدئوها، اگر که دوست داشتید با این کار می‌تونید به بیشتر دیده شدن ویدئو کمک کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e(بخش کامنت رو به چپ بکشید این بخش رو می‌بینید)",
       "date": "2026-10-01T14:48:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ektvRyoDwmQq38R-RAYS4gZ7vpp2KxenNfjIFcW-eYbZjMjKkowct2TJYdmswC_rMNqa_97OcH2yyjZRyOBbG89i1o6ALVsAYCLGreKL4zH-Z9Y2_UKJGz-na9swCkc61cccwAPFR81ASWr-lKcCj2_uOnxJ06gyT-ydQf4_UCkH26OLOS6hR2j7Qsde1dRNlLCALjN9QfXJtxmL1GoDDvHavYNiURPkovi-l-gi0MfYBapEjIKGxLIJyUh3mQ3tcMjDiUdtDdoVHWg1HmznD1oKFUSL7wUCpRmeuUu1bfM8CitOqSn0yY0fWZMhhOIPjHAHq42WGRk1bUQBN9brbw.jpg"
+          "url": "https://cdn1.telesco.pe/file/J6ve7HBwRbfkWuXupeTXdwr8XjMmKLTyrOKJJI5ZI-6CZWsB1NS7ABhhiVbnV580ZgvguHFS8OevkbalLxc4eBpu-HIO_FvTC3gfmAS-7JMURuclrh7h8zE2VjBedq3dRd0mbiSHx747LTPoVEZb9th4kaAjNy4z5dSTEz6D6wDqL94BcMdRy-zf8QNWrHEkeFZH1GxJU3q5kVArxKpmE_6VsxIiSdFvY2Y3DfdJ16ZaSt0Gi4F_GNzLlMAae2Xh02H9yx1wzZqMuEDaGoxyvsjcxrb2e3lXqH4niFDBsDslM0V_cByScuPL3WNfiyLiN-ExHZZ5nKtV3zWPh3dZ_w.jpg"
         }
       ]
     },
@@ -115,7 +31,7 @@
       "date": "2026-10-01T14:51:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +43,7 @@
       "date": "2026-10-01T14:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +55,7 @@
       "date": "2026-10-01T15:08:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +63,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/tFDlzDtYWvDtTPhLVTtuIkAAz66_u7QDZYBSkYsLhhYzsqNk0-fzzLV_IHlnRzMF3jsMr3qjQXljvrbgPMxBh7RE_akynaEIY4RCpKn3cKmzT9B1GW2C0A8kbq06AMBAUWqOUURPX3Jn8I17qoXfIzXxGkk5rBoYcWHq7GGNBL3uf82u0a7_TC3fUgUkX5EpiovDkRaUMhQkV-Q-db6skuAx3usCKV4B0X-bJ-ITTVxoN2CcDvKVx8arPO0FPfuXc0Vm4RH19FKeYtH1n3k3BXxmHu9QAao4kRVWchCcHeAdr5j_Nz9bTWsxzfaF-Vs_s0sN7yrqHUdmhCvFGeJjiA.jpg"
+          "url": "https://cdn1.telesco.pe/file/qYdcSJwVxlq4oztH8rPdoMKr0NkuWh0wUFpTa2ieq_wjBxt0nzKvuDGxNrkslCToynm2O2noOnQfuodkjMMAdJuojIUCorRZWZgNxJhP5WDDPyGADJAppOP2Aaa6tPsQl756kXJNTvUvFLwEeJ5Y59_onCassMr6s_JpdJ9BX3zUtUxJyb2QaCjbGJS8D9UXOXHSppuwvdkVNZMkYccvugGqsKwkIwb8PXeg5uSmq-I4JmiXG9uSymUTi15Hp64mxxQcIufzZE6QmpW0xMjAqwK4auvbY5-GaNV-RZUdpROJ_sD6axDr7cyeGNbGbmu_HYE90QAV4uif1dPsO-C6Eg.jpg"
         }
       ]
     },
@@ -157,7 +73,7 @@
       "date": "2026-10-01T15:22:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +85,7 @@
       "date": "2026-10-01T15:52:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +97,7 @@
       "date": "2026-10-01T16:50:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +115,7 @@
       "date": "2026-10-01T17:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +133,7 @@
       "date": "2026-10-01T19:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +157,7 @@
       "date": "2026-10-01T21:36:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +169,7 @@
       "date": "2026-10-02T05:38:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +181,7 @@
       "date": "2026-10-02T07:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +193,7 @@
       "date": "2026-10-02T09:48:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +205,7 @@
       "date": "2026-10-02T12:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,6 +214,76 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/akN3pz-z6yGbIJzWTPZJHVUKDLBm2hSQFVwTD5hQLa2sPi4VLMkijeCpOjGbrs20Y6bfB_efXDMuc9dhM1v7hanOCOnNKkHDSPimiEYfabG--zOp4oIA1UM-CAIpetskzcN7Ci38U89WrVLVw5m0R66xCP3uMT5Zna9e__bBGnfTnAGK5BMF9qvb4TMh9Z1VQexq6APuF6zDEQtKJRqHOxFrL4TTGiEiu6_2QqLRomEm-pNebyEQGozsRe9edcbZZbejLp1ce_GWItYUge_ytEvorXZhhorq46kn9FKZqIWwUkVsDbE-shXiEGUDgTRmt6dnQ-ia6D7xyX0XrptfBg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5477,
+      "message": "دوستانی که گوشی آیفون دارن، همین مراحل رو توی اپ CoreForge انجام بدن: \u003cbr/\u003e\u003ca href=\"https://testflight.apple.com/join/3htm1Whc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://testflight.apple.com/join/3htm1Whc\u003c/a\u003e",
+      "date": "2026-10-02T14:25:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5478,
+      "message": "\u003cb\u003eاجرای آفلاین LLMها، روی سیستم شخصی! | مدلهای هوش مصنوعی Local با OLLAMA\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمن این کار رو توی دوران قطعی نت کرده بودم و بدون هزینه، هوش مصنوعی داشتم روی سیستمم و همونطور که توی ویدئو توضیح دادم، ازش استفاده کردم. الان، تکنولوژی‌های جدیدتری اومده و توی ویدئو یاد دادم چه شکلی ازشون استفاده کنید و حتی با اینترنت ملی هم بتونید دانلودش کنید.\u003cbr/\u003eامیدوارم که مفید باشه واستون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدانلود Ollama: \u003ca href=\"https://ollama.com/download\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ollama.com/download\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/EAF-hMPUMYc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/EAF-hMPUMYc\u003c/a\u003e",
+      "date": "2026-10-02T14:52:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ZhOJbTdk83cEpIuoFAEyF-SW5YsOYSIqDE46-97kJlGQyY8IyB6DDxTcf6zKnu8aqWTSrNGBlxHMIczdxVCXRC9r3WS8JgQwprnQ7ipvaMDPD3DgEsiwosKyZ7Rw-Gc5ev_UxH9iltfwm8p3XCklYy6IBiZ_UFFNJ3mvGTY1jS2UpoW6axAFcDxIwZ_HYEFUJUtS23XCjp9OG8JzvvSKi2-bnVv9iMisaE7t8B5G796dybi3w4_YVUe398M-5iDsNwQC-JwgxrtbHCzi1rnjbo15bJZIlTyp2vTL0vQ73uEV6n3kG06HffeHW1-RffsPwNPj0yQCRKba1Ft8DMkxJQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5479,
+      "message": "چیزی نیست. وحشت نکنید. تامنیل ویدئوی قبلی رو دادم جمنای(عکس اول) و مدل متا(عکس دوم) تا بسازن با همون پرامپتی که به GPT داده بودم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eواقعا GPT image 2.5 رقیب نداره",
+      "date": "2026-10-02T15:07:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/XWNwWpST1YIRvuqPE3yC9Z_9qnEhJoxcygZIV5GESC4-11hoekarBpAWHrc559RAz5HZ3VPKP2OpKzQ0l97mzyrZ5gUbOE3XCy8gOvTX8qHzOuiA9NSy2PXI4snE7WXI9mMlMssbEWMtHv3WJrDuXfBork8zBKxjuuvj73rx-8eHKsTBWFst_k9ji97p4s7ZuONZ7goeMHSZFFmt5g2qyz6bSWy1l1lTPPKN-IfVKAlsqIgQSCvnQ6pQl7CZETkP38UTmXGQSzOUCjctQ1L0bdOy5-HL00hKoU5uUwOk78pdbhoYv56DHFjrakwNXTl7Tw5T_bg5PqQjfQ2jfTyMQA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/qFVK8L-xFytmdEhYjtDAFojy7qGd4pKXc6ZxE2Qi8YeJq7gem50f-hHD3tiharqoXfS1JukIHDXBEJtZoGvUtOILg8PbzObIAHnbvVETQqttPk9OE3Pr1iNByESVjb1U8U-fA4ZFiTrkrpgtbWCnM3TACSgObkaLbXLFC_HM2Z5rhSwhCIZdSXdATuECXgfv8db-ZEFDnl8kOG2mAhnqf9MHBF4YHLcznjk3I56TRLWu5UsDE1_pSevVtjE8m3DOZJDkvkDO--RxsVIQxfCLrkqnv5vDccfO36U-NVEuhwaWP5zie2jZjOTa1Y_PAbAI7fNmffF-RtyHeyMY_jgzew.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5481,
+      "message": "درسته اینجا عصبانی بود اما توییتم رو لایک کرد",
+      "date": "2026-10-02T15:22:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/tFstmDj0rdeG3a8qaNQE_pSXGaW6pmGewKswS7Mw77mpZj_QEpRLQGUuo6oc2FQg_kogaP1tx3Dcd0wa73o8JvEx1HXbrr5Wk_KhN1dMij0b0u6MbQG2lS8ry9d86pIZUBPgH9oKBsTY0SQ65cVFBg7P0TtrC32NUqdgSxQ3naP1ml_pb1oUpiZ2M5FZTKZQNPRHU5bo0CJM60fMTK-09rlvSLsMmYpxoUMNwbTRqmBgtf5ICIqsGTqWxAJII1KkW5MwqyiK8JIxQGpthMCoggj8ztf_VfqvAEmZ7X8aVRDfD50jEsJD2p0JUwP79yolK8d1V8UqThts5yJLZkISNA.jpg"
         }
       ]
     }
