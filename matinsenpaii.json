@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 5455,
-      "message": "کلا هر مدلی که میاد\u003cbr/\u003eاین قضیه‌ی Benchmaxxing پیش میاد\u003cbr/\u003eنگران نباشید\u003cbr/\u003eمیگن توی کدنویسی اونقدر هم خوب نیست انگار و باید منتظر موند و دید تا فردا پس‌فردا که شایعات و تست‌ها به کجا می‌بره ما رو",
-      "date": "2026-10-01T04:13:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5456,
-      "message": "این هم به نوبه‌ی خودش عالیه\u003cbr/\u003eHallucination یعنی توهم زدن ai\u003cbr/\u003eکه این یعنی جمنای 4 به ندرت از خودش یه چیزی رو در میاره",
-      "date": "2026-10-01T05:05:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nZtNghpgQiH42VyhFNIrw_YEwZ52VkidU8rEptsFT89qKrbcaG3N10G8FQQqfnt8Bm5tsGiRsNJ1RwKC-weLmcPfHHmf8FkO-5fV1XYAXyAy-ONL0tDxmdqKv9ds8sLyIPouXcrhGUe_qjYiUnPDRwp8x4bGqwQmpgAu0apBd1Qb1v2MC-cbwWXtBEyKpmEhTp058LeICHKfi0VKmh5MOZfaiU-aMX_gRhFBwOf0J5rjjOVABlAT2pEEMmpzodBNKBarKRPobZR_ro_D0vf54txgKS6KGDPy9t4QxQcWL_r-4RrYYjI8khxqCM3_SPKzHdNfXV4Dx9dClzYPP6bumA.jpg"
-        }
-      ]
-    },
-    {
       "id": 5457,
       "message": "شدیدا حس میکنم مدلهای چینی اوایل که اومدن غول بودن، بعد از عرضه یهو ضعیف شدن\u003cbr/\u003eمثلا هممون به Ox Alpha دسترسی داشتیم، بعدش که glm 5.3 flash معرفی شد اصلا اون هوش رو نداشت.\u003cbr/\u003e\u003cbr/\u003eیا من به Qwen 3.8 preview دسترسی داشتم و خارق‌العاده بود. سرچ کنید توی چنل نوشتم از تجربیاتم. اما الان Qwen 3.8 max وقتی ریلیز شد هم از مدلهای Frontier خیلی عقبت‌تره هم توی بنچمارک و هم توی عمل",
       "date": "2026-10-01T08:05:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +25,7 @@
       "date": "2026-10-01T09:00:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-10-01T09:11:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +51,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jpyRVqtOrCixdrqsDfDEGQj5ujFkhsA7BVB0P_fDGk9XrmXSDuPReGqfXEf9AsF7QtE4zgYW_ZwjpM0sMhIe8yKAxMnFDJd66tGIjXZsvsLa28wlDm1ETdxVrBwkyP93mEVsYFVIA4TlmD0wrkh_eswcAia3jkUhYA_ugfpv6Xza8CPlrnqLwRBSw5NgkO-4cSrIx1N3sPuqT3eGbjwObl56gFWREYTCV0Ie-cb3GgOJTKT4kTgGzqcnGomcDqLZp7ad8RhtRJtH7c8KKLI441Nyp8ZU2btAyzA2JhrhtqM_wAXmAeK43OMd8DwOOdBJvsS46sOF5Q_tBLF8_ikQfw.jpg"
+          "url": "https://cdn1.telesco.pe/file/jeAswI76VUE8BZsEELqKPgdsnQsOxjHs42pIo8SjnSRUdjPGFY-ywyrgiMrt2JqrDa75JhPO-E1eHCx4KPAmiOU08-K14VRLXTfKh3KP62XDOVBqHGl8SxvyqGbHFgxNrTlicxSJsYFkWTi_R_EJ0gVpQ1F1wgDueoa1AdPEyyLhVUBHv5sGvzsWfQwPG0KvBpLu13UBBslvraaRKSQ3Noy92ZrHucH3Q_2TfmWgW7YMCDbh4JIyn2AzB5T7S6vHE_6qx7w5oDTeutQw89ALLCpBgewZqkmcmBJqAuMgvxn9eiCQiWBuBCXX5Ku3y8aing4tAaJvDxkXyhOXU65pAg.jpg"
         }
       ]
     },
@@ -91,7 +61,7 @@
       "date": "2026-10-01T10:37:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +69,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/slH0EinZ3VyQf9kbGdBG3i8Uf3VItr7Bs-ic4ZMFfC_6JYTQXltCWGSuuTZR_NNusnD1F6Swgkp6YGGGUnkLCYnBtWuY8xT3kLZTgQdFa6EwIhSyZ1ooKlVfSsNDrt0Njy8m4ptJKxohnULDX8oCBTPUuVkE_DnRuAwFc7UrHg3_wfLVCNPVKJ2TCcbnA-B18JsBFIHUod69K0_psn76Uu3XSt7zmnstgi0uB4QHb2r1WDfzvVF-Euqty2A9hkluSzKMOnxANEOGJIhvMYurDxAXWEJe9e7I8XC-GQM983XGyHicPPSzHfI-hS4O42pLBBmyRmN-pN7kc2DqUuadYg.jpg"
+          "url": "https://cdn1.telesco.pe/file/s9SUHzVxItN6Y5HtuoC2Jc2ujht7uSutt_MSTN_9xiqGlIlR-cWOlaBU1R1DiLX8zeUA4Gde3vT-aFJzQBOTBWOPtkVPGLkNrEtIQnU3IXQB1l7PU7ePZSf5kSinjPwga5ueu95nqQvZlZWNswjL4CuhDGeRg77jSGaZhgXSln4a6I5goxm8KF2z1WppIcZgm51BGLC2pvBw_cidBmxQVCZLi2e066bIi1ASg7YslkdI8IBXOelu3R17SghAa7UWuwusnS4PHN0obMc5Ah_VULIpjyCYHRp7egYrlz_SbHe15OLxJa0VvQdfhwwczzUofoxLjuoy32XEsvy29YvXyg.jpg"
         }
       ]
     },
@@ -109,7 +79,7 @@
       "date": "2026-10-01T13:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +87,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IlL1mIbZxoDbp7jrCFzAyY662tzLzUkFAEv4NstSss61So80bY4PEC4XLvkpcT3GkQMTMMF19tS-37f9s7EbbXl45IerVElu-8XBeHxZ_kHgkEikUkCNs-3npELkJwJpB0DidBXQVorTfSMdcpCYg1J8rYGgYt1ry5VhGhQVaFsBt1HOpTa3LFiWsJFqAyNKMVLevCKRnETZ417B-mEpYXC_sM5wy22ZrN48EK9SczNb3AuDo211_wSuwx0O59wjLNBKaQzIXTQbvbs60sZS2-5iIziKqXOXumyCZelc51qQiB6_FhRIRrPIIBNeNyhWEeAYN-OxCIUvTdN4PY_1HQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/fIaiXJAyJZfK7FRkM6HI9KK7sflRpR_TKA3fC4v4hc31dzEwh7GEXtXv6ZBY0QoN_eT7qbyUZJiPBGHKVarox8h06UemfSOEj4AamNAoLj1TqK77ZBgtEZP2jGQKH1Bbf7ey-nhoZmIJ6YazPeJ7X5oK3-zjQSBj8YNCtA4mA6KnCv420q_2kTHF9aSIb-GZlcKSmgY9q1nKQCxhGHk3eOCoTP9dPQr1xSuqC_w0a_tboV_mgTdme-gJ1KSaIl2T3UHgkLBdBSnLpC8bb3cGs7vbSe4L6hwJ4TJiKAKggodamcz0yQcbaOuEpj7zXkwT0HmCep4bkOAAsxXcfQRw8Q.jpg"
         }
       ]
     },
@@ -127,7 +97,7 @@
       "date": "2026-10-01T14:48:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +115,7 @@
       "date": "2026-10-01T14:51:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +127,7 @@
       "date": "2026-10-01T14:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +139,7 @@
       "date": "2026-10-01T15:08:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +157,7 @@
       "date": "2026-10-01T15:22:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +169,7 @@
       "date": "2026-10-01T15:52:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +181,7 @@
       "date": "2026-10-01T16:50:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +199,7 @@
       "date": "2026-10-01T17:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +217,7 @@
       "date": "2026-10-01T19:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +241,7 @@
       "date": "2026-10-01T21:36:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +253,7 @@
       "date": "2026-10-02T05:38:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,11 +265,41 @@
       "date": "2026-10-02T07:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8060,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5475,
+      "message": "در کنار بلاک/فیلتر شدن دامین دریافت کلید وارپ، اومدن sni مسک (Masque) فعلا فقط h2 رو بلاک کردن :))",
+      "date": "2026-10-02T09:48:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5476,
+      "message": "\u003cb\u003eبه جای توضیح دادن «اون دکمه رو می‌گم»، روش کلیک کن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه با Codex یا Claude Code رابط کاربری می‌سازین، احتمالا پیش اومده نصف پرامپتتون صرف توضیح دادن این بشه که دقیقا کدوم قسمت صفحه باید تغییر کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eابزار Agentation یه نوار ابزار به پروژه اضافه می‌کنه؛ روی المان موردنظر کلیک می‌کنین و می‌نویسین چه تغییری می‌خواین.\u003cbr/\u003e\u003cbr/\u003eمثلا:\u003cbr/\u003e«فاصله این دکمه از عنوان، ۱۶ پیکسل باشه و توی حالت loading عرضش تغییر نکنه.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e نکته کاربردیش اینه که بازخورد رو همراه selector و اطلاعات المان به agent می‌رسونه. می‌تونین خروجی Markdown رو کپی کنین یا با تنظیم MCP، کامنت‌ها رو مستقیم در اختیار agent بذارین.\u003cbr/\u003e\u003cbr/\u003eبرای Claude Code یه skill راه‌اندازی هم داره:\u003cbr/\u003enpx skills add benjitaylor/agentation\u003cbr/\u003e\u003cbr/\u003eبعد داخل Claude Code دستور /agentation رو اجرا می‌کنین.\u003cbr/\u003e\u003cbr/\u003eفعلا به React 18+ و مرورگر دسکتاپ نیاز داره و بهتره فقط توی محیط توسعه فعال باشه. تغییر کد رو agent انجام می‌ده؛ نتیجه رو هم همچنان باید بررسی کنین.\u003cbr/\u003e\u003cbr/\u003eبرای رفت‌وبرگشت‌های ریز طراحی، ایده کاربردی‌ایه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.agentation.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمعرفی و دمو\u003c/a\u003e · \u003ca href=\"https://www.agentation.com/install\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eراهنمای نصب\u003c/a\u003e",
+      "date": "2026-10-02T12:40:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/akN3pz-z6yGbIJzWTPZJHVUKDLBm2hSQFVwTD5hQLa2sPi4VLMkijeCpOjGbrs20Y6bfB_efXDMuc9dhM1v7hanOCOnNKkHDSPimiEYfabG--zOp4oIA1UM-CAIpetskzcN7Ci38U89WrVLVw5m0R66xCP3uMT5Zna9e__bBGnfTnAGK5BMF9qvb4TMh9Z1VQexq6APuF6zDEQtKJRqHOxFrL4TTGiEiu6_2QqLRomEm-pNebyEQGozsRe9edcbZZbejLp1ce_GWItYUge_ytEvorXZhhorq46kn9FKZqIWwUkVsDbE-shXiEGUDgTRmt6dnQ-ia6D7xyX0XrptfBg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
