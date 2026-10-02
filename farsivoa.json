@@ -8,99 +8,12 @@
   },
   "posts": [
     {
-      "id": 232394,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، روز پنج‌شنبه در یک سخنرانی در جمع کارگران یک کارخانه کامیون‌سازی در تگزاس گفت جمهوری اسلامی به سلاح هسته‌ای دست نخواهد یافت. او همچنین به عملیات نیروهای آمریکایی برای دستگیری نیکلاس مادورو در ونزوئلا اشاره کرد.",
-      "date": "2026-10-01T22:05:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PFh0dpUYwqRXmxpSbv-1HJKLsJQmMeafN9VQekR3S1lSiroaQTu2c9f5WR_q3AvEfQecUwMJ_sommEfq3-EgqmU1K8urfl59aQ5nCr0jtd6eFj4SRo0u5GCgJxEa3lNqyCrHqC6D8Mht-TZMcqR4P1RdSyBXsh-yW8To_AgdpwlsNphHDffpKn57zIu5u-CjSEDGjRWBMAh4Mtc48Z1GFsb39KuJaVDVJLgosrafs101DEOz6ns6yXnF0OLhUXmtqV__MABfPPdlB6gpRKinTWXTdGGmqdKujhu7-PjLyTNjRf6fWc3LWqeyIK1Iix6KFAT_e-ps03m9-XyGlWN9ig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 232395,
-      "message": "دونالد ترامپ: رفع «تهدید هسته‌ای ایران» ۴ تا ۶ هفته زمان می‌برد، اما این کار را در یک شب انجام دادیم",
-      "date": "2026-10-01T22:08:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Cs_z3g6HDIMt2pzJJ5S0mgWQV2ccZ64bqhsNEhFj9yx0ecHhbf9IYejszKw3pWjkDlkM8ZbyWoeBG9j9rLdiCFo63BPgPiZw5A8Tx55zHi8WEqmWWraryWSvS1WZV-dENvoP-ISU0bYcL0Wy33uUUru3aqCTO5D7k4iPS3sdHDRv0aI_IvmL9ScMwhUFzSqujlm1fsi83-DwGx-1Un2brn2wHImWZN3NfYXQsicPH95xphZgsmL4w9IGdHyadC59I3YhqhGlw696pl7NYD6zezBn8vI3oHLGYzixbYDkq-lD72sGMxkPgIIwc6M9-ilyMnSeDJNpZc7kkJOArshw7w",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 232396,
-      "message": "تحلیل سجاد شهرابی از بازگشت برخی از هنرمندان به ایران",
-      "date": "2026-10-01T22:12:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/KGm2BLnioJuKAoQslYeg37IQtop5R9QnkYrUOw_GDLXVElzCkBbdjqPpxDwZLZosTLc14MqaCXg3DuI0f7GMELBNMyR3POIehdv20VNkJtDx_RJdi17e8eq6oGZr8rpaVDi9uKp-8vBhKI29OnCGUcbEaijy1tyLF2_0QO4JKGdQowjqHmHATbmRZ84VMyTgDwKl6D2NSbLGwScnoQcN_baj2Fqz3MC0AtiM6sDCOuYkpgOaPYz5rb0yL8t1mrz43gqfLhqWiBFF_Xd31nArqyVzWi96yxlHFZnZ1G-T09OTGuLR2m76cYjlm7khfQwVVKJ0BlxqkehY4daaxiE86A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 232397,
-      "message": "مایک والتز، سفیر آمریکا در سازمان ملل، پس از وتوی روسیه و چین گفت واشنگتن هیئتی مستقل برای نظارت بر اجرای تحریم‌های جمهوری اسلامی تشکیل می‌دهد. همزمان در مجمع عمومی نیز پیشنهادهایی برای پر کردن خلأ نظارتی، از جمله نقش‌آفرینی خود مجمع، مطرح شد.",
-      "date": "2026-10-01T22:16:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2009,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Co5_R4qtBEl7VoTr8uhM0O2Dp9b7oNJuH3utknj-T2ERa3mUduXnP02V1PqLttUfQCj_SbvVuCjS5-qUSFnAMYPSfxPepP_0QLK2uhkL945OEgNBrpj1_5QafjF_Ec74sOnqGtyj6lgKk8HaeBrid5kLHUUGUqDq5e-HaLJrO97Fy2HUQljSR56nJ49j3fENWiybWo0WGGZekNVYNi2eIw0-SyLWOGd0aKLvhq4eUvpBUcDChmKFFGmNbvYz2qHs3EZ6GpkK4uflAfjcc2KZGR4i2vvIkUMVznGQTyFDgaStI1_NVPHt-l5-x3-F40R3Q0p4jPHLkdcktZk01StXCA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 232398,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eترامپ: گروهی معتقدند با جمهوری اسلامی نمی‌توان توافق کرد؛ رژیم یا باید کاری «هوشمندانه» کند یا «مدت زیادی» عمر نخواهد کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، روز پنج‌شنبه ۹ مهر در یک سخنرانی در جمع کارگران یک کارخانه کامیون‌سازی در تگزاس درباره ایران صحبت کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8206840.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8206840.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-10-01T22:38:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
       "id": 232399,
       "message": "عفو بین‌الملل خواستار توقف فوری اجرای حکم ۷۴ ضربه شلاق پرستو احمدی و هشت نفر دیگر شد و شلاق را «مصداق شکنجه» دانست",
       "date": "2026-10-01T22:42:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1940,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +32,7 @@
       "date": "2026-10-01T22:49:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
+      "views": 3660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +51,7 @@
       "date": "2026-10-01T22:57:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1860,
+      "views": 3660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +70,7 @@
       "date": "2026-10-01T23:09:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
+      "views": 3710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +89,7 @@
       "date": "2026-10-01T23:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 3670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +108,7 @@
       "date": "2026-10-01T23:36:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 3510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +127,7 @@
       "date": "2026-10-02T00:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 3260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +146,7 @@
       "date": "2026-10-02T00:43:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 3360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +165,7 @@
       "date": "2026-10-02T00:49:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 942,
+      "views": 3370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +184,7 @@
       "date": "2026-10-02T00:55:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 3420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +203,7 @@
       "date": "2026-10-02T01:02:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 891,
+      "views": 3410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +222,7 @@
       "date": "2026-10-02T01:07:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 925,
+      "views": 3450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +241,7 @@
       "date": "2026-10-02T01:10:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 4360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +253,7 @@
       "date": "2026-10-02T01:30:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 842,
+      "views": 4640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,11 +261,11 @@
     },
     {
       "id": 232413,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئيس‌جمهوری آمریکا، پنج‌شنبه شب در یک سخنرانی در ایالات اوکلاهما گفت: «ما ارتش‌مان را دوست داریم. واقعاً دارند [جمهوری اسلامی] ایران را به‌شدت می‌کوبند و کارشان را خوب انجام می‌دهند...این ماجرا خیلی زود تمام خواهد شد. قیمت‌ها برای شما پایین خواهد آمد.»",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئيس‌جمهوری آمریکا، پنج‌شنبه شب در یک سخنرانی در جمع گروهی از مردم ایالات اوکلاهما گفت: «ما ارتش‌مان را دوست داریم. واقعاً دارند [جمهوری اسلامی] ایران را به‌شدت می‌کوبند و کارشان را خوب انجام می‌دهند...این ماجرا خیلی زود تمام خواهد شد. قیمت‌ها برای شما پایین خواهد آمد.»",
       "date": "2026-10-02T02:02:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 453,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -361,6 +274,91 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/V1-u9f2_3DErgZv4C13Dg2zBB3RntKVqlSYebtkfgSnBWTmAhp1Xg9Y6qRDb3owAsfSnSKqvCd2gx5X3PaTPdEN6_GAztCDm9C69TpEH3WpHdEHPr9Li2oIMh4lSrsvN3X6Xr-cV2S-1NnuXMSizmS4TGzPAgrA6Wdq6koU-rGVbySlzu-jabqSpo9dLiG99hLXMdq1rxqCWovpnVikmue70baB7lGJXVEhTw5UrY6aNsBURJXebxppCYIt450JVURbtnUOmY3VDYID60ZZogh0kgj1Z4ch1LxNehmHUgJM1zxaryxejiukpUMRCFIhgJ2w_TQ2J9PZ7C_AG0-5evQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 232414,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eترامپ: اگر قرار نیست جمهوری اسلامی به قرارداد پایبند باشند، توافق نمی‌کنیم و فقط کار را تمام می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، گفت او تضمین می‌کند جمهوری اسلامی هرگز به سلاح هسته‌ای دست پیدا نکند و تاکید کرد که تهدید هسته‌ای جمهوری اسلامی را با عملیات بمب‌افکن‌های بی-۲ از میان برده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8207022.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8207022.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-10-02T02:35:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 232415,
+      "message": "یک کارمند وزارت انرژی آمریکا به اتهام تلاش برای ارائه حمایت مادی به حوثی‌های مورد حمایت جمهوری اسلامی بازداشت شد.\u003cbr/\u003e\u003cbr/\u003eوزارت دادگستری آمریکا می‌گوید اشتون حامد الابودی، ۵۱ ساله، پس از خرید مواد شیمیایی پیش‌ساز مورد استفاده معمول در ساخت مواد منفجره و همچنین قطعات پهپاد مورد توجه اف‌بی‌آی قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003eبازرسان همچنین دریافتند که او در سال ۲۰۲۴، پس از آنکه مدعی شد در معرض اسید نیتریک با غلظت بسیار بالا قرار گرفته، مرخصی استعلاجی گرفته است.\u003cbr/\u003e\u003cbr/\u003eدادستان‌ها می‌گویند الابودی با استفاده از تخصص خود در مهندسی برق، در آزمایش و اصلاح ژنراتورهای خورشیدی و تجهیزات ارتباطی به یک منبع مخفی اف‌بی‌آی که خود را نماینده حوثی‌ها معرفی کرده بود، کمک کرده و در سال ۲۰۲۵ با استفاده از گذرنامه رسمی‌ که پیش‌تر در زمان کار برای ارتش آمریکا برای او صادر شده بود، به یمن سفر کرده است.\u003cbr/\u003e\u003cbr/\u003eدر صورت محکومیت، الابودی با حداکثر ۲۰ سال زندان مواجه خواهد بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-02T05:46:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Y1MkEertMGj6Exy3Obc_HhpE0blTUONl_09Nm8jamgzZt7I-HWicSR6-rxtfVazbog3r5spk0QH9iYI9dooiSron5gwyrOuhhEojVFdEUpfCZENrqzVlmozfwSNVCF4qQCys8ejEVV9t_rvsfpgNkgaWVTGxN9gRtxrl3TT9ZN2DFUeHqtB-cgi_t6t053pVo0W-oZTHM-6yi5IW2lVGG1wvJbuYs6GKcwneC2gDUDsYsdnLe7sgq7Q2kjhbfbka6gijKHRRTRbPc3zNqMqBvM26zrKGwyKzlbiLJtRtXs72SS5Nl_5-qP9gVbjQRV5MyyOqLeu7uoTl__p6P4odPA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 232416,
+      "message": "وزارت امور خارجه مصر، حمله شورشیان حوثی‌ مورد حمایت جمهوری اسلامی به یک ایستگاه برق در شهر مدینه عربستان سعودی را محکوم کرد.\u003cbr/\u003e\u003cbr/\u003eمصر این حمله را «نقض آشکار» قوانین بین‌المللی و اقدامی تهدیدکننده علیه امنیت و ثبات عربستان توصیف کرد.\u003cbr/\u003e\u003cbr/\u003eقاهره تأکید کرد هرگونه تلاش برای خدشه‌دار کردن حاکمیت عربستان را رد کرده و ضمن اعلام همبستگی کامل با ریاض، از اقدامات این کشور برای حفاظت از امنیت و ثبات خود حمایت می‌کند.\u003cbr/\u003e\u003cbr/\u003eائتلاف به رهبری عربستان اعلام کرده است که شورشیان حوثی، شامگاه پنجشنبه نهم مهرماه، به یک ایستگاه توزیع برق در مدینه حمله کرده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-02T06:05:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KE252LJZLFWdsTSH1yRvQHXZ3XsBzlq0eVv5gpiWTuTwa3CdMJKeiUOU3lsXSCcmU_n3HCYUrfNR0J5_9tivPXZ9w1U3tQBzRQZ_z7KdCtRapPAR5xwsdRakF70E0wu9VeTLZtKgQFkKmH5dhQBWs_lbHxLFJqV7LzFpOH0P3ModCAAJYbO4CinW1o51hrK3FQwNECk7OG5uAqIqXIPt1imhmAe5lhS2nOcTblL9tamYZYK8_dOpfvdtH-R2OJG7W961ggIkVO62UfZz_k30NiOJqNRa4_xCKJu_BJ7Gau2SH1ebwssnqJbyM6KPjiNlFn2kUSrAeg1PJHlsFiE2uA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 232417,
+      "message": "لبنان از حملات توپخانه‌ای ارتش اسرائیل به جنوب این کشور خبر داد؛\u003cbr/\u003e\u003cbr/\u003eخبرگزاری ملی لبنان اعلام کرد که ارتش اسرائیل طی سلسله عملیاتی‌ در بامداد جمعه دهم مهرماه، به شهرها و مناطق جنوب این کشور حملات توپخانه‌ای انجام داده است.\u003cbr/\u003e\u003cbr/\u003eبر پایه این گزارش، آتش توپخانه اسرائیل مناطقی از بیت‌ یاحون، شهرک منصوری، وادی زبقین و وادی السلوقی را هدف قرار داد. همچنین، نیروهای اسرائیلی به سمت شهر حداثا و حومه شهر برعشیت با مسلسل شلیک کردند.\u003cbr/\u003e\u003cbr/\u003eخبرگزاری ملی لبنان اعلام کرد که هنوز اطلاعاتی درباره میزان خسارات ناشی از این حملات در دست نیست.\u003cbr/\u003e\u003cbr/\u003eتاکنون ارتش اسرائيل نسبت به این گزارش‌ها موضع‌گیری نکرده، اما پیشتر تاکید کرده بود که حملات علیه «زیرساخت‌های تروریستی حزب‌الله» انجام می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-02T06:29:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/toRqXXD4u6UK9fwxkvz_1_SSVsbB0PBgyYOBBw-_xE1qovY3aP5ChvgIpbMSpozSjVesRFlXdwFyixlhK6q32tlGBSAyDcXe34DiKiIpxVBniQluSMlRtaulQxxcPVJ1XRjG0jgtcPhb9jCPLtPmFdyua32dUKFs8gnXCwGSf5Q_b0lqwmg6xFOaCuNwZBKzhRfgQES-d5U-mlZI81p0fTkxLC6BhCqfviRgFOXUd_ci3Cy4gBtR1DZcuY45Rer7PKm7iMjkTsofK_KV4hGBndsFfOkLf4vK6KQSCfVvgZMKzG5ifIelujzL6vN4p3tsoCg5zAdAMcGfVX5rlBx3zg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 232418,
+      "message": "پاکستان حمله شبه‌نظامیان حوثی به ایستگاه توزیع برق در مدینه را به شدت محکوم کرد و خواستار توقف فوری و بدون قید و شرط چنین حملاتی شد.\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه پاکستان در بیانیه‌ای حمله به زیرساخت‌های غیرنظامی تأمین‌ کننده برق مسجد النبی را اقدامی «تحریک‌آمیز و بسیار نگران‌کننده» توصیف کرد و گفت این اقدام موجب نگرانی و اندوه عمیق میلیون‌ها مسلمان در سراسر جهان می‌شود.\u003cbr/\u003e\u003cbr/\u003eوزارت امور خارجه پاکستان همچنین خواستار «پایان فوری و بدون قید و شرط» چنین اقداماتی شد و گفت این حملات تهدیدی جدی برای صلح و امنیت منطقه به شمار می‌روند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-02T06:44:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 789,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bM2j-Nb24gxgdjBVcFKrl9nBnq-vaAsDsUT4LCRo1c3ueNxYL1rkd0hxe43fRZ7A7cNH8IUw4GyMy3JT0IP1_XSkh23C8NZiVZbTt1aHU4DupwsQVTLZvyaBCNGOKeSSnqWSVvSqz91XKxAizVaO9BeuJ_0WlxsoakmXFzekYWWmfh8XP3slVGvCFv5MpKKVNJ_GdqgnMAMNtmXzUX9Japw1rUP3mubTrmIK-qtX8IF7TBQ6z32me0GvIRlD9CeUxMfBdc1kxaR1Obpf4eshuqUCIRFZwBAr6kwcFURMXYEm_Nddvl02BFkVoQyAUmoDQjceB9jMfh395c3FOgoAeA.jpg"
         }
       ]
     }
