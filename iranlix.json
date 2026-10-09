@@ -3,112 +3,17 @@
     "id": 0,
     "title": "ایرانلیکس",
     "username": "iranlix",
-    "photo_url": "https://cdn4.telesco.pe/file/Pndn9mnoIYq4bS3AOTi0Dkyey9ZAY5EyB4vYdHjjLgzjP1Y2FE1_nCDiOu51uuYYNROj5_16aNNMhkA_9m-En6ZynBFJ9LwnwAgGjvdl8sasotOUwI_qLYFpRpIzLJjd5Q1kOcDIzSsSLQIrWSAODhg7Se-6lObTOHQ266N3z-q0c-m-4SVosWNojYYGG2_0wcv8x_4SiHS-lEhrwDcxTvaOkfa0W2gUpNATxwhCfLD48wND3CnoCo2zs1Pm7-OQfh9-0Gsspyx6Q-IKjCe9lkxyqPJIvhxy0iQQxHip1M3j4y0BYAspq0t1olu48FCaWlZ4S_kA8djyV0wne3f44Q.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/Mlqe4H76bitvnACADpp2PL9CevN631vPOHBQ1pl5bMMsePZagNJsxbR86xB237FWNKjLJM2eNu-MqOAiJ3UWXrhfCMiqfKd2-9odQ2rtuX3ploo30YtllrCwnZjt44SAgaMQMEJGDK623XbXFHdnvM0CitvSNMZB7vt0otXu3ivqBEsucUjfFCVa4cT8xIfLUguXTZOWNRqaPQjiCXMlSvqbon6aUHMhzS1aQ-7xvEGrb1UT-4a2rmbkvy8mVOSmzUFtFDuqmhId5cBODXDfhiVwiKaFYrs5VMl4ZrGtfUpI4ewn9CTjxXQBpU1wNahMXcmxyOKotkM7-2Te8jcChg.jpg",
     "description": "اطلاع رسانی صحیح از مسیر سقوط جمهوری اسلامی.  برای حقیقت و آزادی. #جاوید_ایران"
   },
   "posts": [
-    {
-      "id": 14389,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eخبرگزاری صداوسیما با انتشار گزارشی اولیه، از انفجار بمب کنار جاده‌ای در مسیر یکی از خودروهای انتظامی استان سیستان‌ و بلوچستان خبر داد و نوشت در این حادثه نصرت افتخاری، معاون اجتماعی انتظامی استان سیستان و بلوچستان، در منطقه چشمه زیارت زاهدان به هلاکت رسید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-10-09T15:40:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 821,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SF_OBmPp5MMVHyOjw1im7BmZ3oNp7cfmW3qubI4TJAwFAHgGbuhA2eLgyd8INGr-1IM3cmFP6C_8pF7iDp8yDtJtPhC7SZLcxv099oLXuierQ38PgaNoC-c378-NIb-we0SJU5bL-aUVRbwVytLCn7O4ExCMb-1lFOhjFHdqqCnfdRxxDKYlRf26fkmY1gMI_CWo4_eneQfzr325NYCoWlN-bcSM3mU4mHOjQIGjYcjoSzTbgrpX45fiqZr82agNpnoUQI7juvd9iV_UHRzlVGnQeCfZRj76y5qyMPgVfcDYFTwnyhX7xD6RDFDdH49kmkKk3851TVVDhm6pC06CAg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 14390,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eحملات هوایی عربستان سعودی امروز، مواضع حوثی‌ها را در منطقه صنعا هدف قرار داد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-10-09T15:40:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 839,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Pf1V8bCGjKsTzJ3oIsgifHHzp9smLRSigyWQ66MXRK5ckMazeL7ZZ2mhZfIJfebpixqhdjF-G5S5Grugz2MkUL_u04jPJEd1C2ILGr4KCX8j94AJ8nsfs5bk4eP7C8rmX5DQXWGFKrUIUB-B9SVJeqd9Xr2ejbfjOSJb88UtqUC25WwIs0lZLfDnRE86foYX8CXWlNqsCZVMv_g7dVh3zjl5EEuIx45M2rLawjOdGGU3UTYTp_fYEHO4VhNbhac8bmx8Nf5Bfh36fltGOyUpfcHqHyIagxhKJk53lkYbtItujxS-i_RZDKM7BIv9zXMTy5RVkvpHQqFHiE-eDwNktg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K2aWk5u2MpUTrXw3PeMbp9WIDJ_bWbWKNIbvx8AeMDxnaF3BIbl0XjACLxoDQ2WANNWWi8Fzh9xuWBpeEJojBbKZik43UmhKOix3ilGtfV65tlMok6ciTJSL8vLexf0WFkYJWhmV2pV3FktD47TLdQS8IMpq91PBt0KxR1_y3U0DQG4Wvf3T3mKIC_Qy6amAf9v_a8xz4RHf2Der6VieK20Xu4hpbJ291mv1-OG8KxuHDF8225ZpStBdGxIzJiEa5_eHAuIGMHPUSM3tXz1aVaCyeodJ2fYbiSbxZbm5m-D9iSNsD61JIcHx6HHJzYW0zvZYyvhml78hvo-c1LDjUw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 14392,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003cb\u003eاسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با شبکه نیوزمکس اعلام کرد امارات متحده عربی و عمان در اجرای کارزار «انزوای کامل» با واشینگتن همکاری می‌کنند و دولت آمریکا در حال رایزنی با پاکستان و ترکیه برای بستن مسیرهای زمینی ورود و خروج از ایران است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-10-09T15:40:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S9CuhSj3ZYRIdtol7M4MLtNPwAvzgqooEtEWi4oylR0Q2aZr7vN3t_NMmhYXBEWKZgvJZcTzc1GKKw-MnGVtW2RkIkF4pdQJeewx-fY2hpaGAblTT6YKz-Qoh1DE_Yr6rkLjbkCtn8AKyphUtEy76oCvwz9Tppfn-wt1xXezjRUBPQK1WujrZrqD6ZnxUIc1dzULvuDJJZNy6V-z-AbtwH7xauhSEDjk0Ywo5vfYfqt8n-3MdvXtCqtYOB-0l21EzBpadX_dsXgiM67rX9v2FteUR2lp9uBiNLx_TBUGZAkLNoWx7UJm1IieYeywUhTUOYM3V6MZCICbZoic9Kwzuw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 14393,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمیرسلیم،عضو مجمع مصلحت ج.ا:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eمرگ مردم در تصادفات رانندگی به علت رانندگی بد آن‌ها است و ارتباطی به کیفیت خودروهای داخلی ندارد.واردات خودرو خارجی باعث می‌شود کشور پیشرفت نکند!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-10-09T16:23:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 791,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lmkYzwhJWDSK_YQPH-XhOn3d_moHWk0FiTBr7LJHZWv2c2sJcFoKT2CNYub1cS9ZyezCszfHuVZWsrCfVadYeAgUHsPIiO45CiOBgJdNLLJuRMNdHGnzLbmH2YunKW7DR9S3ngKU4tk5a0uAOBR64crBFck-S4bnVBwojKyzswNPo9UeoylLT9U5U_qQMznMU8_V3qQabqzya0kzwhWPVSWJ4nVgSSM-QTiSEjzJwUwaueMOU5Kem1gyvsGwd86vxyztNsAtygUo_qayytYY38fYufJSTCMsK27DEWM2-1oPk1D5wmR84mfg_3bVRIHSAQMHMg9lq9fCh84UW3Qt9w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 14394,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eعملیات نظامی نیروهای دولتی یمن در باب المندب با پشتیبانی هوایی گسترده عربستان سعودی علیه حوثی ها در حال انجام است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-10-09T16:24:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XvFLm86z7nzRxxTz72wIOVXdHkIsjA1M34YmfIcpMlAzAI7kK8GIhH9cAbXR0FOgwr9hIYIZD_4P9IT7SRz78PaqzMKoXwnFVZrj2WHnr5sskCRsJan7zlqy2x6Jq1gwCE7dH_8uyaKFul-o17qii6z4ULXyn4dDcn512e-W3jJryiwQ8KZEDAygGxLhoVAoBkYiayZCO3pyub6LmS4nKszvYBxd7tUVlMUTVMIBSz46oYCdCPV4Xium3eAhZvkPihHYMhNQbFuWMRz46ZyphfO9eoc9FQ6iXwNsVOKaVUL9D0K9rYbikNdVTgkhKOhD7wmQ7nVAbR1wnjc5KNQJMg",
-          "width": 432
-        }
-      ]
-    },
     {
       "id": 14395,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003cb\u003eنخست‌وزیر اسرائیل، بنیامین نتانیاهو، از رئیس‌جمهور ترامپ و وزیر امور خارجه آمریکا، مارکو روبیو، به خاطر تحریم دادگاه کیفری بین‌المللی، تقدیر کرد و اعلام کرد که این دادگاه یک \u0026#34;نهاد سیاسی\u0026#34; است که خود را به عنوان یک دادگاه جا می‌زند و \u0026#34;تهدیدی جدی برای دموکراسی‌های قانونمند در سراسر جهان و برای خود مفهوم حاکمیت ملی\u0026#34; محسوب می‌شود.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
       "date": "2026-10-09T16:24:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 881,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +31,7 @@
       "date": "2026-10-09T16:25:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +50,7 @@
       "date": "2026-10-09T17:48:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 840,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +68,7 @@
       "date": "2026-10-09T18:06:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +87,7 @@
       "date": "2026-10-09T18:07:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 850,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +105,7 @@
       "date": "2026-10-09T18:11:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 913,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +124,7 @@
       "date": "2026-10-09T18:58:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 551,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +143,7 @@
       "date": "2026-10-09T19:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 442,
+      "views": 900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +161,7 @@
       "date": "2026-10-09T19:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 203,
+      "views": 754,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +179,7 @@
       "date": "2026-10-09T19:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 218,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +197,7 @@
       "date": "2026-10-09T19:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 234,
+      "views": 830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +216,7 @@
       "date": "2026-10-09T19:43:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 217,
+      "views": 820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +234,7 @@
       "date": "2026-10-09T19:43:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 236,
+      "views": 878,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +253,7 @@
       "date": "2026-10-09T19:43:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 236,
+      "views": 899,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -357,6 +262,115 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/AFfbB0uwz-RoF31CYpOLFtOxCGo-mUtCRVqknaQoCZ9qBAgPObAq8buKRSxkGVwC0tJOzuP10ebmLokLjP3IYPG43VzJkadeqmUMz4x-eEtc6sGJ0S-SkbM8YEATVmK17WWRT3gKv4-s0DPVtUdFYfRGg0Xa2V-NXHwEOTEohedgnvnoSv0JYC6tXtceSUa7pl_DfSpKhqY3PsB-6VxZTxQQt1b_nbmyRRJDzicrImz9QKyae-7_wqIIbZ3-527TOUqF_a92-TBViO7R3SAmJDBzzgvjPBelBfzexsemKYR01dkf3NvY7LJ4Ali8b1_dUQdTCDxmvJAtViGtw52MxQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14411,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003cb\u003eاولین تصویر از نفتکش «ان‌وی سان‌شاین» که امروز در تنگه هرمز توسط نیرو دریایی سپاه هدف قرار داده شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T20:47:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 616,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/G4ZgZmG0qT1wZer_a6nXlTRSu0EA2EGQ36b7blus6Msck9DvyQy7kdWlIZF9KpgAvrc8v5elwhSfShUf02ndjMEweDgrKrax6PJ0ArMHLhIy3t1iEwHkKNqtXszq8tF1BdWz4my_AcuYsQofjN7ipGOaMizWriegRIEAuwDg3zGGy9Z2IvLzG9qClqgdwUGm5ke1o6IA5PJtLpMmKpUjsoqudAkLupd7UDawIPmMeW6QxeSHYEQHqo_BDbyt8x1UV0tZfnPeMJJLxWJqVag_iWDN74d4uC986_Yz0B3vY_4HsHveO1Z_yuu8DUsNzMDvxRccTGWKBXbBuGfTx1Pt6A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14412,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eآمریکا به شهروندانش هشدار داد فورا ایران را ترک کنند؛ احتمال تشدید درگیری‌ها، لغو پروازها و حمله به منافع آمریکا وجود دارد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T20:49:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 664,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sgNKCIieecnRe87jKEMYDrfCuffof02SN2iHeLlbSAnFhHDazjxTJn5LEHLd50PrGprpO_2IR-rF1qLlUMpNAn0YYSPqFHLp_ePM74p2vOcl2-5G2t_TzqIFaPM9LPQV0xGUQN2eXNuZa7tOB1wBPJWUa-kZ_Bt3KbwXEPHHTlSPUhNdQklbS7eQ6BrlpjrHYWNUjLkP3EqgIpVItNhjJ5p3ZZJhhL8xhUwtgeBJ4fu0twULvDtuUbD4L7PNCwH8_rYYoNmqbUdkfo3Bo5AD-wBfrbcvKfEacy4RGTBsCfoycpHvlPYfJsusthrN1NDQCOc0b5ZAcB5ZasLFfDYNKQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14413,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eبر اساس گزارش‌های منتشرشده، طی روز پنجشنبه ۸ اکتبر، شمار زیادی جنگنده، هواپیمای سوخت‌رسان، آواکس، هواپیمای جنگ الکترونیک و پهپاد آمریکایی در آسمان عراق فعالیت داشتند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eاین پروازها از پایگاه‌هایی در اردن، ۶اسرائیل، کویت، عربستان و ترکیه انجام شده‌اند و حتی هواپیماهای ترابری نیز در اربیل فرود آمده‌اند. این تحرکات در حالی گزارش می‌شود که بحث خروج آمریکا از عراق نیز مطرح است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T21:15:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 533,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rnApXI9hEUDE2xanwpNFkR0KKCtzRWSPCkeGBWadx_pM5UD6IITjl8RKJmT8w5bb3azPmfvZx_iBI4XWWWejNaVuro-9jFgDgwfJ9JIfSzz3qYMKqsRi-0_uf5CSAWl8XhzaJFC3MUn36I-Slvp-CX_Etr3AdXtHcwV4yeV02cCV7qpUUEFONTra572PYHLa-RkcPJG06K8fsLEWZaWu4DByy-kcbVWpAU04XIW2-CVltvbZtflLy4UFZL4xUQveG3Fcygp7h0yh5sPKlYsR1A3KO3vyqrSihu0ismFClC6jIxso52L-4hRtNM5XJssHk84FAF2MInCk2D74UO5L4w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14414,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003cb\u003eترامپ اعلام کرد که با‌ پوتین، رئیس‌جمهور روسیه، گفتگو کرده و توافق کرده است که مقادیر قابل توجهی از سوخت دیزل را به بازارهای آمریکا و جهان عرضه کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eروسیه فورا بیش از 300,000 تن دیزل را تحویل خواهد داد و سپس در ماه نوامبر، 500,000 تن دیگر، و پس از آن، 1 میلیون تن و در نهایت، 3 میلیون تن دیگر، زمانی که شرایط پالایش اجازه دهد، عرضه خواهد کرد. مجموع این میزان به بیش از 4.8 میلیون تن می‌رسد.ترامپ گفت که این توافق، همراه با \u0026#34;کنترل کامل\u0026#34; بر تنگه هرمز، به سرعت قیمت‌های جهانی دیزل را کاهش خواهد داد\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T21:18:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 553,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/L7bv9SPMyR3ywyQGq86vVllzP3QVfqBUKnKcULi3dguyMmjITkzuN0rfptasdZIMUE00E2Qq3_opD50-jEovVq2fad_3RZiZsB8wIKgEIsuQblXaQ1iO_kdp7Ozjs6GhKvfQ3KR0bozRLm59m458CAL0eMAmSPgN-MSWAk3r8y1iJ0P0PKCnwDiMxLmYbqrh-fPzlxd6-OBmRHjtArO-bgQ3qp3mXMJBjE7c2_7gDS963QzUjD_wXdeJ1Z_xrnipNoVb6RipiTTUSrGbsYOATJhl9NOHKEpbmMS9edwwSnb5DY9n_4abqRFalvWKEE-KAbB4oiP7xaV5L7sMwaANZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14415,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمیرسلیم: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A2.png\u0026#39;)\"\u003e\u003cb\u003e💢\u003c/b\u003e\u003c/i\u003eافزایش قیمت بنزین از ۵ هزار تومان به ۱۰ هزار تومان کافی نیست.مردم از ارزان بودن قیمت بنزین سواستفاده کردند؛چه کسی گفته نفت متعلق به مردم ایران است؟نفت مال مردم نیست.هرکی گفته بیخود کرده،نفت متعلق به خدا و پیامبر است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T21:19:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 561,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dcUk64TBqeog3_i46iIdpVAnRLfnTXjxEHzo3NW576uvD50PvOFwtQzS7rAW3fQPpCB9sbBoicAd7X7_KKekLeygoeW0jNQYgC4OZQPazoN33JeZTYri_2wIfiF3EhtUWZYxUiBkBqU0hIZvG46XRnd_8VWIf3xRRiTCJy4sdTVhMJCd2ckcM5UY23g5IFT7PCF6iWJV7k5DSk868L_ZXblyZPu1dbz6yTXjePaqT1sTMUSskCurD3kPeJ_VNHNu_Y9Ai5acUmCghi0QTH-qk6DG7hDBelKYSuI3OJwIGTfdfZxZN2pDUalivwCUM9wRRgJPruAsXiANABHTDqfsOQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 14416,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003cb\u003eهم‌اکنون ریزش قیمت نفت بعد از خبر صادرات گازوییل به آمریکا توسط روسیه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-10-09T21:19:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 563,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/auIu3bSR1esP-JrYnZQrmlSaXbCEEREu5tMpgDBNCEmg6KSDvErDQTORF9BgRKB-sMVzOrEiNGQMYzs3E9Th-J6zTzwXLMaCsyGiFjKsvjyTRBtpfC5RPmPUpXfv3kWDl-S8lheiPsy3iBSUfsX8TdtUyxt4oFCmUQmM1G9OOUsLkcP6N5eBGSzOXwui2iLFomtnVxK_dL8qg2R9EgDg_qF3WoDHasnjHc7WnykNI1z8X06HU73ObKyObHHDRhHd9qVU1uBRReeAA4ZyUgOQ1tMkrZNhzGE7b0PwqN9DooDWLoDgpg6p3vA9oHzs-oIYc4xAS3RjJVUyuiNv3DvQAQ.jpg"
         }
       ]
     }
