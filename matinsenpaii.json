@@ -8,72 +8,12 @@
   },
   "posts": [
     {
-      "id": 5556,
-      "message": "\u003cb\u003eتیکه گمشده‌ی ارور هندلینگ توی Rust\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه رایت‌آپ خوب که می‌گه درد Rust انتخاب بین تایپ دقیق پر از بایلرپولیت مبهمه؛ راه‌حلش کتابخونه eros با «مجموعه خطا» هست: به‌جای تعریف enum تازه، می‌نویسیم (io::Error, ParseIntError) و کامپایلر چک می‌کنه خطای اضافه propagate نشه. با widen هم ترکیب می‌شن و کانتکست می‌گیرن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-11T12:24:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5557,
-      "message": "\u003cb\u003eمن و ایده‌های استارتاپی خفنم که قرار بود باهاشون پول در بیارم توی ایران:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/SaaS/comments/1wy79m1/me_and_my_saas_ideas/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-11T14:00:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HBVv8BDY6j45XYI3Nu09PH9VOSjmTvjR9xLrTf4LicJZhckIvynw-7_afbKIhgRGWmH53aXLOKH8pEtlV5Fx7Wt9ktH7Uq278jr0Ux_4Bo3-lVRB_fUHTsFb44b1EySxvMjENXP0frWlsbaFxxuf_jxZc7VmDAqUoQ5dP4WUX_mfNkzcnXqxmC9IcdnBHIZYrDCIv4jaH_BQSrpu5t4XdkknxaqFXa3dEUMme57Ai_LL4aH9Ei_xilmRs7Mn_LtGoVHm4hiLxPTDlpFyXg-08gN2RLAY-nARgxe1BrRqhrBuOS3_xRv25jycum_usrIn7S7u1__CHrKc5UO3klr5OQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5558,
-      "message": "\u003cb\u003eپروژه‌ای که یه زمانی فورک Redis بود و الان انگار وارد رقابت جد شده: ValKey\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه‌ی Valkey که دو سال پیش به‌عنوان فورک Redis شروع شد حالا ۱۲ تا Maintainer اصلی و ۹ عضو کمیته از شرکت‌های مختلف داره؛ تروپوت بهتر، کلاستر قوی‌تر و برنامه برای رپلیکیشن Synchronous و ذخیره‌سازی چندسطحی. تمرکز روی امنیت و اتومیشن هم جدیه و داره از کاربرد «صرفا کش» ردیسی، فاصله می‌گیره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.infoq.com/news/2026/10/valkey-evolution/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-11T15:28:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pNti8pbTKwf_Pk0D_rId8QKh3Vd1Z1rUwFpcAV8LqG3hm1GKFku2l2t6c6Ou22TaAIGysCDGB-PevoVQbLQi76n6aDkU6JekWPEy01Bo2IBCQTgJ-1SIQC6wBPlVigCjUO_Ydg_r6XYu5PmYYcVfRRvtwc3-htuLgRNS8PyIc6zCCWl_YXPyGVn7dvcuIycbHG1LjcHlteo7ViBJYRxch8_Q4dVcVNMhCmCydT3MMzj2GUbQYGa66pRpGsoaUHDi92Rhe53Km0v19SUZ_ydxt2UWDh7dZBTjnRPMWuAqAcC0robe1GPNmDsdOUdiF2eI-c_ZUEUC-gPXDC7Thtw0bA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5559,
-      "message": "\u003cb\u003eکارزاری ایرانی با ChatGPT مقاله‌ای جعلی در رسانه‌های واقعی آمریکا به جا گذاشت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگزارش واشنگتن‌پست می‌گه یه کارزار منتسب به ایران با کمک ChatGPT مقاله‌های تولیدشده با AI رو تو رسانه‌های واقعی آمریکا جا کرده. و این نشون میده عملیات نفوذ رسانه‌ای با AI چقدر ارزون و تر تمیز شده.\u003cbr/\u003eاینجا هم به دلایل مشخص نمی‌تونم بازش کنم جزئیات قضیه رو\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-11T16:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5560,
       "message": "\u003cb\u003eمایکروسافت Decision-1؛ مدلی که فقط تصمیم می‌گیره(نسخه تنظیم بازار Jev)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمایکروسافت یه مدل تصمیم‌گیری (decision-scoring) معرفی کرده برای کارهایی مثل روتینگ، دسته‌بندی، اولویت‌بندی و کنترل ورک‌فلو؛ یعنی به‌جای تولید متن، مستقیم خروجی ساخت‌یافته می‌ده که نرم‌افزار بتونه باهاش کار کنه. ادعاشون: بالاترین دقت بین ۳۶ بنچمارک با نزدیک ۱۵۰ هزار سؤال، و سرعت ۴.۵ برابر نزدیک‌ترین رقیب و ۳۵ برابر GPT-6 Sol(چرا باید با Sol مقایسه‌اش کنن؟\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e). توی Foundry اومده و به‌زودی روی OpenRouter هم میاد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-11T16:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +31,7 @@
       "date": "2026-10-11T16:58:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +49,7 @@
       "date": "2026-10-11T17:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +61,7 @@
       "date": "2026-10-11T18:42:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +79,7 @@
       "date": "2026-10-12T03:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +98,7 @@
       "date": "2026-10-12T06:48:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +117,7 @@
       "date": "2026-10-12T06:50:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +129,7 @@
       "date": "2026-10-12T10:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +137,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dkkM6ww0gi0DCGD1SLsi7dOYTpvex_1l4UYCJxoRdRygK0SlgjUz6bb207aoCKx_tbPhq1ytY9wpEJhvjTwHPc8SKGFYAm-5CpIdFEk3kD8Fi5WLB7d6i9okG1Ml1Y0mXHBHx5U9vc7br_J2WLJpPa2GjQ_1TE5uC8YZClAeRhxhSUQreafa7SXQziJ5m6KUFqA3LvFjSn7DKxIcnqqdQ-uYdJbrS5dMN9pffqAy8qwKwVXOXqZEu0CmkessmdubXVS_YvCD70IfmpI6zZRw4kocPYS8mcFLGTsnf1UGRbxlE1Za2XnaWaObR_WvM1kHXvjy9cLtFfaNyJ36PDIeRg.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZPWQpduSmxs23RXuhgS7T5RqKckfasJDMsM8SSeHNlLsoveJ3z9HXolJHx-FcjPS2RzITDNJgmrR-yHK7ETlVqKZ9PtlGE2xiTFFvssKzckufe75YmxVj5xHxRz844Xo2U67sX8OyHP3VfMfa2ekSmMt1oUP_wTKXykynRwXmei8ZB_oqKTGRviGjVR2isUFftSfd96noPlTm3wRdkJIArK1qNQAS6tfgHSsKctHsxY0N1F0-hMgqLiszsDznzZpBnKbknWA2JWDvFWfc2XiRsBqASTsxtU2CpR05gG4RGx-RsQSsavWri4n9vcBLclNj-_gkHqOCHwIvBoj_xgg1Q.jpg"
         }
       ]
     },
@@ -207,7 +147,7 @@
       "date": "2026-10-12T11:50:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +155,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/edcziW-WfDyRSkfXOXcs0g-nybzhoHPMKFtG2q0UhdxEL5FWEDNHDdXUbGJSXEjr0B9UrK9U5GVmrX5tY3DrQ9XxJilhv7KINlQ6D4tgPh7uOuYcO2QP0d2eEtUF4UydfJLgy8gdX4pcJGemXUG-Ovq6imja0JosTWPFOrgDuocrIWVjRXb8LN8OJcYeP1Li2WKSgIR7-ciHK2GBHrbGVdNEpu7PeW4E0V-_VkImaE4nlV426u5vFR-YTw-QMkVoAxPBq0TJZNd19PCKv5_NKVkuKW4YiJHe9DSktJpSAfyS1wFTIApYfKjw7Ik9grhhRRdFHASuPzTsUAUbVL29HQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/EeFXZWPMC60-32CM3FNCngp2tSxp3uXdnzRKHcgs5s9e2zoAAmG-42mcwnwN7yRVvqGBQa6r3oKScw1pKUPqSgD8Ur4zbNhWx7qlZIuDIFEljaX59uZ18UnLD6IpUVXwrXW_qAsdG3koVMFibVYcqNcBb7viCvr-vTrqxlSyN0BeWtvWnbh_AXlofDDh_1bt3g5w94gvJbs657bCZXhbrK7AjtuHx6TsBpmjzDLKurOvyyJWaIZ1qeHC_d8WTPkvwW6SoB4V2zJmktYnRWxqdCf6BwZqhS8kcR5Gp1TQgR1WfW9dGFeMH54P5o8Q27dSHjp0O-ccfDY7w5ljte37fw.jpg"
         }
       ]
     },
@@ -225,7 +165,7 @@
       "date": "2026-10-12T11:55:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +173,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/h176MVe0vdblMvQb7t5-NDWWWTKO2kBa1drvSmTSxj4xBETr83KyqXtx0X8SlriB6MaIpCcJYO5xZbpu1dmSuNluuvUXo_lRPi2bRywnkEQCDsjs0lYIhA9QbvDbSbf50om28D404a5AFM9V48gTPU5NGAzImr8sNQsLM2GYosxVQWhTrNU5OBSevVkJDK_Bd18XT-l8JYaMrmweXDLvfLCkpbryF8cXRM1B3on49GQYXlxq0Jx8G1O6-7lH1_fJMRIKciYHIaO-QXE2jwU2XBFwckTMMRw5BGnWOfHEeEnkf0w5um7ClYeHfy2tAOYaGg537lNItckbq0j2k1eefg.jpg"
+          "url": "https://cdn1.telesco.pe/file/e5nnDVvu-ajQjd8a_zkkcZV8iHK56qEmBresS7Z2HRz3-J2msjOk6G74YmCUN3rarohw4aHJZ0zs3NtSCajDvyo2C7SnMLbDEMYrGyYA_93MfhmrPRoXyrdNb5Obnqa1q67pffDj-BHa54GugGpNtp0pOISIdeP8Jqv-hHiujqlk6dE89C45Iy360rN_iMMCb9GYKfDABYOrlbMKTSJ85ttLvjvQ7nn9IAWua_JEABsJdgJuJZ1m5v36PVwEy-AhRAM64brGfyOtaOsBKEDeDUMjGv3x8I3Tlq2f3i8MuxbkfZEoUtRJjHfW1a-k4Sd-OxAUAhOsCVH-r3ITPgoOhQ.jpg"
         }
       ]
     },
@@ -243,7 +183,7 @@
       "date": "2026-10-12T15:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +201,7 @@
       "date": "2026-10-13T03:50:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +213,7 @@
       "date": "2026-10-13T05:29:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +231,7 @@
       "date": "2026-10-13T07:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +249,7 @@
       "date": "2026-10-13T16:15:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +261,59 @@
       "date": "2026-10-13T17:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 23900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5576,
+      "message": "\u003ctg-emoji emoji-id=\"5422439311196834318\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآموزش ساخت یک تیم از ربات های هوش مصنوعی  Hermes Bots \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با فیچر جدید Hermes به اسم Bot، شما میتونید ربات های هوش مصنوعی با اخلاق و رفتار های مشخص بسازید. بعد از اون‌میتونید اونها رو توی یک تیم قرار بدید تا باهم شروع به همکاری باهم بکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدرست همونطوری که یک شرکت و یا تیم واقعی کار میکنه.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eتوی این ویدیو یک تیم کوچیک تولید محتوی درست میکنیم و نحوه استفاده و نصب Bot هارو یک نگاهی میندازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5159261427743064961\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FAF.png\u0026#39;)\"\u003e\u003cb\u003e⏯️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/x4MbgIN1XO4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eتماشا در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003eپدی",
+      "date": "2026-10-14T09:04:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/l8Qa_b8ALAAAuBV5F49tmxw2S-L-cWBumbf0fUOraCB3C45cLqiyg__z6nuUWt9CMZgO8Y54ZW_bujWjfuKN-yhDiKoek88AwLpiQUnnJ076VdWwtKk5HKBLnaLaFXYG-o8ISXJ0yhfqRcqh3MKWXsAmqBgCXbEIGEYS8Mi3WpTEWXqgPaUUxjuDAwQM-VeI2ZmeLrMJlktSrDWGx3FZICYYAWwtS64HY-FFtH2O6ZzlXBvFqVfAaa-JrAuAtRwAedZzJ_Du2KVPBInp3PQPg_kaeX3hz1bA77_3zNs4qYFSJXHznRS6hO16wD4lZ5Fk47SyJ2pEOu4S7K_Jyn6Jog.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5577,
+      "message": "از دیشب ورژن آخر فیلترشکن Lantern(نسخه Pre-Release بتا از گیتهاب) رو نصب کردم و با همراه اول و ایرانسل و شاتل کاملا اوکی بوده. بار اول پنج ثانیه، دفعات بعدی فقط یه ثانیه طول میکشه که وصل بشه و توی شرایط الانِ اینترنت، عملکردش رو عالی کردن. یه تست بکنید ببینید برای شما چطوره:\u003cbr/\u003e\u003ca href=\"https://github.com/getlantern/lantern\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/getlantern/lantern\u003c/a\u003e",
+      "date": "2026-10-14T09:52:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/P09JIJPfX4yyLy3uh5YpwpWnYRPPM7zxvum91M881f81GcAecyex8Q14A9eMwP_CoGlSiE0Tw9-sGhVjupRW4GDubynEhwjPxAbjuMMw3uLJ6Y7U2cLxi90OCOIhSZ7FXPX6vmme4o9GJyha5HtAyesMjtw3rbJxKbmwk9OtV6p3NvFQnXa96AuM83qB225hoLNGwwqmuAQbJXc8CEa9VLcBvHODX8FaE7qjfgk1V5qKMGPRi6p-wetffASKLjG0ONKVQL_r4YshfcmKcZ9_xqNfL_5JWkhCij1dsdv4IWI9avm9PU-rmOsY5FIU6EsRdHv3W59XFMs_zZZrt1xKDg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FK2KPj_yZ4AVQjl8UPntpDjJWUCcpeJBvVcJjvhTgZnJl1Lnkrxy8U-rP9Kl3xzD81Fs8JdkKQVwsQQ9WGDBmWNZnbz8FaVSxpwdmLyKfboszm_FVYamA3L9L5CO_E-jKIrud5lqwRJ_vWYuSvTwRVmgVSW3HNBzat23MCpSvPHigW-YCFRVPgBdXqDdidBdtAzou-8LdwlIIskM8TZFgkH2DEKE9UGvJuEKp0HVIyPLAR6NNRbiC7GwgM-4VwrbontueBCO2EvW8MlNtjh7SWzp9ug3qq2MynIqHfV28uNLsn7bu4w7FxLbATTbz697Cf84Yic5n8C3lWMrXoDcbA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5579,
+      "message": "برای ایران هم گویا نامحدوده حجمش و رایگان",
+      "date": "2026-10-14T10:14:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
