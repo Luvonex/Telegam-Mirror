@@ -8,80 +8,12 @@
   },
   "posts": [
     {
-      "id": 5564,
-      "message": "مدل جدید Claude قراره خفن باشه(اگر لیک‌ها و شایعات درست باشن).\u003cbr/\u003eمخصوصا توی ساخت ویدئو با js خالص.\u003cbr/\u003eاکانت توییتر chetaslua شایعه کرده که روی Claude code به مدل جدید Claude Next که فعلا در دست تست هست، دسترسی پیدا کرده و هی داره باهاش چیزمیز میسازه(مدل Image/Video generation نیست)\u003cbr/\u003eو میگن احتمال زیاد، Fable 5.5 باشه\u003cbr/\u003e(R.I.P Gemini 4 Argon. we all forgot about you brother. hope google come back with Gemini 5 Xenon next time\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-12T03:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ABvxcnxQYiErAAe9Mj664S6riAHegSDfeaTppDi_fLcAe3WWKABusEtgt_MFlyrmAGqahaCBepqwUhd-owVScMpq2Ul3OajUz5saK9F2bmYywCPG8wPh0Y-NpqhnvwB1j5mA9K4wITiLjY6oAp3zArQ-Spwm_j4qioYHM5PbjyaYiYcYkq-CPeEV2bgaV5rfwoYn_cfHwl1J4B6ZzEvBi77y1wti5QdycVMlzPLRpKYnzXsY-T_DCGGggMEykJoiGYtD04t9hty1_QYrbw70YLTmhGnL4EXpIR2YoiJ9ofGiWCD2jQemEOXMzsL6Ogkl7DeLzY2UjWjtM6HV5uJmbg",
-          "width": 2184
-        }
-      ]
-    },
-    {
-      "id": 5565,
-      "message": "این ویدئو هم ادعا شده که با کد خالص نوشته شده. توسط \u003ca href=\"https://t.me/MatinSenPaii/5564\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمدل نامعلوم Claude\u003c/a\u003e",
-      "date": "2026-10-12T06:48:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qZ35tj7NBN79UIrMeL8mfZkMh4HpfOeca6cp-D2DKe0fyqBaup_pgqoHDHRn8VjB2S7dlynC7Eg2qWQ443A1JUdoAt6m_Vf69_8bobyaNTg8Mz13kqZZjIIFn-5PGywF4za6uWw4RdlXFsRQsW91b13vTNygRlBnjVZvemPq_GbrF9YSme-WfP2qymiRB0IJ4C9F0OgfvTpOBc2a93ufrBsmj-zZtLz5gt6sh8aqu1f__QiMO_pRQEsOrVXi2KOfbXw_-vFmmsoLJ8asKeqEdiyFTjpX2Gye5HPL0amlnMGjqrNcgS3JpcWtXIMo3VNgys06gxv6N6Tad5lT8OJC6g",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 5566,
-      "message": "آخرش می‌نویسه Opus 5.5 \u003cbr/\u003eو دقیقا نکته همینجاست که این شخص داره میگه مدل تحت عنوان Opus فعاله واسم ولی عوضش کردن:) صبر میکنیم ببینم چی میشه",
-      "date": "2026-10-12T06:50:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5567,
-      "message": "\u003cb\u003eمدل زبانی‌ای که خودش کانتکستش رو مدیریت می‌کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمحقق‌های متا، MIT و دانشگاه واشنگتن روشی به اسم CLM معرفی کردن؛ به‌جای خلاصه‌سازی و فشرده‌سازی دستی، خود مدل تصمیم می‌گیره کانتکستش رو چطور ویرایش، نگه داره یا دور بریزه. می‌گن هم عملکرد بهتر شده هم هزینه محاسباتی کمتر\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.infoq.com/news/2026/10/context-language-models/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-12T10:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I278DM04wXKTyp_gc20DGJUeeG-5GgjsLXMSbtmbXF-3uY55Bn4o6pRefRHELLqsKpqWzH3trgUdq0FOsvR7-OBbwxqYI5HtqcJJov1v-H8E40q7usMtWxyLyxHuQwayblmnHnyqa7d3RMLgk96DpMbIVSsleadv-JVVa0UAV19zsQXaqt77FQQ-EYC1BMI-IJIDwvDdpMBv5N5SV2Uskt9oeuCAzbD5u8QVKe06JYETyiUsxxtftu-lBq_wpNSQVKAGFEjPmo-4zG1zFKHlvnCTsmGHRA28dDFSpHfpe4afjmCYkA82aYPenykNVm-HaVb2kKca0TUMaynsYH5oRw.jpg"
-        }
-      ]
-    },
-    {
       "id": 5568,
       "message": "\u003cb\u003eدوری؛ جایگزین اوپن‌سورس Canva\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه Doory \u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://doory.art/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://doory.art/\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003eبه تازگی روی گیت‌هاب منتشر شده و خودش رو جایگزین اوپن‌سورس Canva معرفی می‌کنه؛ یه ادیتور طراحی تحت وب که می‌تونید خودتون ران کنید و یا توسعه‌ش بدید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/shaongitbd/doory\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک ریپو\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-12T11:50:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +31,7 @@
       "date": "2026-10-12T11:55:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +49,7 @@
       "date": "2026-10-12T15:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36300,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +67,7 @@
       "date": "2026-10-13T03:50:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +79,7 @@
       "date": "2026-10-13T05:29:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +97,7 @@
       "date": "2026-10-13T07:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/A_3QHwcvQQUDVZoGx2bX8HYt0mNNFqUaEtpSwhGs2R8kyKqKnv-Av_piYnqCvkQs2sxMS0f3bPcElsRndAsPYhlq67Pd1qd1c1I4q36j9Gh3VUhbHJdczJlsUOdH9_Ruf-ooF0inhO_9wutqTHqBH5wfpzzyDT7GLdH9k9KQUvyik-Vr-uWOoVQeF2S9pXlJ06uH4RX5WpbAtlSZXtyGIokWTQJzKwiTa2Rd11Pn6rnTzcGb_EvIpf2vbKIS4dbwJrHRIHalCgoNd1D5QgR1MC88Loy3leGvjXca2-6PJSP5_C2wBgj82A_leu25nAPE3qSIkWNMKSBvJHw56JyuxA.jpg"
+          "url": "https://cdn1.telesco.pe/file/hiUa5-ytOo3fDfhzfmuj3XsJ2C_3vUaYoeOWW0S_SByJn_imPG2E71CSj_u2RPyAMkz9ytl-XcH-lGTck11igbkRKyonm_bHKjCb-Q5QAyzkFmjSqO5U_QzQtAgCBWl14Tr5TzBpuKTHJLyLhYGtlIk72WjvzBxQzf10Zy7rRZuwzl-eLDw9TKxREeT_UIJO7fKavOdnAFsgf5aqZNt-FPKZd57M5Z2tzGUn0vFQuvr-NVHrG2jfeYi2OsqxXhnN4UGZpt1kEC4VwA6H8MCL_zReYwAtrNq4WKRMyDzmF90wcY--Yg_xZKlG5mVVCrehS_OW2nXKlHGzRlSWKb3yHA.jpg"
         }
       ]
     },
@@ -183,7 +115,7 @@
       "date": "2026-10-13T16:15:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +127,7 @@
       "date": "2026-10-13T17:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +139,7 @@
       "date": "2026-10-14T09:04:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +157,7 @@
       "date": "2026-10-14T09:52:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44300,
+      "views": 45100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +179,7 @@
       "date": "2026-10-14T10:14:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
+      "views": 36500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +191,7 @@
       "date": "2026-10-14T13:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +203,7 @@
       "date": "2026-10-14T14:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +215,7 @@
       "date": "2026-10-14T19:00:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +233,7 @@
       "date": "2026-10-15T18:59:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,6 +244,60 @@
           "url": "https://cdn1.telesco.pe/file/bEIMSG-wbLFS0NyJHYv4wg49jH6_NeM14IUc7iTw5FYU7eIpKEUWIiujr132KiwrJB4V_9L6BCaJvBpOgiaLXi48cEavE9nTpvGBFeDN7DV7UKapl9RnE-bLdqUCJlU5rIimAyGf5tH5R-AQ9IBr0fJVN122gvuyHaVYPB9OuDfkFsZKFnPEDiOpf_dQVvG55Uibk4yd6YxEzVF-qdBVyQ9xTqCHulE3g5Z89M5XefBbMeRMZ2rgWqghH0ncybcBs5QJJAq_cZY3MTZvV8l8alrfVAc8jYtOvt9BRsr0R4srm19t32GgsbuF0ZqfqlEKDrHHNLvLAQ-kV5ayz1kHlQ.jpg"
         }
       ]
+    },
+    {
+      "id": 5584,
+      "message": "خب این پیام رو با کانفیگ Worker پنل نهان می‌ذارم(کانفیگ‌های عادی یه ماه پیش)\u003cbr/\u003e\u003cbr/\u003eانگار که کم کم یه سری محدودیت‌ها داره رفع میشه اما چندتا نکته:\u003cbr/\u003e1- سرعت به شدت داغونه\u003cbr/\u003e2- خنده‌داره که فقط پورت 2052  داره کار میکنه",
+      "date": "2026-10-16T06:44:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/tSXrR8uCofCboHvQ5VsNCxW2vZF0GTs2uQKgdEDsx_RJJ3pS-_eTyMjhnfYvrA9DYuFV33Zu787lNBjCBVVL4VRwuhgEEB-tq7ITvkSioZSvugFT7pmDuKoWXiOLI-Wdngj2Nkz9qn86dvCHWJWI1zSJ0K3a0blsDV0zyazfdgdFMDguXT90-mOOAMDMa_edpx87CKTK7ZPhbSCKIOA6CPv7lLZN5Kp7ScO8MKi806xgaNYptM9OXbMz0Chyuqo6pzxL31-L_WK1WJbjIFGoTJ67-7VmvYpI2Z8nqErs7Mzu6CRId5f4KkC5jyu8UuK02gISejZRsfIbVnKkP0qkng.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5585,
+      "message": "روی همراه اول*",
+      "date": "2026-10-16T06:48:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5586,
+      "message": "None TLS - port 2052 - \u003ca href=\"http://104.27.3.203/\" target=\"_blank\" rel=\"noopener\"\u003e104.27.3.203\u003c/a\u003e\u003cbr/\u003eبرای من داره کار میکنه",
+      "date": "2026-10-16T06:50:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5587,
+      "message": "رو فایروال ایرانسل دامنه ECH (\u003ca href=\"http://cloudflare-ech.com/\" target=\"_blank\" rel=\"noopener\"\u003ecloudflare-ech.com\u003c/a\u003e) مثل سایر دامنه‌های غیر وایت به صورت خاکستری باز شده، یعنی متصله ولی با محدودیت شدید آپلود.\u003cbr/\u003e\u003cbr/\u003eبرای تست آپلود هم میتونید از سایت\u003cbr/\u003e\u003ca href=\"https://testmy.net/upload\" target=\"_blank\" rel=\"noopener\"\u003ehttps://testmy.net/upload\u003c/a\u003e\u003cbr/\u003eاستفاده کنید.\u003cbr/\u003e\u003cbr/\u003eخلاصه اینکه اگه دیدید سرعت آپلودتون به شدت پایین هست، فایروالتون ایرانسله (حتی سیم کارتتون میتونه همراه اول باشه) و برای رفع محدودیت آپلود باید از متد F\u0026amp;F استفاده کنید و نه ECH.\u003cbr/\u003e\u003cbr/\u003e///\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر MASQUE-HTTP/2 هم رو تمام اپراتور‌ها بدون هیچ محدودیتی باز هست، یکی از راحتترین و سریعترین راه‌های اتصال است.\u003cbr/\u003eبرای رفع تحریم هم میتونید اون را با سایفون (warp -\u0026gt; psiphon) چین کنید.",
+      "date": "2026-10-16T06:59:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
