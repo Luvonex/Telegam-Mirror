@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 5591,
-      "message": "\u003cb\u003eمدل GLM 5.3 Flash توی OpenCode رایگان شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپلتفرم اوپن‌کد دسترسی کامل و رایگان به مدل پرسرعت GLM 5.3 Flash رو در اختیار کاربران خودش قرار داده. اگر براتون سؤاله که این مدل چقدر خفنه، این ویدئو رو ببینید: \u003ca href=\"https://www.youtube.com/watch?v=FIhoccZtpZQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=FIhoccZtpZQ\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.reddit.com/r/opencode/comments/1x799zh/glm_53_flash_is_free_in_opencode/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-16T16:32:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XpSVd2YicqimClEwB294zWgMpHtwV3z5VKHMjJBpm7OCHJf9d7cDYABDtDckZQxn0pVsrLrzB5uEpeNDchiqH1KWe5b6dGE9rJCoH5FiEpw9vdxXnK_Vejj7WEp-8N3NdUCy-TrDdHY2HrwWIbJXg-hIG7iID5lszrj15mjJnuyVZ0F5payeQsn4RehZINwYWd7ZzwMyTXFdJFoS2Rwoy1wiUQ0t7pym5E-MzwCed_PV7vNgCRHyYGDE3ZcwinKH4P9Fv6ojjWPPf2iG110Pn5bXTo4QQUsZLAnwt1BZC9wMJwInbpYobcLDeUGoTWvhmsbnOKlVdvP381OsfvTLEQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 5592,
       "message": "مدلهایی که الان رایگان هستن روی اوپن کد:\u003cbr/\u003e(یه ساعته دارم از GLM 5.3 flash استفاده میکنم و عالیه. بازگشت به دوران اوج Ox Alpha)",
       "date": "2026-10-16T17:41:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -53,7 +35,7 @@
       "date": "2026-10-16T20:55:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KyZCFiobtbMPRUDD4u1PPS2Yfvqxarrw1h6zumrIj7R03Veij4YRKfMyRgMUB6L-F54VfKLmBEpWRmq8WFwj-MoXh5QEHUmmoEdN_legwxyLWlatv8eGBE3urI1b_QvVVgC1G7ckugUVKSvEzV3q8c88VzH_ChqG2Qt1eymppnlLZSNA49EvYXgRzujpVlC5lDwlixLESaw9UNNeb21BySX_X2xgxz_rPgLQs1Tl3_XqvTpL5xkK1_Hi4z1I42Y827BYUzmsM35ORjAXHUrjHwYmxJgFev0x10aCmT8nuEChWKg5uG7goZwHDNzEO1tFMlvTqt_Rn87kaVcbSehlIg.jpg"
+          "url": "https://cdn1.telesco.pe/file/WW13Miaa-v1XtFJTFprsZgSMNeQRdgPxUclBD90etGBBHctyIM1oV2nHb0avhpo9lldgnRMRjRBziiNSmolkRsJvlBbmKodX2P2aO9YXeBdCLMCM418o4fzbEpduDJlkG6Lc5x7D25T1npsvAqK3nYK3wtdNzFq2ntQciytLNrNC9thbKTmVmpuC9o6iT69LHYJS5gSuN9XcJ4_LlkVWyPfGBnZJmg0xs7vkJLtbD47I4sf8Istk0E2BSrWMEjqs0YyQ0MApD9NBYJ4yhuvHE_I4nAlvT5HsP9aBGXuqYhfG0ZK-rTQcvs1rkBf4x6TlF8W8mpP38H8CWLSZuJ7hTw.jpg"
         }
       ]
     },
@@ -71,7 +53,7 @@
       "date": "2026-10-17T04:50:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +71,7 @@
       "date": "2026-10-17T10:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +89,7 @@
       "date": "2026-10-17T15:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 34200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +101,7 @@
       "date": "2026-10-17T16:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +119,7 @@
       "date": "2026-10-18T06:35:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +131,7 @@
       "date": "2026-10-18T11:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +149,7 @@
       "date": "2026-10-18T12:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +167,7 @@
       "date": "2026-10-18T18:13:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +185,7 @@
       "date": "2026-10-18T18:35:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-10-18T18:47:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8520,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-10-18T18:50:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +241,7 @@
       "date": "2026-10-18T19:11:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 12800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +260,7 @@
       "date": "2026-10-18T19:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,6 +275,30 @@
           "url": "https://cdn1.telesco.pe/file/pwfMmRqTxNdpZRgT5QKe7Pj35Xq984Ggq6r1l71T9umxBlf3Doexp1ZYRt92Zec9ZacFO52__Ek3DS-cPP18Dke1MrofvkZBEeYcXaq30ZXUqGZcgFk9GjUhbcWu0-0_yAQTt5lc4aWSNPAzTK7tz9SJ3PcuYGIwMIsYPrzKLWirHDBWJB5cTzxOTLeybOs8Jo3DC4RIfIWjgn3JgMdLqMFlyHlGve97uw0biT2W1ipdf7e2rmoz2vGpAAx2U2cKmI35lr6OJZK2T5Ek136y2A4_y8oauFLHVQEiDagS-Nxrzq7SjZd6aQ-IYdoLh2RUVes432VcspJfk0H3-O01Kw.jpg"
         }
       ]
+    },
+    {
+      "id": 5611,
+      "message": "تا استفاده نکنید واقعا نمیدونید چه سرعتی داره:) خیلییی خوبه\u003cbr/\u003eبه زودی احتمالا یه سری سایت‌ها یا پلتفرم‌ها api رایگانش رو بذارن(همین ورژن 1017 رو) و بهتون معرفی میکنم.\u003cbr/\u003eاگر هم mpay دارید که میتونید از خود سایت دیپ‌سیک بگیرید",
+      "date": "2026-10-18T20:35:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5612,
+      "message": "راستی اینم بگم که با سطح Reasoning High نوشتم. که Low و High و Max داره و میتونید کلا Off هم کنید",
+      "date": "2026-10-18T20:45:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
