@@ -8,102 +8,12 @@
   },
   "posts": [
     {
-      "id": 5582,
-      "message": "جمنای 4 آرگون اومده و به زودی تستش می‌کنم\u003cbr/\u003eبچه‌ها جواب‌های خوبی ازش گرفتن\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-14T19:00:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ST6ZP1swX3keKW2lTrK6J3HsNfUuYJuK7mAqn02IzAwqyAcmzLHAzzRuPlZLB-zLylRfAehkDAzzvV4zQ_3MHRCxjbRBHoHe_v4Ia_4fcKceOcyOSX5G1FRuAV6fkx2ifBZk00XBsNoylKPjfeiBui0toy_9NgZLnG9NQQqB0OzsL7zU-96Gf5737ehSdAGUppT95DhyXs_KOcZhhtE14u_fXnDI5j0ffN4IqMsD38C9PWbb_34V0TyPbcX9zR3rXZrmUFVW89GIWk0aCB0qo3wa84bCh74tL0_2shA6q64Z8rrjIiGAit8UL1mp5c6LobzvKWDwwFVk3rQigZDg4Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5583,
-      "message": "دسترسی به DeepSeek V4.1 Flash روی اوپن کد رایگان شد(تا قبلش V4 بود)",
-      "date": "2026-10-15T18:59:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/S3lLqsXsmiZG5YjJAW8UIz5CfpZ_8lo9Qpqb5Denb_fJqGPs77g97JbDknPqh5LO6j034YKsVWLfxPUfbovb9hHbQaB0m1otHmvYJ2aPPHFZg2XM-fnrNzX70QcLMLaT39AuFeRIkrcY4vJnIOyq-kn7CSaL52Q6ycq8PQDg8tw4HAsDX9nCMdR9jd4RRhednzITYjnUatQS0Z8QGM7S6zXC3SoVeQgPug1zjAZsP07ATLLAhiIgRfP9Aflfds64HeyefYOcjg8MoGjrLkwre-JKZikK0FPKQKylbRt6Q_3BVa22KjMyI8YZ-Kjh19VUCA5cTYB4KkwcuSfELNgUJQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5584,
-      "message": "خب این پیام رو با کانفیگ Worker پنل نهان می‌ذارم(کانفیگ‌های عادی یه ماه پیش)\u003cbr/\u003e\u003cbr/\u003eانگار که کم کم یه سری محدودیت‌ها داره رفع میشه اما چندتا نکته:\u003cbr/\u003e1- سرعت به شدت داغونه\u003cbr/\u003e2- خنده‌داره که فقط پورت 2052  داره کار میکنه",
-      "date": "2026-10-16T06:44:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aDYLGQUF5vpBRGvJocgSECl0RvNZFywgdxWZ6q9-6lEtWn6dgj_lGRz7PxR1rO0WlV3pUeHa48FsKfWCfBDqEOSPGAnJ4C6ZPUWyJk2Uf9Gz-t6xIbDsWU3_dmEmZnyl6ji8ZeCxKM4NdPbyH2vn-znAe-LAYgbfwy2tFS-UswprF80blvwqciiP8s9chjv_y2vIRk7OFdULll2LFlGxft6xXfBHA-ys88e9idYUWY9ovDRscKSueaGPqkV-o0qCn7bY7-gOkNz2OlVI1a8AzLMKBsppBGMw66UWlrkg7-aJaekKGzK3Otgb8DAJQIgntblFjgDxQH6RiRwjtEx9Bw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5585,
-      "message": "روی همراه اول*",
-      "date": "2026-10-16T06:48:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5586,
-      "message": "None TLS - port 2052 - \u003ca href=\"http://104.27.3.203/\" target=\"_blank\" rel=\"noopener\"\u003e104.27.3.203\u003c/a\u003e\u003cbr/\u003eبرای من داره کار میکنه",
-      "date": "2026-10-16T06:50:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5587,
-      "message": "رو فایروال ایرانسل دامنه ECH (\u003ca href=\"http://cloudflare-ech.com/\" target=\"_blank\" rel=\"noopener\"\u003ecloudflare-ech.com\u003c/a\u003e) مثل سایر دامنه‌های غیر وایت به صورت خاکستری باز شده، یعنی متصله ولی با محدودیت شدید آپلود.\u003cbr/\u003e\u003cbr/\u003eبرای تست آپلود هم میتونید از سایت\u003cbr/\u003e\u003ca href=\"https://testmy.net/upload\" target=\"_blank\" rel=\"noopener\"\u003ehttps://testmy.net/upload\u003c/a\u003e\u003cbr/\u003eاستفاده کنید.\u003cbr/\u003e\u003cbr/\u003eخلاصه اینکه اگه دیدید سرعت آپلودتون به شدت پایین هست، فایروالتون ایرانسله (حتی سیم کارتتون میتونه همراه اول باشه) و برای رفع محدودیت آپلود باید از متد F\u0026amp;F استفاده کنید و نه ECH.\u003cbr/\u003e\u003cbr/\u003e///\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر MASQUE-HTTP/2 هم رو تمام اپراتور‌ها بدون هیچ محدودیتی باز هست، یکی از راحتترین و سریعترین راه‌های اتصال است.\u003cbr/\u003eبرای رفع تحریم هم میتونید اون را با سایفون (warp -\u0026gt; psiphon) چین کنید.",
-      "date": "2026-10-16T06:59:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5588,
       "message": "فراموش کرده بودم بگم\u003cbr/\u003eتوی دو روز اول جوین شدنتون این کد رو\u003cbr/\u003eXATA6Q\u003cbr/\u003e توی بخش gift اگر redeem کنید بهتون 1میلیارد توکن رایگان میده\u003cbr/\u003eاما 29 تا ظرفیت دیگه بیشتر نداره.\u003cbr/\u003eمن بودم دوتا اکانت درست می‌کردم و برای همدیگه کدهاشو می‌زدم(ایرانی بازی)",
       "date": "2026-10-16T07:51:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +31,7 @@
       "date": "2026-10-16T09:32:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +43,7 @@
       "date": "2026-10-16T10:44:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +55,7 @@
       "date": "2026-10-16T16:32:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +73,7 @@
       "date": "2026-10-16T17:41:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,11 +81,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TJ4lHaK0paqpg-RpThnjmqOCxecHWA4r6gQp6Ayzfpe7Fev9tSWK5y6ZhD4ow0sv7qcAbimRq7-XXWWIT5yMO7YJJsvxW10GOLyetkRxg8fkBf81Ca-B7CErfj902S9H4mG9XeS2Z16kkdd7i6_RpyWysSSNpIuLkxYipRLEN3jTkFvmRkSTemnKowzjxM34WZpD1VDfUYRXHY3TPYI06gczJkJhCp1ZpOQAMB2KraZnj9WWFX_mTjidJTxXjutG-InfKWLjysd7KB1v38RZLpjDl7Amfuwytqsdo9qbtug4mg8EPR_Bd85fmf0fEbef4jh4GwIp320dd7Ga5ZFZWQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/PbE3e_4nCZe4CPAXvqdyklZ1grMFWrVpAfGugBrzzdnwxqKGJeBhTipIu3Yr33wztZqLA3sUoiH4VOfapsf0UhuXSwG3Vuouwx2VJ_rtB3WVJUUBMnmQYZa5oqSk2Ct7UMjmyqSLjSU4fPrvzDOTZsODszWfAAs-p_JobRGqdco_D2htNgnbfocy7P2WOfy1E9akvm5P6-k15DRkN97F8ZrbYR86s02Lngsl_Bx68FwJ7441nREBmyHZToLj1lv8bC5MXZ8P0__7TSg5j72yJW_QYP9ebGR-o1_aEg7VLGukMDOflO2I6nwMk4O5B0SCeAqfxwRqjP8j73TsKWUpgQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FabUGPnVfcoah19VN4XlGJWpYPED56S17ptk0abUm86PzcSRnG5XCUTYIFIps9gRQDpWdURFJWYHwHqz9tsfu9tmct8QrFgRnfaUxvqR4Vkp6Js_kSItv307FI8P-EkgbVFTO3Gv6wklkMIl8D3EStLqhcGnuBEGIO43LiaiRxsHjgzvEPPpIYPI6jDD6is1Ei50Hm3DX7Naemlvr6qCQbXFtWduXBqnfiFj_asnPnrUvFDVj5v7rIPuXDUYmLRgz5ZL1Rd8t4k4p4yS0eV0VLrDfei-06JBq4IUjL8XjfoV348y2_ntAat9FKmMWvC-0vYidcxcheyPalpraFl-Ow.jpg"
+          "url": "https://cdn1.telesco.pe/file/kdWw3GfNfjBzWYFtGnaFzWsGUxnNQfniAdn7R_R990fvtq70G-UgVU5kqpOEgdb98gCl6n35gMAQZkNuRTx0PqvAhr2DoqXCcPfB-av69eq2c8pJKAOjVp7-M9BsiCI6-Mi5BQB87rNmYhzVrsaOOm_tR3ObCkXkJ1H_VYsBEL_t0ZftJajUjPSCsxN8EfIwKOC78qU9zLapfIYyxw7-27OtIc57QnR7sTIGg37lUxxrOStzqpgg_dMQhPGhF-UU0VSC0QOkXeftVZ5CFqNfyXsqclf2J2QvRoRf9p097mVIWbXy-crMvd6q4ZQnAJ9-ieOCr46TjwfdhBZ3_fAyOg.jpg"
         }
       ]
     },
@@ -185,7 +95,7 @@
       "date": "2026-10-16T20:55:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +113,7 @@
       "date": "2026-10-17T04:50:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +131,7 @@
       "date": "2026-10-17T10:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +149,7 @@
       "date": "2026-10-17T15:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +161,7 @@
       "date": "2026-10-17T16:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +179,7 @@
       "date": "2026-10-18T06:35:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +191,7 @@
       "date": "2026-10-18T11:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +209,7 @@
       "date": "2026-10-18T12:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,6 +220,80 @@
           "url": "https://cdn1.telesco.pe/file/Xc7pajyLju5iOjDYhSgfy5DwQUWfISDe0HrzoRkCpoIFAwLbDaAkYoG91vtUvPpoJ1TfrrE4wJE6UGJTbmlCOa5uUwLY5UX1kR_V21GkpjosYAfnEAtvdFvtFDLA366eY--9D0HOhPndltXsPfENU4E0xNOYnvQraZFBWhcEvOS4xwlLgzESwKioqmqUBXeRphq8jxjjlf7QFwG9FNrlb6IyEhsUzqhYuf-mLptYz7O2zqXCJ-CKPhYOLfA2fZxqnkdEJW0MKuJmk5DLlXJS6GMIKUoLOF7dX88hg5iadJbzKefnhutIpq9yzechgiEWIEGXnFAMktHH3LOpYtyE5g.jpg"
         }
       ]
+    },
+    {
+      "id": 5602,
+      "message": "2 دلار شارژ کردم با Mpay، اپ ویندوزش هم دانلود شد\u003cbr/\u003eبریم ببینیم چه خبره",
+      "date": "2026-10-18T18:13:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FXgbGShyhOsBYK7oRtPtYschDTbjWUY5NAfvqlCjlP7UUEpflgQ8dMuaYc6oHpVoUoU-FBSl8-tfax31f9TNb38ZtJKzuzC_KVWgr-ErL3qtaouqI4RiofjoB_YVXa8oVXupCYEYkrew7Ecll9HQ5ea1kIMK9YzP70dcjmMABADIE6U3DKHDmgmZFoFFyo7kqpkG5zSrSXLH_KWG3h2bGcUJRmoRqP5rwjMORO2w1DLsuwAHOn02dILXqpyWtIvQ_53YsyIqNGYsvf3-awSxfUPxW4Ldw9Zu4XnSUaS0YGkvh0pKbcBLe-wPKY6UduLWHBVPSkVwDKSchhWwSyqruA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5603,
+      "message": "6 یوآن هم بهم کردیت رایگان داد. تقریبا معادل 0.9 دلار\u003cbr/\u003eشما هم لاگین کنید بهتون میده.\u003cbr/\u003eپلاگینها و محیط بامزه‌ای هم داره. فعلا نسخه مک و ویندوز GUI داره:\u003cbr/\u003e\u003ca href=\"https://www.deepseek.com/en/harness/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.deepseek.com/en/harness/\u003c/a\u003e\u003cbr/\u003e و برای لینوکس دسکتاپ یا سرور، باید از سورس بیلد کنید به راحتی:\u003cbr/\u003e\u003ca href=\"https://github.com/deepseek-ai/deepseek-harness\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/deepseek-ai/deepseek-harness\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو همممه چیزش قابل کاستوم کردنه",
+      "date": "2026-10-18T18:35:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FlyOCkc2AgH3tWJPARkP8EAUV2XOoXPf9HmGsAXaJpCAAG4ReSf6rskKhhI9MXpJiyI-kGkONTAmSf0xh5LVhkzAmHmo019r7Olt9d5WLoELNUoyGcFn3e1s89sC79B5jPDfgZnzFwaR8cSBde5nwrwXkQyHaSHDx1pQ_jHDgxhirNQiDBg0jIPbfr24GpFetsEKqglFCXslBPbH2e1Zxx90D3_D7PRMZHuOIZgoPRI45fVjCq4fczoTF62ZesNGh_FEQoKRsNZDWm_mY2UDoC9twbR_iOQF12l1_4xdErF6qvWym0Ff7ZnqL3MbwmN1l5-AbdrNtyVXMPahHo2Xbg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jOxYlqW2FK9NQygL4QmqCcpYuuTeEK71PPBhfS1-nFwx3zXJEi09YU5Ed8LF2nrOfB-scFuwa4Q4ZxTvfkHcOUJs2wTRxFFgKhyGUOcvdwBHyG5HGoGtKBO6FTM2B6I8wZsVsVNuG2R64Sq4_Q61GrMRT36Oj5TF7L6DQQkma5m8nzQrLVusNNsxsgFhlCq2xUjp3Zbo8T59bW556sZ4EGNf4M3KEN7Xs0TAxXl-Xa2iDnpyCpnWnszoyolbvfVMegQk3mX1PKolHNN4hUZ9oh2DPaAw4IERRGs9TgJOC_8K3XJTN_Om3aWpKHzya_3sPooPszm4j6auPKReaUSWCw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/sPBsNuRqblUeBQIzIqsBj4ZsYSq5UIb3VDPJJH6EcQo0gkHhldcnlOo9PMw89kY0mjmIhKWp4Fsd2s9Il6DrX_deaiki8qOOiflRyI5ldvQzy5ToSUuEaRja71mvNsVqi9Yw-NFIPT06b1Rsf6EdOUhMLxAPVNcIXcVFmYL1qJnFUkapYsoHPuKx0cvb-nLdXP2oCjckoeQ5UDj0OCwcHAfHdO0TUwa_NdJEr2qzhLrfBolWlNkZeiW53tBJA8QvRgABVRCIjhSBNBVBCqf5SuWc5GxZobmDVZjAVx_ojyOVJ6QNGmmbXaCqsruYqK532qHLt3VM4T3XXtsVYAeqlw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5606,
+      "message": "یه چیزی دادم بسازه\u003cbr/\u003eLet me cook",
+      "date": "2026-10-18T18:47:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/GSmWmFA_dlMgOQ0LaGrkmjisV0TvfNVHNte1knTORm16iyWA3ieKt2XK3MGoSWWqtyVWGMQvJsEiasBMovJzFbi7v6qkKpVfH-9tQcEOqpo2fKoWO3gKxIupu9bHgLY6h91vUdhT6Y3B4SdLOgg6o-S0nm7fRvzVCeh2yK9HJ8no6Qru5fJNUmNJHgxgYXEvAt6dfu-PWfdxmQLWUjgN4rIA7Kp5OF9n-RU9q1-ZRN299hRzM7ERVDIpxHmSukzu9GLExFsriMlg9lGqWJ401TVqxQ_pJB5YAjGZiXOUk5MdeNtZDtDP0RthbJJ-orh8akA8UChz9zgTWa3SRdI0bA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5607,
+      "message": "اینو یادتونه؟\u003cbr/\u003eیه همچین چیزی ساختم باهاش. به این خفنی نشد اما حقیقتا وقتی هزینه‌اش رو بذارم باور نمیکنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e Cache rate هم عالی",
+      "date": "2026-10-18T18:50:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
