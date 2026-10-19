@@ -8,81 +8,12 @@
   },
   "posts": [
     {
-      "id": 234157,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-10-18T17:35:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 234158,
-      "message": "هوشنگ امیر احمدی در برنامه تفسیر خبر: آمریکا دید مثبت‌تری به انتصاب وزیر دفاع جدید جمهوری اسلامی داشته باشد",
-      "date": "2026-10-18T17:39:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/aL1C6D1u2D-naAXBK41NFFjyfWqUzrUOsype83iRXfkGHi6aSpaSyeAidYGYvdVDkuvnSj9o2u5YU641vijMdqSkvkOQryTetAHw_maDHCAbKheLTX8Efo3F9XV9m3TXQV4zJRTZbFP_h9G8hBLv-yL17soFTzyIs95QaL8cbKdZmfhjo7PJRIoLHqDP8Snucl4mtuznsgxXB492pTDYMo9V4mdjI0yltelloMtn7kPZbJkHvMq7q0vixjAq91R8HPmaLojQOdgPxZOE7pvp5h984uS53WJVTeuxFqS0kDvC8bZJgAJMy87bSQjq8rjIDrW-qPPZ5jPeOjM58b2kxg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 234159,
-      "message": "کاهش مصرف لبنیات در ایران و راهکارهای جلوگیری از آسیب‌های آن به سلامت افراد؛ گفت‌وگو با بابک خطی، پزشک و تحلیل‌گر",
-      "date": "2026-10-18T18:05:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/bMWBd0Vi3FDgwDRERrIpo4c8o9nYgzVrPCd_x-LZbDaMhAQNrGhy6O-avcJCvCBgUCCCBdqlpq7ctGqTeTUKI3YZ21hvDvuqSE6Nqdrp6vE9cpiwo8jvo-oL7DbHRLljt_lClYXnWXmbQf8E-rfnmTWuA_tKRecI6be7a5bdL-9ypI_eI-PT8VWrzQ-FTA1htxmonKsoi-WR9c-49ovpfbcdDHH5hLpmoHSIpip5C-LysI69nRpg-_VfZ05aaWVpw1hCah9L5L7kIpaF9sdlMFW3oEzJXrv4Us5xRkcx5nNHUrcrhLcmp8DMqIy4O4V-KqRkFEM5Hlg91R7BI6M2pw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 234160,
-      "message": "در «عمق میدان» با رها بحرینی و تجربه شخصی‌اش از ثبت جنایت‌های هرروزه جمهوری اسلامی.",
-      "date": "2026-10-18T18:09:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/QhiSS7mpuq-_1mUZelEZ65PymDCinTn2PUqfNt6ZPATeRc1rGHOVg7FRD-ExUp7-Blt9Z-HD-9u0c5A5DXlm1nrLzPj9wyqBALHLCghJqHY0toCm491-atf8mRIfWQmLvNUKXWrirs88esw_8aoaErJPGwB-uFIP3F8NLoI_J6p5q-P6sSymcHSlKnNmAmxaxAZIpLLju0lSnDkFMB9o1RpqpYpQwQF6KBCWPetX23Rq9o2oCt8i4b2RqA2AbePzyedp9loJ-FaAS0n3G2kqiCXahAV_R_qvB08GAGfoz3_cRAiYLpG62x-pTVKK1lEzuY8dC0qJp8dlixr9uCrbng",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 234161,
       "message": "مهرداد اخلاقی کتابچی، وزیر جدید دفاع جمهوری اسلامی، در حالی رأی اعتماد گرفت که مسعود پزشکیان سابقه تحریم او از سوی آمریکا را برای اثبات صلاحیتش کافی دانست. هم‌زمان، کیهان با تهدید آمریکا به حملات موشکی، از مجموعه هسته‌ای کوه کلنگ نام برد؛ تأسیساتی که فعالیت‌های آن همچنان با پرسش‌های جدی روبه‌روست.",
       "date": "2026-10-18T18:27:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4800,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +32,7 @@
       "date": "2026-10-18T18:40:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +51,7 @@
       "date": "2026-10-18T19:20:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3730,
+      "views": 3880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +70,7 @@
       "date": "2026-10-18T20:15:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 2640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +89,7 @@
       "date": "2026-10-18T20:18:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
+      "views": 2810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +113,7 @@
       "date": "2026-10-18T20:18:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2750,
+      "views": 2940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +125,7 @@
       "date": "2026-10-18T20:30:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2510,
+      "views": 2700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +144,7 @@
       "date": "2026-10-18T20:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 2820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +156,7 @@
       "date": "2026-10-18T20:49:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2570,
+      "views": 2780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +175,7 @@
       "date": "2026-10-18T21:17:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
+      "views": 2450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +187,7 @@
       "date": "2026-10-18T22:09:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1350,
+      "views": 1670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +199,7 @@
       "date": "2026-10-18T23:07:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 535,
+      "views": 923,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +211,7 @@
       "date": "2026-10-18T23:18:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 426,
+      "views": 850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +230,7 @@
       "date": "2026-10-18T23:20:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 442,
+      "views": 948,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,11 +242,87 @@
       "date": "2026-10-18T23:32:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 258,
+      "views": 887,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 234177,
+      "message": "نخست‌وزیر عراق به وزارت نفت دستور داد تولید نفت را افزایش دهد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-18T23:50:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 734,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/LgpFduk__NbgzFozINJkL7_qdWETnmCCdIBG3ESMiCNxbFZi3qmgcPLV26t5H8x2n25QfGogiR6_4fzZEHjfHwuSsjDM5C16lwv5Bgs11QOWfh9F3BPO_KmSZ7g7BGAltKLoh9m9APXJAyLyZ6NKndoWZWm82y6J50p7GiOgtmb3UvURuonp1Buro5hyt_WAJ0yImT8DFXqe32G0I6axth9ivSSwhuOR8R55p007a-2mjZb9PDn_bmeNrLeqGceD-W7Cf_aPtfhRakPTbz491DwyK3DzQFTWsFuh53fY3Y2A5lXIUFxZGXlVe7YKAmfeKKXklTKeJ5Tfqcp5ot9QxQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 234178,
+      "message": "آثار مستند ابراهیم گلستان در ایالت کالیفرنیا نمایش داده می‌شود\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-19T00:15:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 526,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/hNvhSBgoMujgV7i4xYvRhbAR5AHJku4qmBZCblbckRaJlxXEwUQ3piGlOs7BH8RtdfOlag-feenZmVkvHlRI_1WIjQWIJG6hcVvQ5-JX0P0rRIe4uqz3LfZiIbvpQBJVRes4rlM0eUgA03Xbi8gV3NgTpSRrXdwnua1oPDTjRbeCF1xYHCcW9bo2jyVbr4Qcxv8wwxYF_Cq0Ox9ls-8W5lHug3RAOecAnHg754evpmwJWleBVmMg6rXdKZw3_wYdKsSXO0tjHp7EvEL-s5l_sF4bhVi0lcRDIwQc45T3vGBKrnmz1yLw7195B_EAq1rDXorz4mmSjvKN9I0ge1nLDw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 234179,
+      "message": "نسخه جدیدی از فیلم «دراکولا» ساخته ترنس فیشر پس از نزدیک به هفتاد سال دوباره اکران شده است. این نسخه دیجیتالی و ترمیم شده شامل صحنه‌های بیشتری است که از فیلم اصلی حذف شده بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-19T00:32:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 385,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/JkiE8uMZ0YmmAC-bGqFpV-sW9IQWTV1S81tmM2UVOvkOvnbkxJq5Sn_cgpthB54w4epmTOjY3rdnhpXRK-LSGHAGic4dgS2UDqMYQ7AFJs3Irb510PtwwLDnHx-hyAD_VTyLM0Y_Yc9fPTG5-N2ohL180YWkC2j9UgDaMQiVxrSr1XWtRkVo1UzBZ_C42aybcWj0C3w0PsJhwVL5yP6bUH9LF0t5K4SutMmDtl74TV6aFSXfDyTnxyxljzZ0_mTJ6VaKXb8cvFQ73betUDjxxTNMkQUmrL3OI1tRpig6_3xQn_l1NxRUIhxFtCvGC2etZ-SPhe9UQwsQWfO7Yhieog",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 234180,
+      "message": "سخنگوی فرمانده کل نیروهای مسلح عراق: فعلا خطر ظهور دوباره داعش وجود ندارد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-10-19T00:50:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 247,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/NNjkGzJCZROz2ByuU8figtNslNk-NP0055dD_DJgmiL7HPby800buZhd8-VYwEZgr2Oisgtfeb_UqnpbNlLFyFyhnYV1QaDsKoxaPFF9OpdT3PGAcCR5YB4YcqoOwFxP5T2-hhCZ_Zm3s2-PzV-f-iw7bWWogw0-Y1H7x_qfk6iAnQTSbNzt6JdMjNEf6HZh6nGmHvZWfA_Y2oQOLQt2bHdu5L-sxcBp8GdiXmlEEa1pq4VcbLp-ps8elyOPQQ19qg4VqqpQjoEvrQoxinBApulddi9u-Q8F0PpmgVUyNszjwAup7UQVi1pkMvchGuw3_rAG0VGQ-Dzyzpm8yaPYyg",
+          "width": 640
+        }
+      ]
     }
   ],
   "last_updated": 0
