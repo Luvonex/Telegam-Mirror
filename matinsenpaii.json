@@ -3,77 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/DgNUWrYRFX9GD4CiIm448vOjGptzxwGGC7cjjBWOThu_EIac0n-M5RLAlCMDbm6r6qs05RfyZ6rpKJMezDxmTctcpGgkHz0-OA11DHijR18f6JwSSiXu0mfpjytdJGewO929RIAIcRkUUffJD53156J8RKsZ8yDEDxTjLuNmcrebjjhKWvd2aYy70gp6icS9ujDxl27xVagsuI9F5ybtSjTIsvItewc5lmo0_fpzYrdwHbMYDDkQ8p2R12YHENk1-kFj0xVOjLLH4swUJzOB9PLNldUrlici6Swdb9pnbvN610U1-hK85NeJdD9euP_KqdA7qpyRDMvuc6VLLzNiLg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/mzS03fKfuyGbE4JgdYkgnj0o0pKbzP-ChP1PYr5nvpQDVcGxlNwaiNSM0etJj6rvDRvA-m7NxBPOxhiB4P39AZg3oisiVXtN-iAcWGNhIwZC6855YkQpmNAUp5oGzORw-ECBatM7nvzUSJVxsfwDC9j4m2jz_z3cnjHfRsvs1ru-NJtEeRmWEZ__0OObrzl5NeDAtCPsDlpJslJLlY_yoAEp-ktT9d_hg6NpgMrx9B5VDUWZs8xEAt35ElAFY40DTXU0RQNhZ12R8dTlxBsYclFnDyVU1xhvo0ogfKqV8hCnOi4lj-vABxoGvCDrs8RItXpfEHK5QrhQMW5S9IzDzQ.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5596,
-      "message": "ساعاتی پیش مدل Deepseek V4.1 Flash 1017(تاریخ امروز. 17 اکتبر) اومد و ادعا می‌کنن قدرتش از GPT 5.6 Sol بیشتره و در حد Kimi3 هستش\u003cbr/\u003eبا قیمت احمقانه‌ی\u003cbr/\u003eInput 0.15 $\u003cbr/\u003eOutput 0.60 $\u003cbr/\u003eCache 0.003 $\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-17T10:26:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IMtII0XAFcKUfgGN34CYODM8DtGgZDdwy58Le03n4tiiNUwImZNSJObadyAA5R8mVaqb_BuK0_eY25M6x43geEB67xdVeVjwRmngDVk5MPfaTEWQrE3SA7f5em1pX9xfXTgwbVvQKRS2RPDktxZ90PWM7jfTRhQgnJH-1jxE2Zg738n8mQIaIGwJBGElRd3stlyuFL7pFo57H0QR90jfH_S-ys-dmIxzMxEnO6cKX43d-HsYegXX1wYEGQIvMmdc3dIF3rE8BZNtx8iliAnkkRrc54j7mL1AhPjGqEmcg1JFSN33BWnOvtWpc81WhtSshA7Mz1fwXDQxP7rsTgMFWQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5597,
-      "message": "توی نسخه جدید بتا لنترن، قابلیت انتخاب لوکیشن برای کسایی که از ایران کانکت میشن به رایگان باز شده: \u003ca href=\"https://github.com/getlantern/lantern/releases#release-v10.0.3-beta-5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/getlantern/lantern/releases#release-v10.0.3-beta-5\u003c/a\u003e",
-      "date": "2026-10-17T15:25:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5598,
-      "message": "لوکیشن آلمان بذارید، جمنای و سرویس‌های گوگل هم اوکیه",
-      "date": "2026-10-17T16:12:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/G2SjoGMfl52BqQVofKzWytmnCITBc22TIynEI9TwUvufUryZUFclnyFQ6F-e8T6_tz1Lns06q6mp6JPX6A3tNoZvA8rQCkRnhEz-3vUAJD_0fhKFFvLOzCbyM_uFHPNEwwunl1Hup-Wl7wou_hlGw-1rNVm4bim1TRYBaO7TqQYHD7IaNPWseAdrUXYIQ1hH-kW5S8pxe4WuN-e0OwG7PUKLldooCdQMMnQrMGydh3ekAryq9LeWgcdZS1Ro-KmVtiKuGTmsojXA7Ax_6tpVtYtEw68e9kmrRTgzUkV5aC4NXggVQY6r6irdoOR2kqfGoy917jZr4uJVRlPRXZ-5AA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5599,
-      "message": "به نظرم وقتشه برم سراغ خود api سایت رسمی دیپ‌سیک و هارنسش\u003cbr/\u003eببینم چه خبره",
-      "date": "2026-10-18T06:35:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5600,
       "message": "\u003cb\u003eمهندسی معکوس با کمک ایجنت‌های هوش مصنوعی\u003c/b\u003e: \u003cb\u003eREA\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین دوستمون REA، یه ابزار متن‌بازه که می‌ذاره به ایجنتتون (Claude Code، Codex، Cursor، Gemini CLI و...) بدون گیر و گور و اینکه \u0026#34;من نمیتوانم این کار غیرقانونی را انجام دهم\u0026#34;، قدرت مهندسی معکوس بدید. \u003cbr/\u003eاز طریق MCP وصل می‌شه و می‌تونه بدون دسترسی به سورس‌کد، بفهمه یه قابلیت توی یه اپ چطور کار می‌کنه.\u003cbr/\u003eمثلا می‌گید «سرچ نرم‌افزار Notes چطوری کار می‌کنه؟ کدش رو نشون بده و بنویس و یه نمونه‌ش رو برای فلان پروژه‌ی من بساز» و ایجنت با REA فیچر/اپ رو بررسی می‌کنه و نتیجه رو همراه شواهدش برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003eحالا چیا رو می‌تونه آنالیز کنه؟\u003cbr/\u003e- باینری‌های نیتیو (با Hopper، Ghidra یا IDA)\u003cbr/\u003e- اپ‌های JavaScript و Electron\u003cbr/\u003e- اسمبلی‌های .NET\u003cbr/\u003e- فایل APK اندروید و اپ‌های Flutter\u003cbr/\u003e- وب‌سایت‌ها و کپچرهای شبکه (HAR، pcap)\u003cbr/\u003e- فریمویر، باینری‌های Go و Rust و...\u003cbr/\u003e\u003cbr/\u003eنصبش هم با یه خطه(Node نصب داشته باشید طبیعتا):\u003cbr/\u003e\u003ccode\u003enpx rea-agents setup\u003c/code\u003e\u003cbr/\u003eهمه‌چیز لوکال اجرا می‌شه روی سیستمتون.\u003cbr/\u003eهوش مصنوعی هم تأکید کرد بهتون بگم:\u003cbr/\u003e«\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e فقط برای نرم‌افزارهایی که مالکشون هستید یا اجازه بررسیشون رو دارید.»\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-18T11:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aVNGwrY7TBTvCJjDsMPvGanwCBdStRr3UYwzqh-eEsxhriKzfrk5OwZu7W1Hcb54ZaCznE2YtKRqNbYT_KfRyGl8YJR9R0ed7Brun6YIK-r-oQKpJa6B13Dya6xrtqZelphJXLHIEeqEhkX5ydvKTw84lRqQaW7O2qRcRciXoLL04n56ClS2Ar23qaTaCE9MEq8lXVrePgXy5MR6Qj2hsd6sXyxJ4ILDUbC2NK0CDky2hVTbkr8wzPWLo5yoyAOkpcHlbUJbA-vdEjlFu0XyCOtu5eMeVmpMItsqaXdc_4HQFNYfGSa1QaBGkci48klafpKBlbvus9THNhkDtpIekw.jpg"
+          "url": "https://cdn1.telesco.pe/file/LZ6_uzrbgnC0SpV4TCss5tzoT3dnObc266etihk6ZkVXjoWMGLplvDHmReMcFC5JKgVH53xUvjBckwrpJkqfFwG5uuTWQrD4w_u0IrH_lQaJ1ggC6giAhG-_KB3SUgFHnA1AtkwghXgoDSbUZVsrzeFErDe3plZmQzviwjwfzQf8n9XMEkH0pvzwqv4U1yrVcPuf6ViyhE-gT2_IAz4A4kxam_g_wsAJD2fqX7xr1PLayTFHOZhYyVq0tpmeUzCP-IQTcn1Q1kzG_wTYweiu1sK43Rw1syHTTR7MkA5BGSeKCnQ7NyTMU1RaVjkdqWou-DTqBE8ZMRXxJhQsGeH84A.jpg"
         }
       ]
     },
@@ -91,7 +31,7 @@
       "date": "2026-10-18T12:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Xc7pajyLju5iOjDYhSgfy5DwQUWfISDe0HrzoRkCpoIFAwLbDaAkYoG91vtUvPpoJ1TfrrE4wJE6UGJTbmlCOa5uUwLY5UX1kR_V21GkpjosYAfnEAtvdFvtFDLA366eY--9D0HOhPndltXsPfENU4E0xNOYnvQraZFBWhcEvOS4xwlLgzESwKioqmqUBXeRphq8jxjjlf7QFwG9FNrlb6IyEhsUzqhYuf-mLptYz7O2zqXCJ-CKPhYOLfA2fZxqnkdEJW0MKuJmk5DLlXJS6GMIKUoLOF7dX88hg5iadJbzKefnhutIpq9yzechgiEWIEGXnFAMktHH3LOpYtyE5g.jpg"
+          "url": "https://cdn1.telesco.pe/file/Wh1HzhkdtY4BxLE8xcrazD4jBSxvewgm8l86Fa16HSEDMNdP4U0o5zH89FFoFHuAkSyVyyHeVHwm6IBsSi-npLDzDbO2-4KinYO0mSZzlXnnU3Muxxw8tQctJrINdH_mtoht1OfRFhqumhYTgnm7Hsu5Xm3BxMWl6lKxREV53Y6m_2Vx2vFAcblbfKVaKlHzPrXhhKz77JOx-O0KqbwRWypvKH9uHZkoAo5vU9RnQC31BVokVEv6BjxSJt2OQeIX-nuKH0yXpxZ5LFsHslbvWTbfLRgxqxCeu80CnCKSlESTvnltkwMdB0AGxnk4ZNoT1ovSykFowxZLHZs2QXLW6w.jpg"
         }
       ]
     },
@@ -109,7 +49,7 @@
       "date": "2026-10-18T18:13:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +67,7 @@
       "date": "2026-10-18T18:35:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +93,7 @@
       "date": "2026-10-18T18:47:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +111,7 @@
       "date": "2026-10-18T18:50:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +123,7 @@
       "date": "2026-10-18T19:11:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +142,7 @@
       "date": "2026-10-18T19:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +164,7 @@
       "date": "2026-10-18T20:35:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +176,7 @@
       "date": "2026-10-18T20:45:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +188,7 @@
       "date": "2026-10-18T21:55:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +200,7 @@
       "date": "2026-10-19T03:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +218,7 @@
       "date": "2026-10-19T05:57:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,6 +227,61 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/EUK30KY1Nd83QPUyzMyCQtaAeV0pdKv3FOT6lf0AoX7b4_bQBYTpAbqhq2VFlGABmKTi2yvme_zup33pcZlRJnqLMNREjFxAsyb5pKRp4MIuarjE6TN1f1fEg-oTzS9s0PkMP0NLECfHsqcjNr34R1syx_4oW312-mzocquhD0CYu80OrmpIsuFSLCZAryKGkR6qOwQ3fZ-yFc09lNLRcij8gt5LSqDFqSEafDhbUpgQyyVpHcF6Jx5UmwHWrzBEETMGHDbsIprkO53I9UNMi8FZPZYF0mJHkfq9rzTFkBIfYMBRd8X70ZHKyomQSFvsxWvmXZr3G8DSIf45B-DU9A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5616,
+      "message": "\u003cb\u003eپروتکل MCP در مسیر تبدیل به زیرساخت استاندارد برای جستجوی هوشمند و غیرمتمرکز\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eجستجوی وب با ورود هوش مصنوعی از فهرستی از لینک‌ها به گفت‌وگو با دستیار تغییر یافته، اما دستیارها معمولاً به حافظه فریز‌شده زمان آموزش متکی‌اند. پروتکل MCP (Model Context Protocol) که سال گذشته توسط آنتروپیک معرفی شد و اکنون تحت نظارت بنیاد لینوکس توسعه می‌یابد، در حال دگرگون کردن این ساختار است.\u003cbr/\u003e\u003cbr/\u003eبه‌جای اینکه هر غول موتور جستجو کل وب را در پایگاه خود کپی و ایندکس کند، هر منبع و وب‌سایت داده‌های خود را مستقیماً از طریق یک سرور MCP زنده و استاندارد در اختیار مدل‌ها قرار می‌دهد. با این معماری، مراکز آماری، پایگاه‌های دولتی یا منابع تخصصی نیازی به تسلیم داده به یک ایندکس واسط ندارند و دستیارها داده‌های لحظه‌ای، دارای منبع و دارای لایسنس معتبر را بدون خزیدن متمرکز دریافت می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-19T07:38:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5617,
+      "message": "در باب این پروژه، ویدئوی زیر رو از فایرشیپ ببینید:\u003cbr/\u003e\u003ca href=\"https://youtu.be/wajoP_5Cpw8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wajoP_5Cpw8\u003c/a\u003e",
+      "date": "2026-10-19T08:28:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5618,
+      "message": "\u003cb\u003eحمله Distillation گسترده به پلتفرم OpenCode و سرقت کلیدهای API کاربران\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپلتفرم ابری OpenCode اعلام کرد هدف یک حمله سازمان‌یافته تقطیر مدل (Distillation Attack) قرار گرفته که طی آن کلیدهای API حدود ۱.۴ درصد از کاربران کنسول سرقت شده و هزینه‌های غیرمجاز سنگینی روی حساب آن‌ها ثبت گردیده است. مهاجمان با سوءاستفاده از این کلیدها اقدام به استخراج خروجی مدل‌های برتر کرده‌اند. تیم OpenCode ضمن ارسال هشدار به کاربران متأثر برای باطل‌سازی کلیدها، از آغاز همکاری با گوگل، OpenAI و Anthropic برای مهار و پاک‌سازی این حادثه امنیتی خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://huggingnews.com/cybersecurity/opencode-confirms-distillation-attack-hit-14percent-of-console-users-51c80aca\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-19T10:24:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5619,
+      "message": "گویا مدل MiniMax M3.1-Flash اومده و با قیمت\u003cbr/\u003e ورودی ۰٫۱۵ دلار · خروجی ۰٫۶۰ دلار · ورودی کش‌شده ۰٫۰۱۵ دلار\u003cbr/\u003eوارد رقابت با Deepseek شده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-19T12:10:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/rx0eVQgXOjBBriDbnUMUTyR7vutTYaLEKaW7MH8ettv07K3hce1xWDzEZo-zeLxaf1Bkd_1-po_OczkZzo9hmdW1T0iSRsHgKl250zLhkBtlu6Sxg9tvR0KJvkz5RJRnSwe7Dj91hOEUZh0vcFygQjD5ZDGe-Siwa3q26lXQYDmaGEckUhPg1Xe2gR-DjcN_6QbTqUo9-BHryoXyKIzmPn9J4d3pxBT5JGXI4qLyCX9wJwaMGzBsltB4SPG-WmGvGvJ6tiGGpCmNoq7Z0jaAu9A5KqoXWVZuBl9L4dbFd_q4LRts0ZE43W14ZySxOCO_V8x3CJewD8ioOGnkgESsvg",
+          "width": 1152
         }
       ]
     }
