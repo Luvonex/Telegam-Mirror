@@ -8,58 +8,12 @@
   },
   "posts": [
     {
-      "id": 5609,
-      "message": "این هم هزینه و توکن دقیق و Cache hit",
-      "date": "2026-10-18T19:16:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hXVvcV5BPPSqkv7w54kNcYW6HbjCg1jeHqP38n-SCoZqggqVpymMJIh3X_0HKb67IUVN7-jZf6NNyjg3TCRYTiBxjtS7XmBsGiOmf6SnyzIyC8pV8L3GcusPwASoi2OZuWouqj67u1nDjV6jKU4SAVgWUUs5HB5SPNglHnpWBtH5pLp0rUiijY9B6ju7pEo5WCQhP6xou35u5yDcCWZwq5Jm8xtOxE0rR7r-qMyhPXNNHJH5zuPz0IV2zcrf-tQn4Qgx5kM1wHj_x9Kx1NjeMga37h01Q_pbDkUGU-KmJpNjA03uLbNLbp7xm6UJkr2hlIQHL1ZLQLmSIBOllkRRqw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gpNsg9AIiRUaEFuJMSCLhEcTBwuylxhlqcePOWLGWfMdfzKDHXpALkBa7n9vmC8xiJwPEM-O5JBjpWD-GlOYQWFp0Ypj43lFJForniH0cw51zDXB_m_RaFeag6hEp_0RfiZgaccgCl6iH4HoreXzp39iOp3fG00zaQGEN8V3JeZEsqi7naFhrfa1DaoQeguVcRqz0eourwxxu-BtIMBzubwJg2jxX6U_MROEy0JObBNKXkwYVgnNxDElAw6xSOtYPyabf7qGM5JGH7W5EMr_jgJivSsvmDwODBTQLpmsxnQKLv0GJC3nB_IokJy027lUVGau0jKDWbbsbS_HefA6Kw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5611,
-      "message": "تا استفاده نکنید واقعا نمیدونید چه سرعتی داره:) خیلییی خوبه\u003cbr/\u003eبه زودی احتمالا یه سری سایت‌ها یا پلتفرم‌ها api رایگانش رو بذارن(همین ورژن 1017 رو) و بهتون معرفی میکنم.\u003cbr/\u003eاگر هم mpay دارید که میتونید از خود سایت دیپ‌سیک بگیرید",
-      "date": "2026-10-18T20:35:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5612,
-      "message": "راستی اینم بگم که با سطح Reasoning High نوشتم. که Low و High و Max داره و میتونید کلا Off هم کنید",
-      "date": "2026-10-18T20:45:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5613,
       "message": "‏\u003cb\u003eنسخهٔ macOS هم اومد\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e‏آپدیت مک تأیید اپل رو گرفت و حالا روی TestFlight در دسترسه.\u003cbr/\u003e\u003cbr/\u003e‏اپ CoreForge نسخهٔ macOS — \u003ca href=\"https://testflight.apple.com/join/Z4rvxEwk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنصب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e‏\u003ca href=\"https://t.me/coreforgeios\" target=\"_blank\"\u003e@coreforgeios\u003c/a\u003e",
       "date": "2026-10-18T21:55:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +25,7 @@
       "date": "2026-10-19T03:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +43,7 @@
       "date": "2026-10-19T05:57:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +61,7 @@
       "date": "2026-10-19T07:38:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +73,7 @@
       "date": "2026-10-19T08:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +85,7 @@
       "date": "2026-10-19T10:24:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +97,7 @@
       "date": "2026-10-19T12:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +116,7 @@
       "date": "2026-10-19T12:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +128,7 @@
       "date": "2026-10-19T15:25:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +146,7 @@
       "date": "2026-10-19T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +158,7 @@
       "date": "2026-10-19T19:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +176,7 @@
       "date": "2026-10-19T20:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +188,7 @@
       "date": "2026-10-20T05:43:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +207,7 @@
       "date": "2026-10-20T07:20:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +225,7 @@
       "date": "2026-10-20T12:04:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,6 +240,66 @@
           "url": "https://cdn1.telesco.pe/file/vHkM7_Qmpw_7wiH_6f_z7kwCQm-MjwLY-6_F4AdkS4QKp9gKV0_Z5oYOdiC_cMoIu6V4Tn6ZhRD1HHG4r58lPZAphXVsD9bCJsaAST4pceum3_UQr1J2CG-rzaa_SMqcuaLNjl5T6y5uCRRxCz4DOv4iKlm46ELKTL7ld5OYkAsNu45Dqf8e_Ju9--D_0iPEibZdR9zcJxMurChzBVFsspWP-AEE5wXa1k1xUh_EXB_GEzxWe_I3dRYC17Y3TcE6RNOgbbXYZ3wFTrHMxwtg8Q3gnFdlyo7as1SunkasoPKKYAfQ0nBQGiThanjGQGlut2LqLETC3Qy6Iiga7ad2cw.jpg"
         }
       ]
+    },
+    {
+      "id": 5629,
+      "message": "هرمس خیلی باگ‌های عجیب غریبی توی gateway داره. اصلا نمی‌تونم بفهمم چه خبره\u003cbr/\u003eباید گزارش کنم بهشون",
+      "date": "2026-10-20T16:10:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/bc-8w-DgaTgM71HefnzP0EMvyEDOcF5bLPmIvdt8IMeforBNzc65q9jaW9agCUCtJnAtXPGKXNSziWOEIUXNnMHrnSOuwpunH1Tc_7y56NTmxEaYMfETBA6E-v-BhGS07FQx2ohiqTYBUSjLfVAG2uhA0P8cA2t3zzPFpUgdSWwKB7JC9IfjfhKuHcdJO_SasQzaFUT3nsWZl5JUFGCoeoYshhDUm-c9I-rXHj-KfRlQku1W8zvKVZCgxYU7Co5s2ltsnGQWJiplHaCh13hO72D0XloCBTHxEn3rQHiZYj6EFZ1SXiGajNB55w7dzf20pGh5xbGL9oxk-FmNF3jIPg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5630,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-20T16:14:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/sLgJrRqL-e5HESsyKscpEiSI97GoPp5ro-OApl93IQ9fnhb34cA6zjcLRyysmsJJB1S5FrmnjCoqeCDlQTt14djVdP8LxVVDxE1D8cKF4jqQ7228FwGtJ7a-JmjbEVXYff4EvFQao74uRhi9qV67wKYb2Zi80_cFAiouQnQeIlyozCGMGf7Fq10Wd4XsNrB53wi1R0sdXyxhJE72HXLwFYE4VohVkj_2_wDBYksLOKb5gSLPL2Y3oS8EOR7PqyDJgK_NA1_aij4cKP3iV6iTES5_KicwcC2T5BBvHwcH51DICf7RQR2BnZcrWt7qHYqv6kTSJplNN5rUfd-q8tgCeg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5631,
+      "message": "hermes doctor هم کمکی نمیکنه عجیبه \u003cbr/\u003eبرم کلاد بندازم بالاسرش ببینم چه میشه",
+      "date": "2026-10-20T16:21:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5632,
+      "message": "توی پنج دقیقه اوکی شد\u003cbr/\u003eیه state db از hermes webui که outdated بود مشکل‌ساز شده بود\u003ctg-emoji emoji-id=\"5319124723295074166\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F83E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🏃‍♂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-20T16:29:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
