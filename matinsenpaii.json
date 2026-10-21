@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 5620,
-      "message": "هارنس² گوگل هم جالبه\u003cbr/\u003eاوپن سورس شده به تازگی اما وقت نکردم برم سراغش",
-      "date": "2026-10-19T12:52:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5621,
-      "message": "\u003cb\u003eمدل چندوجهی محققان MIT برای درک ساختارهای سه‌بعدی کریستالی و خواص مواد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپژوهشگران دانشگاه MIT با همکاری پژوهشگرانی از ایلینوی، مدلی چندوجهی را در Nature Communications معرفی کردند که با ترکیب ساختارهای سه‌بعدی اتمی و توصیفات متنی مقالات، درک هوش مصنوعی از مواد کریستالی را متحول می‌کند. مدل‌های زبانی متنی سنتی به دلیل ناتوانی در تجسم هندسه اتمی و سوگیری ادبیات تجربی محدود بودند، اما این سیستم با فهم مستقیم پیوندهای اتمی و هندسه کریستال توانسته مواد بهینه‌ای برای الکترولیت باتری‌های حالت جامد لیتیمی شناسایی کند.\u003cbr/\u003e\u003cbr/\u003eبه نظرم که دنیای علوم تجربی، قراره هرچه بیشتر تحت تأثیر پیشرفت ai قرار بگیره و برای زندگی ما خیلی خوبه!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-19T15:25:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/R3ptBtqEJZQ38VmJ0SZ30T6sVIdw0AAd8TwSyZ1_OmkF3Ba2lugkjCO6dfa-DyTGq0Sl-zzruScjoMnnPn-_pokcS0OCvALblbxO7GRF5bv9WpJ4dKhc4pU0YY_rylALAcS1l3_3iruu8TkzJD3_yOQH0TKmThykMl0QTdcSKIaoXUX7X6IFU7lvFz_GuqqHeH4vg789lvu8V917246OFKvm2qioetOLVaSOeWqGk-FXJkF3xtIuv6yPJriy9SsxzDrHnjgDiZu6wreZKFhnCO_W6vyPgaNRs9l1LXUCGATv4X1bK_c3DIEmqUtqmP1DmuwGPna5oyKZ6biSvM7pDQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5622,
-      "message": "\u003cb\u003eانتشار پروتکل متن‌باز WhatsApp MCP برای اتصال دستیارهای هوش مصنوعی به پیام‌ها\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه متن‌باز جدید whatsapp-mcp امکان دسترسی خواندنی (Read-only) به پیام‌ها و تاریخچه چت‌های واتس‌اپ را از طریق پروتکل کانتکست مدل (MCP) برای ایجنت‌هایی مثل Claude Code و Claude Desktop فراهم می‌کند. این ابزار بدون نیاز به حساب تجاری (WhatsApp Business) یا سرور اختصاصی، به عنوان یک سرور سبک و مستقل روی سرویس Cloudflare Workers اجرا می‌شود؛ کاربر تنها یک‌بار مشابه واتس‌اپ وب گوشی خود را متصل می‌کند و پیام‌ها به شکل رمزگذاری‌شده در دیتابیس محلی SQLite درون Durable Object ذخیره می‌شوند. ایجنت هوش مصنوعی می‌تواند محتوای چت‌ها، نام مخاطبان و موضوعات قبلی را جستجو کرده و خلاصه کند، بدون اینکه امکان ارسال پیام یا دسترسی بیرونی وجود داشته باشد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://github.com/finereli/whatsapp-mcp\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-19T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5623,
       "message": "مدل Space Bunny همون MiniMax M3.1 Flash بود.\u003cbr/\u003eبرای 12 روز متوالی مدل تاپ OpenCode بود و برای سه روز بعدی هم رایگان می‌مونه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-19T19:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-10-19T20:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +43,7 @@
       "date": "2026-10-20T05:43:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +62,7 @@
       "date": "2026-10-20T07:20:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +80,7 @@
       "date": "2026-10-20T12:04:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +102,7 @@
       "date": "2026-10-20T16:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bc-8w-DgaTgM71HefnzP0EMvyEDOcF5bLPmIvdt8IMeforBNzc65q9jaW9agCUCtJnAtXPGKXNSziWOEIUXNnMHrnSOuwpunH1Tc_7y56NTmxEaYMfETBA6E-v-BhGS07FQx2ohiqTYBUSjLfVAG2uhA0P8cA2t3zzPFpUgdSWwKB7JC9IfjfhKuHcdJO_SasQzaFUT3nsWZl5JUFGCoeoYshhDUm-c9I-rXHj-KfRlQku1W8zvKVZCgxYU7Co5s2ltsnGQWJiplHaCh13hO72D0XloCBTHxEn3rQHiZYj6EFZ1SXiGajNB55w7dzf20pGh5xbGL9oxk-FmNF3jIPg.jpg"
+          "url": "https://cdn1.telesco.pe/file/DTwSvsN2QNT7wSMGORLrSARmjV7R9UY3PZD48mOddtuGTHVNB8uasxwUfJZO6Y_3HMvUGGFV0oA_-2lDKkBxQN35QM16CEH8osmy4bbyoq1zqvlcEG-JAUFSyB__rry3YqngRWxVES4LgWdesOtSFM7a5GNBaxrdFeHsACt1-Cb6RMhAcq6-u9hAzsaFeFA6f14VOPN1Six_hHd-RhXWPHS4SlEKcS_pswDzi1XGS7ZIIIz_6L4ReZBRk_sDVNRiGCuDyKMXwYnrMuBF7jNHHh8hzHqwzIuShu8ZzYIQ2g0V_7OW3iJQwf9u6hhbJms70Wn4uGTSj2MWvkCGfoJT2w.jpg"
         }
       ]
     },
@@ -162,7 +120,7 @@
       "date": "2026-10-20T16:14:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sLgJrRqL-e5HESsyKscpEiSI97GoPp5ro-OApl93IQ9fnhb34cA6zjcLRyysmsJJB1S5FrmnjCoqeCDlQTt14djVdP8LxVVDxE1D8cKF4jqQ7228FwGtJ7a-JmjbEVXYff4EvFQao74uRhi9qV67wKYb2Zi80_cFAiouQnQeIlyozCGMGf7Fq10Wd4XsNrB53wi1R0sdXyxhJE72HXLwFYE4VohVkj_2_wDBYksLOKb5gSLPL2Y3oS8EOR7PqyDJgK_NA1_aij4cKP3iV6iTES5_KicwcC2T5BBvHwcH51DICf7RQR2BnZcrWt7qHYqv6kTSJplNN5rUfd-q8tgCeg.jpg"
+          "url": "https://cdn1.telesco.pe/file/jXHaa9uJ8eVm5pBnIYbc7wUK-MMwCdW4VVTyZX70I8da-6OxLPUWuOkQIqCf7ONt2KAM5aPuUsYNW8lZh5qIPi98mgDRRexymj5YHB74KpLOeRK8GOMYGb_TR3KKHxVUtf4kcyQJDJT8Ee-PtPzXGZsjQw8IuOlvHSKTVIxdtY4_fO7DaLUDzNFVn_osBEhWizGlOF5qroVaTTa7vh-1aFc_kVGTM9K2zcx1DMaW7dOBBO3QHgkkdQmihuRMJyGayWvkY-UujAUGRYZhjbqD1ee10gCtGjHFvbuazbKJShhgKCxSj7cF_agSBMm0-ZbOuQN0mPOjmXoN1FQekcoy4g.jpg"
         }
       ]
     },
@@ -180,7 +138,7 @@
       "date": "2026-10-20T16:21:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +150,7 @@
       "date": "2026-10-20T16:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +162,7 @@
       "date": "2026-10-20T19:35:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +174,7 @@
       "date": "2026-10-21T05:31:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +186,7 @@
       "date": "2026-10-21T05:44:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +198,7 @@
       "date": "2026-10-21T05:44:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +210,7 @@
       "date": "2026-10-21T08:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +228,7 @@
       "date": "2026-10-21T09:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +240,7 @@
       "date": "2026-10-21T12:32:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,6 +249,46 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/nm08KOSrrPGH5Q6e8U6s49qTKuWD1S7oG3J7EqRH7bFwvE9rJ3ksKFakyUY6vdYexBdiT1jHQ8BCAQ0C7NBmCyPSudcjWUVrEBfEd2P46qDmMbdut3yKGO7WkoY_yzYgnHeZ1xuQZBy-w9uODq7yCf8JLoQsLM8TbtM6oAIY2YMyIghrl3aj2DgQexot2niLCLt6RoRalzs6yUW2oi0IjHAuVmJ7XfF8HT3PxLnNMtpBV_mOXxJy2eeGZNVGpGG6_0fBgbXS9uv_0aWyLRUG23FglZiRQBGVjHbRm4YDGYzJaUTqiV9qi3gIlxYz_8hPxHKBah3sxDfMX5OQcpBW2A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5640,
+      "message": "پشماااام! موهای تنم سیخ شد اینو دیدم!\u003cbr/\u003eقضیه اینه که 3 روز پیش گواهی eMudhra که خودش صادر کننده گواهی TLS هست، به خاطر افشای کلید خصوصی باطل شده.\u003cbr/\u003eبعد فکر میکنید کلید خصوصی چی بود؟ چهار! به معنای واقعی کلمه عدد 4\u003cbr/\u003eاین گواهی میانی حدود یک و نیم سال معتبر بوده و طی اون مدت هر انسانی میتونسته برای هر وبساتی روی کره زمین گواهی معتبر TLS صادر کنه اگر فقط میدونسته که کلید خصوصی این گواهی میانی عدد 4 هست.\u003cbr/\u003e\u003ca href=\"https://gist.github.com/Fluepke/9a103c7f990c3cc2fb5002f7476f2f48\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gist.github.com/Fluepke/9a103c7f990c3cc2fb5002f7476f2f48\u003c/a\u003e\u003cbr/\u003eسریعا همه مرورگرها و سیستمهای خودتون رو آپدیت کنید و به لینک زیر برید و اگه نتیجه رو connected زده بود یعنی سیستم شما امن نیست.\u003cbr/\u003e\u003ca href=\"http://emudhra.we-have-a-problem.com/\" target=\"_blank\" rel=\"noopener\"\u003eemudhra.we-have-a-problem.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنتیجه توی فایرفاکس قبل و بعد از آپدیت\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2112869572059570313\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
+      "date": "2026-10-21T15:47:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ICfrBarLndEv1gIyN0FcUDxgE3SBaLD33p0MpuCdrE5X4DNff-aBW_lOOctTo5OmP7SK0Cu9DTfTCRyrDH1_aP2cvi5GdWljwLku47J5HmFjz2aRF-yaJs2kxpd1XHb9KlYxCjEba9SessEtrBEd1UO5JnIzjvQQtJUhqXYyYwiqPtAMEtIIRajGrX_MNnVn9okjgmGH4a1cBYhQLFjO4XwAc5cMPBXW1oeGhrExkgsRY9oHFBhNyTkiAdUzktCsBvn72ffZxVcGt9I_eMkXkhGaD1GYlUIctK4uOUvlCyLIRXXFJwqwojoLBv0RHp7P3MCtGP-22yeapZ8lC25EAA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JIHTlTxGCEctyiRNgHiNUtzjmKbv5_1sCXGqdoHsHXuLT2ONOY1U3lFJQSlUuQ2XO8wYPvcGicxIkaZVsHwncXaoZCCQEI60FPw0zLHT8QXZvhue0e7ezR5FgkBuEUnvvzQONAB-k9d7uNh_GMKepaTbvt-X3WTyc-rq7IT1JuCDgsoWjl_kx9Q-hm_Fm83_JRWGLTnZ5Dix3zlSjoi2-51HFCLrho7voCkdsXu6ukJlx18ndsuU6CpX1NOnPxclN-KrHeknfdiOfmBfs_AyNethbv7BB56DwAlC-PORmkyLWJXnpogCBbK_MmkvGo58S2ki4FgHgNMy0JOdNqqCOw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5642,
+      "message": "سریعا php رو آپدیت کنید.\u003cbr/\u003eاین آسیب‌پذیری مستقیما به php نصب شده رو سرور مربوط میشه و ربطی به اسکریپتهایی که روش ران میشه نداره.\u003cbr/\u003eاگه سرور من باشه، کل سرور رو پاک میکنم و بک‌آپ برمیگردونم چون اصلا معلوم نیست سرور تا الان هک شده باشه یا نه.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2112933907125387441\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
+      "date": "2026-10-21T16:21:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/bJDAUjEZdhP4Iwf2FIgGb5HJh_Y3uip2j50f82DMCEoAkVADAXQ1sht5oyxQnN0IQnx8T_mCZjZ5A7WYZQ1xP_HhgpCjzXYYgWEGCgrPVf-tFi4HfRVzSbg8SnM2eHJw0iWT8EDt4TF7beQCieVo9HnwSm75wwU0VLd2KSa_EBytcFVyQmJeNpllOC1mQjx5vL2itv3mbCeUI32virgfc6UFXvtyUG8qUfUcZkEkYYpwJJ4C1x4oUzUNJtS1By1v45Zfd2FEAOtAleFUSuLPOADY-48dsKjSy3nUPcuRGO4MvAy15EtL478kd_Qh7pT7B7lJ6rSF_Q-6_XoB5qcATg.jpg"
         }
       ]
     }
