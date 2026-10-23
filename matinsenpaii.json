@@ -8,130 +8,12 @@
   },
   "posts": [
     {
-      "id": 5639,
-      "message": "\u003cb\u003eباینری‌های WASM دات‌نت در حجم از Rust پیشی گرفتند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیک پروژه متن‌باز به نام NetWasm ادعا می‌کند باینری‌های WebAssembly تولیدشده با دات‌نت اکنون از معادل‌های Rust کوچک‌تر هستند؛ ادعایی که در Hacker News با واکنش گسترده روبه‌رو شده است. اگر این نتیجه در پروژه‌های واقعی هم تکرار شود، می‌تواند معادله انتخاب زبان برای اجرای برنامه‌ها در مرورگر را تغییر دهد. فعلاً این ارزیابی محدود به یک مخزن آزمایشی است و باید با معیارهای مستقل سنجیده شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/zion-sati/NetWasm\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-21T12:32:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/X82_YvbMfbTR6Iv5E_2cdN_SfOAj7m2lqgvlw0Lg6Fr3b3sXed035VHoT14lNHhrVVy4qCwrn10uWjigXcNG8Z2VlPdYXc5ChiSVI6CuNfloU1fipgCo13JAqpz-6cE4bK9Z5ra7hm5SHNndlhQA8cyZMeon4G7CV_-ROhlWcXqu4OTv2f-wHs8EThOe7nxPPTn3zTDPScyewLE6AqtasS391fYYOIY181I8Ok5goRVfzYE1u09aNPGij9nIaWe9lmXTcxB8s6tYz5ImeLVqIO3MkYnCn-6_HdlPVsJNtWD_PhJ4YHVYdDlGJhlU6PNLzMwd5qjWY-gPviulINpOIg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5640,
-      "message": "پشماااام! موهای تنم سیخ شد اینو دیدم!\u003cbr/\u003eقضیه اینه که 3 روز پیش گواهی eMudhra که خودش صادر کننده گواهی TLS هست، به خاطر افشای کلید خصوصی باطل شده.\u003cbr/\u003eبعد فکر میکنید کلید خصوصی چی بود؟ چهار! به معنای واقعی کلمه عدد 4\u003cbr/\u003eاین گواهی میانی حدود یک و نیم سال معتبر بوده و طی اون مدت هر انسانی میتونسته برای هر وبساتی روی کره زمین گواهی معتبر TLS صادر کنه اگر فقط میدونسته که کلید خصوصی این گواهی میانی عدد 4 هست.\u003cbr/\u003e\u003ca href=\"https://gist.github.com/Fluepke/9a103c7f990c3cc2fb5002f7476f2f48\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gist.github.com/Fluepke/9a103c7f990c3cc2fb5002f7476f2f48\u003c/a\u003e\u003cbr/\u003eسریعا همه مرورگرها و سیستمهای خودتون رو آپدیت کنید و به لینک زیر برید و اگه نتیجه رو connected زده بود یعنی سیستم شما امن نیست.\u003cbr/\u003e\u003ca href=\"http://emudhra.we-have-a-problem.com/\" target=\"_blank\" rel=\"noopener\"\u003eemudhra.we-have-a-problem.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنتیجه توی فایرفاکس قبل و بعد از آپدیت\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2112869572059570313\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
-      "date": "2026-10-21T15:47:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YnMK3I280Y4brSWkJSjD5xqLdpTWo9rhJxtGr57VGfd6UiZbIqJWs7UbcYZm0zAVqlr3_eu2NZ2r9MbDKjvex-ByLy59wS4AqBjqjgnLwFK6fcAZVGrwCzBd-8srNbFAWQ0LvldXBIoEVpCyT0cY6n72hEtXQI35Ow_vXGYIAsb8115Ub9vSNZTVLjgaqGe6b_3IzOUMcehqk_3_oIfHhzbClcqUkZ_tG8OLl-aJreSsTerzrEw02lRK6YuLgMC17e2Jv_PycSt8IODkI99mvSxNJyOxsDRIfrOeU6Cm0ZC5KtfwsAgd0S4MpZ6klp8Fvhyz7H_byO94dGktq5NimQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LFgpLcuU8Z52EV7-Av-QPrWkYsPKuelAR7sCWJYO19eeC5ijtON6DGirrba6pgrnhEIRVkI71_kL7uO2SBeJUv4mb7b9Fndx9x8RVjpuRnQvYsV0jdH4DoSMBqStKonVS34dvSG8qv26fht0AccX0frRoU7Jfs-D1Et8_NYOPqoKvx4luLU0zAIb01uJFg4TwW3yK27FGI8UJumHDk1gYF9jWdHON_CY4FcI2nZAopQa-rwOYxTmTG8-s4yFyxPjHBkAU9oMPhePT0dIGTT_c-a0ozWis7WSfUGg4KHh6gpCq6YmGlvN6kHGO08fzuIIK3Dxeg8MBb7r1khbnWZyRA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5642,
-      "message": "سریعا php رو آپدیت کنید.\u003cbr/\u003eاین آسیب‌پذیری مستقیما به php نصب شده رو سرور مربوط میشه و ربطی به اسکریپتهایی که روش ران میشه نداره.\u003cbr/\u003eاگه سرور من باشه، کل سرور رو پاک میکنم و بک‌آپ برمیگردونم چون اصلا معلوم نیست سرور تا الان هک شده باشه یا نه.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2112933907125387441\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
-      "date": "2026-10-21T16:21:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/iOKg2eZQK7oYB7HONj3ZP64RmBE8OFRo1F7GzFKF2Be2pjJSCwk6bp63Sq6B0jL0LXcBMGUxpn2kitRzKySfzo7gCbsS0Y2_ylQTWKLseObc83nDcdHaT97miGNkr9Z0dcyLUH5pMRjljyKCE5VwXLZMOF-W2NbGuOTbuVkw6EoX6CY2vIPyx2xju1kuRzjlrit9EwT18qHm29XhxATtgNAZCKgW9pCq7gHSPiE3_OIq8IyQPZlZ6JuuZrdp4WoVLe_3AwslKd8RqQdPxGop0JyFQwu1ViHgwk6GIEe6ah_n_uOTZckQaIPIWvt7peWIgIOnh1x3TSdV1vGNXoMeHw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5643,
-      "message": "جالبه که این آسیب‌پذیری‌های خطرناک با کمک ai پیدا شدن گویا",
-      "date": "2026-10-21T19:44:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5644,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e گزارش شبکه:\u003c/b\u003e\u003cbr/\u003eتیم فنی منیجیت یک بررسی کامل بر روی وضعیت اینترنت بین المللی و پروتکل های شبکه انجام داده است و نتیجه تست و بررسی در عکس قابل مشاهده می‌باشد.\u003cbr/\u003eطبق بررسی ها بیشترین محدودیت بر روی وبگردی معمولی و DNS بوده و اکثر پروتکل‌های استاندارد شبکه مسدود می‌باشند.",
-      "date": "2026-10-22T05:52:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GiEG8kvuKaYDhm5nuX5AJp6dOQwIZGZh5s0gDwn6U-jkN9vJjyqzjwLPT4_gPzbyZuy08FM1vtnsQeRy5h2akjZ-t3pSLZbtoZB-NNtW8qzwEiIDUXGuk9AznVTJWReuz4f9KX0vgpnjVO--F4HUSmzjsQXuLm9YM-MW8LBIg-8Tg93zRBY1IRCRUcEDiTCh5ZwJ7dC7ZP9lA8Jgh9Il7arOP71dNPsrSvdYXTt0VDzDASyVK4MBKB4wmxINYv_X_76qd_RFijGLSqmUZ29JNaWmaxAN99rIKZ2YTeXrCtUfGvdrkkzvmYD7kXV2GarFH25lt03OeasOgIXUXs1seg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5645,
-      "message": "با همین عکس پناهندگی میدن بهمون",
-      "date": "2026-10-22T05:53:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5646,
-      "message": "\u003cb\u003eکشف آسیب‌پذیری بحرانی RCE در PHP با کمک هوش مصنوعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتیم امنیتی Wiz آسیب‌پذیری بحرانی اجرای کد از راه دور (RCE) در PHP را با نام PHP2Shell منتشر کرد که به گفته‌ی آن‌ها با کمک هوش مصنوعی(GPT 5.6 Sol) کشف شده است. این گزارش در Hacker News بازتاب گسترده‌ای داشت و بنیاد PHP نیز در همان روز یک نسخه‌ی امنیتی اضطراری منتشر کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.wiz.io/blog/php2shell-php-rce\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-22T07:01:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AkVbNiSKrdkbpx7Gsx5EcczzSL2yf9EQoJVLfQA-c1mt8ADZuqA1v2U741_Cq-pq-_Ot67MZOvLoqSKXJ1H47wEt1vRz1uyJktkkBI5_vIk6vKT32CNfK-02CoGZzT-bxkBNcTl0wBrUdol0e0sFmYkQdmkVbpT6R2rrOiWqSQUcI_5gysnubbMi7jVNNn3v-5JlD0C6GI5Ha2Mla0HvogkYB_K1hMlGfhgJd3nh6inLJecKQKQrUsNS-CPsOvgBeK7REmDLr36LYYud4c9HRK6i7tvkPm9ssPWGiK4mlu27AAnhjqp9AFW8RrsUBUIEMugUgLC20BjRuva31Ld-Ag.jpg"
-        }
-      ]
-    },
-    {
       "id": 5647,
       "message": "\u003ca href=\"https://x.com/Erwinamm\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاروین از توییتر \u003c/a\u003eیه سایت بهم معرفی کرد شبیه به Mpay، اما بیشتر برای بیزنس‌ها یا کسایی که تراکنش نسبتا بالا دارن؛ با قابلیت برداشت مستقیم از کارت و کارت‌های تبلیغاتی برای کارهای حساس مثل تبلیغات گوگل ادز یا تراکنش‌های سنگین و گرون\u003cbr/\u003e\u003cbr/\u003eاز اینجا می‌تونید ثبت نام کنید: \u003ca href=\"https://finup.io/?code=MATINSENPAI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://finup.io/?code=MATINSENPAI\u003c/a\u003e\u003cbr/\u003eلینک، رفرال هست. اگر دوست نداشتید میتونید کد آخرش رو پاک کنید. برای شما سود یا ضرری نداره\u003cbr/\u003e\u003cbr/\u003eنقاط قوت:\u003cbr/\u003e1- برای ساخت کارت، MasterCard داره به جای Visa(شانس قبول شدن آفرهای رایگان معمولا بیشتره)\u003cbr/\u003e2- قابلیت برداشت ازش وجود داره به ولت کریپتو(هنوز تست نکردم که KYC می‌خواد یا نه اما توی مستنداتش چیزی ننوشته بود که احراز می‌خواد یا...)\u003cbr/\u003e3- آدرس BIN آمریکا داره\u003cbr/\u003e4- از ارزهای مختلف برای واریز پشتیبانی میکنه برخلاف mpay که فقط تتر داشت\u003cbr/\u003e5- دو نوع کارت بیزنس و تبلیغاتی(هزینه‌شون یکیه) که کارت Advertising شانس پذیرش بالایی برای کارهایی مثل تبلیغات Adsense گوگل و تیک‌تاک و متا و... داره\u003cbr/\u003e6- کارمزد رایگان روی برداشت و تراکنش کارت‌ها\u003cbr/\u003e\u003cbr/\u003eنقاط ضعف:\u003cbr/\u003e1- هزینه اولیه ساخت کارت 10 دلار هستش\u003cbr/\u003e2- برای KYC شرایط ثابتی نداره اما توی تراست‌پایلت نمره‌ی خوبی داره\u003cbr/\u003e3- حداقل هزینه واریز به خود کارت(نه ولت)، 50 دلاره\u003cbr/\u003e\u003cbr/\u003eو اروین گفتش زمان واریز مراقب باشید از صرافی‌هایی که امریکا تحریم کرده نزنید. ترجیحا بریزید توی تراست ولتی، جایی و بعد بزنید به ولت این سایت\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-22T08:15:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,19 +21,19 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SADDj_GsNW6-UjBnubtlidLz0RTKW3GI7bwzFzVx2Q__5Qr-dH4qpeyX2u9lIuGCQwZRq7UymNOiUevn-KNPRWQG_KH3FW3getRn2kupvJaatH7cz6Si_gUmBEKFs-wqbypgQCKKi1i7lVFjUV5Yp45M0o2OUfOJKBlenlzOWZ2pCYQPEdL_-cNgrEkB8zUd9Lucdv7cI3XLWwKtLqwk5R99uPgSn18Q3jnovaW_CHTZfPXj8Mgs0KrxNwTvuS6CJSnG97VXnnJsW1VDNMe5BdLcJlC7rJekzezHoPGJHA-cn9TvA-RAgid7QbtBjBQ2FddrKlMqdpK__J_HUhqWxg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Dxpl-cuXKRdba94VycNMNwG4RKyHSUS16PBg3ToH2PblssmEuoTXFYnTCcKMxM1DisXBGzrostB-XNj2txL3AyDBAnLJRMiaMd7BCfaUhdvnnubBY42pHZPeS7IUMXXHm1ghy5ZuWxKwd69EOMQ4k3ST7P2iQHobztgyTtqoAlX8_WfKiSpk7ZBnmnbtf9m-M8mVdb0frY-nckR7PXhYOOyFMNPDty2hI5r0gjq_yqcJ2oHVMAwdVSOHljSrOUYDZi1fqwXyuFHu3S-XXPx6xXwfF0cGcRaMkc9U04B6YK0YlNnCJaQEXTBcELHzGJvguX8CUqH8hrtjS9b49C13yQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZKQr-w39xgnkTt5zz1HnJVWO2bSowaHqr2ITsjrKnzbm0bboj5_bGevNXKXzN5rL9Z5hR2hCzNM-Jpzo6KicpudnNxKKr85vBkyXMKfwKeGmYDX7Y6g65F3OZF0RkV2nwFHSLGczBV56ewSEmfCcQZMpsr20jmDYFJiZt2qilumZhDE35K8aI3gONOviuIstk0S5MfMVcJKhyrKCYRM8Rp7-yPjYUq13rjHxlHai0Q_aWM6kV2ASWNxAsRCzMXnJnLCfQeTM2q39Q4Xzxbb6-DpJuTvO3zlGgjg1jU5R512Owq908sgxohb33GRAIsFZ7i8Huib_uZy8UEc-4Ezj_Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/CfS8GWUc1gTJ3F_UjCqoOvpLSPwu0_unfPRofbdVdsYy804RwVQqNZ-3nAZ2RhYZYXWukioKZV9iAMiEi78_kUj0d3gFNGg8qE7rgxbvKQAsgLeLg81fETey_FRkwqcoSul8eXy_af2kD87U_SC4TtrS3Pfox6690Bai-afafAMK9n8E0F76HkBhn-1QVX8YH6c_DpHKpaqGIQS8MF7dAdNl0C8dcI5lsQZi84z6qflvm94Jn5q8obNLzT__TGZKlTHJ5dJME1zNwNAJvh__5giHO5XEPxqa24-wplC3jb225h9wMIi8bSGDAsSRZu-A5ydmyCPgHsUXz2cZlOh8vw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HzunALOGgzh5H6wGq_Tg5lawPIRId7Gqmy1GyVpAjRSPjaMgVcVI7xY3xsVCbk0mTyw_xUTS-RyxnOIMerTtedNsogPvUmG52xb0fkkaoURU14VakROcikv3yFwTiZ1_SN8Cm6YPXm49e7lDTyMNKKVW1_umSe26l728hmi9pJmrHvWeBv4JbTf8wIkoEFgVz30Z_OSd4nDx6pq5DxybUcONMT7n88YSfL-D5yYndYKvYdKb297ONUo0B_ltDe7LqjG_uQ1KaVckjh_fxUneYU_AiMnFoy8iukNAVx3LczLe9DZFbVSPet_rwOQViaAEaXKkgpdIWpZGxyTbJJmV9g.jpg"
+          "url": "https://cdn1.telesco.pe/file/jPHIB-Ub62EpKoHmjZiapyc1Ruj1gmpa-ZuPl6CbrKil9OdDYTUQIS-NlqJHvBkf6N-U9ino4kTaFwwyrOneONcn0gkoEvnLZD6ggIChXzHuOP88E1NqL6ck0xsk6RVS7gesGa5h2KDJ6X4xKJiED3SDeLCplJnGkyi_WAwudrgzs1SG-VXgTeU8LdLn_Zay9uQnY-X7bg2ujY-v15oBoIAxMp-WsdTiyCwQJ8RtaOVu0BgEkkLcSAfWq9QouHnd_Uw6XOGcY5BZGQRTrSYSQjhJDBmditPK9ur-LpZZgnV2X2rZwvfB6zrl6oGjNYfZNtXC5ZEbVjdyobA_jn22LQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UmF3n3Sqbmme4h13IjkA0xHFyZkY_Xq0dG2Fn83rUh10eIxGyWqgPqxjE2mhOstdaEnvNTjdu0LE_BSgAmWqWa6e4Do1OEigmd66R7foomZ0DtCglqg5XOG4xD8duhV4B90plyi0DQp_rmUs0dBRrwqQmcSd16an2DNFEjc4EzmzmYVXS_UBX28XfEgi5h3-R0QYZ-6po54RseUcHT-Maqi4mV0lmXq5empjpQ45Ul5D8CeUhsGqob-Y-vQMmaAS1jM9zvPafQcSC5hxTxN45GV9NB6R6v6MX8IPhyug93HyBD60VlPSz9vrYWwKhPcVC994W8Ae09BtFWQ3O7S-xQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/Bo4cm1EMUaeXuNnucD7L-plencI0MFETmZacLgXu-iNZh4kbOBmbZN1tB7yvo5fTHaoi1jOD5iqnoV6OAD6cGEgY9DtBaGWFslICRBZMLvzNVr-NpmIkIRiZMuOgnHbPQOGZLcg50I2cPN4C1QOtGcdyY-8ZIG-dxxoZlVcKeMGUUlXDl28zvcrUEV3niAb9pda04pFOw2p0pfzvsuoE9Vl5T882JsIks5Z4wCIDQ0pqg-yf9Y1AZeQxu0r0EpLGeZS7sGYK60zPfCTlKo1mA9zh_wywvHiDwMToCQDYVhenqzyZB36ROAyJFT85359jXLuhBuq73X56F2IiJ7M6pw.jpg"
         }
       ]
     },
@@ -161,7 +43,7 @@
       "date": "2026-10-22T08:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +55,7 @@
       "date": "2026-10-22T10:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +63,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dWIb4-mQIS3mHTUiKOmgUNhHV8ylZbgXR-k4YMCS4EYuAIySC1O91jB3-sx5otOP4hUsr6BQsLJiuxVtGT2Aj4riSBL0R87JSBw_eJhRFtupHuMa8PZPE-2JJiey_5z4asdh-UrTorgJEaM9d1bsfXXmvRwYY4yEirQTmSYcjBljhM5JwF-6WJNM8l1NP453HAfz3Z26jkn1Lh6YWFu1Zt-bFUJxSe_J-X25J_mZMl8BgAQ4lwnfx8lyP6IdaBwF3xJAN0-C-9CjkN0iqXHL861kW-PdItTxcjYhYL7rpAjn64oQ_cQcygWOnpPFqE4ITdl0J8E9M5n0lNmR4RvEuw.jpg"
+          "url": "https://cdn1.telesco.pe/file/ch-LXNPADygY8ajddYd_rzVOQavcGetg2A3nMzrNuvu8p1-7CLf3cYvIE-UGuvBK2uE-q1d6d3BcJIKpMQJxp6k2yNts4ueLr0MmEYv1D7uZIrTWeOEBdYl1Ylwj7GjXYCohW20Qp2sOTM2E5y2dtS2zfSWK_p_kZ2g9y8wtbpN_toGvdnRWHGjRb4lVbBhQFc5uQ05oUiPPbndHtsaCMy74ejhIoGWkryrKcIeAtBaUrXD_8iGpAfb1rUIs6KO4sr9BlSahvBn8SXYSvzRpi8IqcjEMpNIqSHgFyBEtQ5eIYB5hE936pinVwY8FPnylRY6VtrySgj7eJggM4EYBrg.jpg"
         }
       ]
     },
@@ -191,7 +73,7 @@
       "date": "2026-10-22T12:48:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +91,7 @@
       "date": "2026-10-22T14:07:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +103,7 @@
       "date": "2026-10-22T15:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +121,7 @@
       "date": "2026-10-22T20:04:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +133,7 @@
       "date": "2026-10-22T20:16:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +152,7 @@
       "date": "2026-10-23T05:55:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,6 +163,132 @@
           "url": "https://cdn1.telesco.pe/file/Bjuf2C4EwlqLQTL2v-rcd_7t3SN7DrlG3a67vcU2TURMwXqFfNlCm0G-V6lPZjB_ca0brXbdgNLhGyjALhznHUDDf60tlqlItGMJP_Uz0ynkZF7qZMKx4H0TSaxRPh9eddTyZVViV0fZp4cRvOChoBh8VSBKTsXfIbbgQ3g8y4TmXfPlrrGzCtopCgOwSxUkwXEMUg0EZTYgXx3FhnvXr5R8tV1ZztnnkQ4Xs9bIPRAQVUiOGoqWIgV56GvqIoP334LU23yW5yLoxt8jKqz4-nvhojL1XInXQljxxgsa6J_N4do99-4fxjCswynbAIwm23gjG7in7iE-Qc-cL_jKtw.jpg"
         }
       ]
+    },
+    {
+      "id": 5659,
+      "message": "\u003cb\u003eکمپانی\u003c/b\u003e \u003cb\u003eCanva نخستین مدل تولید تصویر خود را با نام Canva Craft منتشر کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eCanva مدل تصویرساز اختصاصی خود با نام Canva Craft را منتشر کرد که در دو مرحله کار می‌کند:\u003cbr/\u003eابتدا درخواست کاربر را به طرحی با چیدمان، مقیاس و سلسله‌مراتب بصری تبدیل می‌کند و سپس تصویری تا رزولوشن 2K در ۳۰ نسبت ابعاد مختلف می‌سازد. این مدل به‌جای عکس با طرح‌های انسانی موجود در کتابخانه‌ی Canva مانند پوستر، اینفوگرافیک و منو آموزش دیده و به همین دلیل متن خوانا و جزئیات دقیق‌تری تولید می‌کند. خروجی آن با Canva Magic به طراحی لایه‌بندی‌شده و قابل ویرایش تبدیل می‌شود و از طریق پنل Dream Lab، API و MCP در دسترس است. \u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-23T08:10:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vkCunelkgItWXWyTOBqC_oTDMU5baHdGSEAUg2hZ3GErfDPgJvwkgrOyYbZ7YNk1KwZQijJADoa-hweGK8kzJP3-KsmUe1VVukLxQU36WdILTmDfOZDybYknQTAhXnuHI74ByhHxIzTeW_UivMuMertQaaA0ATjfzr7wxLhpV5uykh-0Or-7cOV1iNvmMj4qbvNnny-ny0abjN8ZG0yMT1fB5ZbWPnm7gx30RKzk88qPSfEp0XADFvcpv-QvkYf9g-SWlRvUh30ttgSU3bM4sSMw9188wq4o978h5kNHnG9rSuzlRqAG_RIcfTAZ6GDGIACFG5vdSPI3ztP8Wtv1vg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5660,
+      "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eدر زمانی که شما خواب هستید اپراتور ها و عوامل \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF\"\u003e#فیلترینگ\u003c/a\u003e تصمیم بر \u003ca href=\"?q=%23%DA%AF%D8%B1%D8%A7%D9%86\"\u003e#گران\u003c/a\u003e کردن بسته های اینترنت گرفتن و آن را به تمام اپراتور ها ارسال و اعمال کردن شما از امروز قراره اینترنت های بی کیفیت رو گران تر از حتی از قبل هم بگیرید حالا یک سوالی ذهن شما رو درگیر کرده آیا این پول خرج \u003ca href=\"?q=%23%DA%A9%DB%8C%D9%81%DB%8C%D8%AA\"\u003e#کیفیت\u003c/a\u003e میشه؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجواب معلومه قطعا خیر خرج عوامل فیلترینگ و خود فیلترچی میشه تا هر روز پرو تر سفره مردم رو خالی کنن و فقط فقط برای دسترسی به عادی تری حقوق انسانی عذاب و رنج بکشن...\u003cbr/\u003eعلاوه بر افزایش \u003ca href=\"?q=%23%D9%82%DB%8C%D9%85%D8%AA\"\u003e#قیمت\u003c/a\u003e با تمام توان سعی بر قطع کردن تمام روش های اینترنت \u003ca href=\"?q=%23%D8%A2%D8%B2%D8%A7%D8%AF\"\u003e#آزاد\u003c/a\u003e دارن و با تلاش باند بازی و مافیا میخوان ملت رو از اینترنت زده کنن ولی همیشه عده ای از بچها کابوس آن کسانی که این خیال رو دارن خواهند بود و در آخر از همه قطرات باران سیل رو جاری خواهد کرد...\u003cbr/\u003e\u003cbr/\u003e(تمام اپلیکیشن ها جهت اعمال افزایش قیمت موقتا از \u003ca href=\"?q=%23%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3\"\u003e#دسترس\u003c/a\u003e خارج و به حالت بروزرسانی در آمدن)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A8%D8%B1%D8%A7%DB%8C_%D9%87%D9%85%D9%87_%DB%8C%D8%A7_%D9%87%DB%8C%DA%86%DA%A9%D8%B3\"\u003e#اینترنت_برای_همه_یا_هیچکس\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"6190717907144549033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-23T08:11:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZhWatGIG1fZBr8hOFoBJO6ohwNTymndcZUWXUn-K4Grp6jWlpWvRyCsXGVZGfjKihv4TxZX8j49Vk7HRCESGG_X6TG98z7H6JgvmA5iMl1SedewRdJcB8fJpUqxFr7ZXnpD7Q7DLPXbIPf_vI7JPwBw7ByfLYnsXZOPvjXlm5yMjdzjK-_4b-VGJQ8G4PNg6kNFab7zvLDqNez2LvK_pXHA2LYZa2Sajf2YhlpsmRYemcXuChFxDn1FRKOmqz1_fdkniMF0Trjk5Rme0d4IMGUUdrTyzPJdP3U01fn1ipUyltbfiBiHtg_NODw1gjtPAXbTMtvWfHbZka0T4ho5y5A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5661,
+      "message": "انقدر بسته‌ی 4 گیگ یه هفته‌ای 33 هزار تومن خریدم که دیگر نمیتانم\u003cbr/\u003eنه تنها انگار که اینترنت ضریب داره\u003cbr/\u003eبلکه قیمتش رو هم زیاد می‌کنن",
+      "date": "2026-10-23T08:11:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5662,
+      "message": "با مالیاتش 47,000 تومن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e مقابل دیروز که 33,000 میشد خرید.\u003cbr/\u003eحالا شاید بگید 14,000 تومن گرونتر شده و مبلغ زیادی نیست؛ که باید بگم این چهارده هزار تومن یعنی 42 درصد افزایش قیمت\u003cbr/\u003eو مطمئنم درآمد هیچ کدوم از ماها، 42 درصد افزایش نداشته طی سال گذشته",
+      "date": "2026-10-23T08:17:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ghRNck1qq88nHhtrbwBQ8XzzoCkURk2Ya-pox14-uggUGDDn0T0Fu7B4dfH6fg-6O3GU8_01cjLYq-EQg2tDrDINyKgg_V57fixA0dYiHe-aiobILlO-5KTYDk4T8_Nu6uZjrYU5A_uY29kJZsM_3W88CbU1Sx3435UNWGxByOpyTvso3psMkrKyUe8zuyvedeJ2WSWQhS7L9jxFoYJo1q3_JIaB-HB4jwreqpy5Zbk_eT5T-Ai1aKu0ynwEdnwNerNVXMGsBxIaZlbXzCiZkd54bjF6S26J-m_u4GSN0D7zWANG9wgSDCO2ZRDzZm_32z4tfw99Jo54lsa3B7Vb3A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5663,
+      "message": "هنوز بسته 4 گیگی‌ای که دیروز خریدم(و بدون هیچ استفاده خاصی الان ازش 400 مگابایت مونده فقط) رو دارم\u003cbr/\u003eبه نظرم وقتشه استوری بذارم \u0026#34;هرکی هرچی داشته از قبل داشته\u0026#34;",
+      "date": "2026-10-23T09:35:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5664,
+      "message": "یه سری از دوستان برگشتن میگن اوپراتورها رو تحریم کنیم به خاطر افزایش قیمت اینترنت\u003cbr/\u003eکه خنده‌دارترین حرفیه که میشه زد. چی رو دارید تحریم می‌کنید دقیقا؟\u003cbr/\u003eانحصار رو مگه میشه تحریم کرد؟ مثل همون قضیه تحریم کردن اسنپ و ... هست(که دیدیم چقدر جواب داد)\u003cbr/\u003eاون تحریم فلان شرکت و اعتراض و اینها مال کشورهای اروپاییه. نه ما\u003cbr/\u003eحوصله‌ی توضیح دادنش رو هم ندارم",
+      "date": "2026-10-23T09:38:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5665,
+      "message": "شرکت کیمی مدل K3.1 رو داده بیرون\u003cbr/\u003eبرنامه‌نویس خارجی داره بازی 3D می‌سازه با AI\u003cbr/\u003eیکی با REA نرم‌افزارهای ادوبی رو ریورس می‌کنه\u003cbr/\u003eیکی دیگه با MCP های مختلف ویدئو ادیت می‌کنه با Claude\u003cbr/\u003e\u003cbr/\u003e و ما توی پول اینترنتمون هم موندیم",
+      "date": "2026-10-23T09:42:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5666,
+      "message": "آپدیت لنترن:\u003cbr/\u003e\u003ca href=\"https://github.com/getlantern/lantern/releases/tag/v10.0.4-beta.1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/getlantern/lantern/releases/tag/v10.0.4-beta.1\u003c/a\u003e\u003cbr/\u003eقبلا اگر اشتباهی نشون میداد کانکته، درست شده. الان واقعا وقتی که کانکت هست، Connected نشون میده",
+      "date": "2026-10-23T09:46:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5667,
+      "message": "خیلی حال میده کدی که با Sonnet 4 thinking زده بودم یکی دو سال پیش رو، الان میدم Opus 5.5 واسم Review کنه و پیشنهاد بده چطور می‌تونم بهترش کنم",
+      "date": "2026-10-23T10:09:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
