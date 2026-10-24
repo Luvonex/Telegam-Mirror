@@ -67,7 +67,7 @@
       "date": "2026-10-23T21:16:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
       "date": "2026-10-23T21:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +105,7 @@
       "date": "2026-10-24T06:39:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-10-24T10:37:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8950,
+      "views": 9330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +174,7 @@
       "date": "2026-10-24T13:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +193,7 @@
       "date": "2026-10-24T15:22:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,6 +202,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Bmcy7ikA73NjhH9keuBSCCrFUOsaAAnCRzAP9F0zR1zyGSIZJvmIecrziLJWu0NcEo7RWHtLVkTjufQvHNlOtqiVff9dmwFfzZbpvPpW8xOlwUnHdqdGB6eIwH2e7VuK5LcrP9frsh52fF5Z0eiVWgjCgoNHYQm9h29TOwuM-4haL0uq071TomvG2PJFFGTSwA8eVGjy9FmbuYMppFzb_ePF5KvwxD_6tDEfI5z_oCEThasUtUWhIWGGByAIdtQB6aUspuAmagaOKYcb4y20aaCWEA62j2jAVjf86xGbBlF8Fb6ib2m_N1BIGedIxIS6UUWOTs5XfLjdV5PHlYAIGg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108741,
+      "message": "جاویدنام امیرحسین ایزدی طامه، ۲۱ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات در محدودهٔ یافت‌آباد و شهرک ولیعصر، با اصابت دو گلولهٔ جنگی به پایش مجروح شد و پس از انتقال به بیمارستان جان باخت.\u003cbr/\u003eامیرحسین تنها فرزند خانواده بود و از ۱۴ سالگی برای کمک به خانواده و ساختن آینده‌اش کار می‌کرد. \u003cbr/\u003eپیکر او در بهشت‌زهرای تهران به خاک سپرده شد و مراسم چهلمش با یاد زادروزش همراه شد. مادرش، آیدا زینعلی، پس از کشته‌شدن تنها فرزندش، بارها در نوشته‌ها و پیام‌هایش از دلتنگی و عشق به او گفته است.",
+      "date": "2026-10-24T17:00:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 754,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/kmupZKJpLPcgYVSc_a-wEGhVRtG4jBOXg_HYwim5-PspoQWdon12o1wLha4jjq3xF6xpdWEo6w03MRKOeglCtkYSDsY2KhBhQjS5IHl7WABk6D46e-fN9GU3g2E-FUsgbnfk3ppuEkjwUc-svhJt_O4Ww_iPsJe01RzMn432ezn0tHlbAMknmD-9aQKwRi4ctpAv_A8ohA3E2rUOJgcpzyPO5u4fEoqu-XK-tohkBML1Vcv_rBdoH4CdAZOpL2HHinSWCfKmjNNIptAqWhb3Yzrh5TSvwFBKkcCLl6pdUO6s7-dvigeIP_-muI0q9uz7YJqC9Zy0Jmwx2peYQ6Pz7w",
           "width": 406
         }
       ]
