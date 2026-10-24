@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 5670,
-      "message": "\u003cb\u003eآنتروپیک اپلیکیشن Claude Duet را برای agent های کاری معرفی کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآنتروپیک اپلیکیشن تازه‌ای با نام Claude Duet را از طریق waitlist در اختیار کاربران پلن‌های Pro و Max قرار داده است. این agent بر پایه‌ی مدل Claude Opus 5.5 ساخته شده، به بیش از ۶۰۰۰ connector و plug-in متصل می‌شود، وظایف را در ماشین مجازی اختصاصی خود در پس‌زمینه پیش می‌برد و در صورت نیاز به تأیید کاربر بازمی‌گردد. Duet گزارش روزانه و داشبورد می‌سازد و برخلاف agent های شخصی، برای کارهای حرفه‌ای و کسب‌وکارهای کوچک طراحی شده است. با این محصول، رقابت آنتروپیک با OpenAI، Meta و xAI از سطح مدل به سطح محصول و تجربه‌ی کاربر منتقل می‌شود. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-23T12:49:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ucT6A8NQOz9toLQcusiR6a2812uaIAiwmgDaq-CgVUvb4mu5XJqA0276UZCVCwBo9cLX9b9RyIlqB4qjb6jbWdq_NHk6SfL_E71f3ctUfQXXq5jPwy886BHfprmK5eCtu0BhILhYTgh7r8GTJITeI_TQBj_RYAuJ3N7t0gMN3vgndTFmfQcBFpyoDTf3f06bEagoTq0w8xuxj-fV-46iya0gwnuRS1v4EO5mGD9fm4ohk2iX-ufYyHU_dXCAa_y7gnpnung2Cl7Y7Qt_AoZPMxnniJxzexoivj7es3ewdvGDFSvDxZn3IBwv9RtJOb7uCEUdm73h9kW0CXL74yUXyw.jpg"
-        }
-      ]
-    },
-    {
       "id": 5671,
       "message": "ساعاتی پیش مدل Kimi K3.1 Pro معرفی شد؛ قوی‌ترین مدل اوپن ویت Moonshot تا امروز\u003cbr/\u003e\u003cbr/\u003eنسخه‌ی بهترشده K3 هستش، توی کلاس ۳ تریلیون پارامتری(سر کیمی 3 هم گفتم، تریلی هم وزن 3 تریلیون رو نمیکشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003eبا کانتکست ۱ میلیون توکنی؛ عکس و ویدیو هم می‌گیره و فقط توی حالت thinking کار می‌کنه. یه نسخه‌ی Highspeed هم کنارش دادن که همون قدرته ولی ۲ تا ۳ برابر سریع‌تره.\u003cbr/\u003e\u003cbr/\u003eتوی Terminal-Bench 4.0 امتیاز ۶۵.۷ گرفته، 7 نمره بالاتر از Claude Opus 5.5 و GPT-6 Astra. توی ساخت مدل سه‌بعدی با کد (BenchCAD) هم ۹۲.۷ گرفته و نرخ توهمش توی تست داخلی خودشون از ۲۳.۴ درصد رسیده به ۸.۳ درصد. \u003cbr/\u003e\u003cbr/\u003eبا قیمت ساننت ۵.۵ که به نظرم خیلی خوبه اگر واقعا قدرتش این باشه:\u003cbr/\u003e\u003cbr/\u003e• input $2\u003cbr/\u003e• output $10\u003cbr/\u003e• cached $0.20\u003cbr/\u003e\u003cbr/\u003eنسخه Highspeed دو برابر اینه، ۴ و ۲۰ دلار. یعنی مدل معمولی نصف قیمت Opus 5.5 درمیاد و از K3 قدیم هم ارزون‌تره.\u003cbr/\u003e\u003cbr/\u003eتوی اپ و سایت Kimi و Kimi Code و از طریق API در دسترسه؛ وزنهاش هم تا ۴ نوامبر منتشر میشه، البته خودشون گفتن عمدا دیتای مربوط به هک و آسیب‌پذیری رو از آموزش مدل حذف کردن که نسخه‌ی اوپن از نظر سایبری جلوتر از مدل‌های بسته نره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://kimi.ai/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-23T18:41:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -39,11 +21,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/uXgx7alvWuCiPlg5V96IvpqOP_emq73L85CEDJo_72b9pkgeWd-s8DrP95UDEamyHvKEMcenbbkSsejHNfVIUe_LPnz06assWeO4g4Nf2LD-gml2qQDOmIlKnmZqvDwvoW6bOyRF8Ye6YSzwzRYeRtSc7QTmVEMXOc7INAI9DR7vX3eitLdNLYtKm9FA08un4beJwnnAKDVg-yjsHTiXUFPPiX0Twmggyc_ayOWcVjzTvjKdOPhqeJ6ppvA0VjvoJnhttAHYgIbuFsexgg8HUpK1RjpLo9JcnSfBvkxT8A8U05anx7WE6n91mf9OEi-5Ma-fRkZpmQwJUDL6n1TaSQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/RN4hcD9FT1yRncaaI0d834NgJ3Wk4I37pjmyUeETUIyCo16OzKie4c9w_L5t-GF_dB3sbDn06UcXA7vRcRNnMVbNnkG-IQn4T2ud059n8bx2YSeLwjavOBChff7dlkaN27jinEUjSfcKV9NCnkSMk-wFNHkVg8bGwe0SeJDp-zmtIVZbT6hwVPQCa-9TjtBCGJHhApufbH4NYl4gVMnphMEVXrRz4gmyciKprUpGagBfAaAWRy2MTBTTvD8rgA5NoPaj9eYlmUpWLEfeEoPk6bbDzIxX1uQxUGNj5iowdu57G56aEd7z9g7HSRNr9mVUX_EVMifTHOTsnYv2EG36Tw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mrtr4IEFnxmd8aSjhP8Byt9kAF-yQycbF1FgdbcyW81p-ajM5b9Dp9TxvDA2xZ8F567cykgcC1P2DE5u5RsmuP9RrC0Zn6oeeB__fCO2_D57XnPL9v_6STLJoRnXWpvszcCeLd7F1e-Oas4aeNMhCKzuXjHBKLIjsZqyo9cj5twXEcZwNr5omMR-3oI2DCiRhEdV8vzktgn9E3mBuqRe0LfScZxqM8WSDcEl4ESZ0HgEZAgeFeit05riVVsAagmlw1NQQ3yNW1rT4y3u_F8T-zQAH0Eu6j6SRy1_fRsuHRzej65fy0IRGyP6gs3G4gmZ8UG0uNDPZh-gz-rSm_w1Jg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Z-XkKGz7Ok37jtvvtROqy0kkbrxgeFXk1-MCrOjqmHP-kiwnvhnZveu8FaCZvB4ikgmuoEGtnpm0itNWwJLiFqFDWOccdER5YZQkK2mUO065Em7VVTT9wdiZYrPY6UtSRWi5FyxKkB7h8DvecOOT562j9KipkkLCHdPeCE0TjYnYF6DxhTJ60DyJmOVsTE6P2GngRsa3eH06VcANfGqAIEM8wfZIOuzWVALjoXMPKUFkX5eIehQhcsC3CeH16qp0uDdRdQO0czbzF-rAAxjhO5OWBehldmQ_Ef-9hBsF1NzeqOIR2-HZHu3eIHtpbV0_iL4QL4iSzGM-jwYe8M2B-Q.jpg"
         }
       ]
     },
@@ -53,7 +35,7 @@
       "date": "2026-10-23T21:44:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +53,7 @@
       "date": "2026-10-23T21:44:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +65,7 @@
       "date": "2026-10-23T22:57:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +83,7 @@
       "date": "2026-10-24T03:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +101,7 @@
       "date": "2026-10-24T04:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +113,7 @@
       "date": "2026-10-24T05:58:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-10-24T07:26:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-10-24T09:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-10-24T10:27:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +190,7 @@
       "date": "2026-10-24T10:29:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +208,7 @@
       "date": "2026-10-24T11:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +220,7 @@
       "date": "2026-10-24T11:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +232,7 @@
       "date": "2026-10-24T12:41:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +244,7 @@
       "date": "2026-10-24T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +262,7 @@
       "date": "2026-10-24T17:03:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2670,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,6 +277,18 @@
           "url": "https://cdn1.telesco.pe/file/nChGZgulbxz3va7o3oX5bEB_p9Mgce7Vg--sUJW6u8cioqzD93gNq_skzTgXzghOxbmFQdcC3LA_S4BNuL9ndF523bEueCVHZhSsnMdnXzQKuIPbWqUIkNtQ6CAkEmINNypzSu7QNrjy7p5aip_ULcgfxPeFT3pnQFyL_P111_GrliOWGa0CXkk6wwK89e2Lb2xqb5wLBjrtL59FkbkIn_0Sx2Ls2Hd0T6sEajRHU5qBcR0EQzbxTxr2fFx6qUChv2Mg2P-ElB9drlKed9C519kQ0KnFthD-8Xhbwhkj6_mP9Gxii6xw-XeiR1kZdomarYiL-5DbKe725tqgjAuM8w.jpg"
         }
       ]
+    },
+    {
+      "id": 5690,
+      "message": "یادش به خیر یه دانشجوی دکتری توی خوابگاه بود\u003cbr/\u003eبنده خدا سنش هم بالا بود و دنبال یه سری کتاب بود پیدا نمیکرد\u003cbr/\u003eاینو بهش معرفی کردم، سر از پا نمیشناخت\u003cbr/\u003eانقدر میترسید یهو اپه رو ببندن از کتابایی که دانلود کرده بود روی 3-4 تا فلش و هارد بکاپ گرفته بود",
+      "date": "2026-10-24T17:42:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
