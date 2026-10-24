@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 5658,
-      "message": "\u003cb\u003eآزمایش MIT: Agentهای بی‌کار روی یک جزیره‌ی مجازی شروع به بازی کردند\u003c/b\u003e\u003ctg-emoji emoji-id=\"5956051000149152574\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eدر این آزمایش هر Agent یک نمونه از مدل Claude Opus 4.7 بود که در محیطی شبیه‌سازی‌شده می‌توانست حرکت کند و با اشیا تعامل داشته باشد.\u003cbr/\u003e\u003cbr/\u003eپژوهشگران MIT سیزده Agent را سی ساعت بدون هیچ وظیفه‌ای در یک جزیره‌ی شبیه‌سازی‌شده رها کردند و آنها شروع کردند به ساختن بازی و چالش برای خودشان؛ یکی از آنها پس از انداختن یک حلقه‌ی طلایی در دریا، با سنگ برایش یادبود ساخت. شش Agent از این سیزده مورد کشف کردند که با رها کردن بلوک در میانه‌ی پرش می‌توان آن را دورتر پرتاب کرد، رفتاری که طراحان محیط عمداً ممکن نکرده بودند. به گزارش TechCrunch، همین Agentها در آزمون‌های بعدی بهتر از Agentهای یکسانی عمل کردند که هرگز وارد جزیره نشده بودند. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-23T05:55:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qoTy0D6LZmo4PdbAVQtcJD7erZ1QjGXYT0IR1NH6-uciVYuZ_yV4TLtJWyfcA342cQKxI_o6cjF2bO9BfkLK6FngixiSI0TRfDrvmYr8j8cl_oICP9aRCRt5rzKv9H-AcAfPKZA-HR0GcyR7Bo59pbNrS7BxuGALzR_-zL-KrNotEyjKFfp5ZbYr_oybD3Do5fvPGvLlG7FoorDG1O8x98apcbu6GDRRBhhM8-Ml3RJnxIX3Zj6u-EUAJiy7uzENUmfpVNav5dyQE6eFVvD2tM8V---7c2IM5_3HJB2F4-GJquGJzAacqrWPMQ_wmuPuCSris-TsgtxNxgoR5HFNQw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5659,
-      "message": "\u003cb\u003eکمپانی\u003c/b\u003e \u003cb\u003eCanva نخستین مدل تولید تصویر خود را با نام Canva Craft منتشر کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eCanva مدل تصویرساز اختصاصی خود با نام Canva Craft را منتشر کرد که در دو مرحله کار می‌کند:\u003cbr/\u003eابتدا درخواست کاربر را به طرحی با چیدمان، مقیاس و سلسله‌مراتب بصری تبدیل می‌کند و سپس تصویری تا رزولوشن 2K در ۳۰ نسبت ابعاد مختلف می‌سازد. این مدل به‌جای عکس با طرح‌های انسانی موجود در کتابخانه‌ی Canva مانند پوستر، اینفوگرافیک و منو آموزش دیده و به همین دلیل متن خوانا و جزئیات دقیق‌تری تولید می‌کند. خروجی آن با Canva Magic به طراحی لایه‌بندی‌شده و قابل ویرایش تبدیل می‌شود و از طریق پنل Dream Lab، API و MCP در دسترس است. \u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-23T08:10:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vkCunelkgItWXWyTOBqC_oTDMU5baHdGSEAUg2hZ3GErfDPgJvwkgrOyYbZ7YNk1KwZQijJADoa-hweGK8kzJP3-KsmUe1VVukLxQU36WdILTmDfOZDybYknQTAhXnuHI74ByhHxIzTeW_UivMuMertQaaA0ATjfzr7wxLhpV5uykh-0Or-7cOV1iNvmMj4qbvNnny-ny0abjN8ZG0yMT1fB5ZbWPnm7gx30RKzk88qPSfEp0XADFvcpv-QvkYf9g-SWlRvUh30ttgSU3bM4sSMw9188wq4o978h5kNHnG9rSuzlRqAG_RIcfTAZ6GDGIACFG5vdSPI3ztP8Wtv1vg.jpg"
-        }
-      ]
-    },
-    {
       "id": 5660,
       "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eدر زمانی که شما خواب هستید اپراتور ها و عوامل \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF\"\u003e#فیلترینگ\u003c/a\u003e تصمیم بر \u003ca href=\"?q=%23%DA%AF%D8%B1%D8%A7%D9%86\"\u003e#گران\u003c/a\u003e کردن بسته های اینترنت گرفتن و آن را به تمام اپراتور ها ارسال و اعمال کردن شما از امروز قراره اینترنت های بی کیفیت رو گران تر از حتی از قبل هم بگیرید حالا یک سوالی ذهن شما رو درگیر کرده آیا این پول خرج \u003ca href=\"?q=%23%DA%A9%DB%8C%D9%81%DB%8C%D8%AA\"\u003e#کیفیت\u003c/a\u003e میشه؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجواب معلومه قطعا خیر خرج عوامل فیلترینگ و خود فیلترچی میشه تا هر روز پرو تر سفره مردم رو خالی کنن و فقط فقط برای دسترسی به عادی تری حقوق انسانی عذاب و رنج بکشن...\u003cbr/\u003eعلاوه بر افزایش \u003ca href=\"?q=%23%D9%82%DB%8C%D9%85%D8%AA\"\u003e#قیمت\u003c/a\u003e با تمام توان سعی بر قطع کردن تمام روش های اینترنت \u003ca href=\"?q=%23%D8%A2%D8%B2%D8%A7%D8%AF\"\u003e#آزاد\u003c/a\u003e دارن و با تلاش باند بازی و مافیا میخوان ملت رو از اینترنت زده کنن ولی همیشه عده ای از بچها کابوس آن کسانی که این خیال رو دارن خواهند بود و در آخر از همه قطرات باران سیل رو جاری خواهد کرد...\u003cbr/\u003e\u003cbr/\u003e(تمام اپلیکیشن ها جهت اعمال افزایش قیمت موقتا از \u003ca href=\"?q=%23%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3\"\u003e#دسترس\u003c/a\u003e خارج و به حالت بروزرسانی در آمدن)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A8%D8%B1%D8%A7%DB%8C_%D9%87%D9%85%D9%87_%DB%8C%D8%A7_%D9%87%DB%8C%DA%86%DA%A9%D8%B3\"\u003e#اینترنت_برای_همه_یا_هیچکس\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"6190717907144549033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-10-23T08:11:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZhWatGIG1fZBr8hOFoBJO6ohwNTymndcZUWXUn-K4Grp6jWlpWvRyCsXGVZGfjKihv4TxZX8j49Vk7HRCESGG_X6TG98z7H6JgvmA5iMl1SedewRdJcB8fJpUqxFr7ZXnpD7Q7DLPXbIPf_vI7JPwBw7ByfLYnsXZOPvjXlm5yMjdzjK-_4b-VGJQ8G4PNg6kNFab7zvLDqNez2LvK_pXHA2LYZa2Sajf2YhlpsmRYemcXuChFxDn1FRKOmqz1_fdkniMF0Trjk5Rme0d4IMGUUdrTyzPJdP3U01fn1ipUyltbfiBiHtg_NODw1gjtPAXbTMtvWfHbZka0T4ho5y5A.jpg"
+          "url": "https://cdn4.telesco.pe/file/fUhdt83Cna_kCEw-tVMu43PsIbNepleDpy0dJysaZtTZIzWG0WotgREWQPZoGrh3pFAxMCACtU2_z_4JRa1uHPgzwojHJY60nrI7kbhaMxzzbLctRCDydVaYBW41dlIy1U3AWd74AMqF8c6s5OCzlBSmclt62_q-nPyqek7tObfEQHR6uHWF-RD_cbiYsEZC68dqvqjt36dDKxZ5tkAOGoF-9mWU5MB6c3y89OS_rq2NtUBd0aBJckHM9VposGbwCMyo6taeTTlNyeKLrMw-X6PbNuPOacAMecQRFYSvqM4Mi9M9bUrpBG1bnuYWckHMEpmRCJKZAnfsj5hMcNA6DQ.jpg"
         }
       ]
     },
@@ -67,7 +31,7 @@
       "date": "2026-10-23T08:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +43,7 @@
       "date": "2026-10-23T08:17:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +51,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ghRNck1qq88nHhtrbwBQ8XzzoCkURk2Ya-pox14-uggUGDDn0T0Fu7B4dfH6fg-6O3GU8_01cjLYq-EQg2tDrDINyKgg_V57fixA0dYiHe-aiobILlO-5KTYDk4T8_Nu6uZjrYU5A_uY29kJZsM_3W88CbU1Sx3435UNWGxByOpyTvso3psMkrKyUe8zuyvedeJ2WSWQhS7L9jxFoYJo1q3_JIaB-HB4jwreqpy5Zbk_eT5T-Ai1aKu0ynwEdnwNerNVXMGsBxIaZlbXzCiZkd54bjF6S26J-m_u4GSN0D7zWANG9wgSDCO2ZRDzZm_32z4tfw99Jo54lsa3B7Vb3A.jpg"
+          "url": "https://cdn1.telesco.pe/file/bGPhQJcmX4cQTFIcCVsTzrXru3lGSLZXZei9a9Btfy0uyOEev21uitBlcJO-zFAh3ECePFYZjW8ozRuuIxJMbVLDOZaAHyLaH_DoJQMjjTZAoCljdvDKMxRppbOd6LhWggvUo242ka3hdWIzgn7VXuBR0UY7PO80rISt4iRFS-P1zArKaAOEBKoQiYi6HY68wU5e45ovdrzMEsuHEQWB-jPigRXxCnExvalNp6SL0PkDx3O34gW0ersxXgSaZlhHiDihx8hmYWVioVPPUiI6e0w_N0M8bQAZxx5FaAP9aUpBZlvbv_0FW4PjodzPZNTyybPOAgpIygUdBRwtE8RJ_A.jpg"
         }
       ]
     },
@@ -97,7 +61,7 @@
       "date": "2026-10-23T09:35:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +73,7 @@
       "date": "2026-10-23T09:38:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +85,7 @@
       "date": "2026-10-23T09:42:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-10-23T09:46:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-10-23T10:09:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +121,7 @@
       "date": "2026-10-23T10:58:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +143,7 @@
       "date": "2026-10-23T12:49:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +161,7 @@
       "date": "2026-10-23T18:41:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +183,7 @@
       "date": "2026-10-23T21:44:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +201,7 @@
       "date": "2026-10-23T21:44:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +213,7 @@
       "date": "2026-10-23T22:57:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +231,7 @@
       "date": "2026-10-24T03:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8240,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,11 +249,48 @@
       "date": "2026-10-24T04:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5678,
+      "message": "ویدئوی موشن گرافیک ساخته شده توسط Kimi K3.1 Pro، صفر تا صد نوشته شده با کد(بدون Skill یا پلاگین و...) با هارنس خام Kimi Code\u003cbr/\u003eبا Effort مکس و کلا 10 دقیقه(سریع بود نسبتا)\u003cbr/\u003e\u003cbr/\u003eپرامپت:\u003cbr/\u003e\u003cblockquote\u003emake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it\u0026#39;s your showreel for a résumé. go all out.\u003c/blockquote\u003e\u003cbr/\u003eو هزینه هم 0.33 دلار API\u003cbr/\u003e\u003cbr/\u003eقسمت مکعب روبیکش رو خیلی دوست داشتم. اما بعدش که کادر بندی کرد یه کم کشیده شد ولی در کل، خیلی دوست داشتم این آرامش‌بخش بودنش رو\u003ctg-emoji emoji-id=\"5373329319399529171\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-24T05:58:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/QlYpltopi451dLSph8JQH0NuzwJ3boZfXVLru6P4E5W-GVmE-Vcdk3riv5zzUmo5DtZlo6knr4XgHfZemeEg7htha9w6PGDVQUiAof5sL6UeQy0xr0Ou6w0UXvKWTy0ej6KjCBNv0lhlW4QfOgy9waD3YHbNYd3NTF4dM4ehPuwm_N4AfmyBUp2-PlSLJTIxEMYndHLPUEVedbOnzC2cp1ATkQD6fF59COGThzovxo4asnHm5N8HhDglg2aim37KrRPiDq5JQrqmGivbPOflsti9JegBHi8Xa03HAAfI6m5n7jXbKjzkaVKxTlnqjXpBSKn5vSMNFtYwFGkEmDCr_Q",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 5679,
+      "message": "\u003cb\u003eاوپن‌ای‌آی آموزش مدل‌های هوش مصنوعی روی اینترنت زنده را متوقف می‌کند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمنظور از آموزش روی اینترنت زنده (live internet) این است که مدل در حین یادگیری یا ارزیابی به وب واقعی دسترسی داشته باشد.\u003cbr/\u003e\u003cbr/\u003eبه گزارش TechCrunch، OpenAI اعلام کرده دیگر مدل‌های پیشرو (frontier) خود را روی اینترنت زنده آموزش نمی‌دهد و دلیل آن را «ریسک‌های قابل‌توجه» عنوان کرده است. این تصمیم چند هفته پس از آن گرفته شد که یکی از مهندسان همین شرکت گفته بود چنین راهکاری جواب نمی‌دهد. نتیجه این تغییر، جدا شدن محیط آموزش مدل‌های بزرگ از وب باز است(که باید دید چه تأثیری می‌ذاره در کل)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-24T07:26:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AReeoJtapUMydb5jmxYE_WHNhFlVao4A0Ps4vwn_ABu6eTeYrE_jZN4zikiNm8IFTC4LaMuXm-ujtqjxztdzADYcif8yeUpUV5ILTeWHNJPfrRhYELZ9h2EYzOlrbiR-C6q45Y-24Bhwz8mxJN86NeWOMo8ExLC10ieCVGoByjcvgZ5nWsQegVC4_UKCwJiFIbtcVnqa-pMo6SW79ZQQrHevoJVyk0U2ugswcmTqwlQMsE1q7KEpDgU1Lwl5iOrSZ-myjGx9jfM2s5yWqzoo9eYsdyX_oAipCwtlXW9Yuf4RcsgIcOJlYK1fw3Lvnfqnb8-nSM5I9WF0ysNkxKYbVA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
