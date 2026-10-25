@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 5679,
-      "message": "\u003cb\u003eاوپن‌ای‌آی آموزش مدل‌های هوش مصنوعی روی اینترنت زنده را متوقف می‌کند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمنظور از آموزش روی اینترنت زنده (live internet) این است که مدل در حین یادگیری یا ارزیابی به وب واقعی دسترسی داشته باشد.\u003cbr/\u003e\u003cbr/\u003eبه گزارش TechCrunch، OpenAI اعلام کرده دیگر مدل‌های پیشرو (frontier) خود را روی اینترنت زنده آموزش نمی‌دهد و دلیل آن را «ریسک‌های قابل‌توجه» عنوان کرده است. این تصمیم چند هفته پس از آن گرفته شد که یکی از مهندسان همین شرکت گفته بود چنین راهکاری جواب نمی‌دهد. نتیجه این تغییر، جدا شدن محیط آموزش مدل‌های بزرگ از وب باز است(که باید دید چه تأثیری می‌ذاره در کل)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-24T07:26:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kMnuS2KIrSwaFDzL335h2ix3kiGzT8cOgY_xtm5te6uTHM192_58SgIVa-im_T43axUjdhd_Up1otSp17oosw2M6LWxjJ-Mzbws1_QBz_-IWE9aYrUbitOFv4-ljp3Lkqr5nv9XJA97J_T_ZYNoVPKGzTl7-HFpxdR9kaEdFPL7KC3HKQEfkMI1NGnJ_AcMkfXhnqXjkzdaQA2zshnepfKKcx1LmrsOwX2_yNQOU-v3dxJsE4rTGwUg3eibiUFp2BmeygQ5lV-N_99mHwPIiLaXBsQsrp39M4DZNN9CZjyvY1CD6yIdPV0dLQSkjVproCM_1-pWt4gvHEu5rFHYkYw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5680,
-      "message": "\u003cb\u003eافشای بنچمارک‌های گمراه‌کننده‌ی زبان Tov در ادعای «سریع‌تر از Rust»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتیم Fyra Labs در یک گزارش تحلیلی ادعای «سریع‌تر از Rust» بودن زبان Tov را بررسی کرده و بنچمارک‌های منتشرشده‌ی آن را گمراه‌کننده و مغرضانه توصیف می‌کند. این گزارش در Lobsters مطرح شده است. نتیجه آن است که ادعاهای عملکردی زبان‌های جدید بدون بازتولید مستقل بنچمارک‌ها قابل اتکا نیستند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-24T09:28:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Gks9--dNEVz1P83zaeMQGaOGG7qUnZY3XRoVn55k3nj_q4fHYHcyYCho8j7hJ1vOLAo0oPwOo9khB_jOLKxnOtktEJhDiChaPKthrvwkvC9l70mcoQfdnD5G7j3RPvl_e6OoGrn2BEO6CHJy0VmzJ2XbBuY5Ts6XmP8MlyvcmZzRgEo_p3A1zvYxTTRBB8BK9OjRkM-jUrnMbu38gFrvAKbnVh4oiPTUyrw9TjejvjyQNLlWpf7QXYO498pc7TSUB2lWtpti3Hj_FLuR3VLaNNaBZartkobaMNMLKSNcX6YsNG3qszsw57VMVfsuXFT16Yaa9u0hU8f7OtAZ1c1v8A.jpg"
-        }
-      ]
-    },
-    {
       "id": 5681,
       "message": "این اپ ArtCraft(که نرم‌افزارهای اوپن سورس ادوبی رو ساختن) دانلود کردم، و پریمیرش رو تست کردم و خیلی خوبه\u003cbr/\u003eکلا 60 مگابایته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e و خیلییی از امکانات رو نداره\u003cbr/\u003eبسیار ابتدایی و ساده‌ست\u003cbr/\u003eاما آینده‌ی روشنی واسه‌ش میبینم\u003cbr/\u003eسرور mcp هم داره دادم Kimi و Claude یه ویدئوم رو ادیت کنن باهاش",
       "date": "2026-10-24T10:27:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +35,7 @@
       "date": "2026-10-24T10:29:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +53,7 @@
       "date": "2026-10-24T11:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +65,7 @@
       "date": "2026-10-24T11:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +77,7 @@
       "date": "2026-10-24T12:41:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +89,7 @@
       "date": "2026-10-24T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +107,7 @@
       "date": "2026-10-24T17:03:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,11 +115,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DO0T9CPr8RGYe76dqOqm2cCgXOfbprrL1KAk4IMW4PK4k0zVgYHcr96jHuinDr7KZ00iA8AuocJdlZwuPV_KHI6ACfqR_HURIMDuLuZNgveMM-JGFzSvK2VsaBcIQWic0pVcRUoAvuWJgjA7CQzEc0_4UNof0fYDskH4QhuExwas7Q1wKjAWOTaDMlQrkpUZ5ZO0fwX-Q9lMVT3vjEEllImNq6Yqw1paKHdFkWKmaxgwgwcrUh6uDAW1DPQsz710-WgSEn2KcGogW8iWNsmVVXh0aVPI_Mqr5dnxUXw3eY1A5n4jd7rvK-cGKNk-782g2IP6SLMRuw235Nn5R_kWmQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/Ztyd6rpn3AhzHDvQ8kgiwtsre1utPejFGUbL9PQYuoHSLhoQ4vtDuLy9x4eqab9YjO6wnZATN7kc7g2oR7eTKLtsh0KYcsNEKHhwygwIyewhLR1qIAqkh1Z03GSB8dJDR15c2-elBdAO6hp8iP17iImpFGHQDSFKzLK0EE5i93em81QkdGhShaVeAxQzPQCqmrSzetXJLD37MAKlHGW49b3iH_syIKS-9bZmGu0InqcdgW79lpSAmopy-AQUkrgjjfLaNYrkv42FOarPufJ1iKyS0CFu0V5rWwSrb5A4_Fe625d2vkhShYeriz0pOOSYtsHn13vd6pqTzx4TMdh6aQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nChGZgulbxz3va7o3oX5bEB_p9Mgce7Vg--sUJW6u8cioqzD93gNq_skzTgXzghOxbmFQdcC3LA_S4BNuL9ndF523bEueCVHZhSsnMdnXzQKuIPbWqUIkNtQ6CAkEmINNypzSu7QNrjy7p5aip_ULcgfxPeFT3pnQFyL_P111_GrliOWGa0CXkk6wwK89e2Lb2xqb5wLBjrtL59FkbkIn_0Sx2Ls2Hd0T6sEajRHU5qBcR0EQzbxTxr2fFx6qUChv2Mg2P-ElB9drlKed9C519kQ0KnFthD-8Xhbwhkj6_mP9Gxii6xw-XeiR1kZdomarYiL-5DbKe725tqgjAuM8w.jpg"
+          "url": "https://cdn1.telesco.pe/file/BzmuEu4Qyq7w-55LsHbd4gFkkoG0onENkVa5jHOAlYez4lBVeD_01LBZQY-HHhKZri0gh449rGEMjjHjsoYxjBTFhP60nbVpUsnHoQnH4KLv7E13DwWaBRKvJPVt65BcxhGY_JN2D9uk8uwdRRK25jSWv8gCf_SVUTc-wgpqlpKSY8MCAD09dUDox5lBUSpyCrP2eFsJY4Bo3OsHIqYzGc1wsZb3HcRk6Tw3vHu9Nj3-grlhSEmjQ6jVeNUnNF4LEgUXHhPcPg1nyMd7-suXs_uDZlqfTJyAtnkZwXn8vq4nwES1x6DLQYc01SNZJKXykJc5CWJueNMfmtwIwO8wvw.jpg"
         }
       ]
     },
@@ -165,7 +129,7 @@
       "date": "2026-10-24T17:42:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +141,7 @@
       "date": "2026-10-25T06:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +159,7 @@
       "date": "2026-10-25T07:26:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +177,7 @@
       "date": "2026-10-25T07:26:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +199,7 @@
       "date": "2026-10-25T07:26:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +211,7 @@
       "date": "2026-10-25T10:51:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +230,7 @@
       "date": "2026-10-25T12:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +248,7 @@
       "date": "2026-10-25T15:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,6 +257,36 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/Y7iInh47AFVuhaaU1zgPiSVkfF4ilh4DpDhssXLSXueXTu9AHCmzX5245UzHbPYK3XFBMBEcg0_HWn0h4NjAPd91tSB8Y9L3iJfQUYbWUXvxfw7TriT1UYQ3HMbMrV-JISwb7ralLh39Yy1Ddt9hul3W1HevukV5RSvW6HHvScm-OOpLIFqCd1NRuxmjDzmeaTsJpfw8Ii3Toj9wMIsNQ07FlX8DunOQzVWJN_0emfcEc41g04BBOWtCwnmO_BMzldAjyH0gqcvw9f3wjC5EFa3GQUFwZunO8ttj9OArLLJuqpME8ZZO1R6DxnV2CC58P4SeGp3i6dGSpYEOh6RF6g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5699,
+      "message": "این REA یجوری ترسناکه که از دیشب که تستش کردم، کرک و پشمی بهم نمونده.\u003cbr/\u003eدیشب یه فایل apk بهش دادم و از ترس اینکه کلاد اکانتمو بن کنه، روی لوکال و Qwen دیکامپایلش کردم. عملا زندگینامه اپ، حتی کلیدهای API فایربیس رو درآورد و یه اسکریپ نوشت برام که مستقیم و خارج از اپ API رو کال کنه. تهش هم ازش خواستم یه داکیومنت کامل از همه‌ی endpoint ها و ساختار اپ بسازه. در ادامه هم با تحلیل endpoint ها یه تصویر کلی از بکند داد و ازش داکیومنت ساخت.\u003cbr/\u003eتا اینجای کار شاید بگید خب که چی، ولی که چیش تازه اینجا شروع شد. همه‌ی داکیومنت‌ها و اطلاعاتی که از اپ داشتم رو بازنویسی کردم در قالب داکیومنت‌های یه پرداکت جدید(که کلاد بهش گیر نده و سیشن رو فلگ نکنه) و از کلاد خواستم از صفر کل پروژه رو بسازه. صبح که بیدار شدم دیدم کل بکند، فرونت و اپ رو با فلاتر از صفر ساخته تست کرده و خودش باگهاشو برطرف کرده، و نه تنها خیلی تمیز کار میکنه، بلکه با یکم کار بیشتر میشه به عنوان که پروداکت واقعی ازش استفاده کرد.\u003cbr/\u003eحالا هی بگید AI قرار نیست بیکارمون کنه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/SMRoot/status/2114327090136858766\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSMRoot\u003c/a\u003e",
+      "date": "2026-10-25T16:18:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5700,
+      "message": "\u003cb\u003eبرنده‌ی مسابقه‌ی عکاسی Nikon بعد از شناسایی نشانه‌های AI عنوانش رو از دست داد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eطبق گزارش TechSpot، برنده‌ی یکی از مسابقه‌های عکاسی Nikon وقتی دانشمندا توی عکسش نشونه‌هایی از تولید با AI پیدا کردن، عنوانش رو از دست داد. این ماجرا یه بار دیگه نشون می‌ده مرز بین عکس واقعی و عکس تولیدشده توی داوری مسابقه‌ها چقدر باریک شده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-25T16:38:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ls4AGkAqDSRI4YMcDQ6Q4eB1fY9XCFtEgRAe1TOWs519e8BkZ3zqoND228hpgNu0FqCIzfWt8tPZJpgUc1t5yTOzlkxbunS7hO-yBrvwI3nw9DvNwBvo8tkePFD8OVrup24qBdTTPm1KkEx-A4IVN58umuJE61VlssQDQ8wtrA2lTUDWTjKGHgcoYHS25OouwRClvTQ3ztMpIptSDpgrw3bnCYA4WjPIwylMcC3qV8aznlOHW-SrxkywDnFlfEYBGl4rVTYGz6XhkNnVOVcSc3bLc6jsp2s4xtXKX3sbEH5mETdVi3tJjTZ55jxzLvPpTGQLfxEaKn69KCZj0-Kwgg.jpg"
         }
       ]
     }
