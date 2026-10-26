@@ -8,36 +8,12 @@
   },
   "posts": [
     {
-      "id": 5685,
-      "message": "این ویدئو رو ببینید و برای خودتون بر پایه‌ی DNS، وی‌پی‌ان حاضر کنید با SOAR:\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=qTLDn2pbSKQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=qTLDn2pbSKQ\u003c/a\u003e\u003cbr/\u003eشرایط اینترنت ناجالبه مقداری\u003cbr/\u003eپترنیها هم گفته که قراره PattN و PattNG آپدیت داشته باشن و امیدوارم بتونه ما رو از این تله‌ی اینترنت نجات بده",
-      "date": "2026-10-24T11:43:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5686,
-      "message": "یه آسیب‌پذیری جدید پیدا کردن باز. خدا رحم کنه",
-      "date": "2026-10-24T12:41:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5687,
       "message": "\u003cb\u003eآسیب‌پذیری Brotli با شناسه CVE-2026-111497 (node2shell) در پایتون و دیگر مصرف‌کنندگان این کتابخانه هم قابل بهره‌برداری است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eالگوریتم Brotli یک الگوریتم فشرده‌سازی داده است که در بسیاری از کتابخانه‌های HTTP و مرورگرها استفاده می‌شود؛ CVE شناسه‌ی عمومی ثبت یک آسیب‌پذیری امنیتی است.\u003cbr/\u003e\u003cbr/\u003eگزارش Aikido نشان می‌دهد آسیب‌پذیری node2shell که این هفته درباره‌ی Brotli منتشر شد، فقط به Node.js محدود نیست و در پکیج‌های پایتون و دیگر مصرف‌کنندگان Brotli هم قابل بهره‌برداری است. در بحث Hacker News از تکامل آن به HTTP2Shell و دامنه‌ی اثر گسترده روی کتابخانه‌ها و اپلیکیشن‌های HTTP صحبت شده است. Maintainer ها و تیم‌های امنیتی باید وابستگی‌های خود به Brotli را بررسی و به‌روزرسانی کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-24T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -45,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZSWWSGhAou4JcHwVsOYOnVj-T4L9AAv5j335Re5xj_gSCcN7-asKRbvsaCOIOBZ4T6y_GOBJmA_zPX3Fpvx5dJr0Cg3ABRuRTedEcya7ZZPbp1jxh3u_vi1EhbJr1tv-XbanBEYj28YlVlwaA01zhS5Q94E45TM-kX-Pk_gs2sZC7MU06eFUUXNdRw4as-6p6ZtIfjlDRWlGP7syt_pa3bDwLF0hQ0mh19Ki-qpZaVUGA_haZ3ALDf5SzSIA1i8o0Elsdtd6zNslt1hCumB-a2zvvFkSl7_3-S6bl5vU9UvKKz_QkUL4CRB6El0_21jk_efqjAP9-Q7TaPP3Mh-ATA.jpg"
+          "url": "https://cdn1.telesco.pe/file/NqpBinM4a6zvDYlzjehEi1YKZnBvAd27Dr-l8xkOvQDjFGmpWh10425Bv4M5I_YItNbvCGw3XDQs2C_Y6znsFcVmVwV6zqhMub_31HlvCy4bvI_-XVA59Nizd-fVZjPqE860w_WemZ89UE_YAdtxQYEUeFdFGVuDDEKqxKBuT5a7yaZ-0jy_maZK19yW8i1_dXgTxgRR5fs0gZOixkWjyX_K-il3emGs7Mh5bjZgS5Pk_b4xD9TyQyhftYbgHXGNFnzffSUVj1M1-cdyn9If-w9hDvX8-qs7rk1WUEc0tGys1pGbUTz98tPd_8n-dLzkMSqm0HZkjIZR594PIp8VOw.jpg"
         }
       ]
     },
@@ -55,7 +31,7 @@
       "date": "2026-10-24T17:03:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +53,7 @@
       "date": "2026-10-24T17:42:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +65,7 @@
       "date": "2026-10-25T06:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +83,7 @@
       "date": "2026-10-25T07:26:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +101,7 @@
       "date": "2026-10-25T07:26:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +123,7 @@
       "date": "2026-10-25T07:26:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +135,7 @@
       "date": "2026-10-25T10:51:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +154,7 @@
       "date": "2026-10-25T12:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +162,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XeuL-67M8qx7--DawBUhUg2OEZEsIwuM5frEqlATm8cJoKpLJ4_R2nEzqt3j4kXHL4gVmrDi2dVksJpBxxIJpPxXNcDrPy3hrH6iDrvWZIIbHyWJa64U3IQb1bzddU7s9z1ciDQha6z_6Mq1UwSmZmfunsEtkpYWoNnBIQCb7hzXEkMDBJOP_CsfuGm6r279heaKRvVotHECMUdzlCo63eQ4sTTCWHlgtK6QzLMFUL7IPmUAlL_kPvd824UVfgD4ObvjZUWKCFEZYptLuYbhmArAHQDgQrgVfmhFHVt2EYzRl4HQlRpiv4jSQ00LIUsIW99KR_kmBJvcuPlbYaWH9g.jpg"
+          "url": "https://cdn1.telesco.pe/file/iSpbCq4J5HH7TAm6Q2fC7uoG6GNVEkV9Uv5SqOOZGQ-koHoVeFngn6qoLXv27VsgLIjO28E9rDWNR55N_rYA_EM9IklhduCrd7EVgQWjy15T5nNC78yHSSiOcR0dOhdFokwMFxSakijFPCksM0H1pYty4tbd6L6_tN-OUiRuio074dkHN7hole3w3iwTxM04yOXSaKxvF643ys9Yfr6A509rbeaVugKmdDwHtRutuLa4G7G_ChqeODgv3Dr2cK6oHnEyqHAz64mn7B0L2p7JQRXj4OqScbXn0v4sHMT1IHs0Ie6O7Bli6tWC0O6k6qlAyMzeGsXzn5CmKq4DawPyEw.jpg"
         }
       ]
     },
@@ -196,7 +172,7 @@
       "date": "2026-10-25T15:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +190,7 @@
       "date": "2026-10-25T16:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +202,7 @@
       "date": "2026-10-25T16:38:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +220,7 @@
       "date": "2026-10-26T06:13:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +238,7 @@
       "date": "2026-10-26T08:35:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +256,7 @@
       "date": "2026-10-26T09:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,11 +274,41 @@
       "date": "2026-10-26T10:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5705,
+      "message": "",
+      "date": "2026-10-26T10:39:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5706,
+      "message": "فقط دسترسی به آنتی گرویتی محدود شده. جیمیل و جمنای و همه چیز اوکیه",
+      "date": "2026-10-26T12:35:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AfIr9bNzcH4m5S06NGJu7P3xtWFtNI5ygYJPBLuDgCYGPdiBkRFfXRBYzxMOiaY9g8PSCqROjYt0c9LmAi7wf_XvhRHecR-IHfn_l4TUJcrfeUx1Wck7a92LTuz1lswPqrRpX_ZyDHQMcklald2XSLVonMup-5B_-QSlZJ3ppxz2JFIRHREX0QLvy8OHN6vDukkhIfxlLec1ZYFKsbkkCXy1I-fSdbLEwiob5hc8ImqEKynlGKEATYhhhg7FMQUVYUGla-2oPVol0ahcjNdwel3pNx0d1xJraJZV44TiEqZkBzIB4wao4UxKP1sq5dub-OKx2SQYEaufNar3wfzYSA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
