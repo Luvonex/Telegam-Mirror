@@ -8,64 +8,12 @@
   },
   "posts": [
     {
-      "id": 5687,
-      "message": "\u003cb\u003eآسیب‌پذیری Brotli با شناسه CVE-2026-111497 (node2shell) در پایتون و دیگر مصرف‌کنندگان این کتابخانه هم قابل بهره‌برداری است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eالگوریتم Brotli یک الگوریتم فشرده‌سازی داده است که در بسیاری از کتابخانه‌های HTTP و مرورگرها استفاده می‌شود؛ CVE شناسه‌ی عمومی ثبت یک آسیب‌پذیری امنیتی است.\u003cbr/\u003e\u003cbr/\u003eگزارش Aikido نشان می‌دهد آسیب‌پذیری node2shell که این هفته درباره‌ی Brotli منتشر شد، فقط به Node.js محدود نیست و در پکیج‌های پایتون و دیگر مصرف‌کنندگان Brotli هم قابل بهره‌برداری است. در بحث Hacker News از تکامل آن به HTTP2Shell و دامنه‌ی اثر گسترده روی کتابخانه‌ها و اپلیکیشن‌های HTTP صحبت شده است. Maintainer ها و تیم‌های امنیتی باید وابستگی‌های خود به Brotli را بررسی و به‌روزرسانی کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-24T13:09:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NqpBinM4a6zvDYlzjehEi1YKZnBvAd27Dr-l8xkOvQDjFGmpWh10425Bv4M5I_YItNbvCGw3XDQs2C_Y6znsFcVmVwV6zqhMub_31HlvCy4bvI_-XVA59Nizd-fVZjPqE860w_WemZ89UE_YAdtxQYEUeFdFGVuDDEKqxKBuT5a7yaZ-0jy_maZK19yW8i1_dXgTxgRR5fs0gZOixkWjyX_K-il3emGs7Mh5bjZgS5Pk_b4xD9TyQyhftYbgHXGNFnzffSUVj1M1-cdyn9If-w9hDvX8-qs7rk1WUEc0tGys1pGbUTz98tPd_8n-dLzkMSqm0HZkjIZR594PIp8VOw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5688,
-      "message": "خود خبر زیاد جالب نبود اما باید بگم Z-Library بزرگترین آرشیو دزدی از کتابهاست و از کتابهای آموزش ژاپنی تا رمان‌های فارسی و کتب تخصصی جبر و کامپیوتر و مقاله و... داخلش پیدا میشه\u003cbr/\u003eسال 2022 دولت آمریکا چندتا از دامین‌هاش رو بست، اما الان یکی از دامین‌هاش رو براتون پیدا کردم که موردی نداره: \u003ca href=\"https://z-library.im/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://z-library.im/\u003c/a\u003e\u003cbr/\u003eدامین جعلی ازش بسیار زیاده و ریسک اسکم داره. دقت کنید که این پلتفرم کاملا رایگانه\u003cbr/\u003eاپ اندرویدش رو هم میتونید از \u003ca href=\"https://z-lib.en.uptodown.com/android\" target=\"_blank\" rel=\"noopener\"\u003ehttps://z-lib.en.uptodown.com/android\u003c/a\u003e بگیرید.\u003cbr/\u003eنمونه‌ای از دامین‌های جعلیش:\u003cbr/\u003e\u003ca href=\"https://z-lib.id/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://z-lib.id\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://z-library.bz/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://z-library.bz\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://z-lib.mx/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://z-lib.mx\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهم میتونید دانلود کنید، هم میتونید آنلاین بخونید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-24T17:03:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Ztyd6rpn3AhzHDvQ8kgiwtsre1utPejFGUbL9PQYuoHSLhoQ4vtDuLy9x4eqab9YjO6wnZATN7kc7g2oR7eTKLtsh0KYcsNEKHhwygwIyewhLR1qIAqkh1Z03GSB8dJDR15c2-elBdAO6hp8iP17iImpFGHQDSFKzLK0EE5i93em81QkdGhShaVeAxQzPQCqmrSzetXJLD37MAKlHGW49b3iH_syIKS-9bZmGu0InqcdgW79lpSAmopy-AQUkrgjjfLaNYrkv42FOarPufJ1iKyS0CFu0V5rWwSrb5A4_Fe625d2vkhShYeriz0pOOSYtsHn13vd6pqTzx4TMdh6aQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BzmuEu4Qyq7w-55LsHbd4gFkkoG0onENkVa5jHOAlYez4lBVeD_01LBZQY-HHhKZri0gh449rGEMjjHjsoYxjBTFhP60nbVpUsnHoQnH4KLv7E13DwWaBRKvJPVt65BcxhGY_JN2D9uk8uwdRRK25jSWv8gCf_SVUTc-wgpqlpKSY8MCAD09dUDox5lBUSpyCrP2eFsJY4Bo3OsHIqYzGc1wsZb3HcRk6Tw3vHu9Nj3-grlhSEmjQ6jVeNUnNF4LEgUXHhPcPg1nyMd7-suXs_uDZlqfTJyAtnkZwXn8vq4nwES1x6DLQYc01SNZJKXykJc5CWJueNMfmtwIwO8wvw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5690,
-      "message": "یادش به خیر یه دانشجوی دکتری توی خوابگاه بود\u003cbr/\u003eبنده خدا سنش هم بالا بود و دنبال یه سری کتاب بود پیدا نمیکرد\u003cbr/\u003eاینو بهش معرفی کردم، سر از پا نمیشناخت\u003cbr/\u003eانقدر میترسید یهو اپه رو ببندن از کتابایی که دانلود کرده بود روی 3-4 تا فلش و هارد بکاپ گرفته بود",
-      "date": "2026-10-24T17:42:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5691,
       "message": "\u003cb\u003eمدل صوتی جدید Block با صدایی شبیه انسان؛ اجرا به‌صورت محلی روی MacBook M4 Max\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمدل صوتی(Voice Model) یعنی مدل هوش مصنوعی که گفتار تولید می‌کند یا آن را تشخیص می‌دهد.\u003cbr/\u003e\u003cbr/\u003eبه گزارش TechCrunch، شرکت Block یک مدل صوتی جدید معرفی کرده که کیفیت صدای آن بسیار شبیه گفتار انسان توصیف شده است. این شرکت اعلام کرده مدل می‌تواند به‌صورت محلی روی MacBook M4 Max اجرا شود و به سرور ابری نیاز ندارد. اجرای محلی می‌تواند هزینه و تأخیر را کاهش دهد و حریم خصوصی کاربران را بهتر حفظ کند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-25T06:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +31,7 @@
       "date": "2026-10-25T07:26:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +49,7 @@
       "date": "2026-10-25T07:26:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +71,7 @@
       "date": "2026-10-25T07:26:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +83,7 @@
       "date": "2026-10-25T10:51:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +102,7 @@
       "date": "2026-10-25T12:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +120,7 @@
       "date": "2026-10-25T15:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Y7iInh47AFVuhaaU1zgPiSVkfF4ilh4DpDhssXLSXueXTu9AHCmzX5245UzHbPYK3XFBMBEcg0_HWn0h4NjAPd91tSB8Y9L3iJfQUYbWUXvxfw7TriT1UYQ3HMbMrV-JISwb7ralLh39Yy1Ddt9hul3W1HevukV5RSvW6HHvScm-OOpLIFqCd1NRuxmjDzmeaTsJpfw8Ii3Toj9wMIsNQ07FlX8DunOQzVWJN_0emfcEc41g04BBOWtCwnmO_BMzldAjyH0gqcvw9f3wjC5EFa3GQUFwZunO8ttj9OArLLJuqpME8ZZO1R6DxnV2CC58P4SeGp3i6dGSpYEOh6RF6g.jpg"
+          "url": "https://cdn1.telesco.pe/file/PYSLn3ijsSUmYMSlmjsfH7EB3XDw2GjiGNvIKVxqxzKFuGuK5dCk1ixu1PdjQJxxO8LT2gQNbesAp6pictuV5CgHGA8tne8_VAEsvlcdZbIVwiQt1_-daG5Xy8Q97ISaWU3Hk0gWwdjBkeSyy3JlGruvxVZRZcEdOiJHvn0LfTKuoEM__Eq5vkg_pEP5HPBrC2PFPiuyqLculWk07gmYn4ubao7GGm_w_ycVZbBfW4to52gfR7NIjlS_j-sbIJCopsKrxnKWeuvGznRQEDlDvtljplQqnhY1I4oOcgmAamnqtMKAJ98vmCtB4Pl4iKi7ITENHrN4owSh7eUBbB412g.jpg"
         }
       ]
     },
@@ -190,7 +138,7 @@
       "date": "2026-10-25T16:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +150,7 @@
       "date": "2026-10-25T16:38:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Ls4AGkAqDSRI4YMcDQ6Q4eB1fY9XCFtEgRAe1TOWs519e8BkZ3zqoND228hpgNu0FqCIzfWt8tPZJpgUc1t5yTOzlkxbunS7hO-yBrvwI3nw9DvNwBvo8tkePFD8OVrup24qBdTTPm1KkEx-A4IVN58umuJE61VlssQDQ8wtrA2lTUDWTjKGHgcoYHS25OouwRClvTQ3ztMpIptSDpgrw3bnCYA4WjPIwylMcC3qV8aznlOHW-SrxkywDnFlfEYBGl4rVTYGz6XhkNnVOVcSc3bLc6jsp2s4xtXKX3sbEH5mETdVi3tJjTZ55jxzLvPpTGQLfxEaKn69KCZj0-Kwgg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Y32Sh6TYTodflRe1s3KqweUXy3hiQxr44H0dsTFIvsOReAI1ugEEypCtEVoXtqXBgTTM4kFwkcwW2rQ9BctpEr_FxAzE8bAFHG0J4rD1SqDvJ_d78hfP1K6WWI1v9lDqk-sZJwiFjnvzhmxSHIWeUSbQG1E77LG-N1qFdyFj2OSA_4R4tr6uCJe6Fo1sLsQh4AYGbxKVVOTTQTmRxn7G6R0AtMsYwNh5e9oNM2FWKEFmWF_O8gm4auEI6E7tKc5TSCouSXlgro99s4mcrdPZj1OsdhyoHfqibPuRXwJ9OGr7DmORnPBd0pBrZxBsIuSqwLKo4NfTJe-iK2qIABx3Dg.jpg"
         }
       ]
     },
@@ -220,7 +168,7 @@
       "date": "2026-10-26T06:13:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +186,7 @@
       "date": "2026-10-26T08:35:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +204,7 @@
       "date": "2026-10-26T09:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +222,7 @@
       "date": "2026-10-26T10:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +234,7 @@
       "date": "2026-10-26T10:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +246,7 @@
       "date": "2026-10-26T12:35:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4920,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,6 +255,72 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/AfIr9bNzcH4m5S06NGJu7P3xtWFtNI5ygYJPBLuDgCYGPdiBkRFfXRBYzxMOiaY9g8PSCqROjYt0c9LmAi7wf_XvhRHecR-IHfn_l4TUJcrfeUx1Wck7a92LTuz1lswPqrRpX_ZyDHQMcklald2XSLVonMup-5B_-QSlZJ3ppxz2JFIRHREX0QLvy8OHN6vDukkhIfxlLec1ZYFKsbkkCXy1I-fSdbLEwiob5hc8ImqEKynlGKEATYhhhg7FMQUVYUGla-2oPVol0ahcjNdwel3pNx0d1xJraJZV44TiEqZkBzIB4wao4UxKP1sq5dub-OKx2SQYEaufNar3wfzYSA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5707,
+      "message": "\u003cb\u003eساخت استارتاپ و 50 میلیون کسب درآمد توی 30 روز با Claude Code | قسمت 1\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این سری ویدئو، قراره با همدیگه Commento (کامنتو) رو بسازیم. پلتفرمی که کامنت‌های اینستاگرام رو به‌صورت هوشمند بررسی می‌کنه؛ کامنت‌های توهین‌آمیز و مزاحم رو فیلتر و حذف می‌کنه و کامنت‌هایی که نشونه‌ی خرید دارن رو شناسایی می‌کنه تا پیج‌های فروشگاهی و اینفلوئنسرها بتونن بدون دردسر، حجم بالای کامنت‌هاشون رو مدیریت کنن\u003ctg-emoji emoji-id=\"5424803166707261356\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F83E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🏃‍♂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eهدف من توی این چالش اینه که یه محصول واقعی رو از صفر بسازم و توی ۳۰ روز ازش ۵۰ میلیون تومن درآمد داشته باشم، اونم با شرایط واقعی ایران: اینماد، دامنه، سرور، درگاه پیامک و همه‌ی چالش‌هایی که سر راهه. نه ادعای «بخواب و پول دربیار» دارم، نه قصد دارم محتوای زرد بسازم\u003ctg-emoji emoji-id=\"5255999394217488900\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eیه نکته‌ی مهم: این ویدئو فقط شروع ماجراست. چیزی که توی این قسمت ساخته می‌شه یه نسخه‌ی خیلی ابتدایی و اولیه‌ست و قرار نیست محصول نهایی باشه. نرم‌افزار به این سادگی‌ها نیست؛ طبیعت این کار اینه که خیلی جاها اشتباه می‌کنیم، چیزهایی رو بازنویسی می‌کنیم و مسیر رو اصلاح می‌کنیم. همین الان هم توی همین ویدئو می‌بینید که نسخه‌ی اول با ایراد جدی ساخته می‌شه و سر همین دلیل، ویدئوهای بعدی رو داریم که توش بک‌اند رو اصولی‌تر طراحی می‌کنیم\u003ctg-emoji emoji-id=\"5458669860009554206\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AB6.png\u0026#39;)\"\u003e\u003cb\u003e🚶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388953246486269495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چیا رو انجام میدیم؟\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e• تبدیل ایده به محصول با کمک ایجنت: قبل از ساختن، امکان‌سنجی کن و محدودیت‌های API رو بشناس (مثلاً آیا اینستاگرام اجازه وصل کردن ۵۰ پیج به یک سرور و وبهوک رو می‌ده؟)\u003cbr/\u003e• معماری چندلایه‌ی تشخیص کامنت: نرمال‌سازی، بلاک‌لیست، کامنت‌های حذف‌شده قبلی و در آخر هوش مصنوعی ارزون؛ به‌همراه محاسبه هزینه توکن و نتیجه تست روی کامنت‌های مختلف\u003cbr/\u003e• نوشتن SRS با ایجنت Muse و بهبودش با Claude: با یه SRS خوب، حتی ایجنت ضعیف‌تر هم خروجی خوبی می‌ده\u003cbr/\u003e• اتصال Claude Code به API واسط: ساخت کلید با محدودیت مدل، IP و انقضا، تنظیم settings.json، کش و ارزان‌تر شدن درخواست‌ها، و دستور /usage\u003cbr/\u003e• پلاگین‌ها و اسکیل‌ها: Graphify، CodeGraph، frontend-design و Superpowers (و اینکه چرا 200 تا پلاگین و skill نباید نصب کنید)\u003cbr/\u003e• مدیریت پروژه‌ی بزرگ با Claude Code: شکستن SRS دو هزار خطی به ۳۲ فایل، و یه سری ریزه‌کاری‌های کار با Claude\u003cbr/\u003e• یادگیری از ایجنت: پرسیدن دلیل انتخاب PostgreSQL، Redis، RabbitMQ و Drizzle و درخواست توضیح با نمودار\u003cbr/\u003e• سرور، SSH و دامنه: ساخت سرور، کلید SSH، اتصال با Termius، خرید دامنه از Cloudflare و تنظیم DNS؛ به‌همراه هشدار درباره‌ی تفاوت قیمت خرید و تمدید و بن شدن کاربران ایرانی\u003cbr/\u003e• تحویل کلیدها و سرویس‌ها به ایجنت: LLM endpoint، پنل پیامک و ورود با OTP، دیپلوی از طریق گیت‌هاب\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشا در یوتوب: \u003ca href=\"https://youtu.be/OD-wmcUsTm4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/OD-wmcUsTm4\u003c/a\u003e",
+      "date": "2026-10-26T13:39:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/i2l67yD7UTTKWiE87WIT0xn6Je1M5bCZRFq8b9iOMIZBbyq5NxFuimIl-s88TkzslJDkinR94DYgbWYABja0PUjYWb9OpQtBP_9K9KA5Q4ozzsTTWQWEBLHFD4c1M_gggls71isn0-2K5xGQn5x86jOA3HNe-5pjJE10L0yUGNfbCK0TVC-6DwAaLSNi2uFXm5rwol5xDgqVFbtgltWWgqGgk2WmHgFvmUVq4b-o5AeUeOSukYaiPHKtuGLL79HK2RrPP-BluNKyuyBBcT73QVPb6eyA9cBSRfCx4uN70ehyL2RSiF554GO5DmUnWv-dM6W5vkWj3b0mSRbI5CbIvg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5708,
+      "message": "yes that\u0026#39;s it",
+      "date": "2026-10-26T13:56:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NfyeHmru36sxF-LltA2HDufDJL33ry8bdRt7KfAZcyfTN8K59pgqRKduQ1vj7Ozfg55rW7e83zGfz15JRwnTJX9TEaqumptdRapvScG97f56qyZ4FJvqxb19BF9B67PA8c7EdVIu2TCC6H1c01RQkkx_R7RXBpGEyj2F_iN27Oosn72VK37F-PraJENuufMeeRStR2_Q80BwESSAaMdYTkdFQ_OxCbDq383D3aVWho5Hb8Ez4QepnK2sQiG_BObAfKIoAnBBI0085r1NmkZfbj3Dnbg9bJStYyUWfN9BHeYGvpgOtfYg4lSpM9jdYsdMiGn8hNIxQkTilydJlbNSaQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5709,
+      "message": "",
+      "date": "2026-10-26T14:34:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5710,
+      "message": "به زودی می‌فهمید که این رو سر چی سوزوندم\u003cbr/\u003eبا یه کمپانی قراره کار کنم، یه سری آفر رایگان و بونوس هم واستون گرفتم و ویدئوش فردا-پس‌فردا میاد",
+      "date": "2026-10-26T14:36:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/KMOntjTC_UEDCsMLpsWCjKHXgmSHQlBtgpX7suFl0JU-tbZW7jZ6mJOCC0ctGGKWx__LoPWyoeqxFoaic9AWlKL7O_5B8m2yUEQJ1XnWZu_LLM5kKeKxwmtDpacdbjRv0_2eQb9OxLHgCnmVNpRXePQzCC8mgolcomaZZBism26l4cBpLorRv_YJRTvxjII4NbOQej-g72QKtCjhqKwlx4WV75fQOjHeWixnIIok2kEW5mIIMq-753r9eCEsrFnbAI89yN_GIzfXt8FVwSxiQLHh_4el_PcJ3ho8mmkkPx_bFsagqWistQFQAi-oqzX3Bt_AQCsJQdKaoYXYHU618Q.jpg"
         }
       ]
     }
