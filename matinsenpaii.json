@@ -3,53 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/VBZ9z4UFzJxSyTdBHVb2TyQHpPbpKiifdmsrQagSAEjxW99IOodDSRr12Pzu2kcy4J7xEyHMK2dhZu2xbI3tisD-NYmNzamnhsfwMV-ZhQbNCwjuutvJMNakQqMuWubT0Iy2qt4QPZRnQr4EdlWZzmwX3TsmpGYzv57kDpm_BRRoMfeCjwSrsiYTAtBoG12BvfsEFhw1jS4jNX4Addmp1xweewx464YbhMYj2a148UMRiQmMT10uK46ZBiDT4gScETKv8yTVPinheW3lSjE73WHAC1djRzbIO352joekC5S_y2u50NvC7wFQZyPWFNug8tyoh7Rsz9n4kL3Ck21DKA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/tqBzYItZU1c1WBUhfeVO90LDsBqdsGlY5kr0ivPeuOPJLUDfxuHcmDrXYNhyY7TL2Ncou-mf-6ZwpDclMDpC0FbhaPyE05IGz3faUXDNCXZyRdOEu70JgcCu3VG_0DmlHJxvAy84_ZEGWr8KwFQF5ViybmLuU98hktVNipiU53TopcziTa1aAGW_JLVO-79nLh2H0AVL_LeNJec22qfLLWAelN11_2acRONErnvJuL0j8SLl9Pbj0M5ja0tcW5CQ3-sGd8PM_78svDuu_UrnwQpXdnKiWlJ3m07KZi-Jok0ur-G9beqKo87evclWIxomsrYE1wD4JevBnh4ZFl3mGw.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5697,
-      "message": "\u003cb\u003eاستفاده از مدلهای رایگان Opencode در Deepseek Harness\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا نصب پلاگین dsh-our-free-model می‌توان GLM 5.3 Flash، DeepSeek V4.1 Flash و Kimi K3 را بدون اکانت، API Key و اشتراک روی DSH اجرا کرد. او می‌گوید دسترسی، به منطقه و فهرست فعلی مدل‌ها بستگی دارد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمراحل نصب طبق توییت:\u003c/b\u003e\u003cbr/\u003e۱. اجرای DSH:\u003cbr/\u003e\u003ccode\u003enpx @deepseek-ai/dsh web\u003c/code\u003e\u003cbr/\u003e۲. کلون ریپوی پلاگین:\u003cbr/\u003e\u003ccode\u003egit clone https://github.com/Ebony-Vinyl/dsh-our-free-model\u003c/code\u003e\u003cbr/\u003e۳. افزودن پلاگین:\u003cbr/\u003e\u003ccode\u003edsh plugin --profile web add /path/to/dsh-our-free-model\u003c/code\u003e\u003cbr/\u003e۴. ری‌استارت DSH؛ مدل‌ها در model picker ظاهر می‌شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e پلاگین توی هاب غیررسمی کامیونیتی دیپ‌سیک منتشر شده و راستی‌آزمایی هم نشده از لحاظ امنیتی؛ توی سندباکس بریزیدش و مراقب باشید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/He1s_Sammy/status/2114056654777897002\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-25T12:34:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SDIIsunzCFD3BFwoW74axUeqDqnNFD018FNF5UMn8MOhd60rFjy7vps19eagZIRD8Jh6x4SZ-bkQhz5mMfsIAnkd6hx4gZ3zrbbxqxF4-8RSPJjyl78FojIKZNqMeECSO8u2vALEgbBdPRUazPcfOJw88T1INJCpUpA9pgnnk21Q96GkF3ururBRK7Z14WqYh918IVS2T52vfjzXuTVVDzqDTe0uH6I8qG0E95BgPhK8meTJPCRmIzor-To6p04n6Cu6chgskKfsXkXmRnoUQycpSaQ1bEbVhsTYb9ZSrd0RCLAXj6SgROgFMcgO1rDZkP2i60f8m6hvTAr6SC4tuQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5698,
-      "message": "یه ابزار امنیتی اوپن‌سورس و ایرانی که واقعاً ارزش دیدن داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eArad Code کدت رو مثل یه ریویوئر واقعی می‌خونه و فقط باگی رو گزارش می‌کنه که بتونه دقیقاً فایل و خطش رو نشون بده.\u003cbr/\u003eخداحافظ false positive =)))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/fedman0/Arad-Code\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/fedman0/Arad-Code\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/safasafari3/status/2114360975780389123\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003esafasafari3\u003c/a\u003e",
-      "date": "2026-10-25T15:11:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QtcieWtSvfliqdPCVfDmHKmBTHD88TDniRV-4rcE997uWqtUBk4mWqVvRq0DLUWCFesOBpenY5NFLkIGeRcyoI2gOpTEFOIsi_DazO8BEKn_WwVf8fYaEITmC4tik5Zy7CUezEH5M_7IN4AN6V5RtTNtrHBOBKJVSIPlFemohI6Mn3DocuSmUSNYuWi_xsj04ox-BONoI41bQU53q8IGutr7uQM_ykM9tx4Orh1y-65Y293YKsxORtSe4szGd5BPE1d-0sBjIZ-D7wiIl0-xt7LaMtYKZLoo72a2d-5GdLAjCKYPTbljnB-yksVESZZVL6DkH-zPy3J8kfjkGAnG3Q.jpg"
-        }
-      ]
-    },
     {
       "id": 5699,
       "message": "این REA یجوری ترسناکه که از دیشب که تستش کردم، کرک و پشمی بهم نمونده.\u003cbr/\u003eدیشب یه فایل apk بهش دادم و از ترس اینکه کلاد اکانتمو بن کنه، روی لوکال و Qwen دیکامپایلش کردم. عملا زندگینامه اپ، حتی کلیدهای API فایربیس رو درآورد و یه اسکریپ نوشت برام که مستقیم و خارج از اپ API رو کال کنه. تهش هم ازش خواستم یه داکیومنت کامل از همه‌ی endpoint ها و ساختار اپ بسازه. در ادامه هم با تحلیل endpoint ها یه تصویر کلی از بکند داد و ازش داکیومنت ساخت.\u003cbr/\u003eتا اینجای کار شاید بگید خب که چی، ولی که چیش تازه اینجا شروع شد. همه‌ی داکیومنت‌ها و اطلاعاتی که از اپ داشتم رو بازنویسی کردم در قالب داکیومنت‌های یه پرداکت جدید(که کلاد بهش گیر نده و سیشن رو فلگ نکنه) و از کلاد خواستم از صفر کل پروژه رو بسازه. صبح که بیدار شدم دیدم کل بکند، فرونت و اپ رو با فلاتر از صفر ساخته تست کرده و خودش باگهاشو برطرف کرده، و نه تنها خیلی تمیز کار میکنه، بلکه با یکم کار بیشتر میشه به عنوان که پروداکت واقعی ازش استفاده کرد.\u003cbr/\u003eحالا هی بگید AI قرار نیست بیکارمون کنه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/SMRoot/status/2114327090136858766\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSMRoot\u003c/a\u003e",
       "date": "2026-10-25T16:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +25,7 @@
       "date": "2026-10-25T16:38:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +43,7 @@
       "date": "2026-10-26T06:13:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +61,7 @@
       "date": "2026-10-26T08:35:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +79,7 @@
       "date": "2026-10-26T09:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-10-26T10:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-10-26T10:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +121,7 @@
       "date": "2026-10-26T12:35:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +139,7 @@
       "date": "2026-10-26T13:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +157,7 @@
       "date": "2026-10-26T13:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +175,7 @@
       "date": "2026-10-26T14:34:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +187,7 @@
       "date": "2026-10-26T14:36:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +205,7 @@
       "date": "2026-10-26T19:48:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +213,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/v7yovj67-713oHZz7y_Iz5KXYgFGr8GfzP4-m0gWCcGYsRwNhkQ0bFHEHXCa4GRFgUOthSZoiz1Pj4vI7tiEN5AsR_x_Y10T5ad-Tyjz-nqAP9QvHeL-s0na5X0csn_3B-jg-nU7MW3QnuI2Y8sRtnqqttDsySPKSr3b6IY6dowErDp_oyu4ErkdOIiT5B1OJR99zJdUwsK6yUTCMV4lseK2f3ZMpxyn-Q5COePgwMFWwyLzoljyk2mrlbPJqTnz_bbb6ptQeRGnOI_UKVECe5K2x5H6PXIPIIySiLrNYoihzanBwcr-dwrMBhJQo5wi5MqA2m7RpGvJTMQiip2xsQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/R9l4ej_zNOeYeS45fKg2VyDtdaWEY-gl1fmPsEyoHb6pw2yzGM0pWPO2SwOI1DniB_5XLiICviikJOWrmGb-KrcWjDKCiaJ8c2jz1yn_YK879M0RCjdklaOvYC65OT5Ap47heC0eKM7dQz1v8RT8mKYJYH9jMykqzA6PdSUiB6cuTrx_0_PZ53iUQn3yAo6u2hT-Li_DEFqMt2jufEYJdLvRS770rXxTf3utCvaBhkgoBk1NrSDz5D4St9aoQTsjiBwgzTxUVrYWNHubzMaIhazsYptOBpTBIY3w3zYQLDa5XTlxhUnKsZh03ZbrxdjoAWNU-KSrcA6z_NlTsxui8w.jpg"
         }
       ]
     },
@@ -259,7 +223,7 @@
       "date": "2026-10-26T21:16:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/JsuFG6LX9lECcc7pjiRClKiISPeWGy2xLv--YFSjerLWFLTSxiIfWAGDqZf2RsEL-LWubAwcM82nq7LPgbyHGD5Ed5MHzYDXJhUB1ds8uDH98rA-CFntoj66t5zm-LBkE9TyKfCuH7dVJO6C1YST1O2DNUR-tXNYdNOAN7sp9G6o2UworZ_EbvRfJ_0Lf4Xcc1YXOY8AWYOKAnZdNF4NFwWJ-sX5Zb40fjFTP0gKg7lFg2jKFFWkJYzlYohLOKBq9ss0oEL7SQvQbBr9uRI2vrRpA811RyoveM0pdJ1yHo5Vb2em_vp2KgZUKL7eEYqiUb8gKEenT7dLUN8O6TinRg.jpg"
+          "url": "https://cdn5.telesco.pe/file/D4XMW8JR2CIzcgL1H4ACwczlQIEsR4joX8BlK3EuevSy9dP74UwiXlD90d9YR4kBpEQolxMNJrXAekTaM9phsG9cnBdp-8YGOEQCWQ7lvehPqpIZQhJ-1-YCC07x_o9dmOeG7dxltYIKr0ElnllUsyHriBMWWEJymtEMwzeBC5gp9pO5_cMZPOCHXSykT5dofZ7oV-Ykz9xmxDMYcDYAUllchcM5gATe9cUzTkmlgryYEQWSSlEKD5AqNRzHWmQZPdXcfRtTvBFVE0-tDBXh61VHG9qHJhDFzxwi3z0uPPv3FR_J771eO4ppwqY_VMqMJsHlxQVy4pfhxBT2WpVQMQ.jpg"
         }
       ]
     },
@@ -277,7 +241,7 @@
       "date": "2026-10-27T06:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +259,7 @@
       "date": "2026-10-27T08:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +277,7 @@
       "date": "2026-10-27T10:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,11 +295,41 @@
       "date": "2026-10-27T18:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5717,
+      "message": "این بلا سر من هم اومد و سه تا اکانت آنتی گرویتی و یه دونه کدکس و یه کلاد خالی شد",
+      "date": "2026-10-27T18:50:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5718,
+      "message": "اگر از ۹روتر روی سرور استفاده می‌کنید\u003cbr/\u003eحتما حتما حتما این محتوا رو بخونید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://telegra.ph/%D9%87%D9%85%D9%87-%D8%AA%D9%88%DA%A9%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%86-%D8%AE%D8%A7%D9%84%DB%8C-%D8%B4%D8%AF--%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B3%DB%8C%D8%A8%E2%80%8C%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9-9Router-10-27\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاز اینجا بخونید\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/M4tinBeigi\" target=\"_blank\"\u003e@M4tinBeigi\u003c/a\u003e",
+      "date": "2026-10-27T19:12:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DbhxHX1M3DFdS-ag5A1DWcJxTOfMnm2o_ZLRz2KodxbVMF709rPIcENi9hUaIEks2Nw96xlZGq0aW3avLZ7MH32qvNWbW2ltsV8DKpNfp9KIqK8gy8oaQz_ei0IKggQuP1NioQqhKeozTywORNYkKIkotlQBYFeCuGFRN01MN5AmHvuun7rVtqw1sUGV-mamjllBgq0fD4Ax0HAArDLVFOdfZA5OGA6F-CyjLInRL4vmoASicyfdhrCfEh1TWmIFj3iPaei8kqfEbtKU4ie4jE-_bJ7s2J7OVxT0k8olNMIfg4iQFBjDlEwJUmcOSlrs6zy4HVsc1omkYGE-3-rZfw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
