@@ -8,46 +8,12 @@
   },
   "posts": [
     {
-      "id": 5693,
-      "message": "به راحتی برای من کانکته روی همراه اول و سرعت اپلودشم تا ۴-۵ مگابیت میده. پیامو هم با همین می‌ذارم\u003cbr/\u003eMasque - Http2 - both - Turbo",
-      "date": "2026-10-25T07:26:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/teAxZaeZ8g5t1QMnGtTNhMGHnyScilAYg8robAMwXdXbZLVOL4ZqfrqUlXcSUuYCCKXdXXeHCTqnRyPJc51-M-9x88troX5HqkO54Bqj-eGNFbiWIYOgv4H3KEmmEhZNEsJ-WDpKKzAIp4xYQKzN2b3rgDNS2YZrwxdS-eC-T1G6vZGCN9I9OHBR-9Kelmv2Y1HadnrAyh7Awu20ZaqR_QHlwQ7Dt_w2vgnouK051nelq__oMEDhbXDxurEhr6AhP9zg5vJuqdACxiMxwP3CRdYDd6woSLCoadEuYduYzFkP-SC7OEIjE6qfZem55U4684PqfLWEs8egt8h7nNSyMA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/msk0pwBgew_vIIdrbZkw3kZf9mPm98orA8rTNBbzNWPPhaTpkvNYW-8a0IUayscFyFZPrTHT793uu9a1KPE_FUuiTLrJZ4QEXcFzMSbOHf8k_cXLuUc0Urn3FFhEmrAqhpR_WC56rLiXXqrB8LuvpiadsF6IjkN7wUS3uCsLHPKR3aBpjRpX9KZyZlkkNZa0x_qjunhoNmFOOGoBY0BoJXNFla2GW7ZFH_fxD5ud22Q9ZYRPIEIZ6R56ys8NMiKGhZxJbCdDhJ_5RvSb6zAT_uK39mJ0Ylk_JkvTqOy7LSUvlCNrHPAMIPx4_l0soDtooPSzA6LQ8h5dPksDaOcw_A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5695,
-      "message": "آموزشش رو هم قبلا ضبط کردم: \u003ca href=\"https://youtu.be/2h6qlA1pJFw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/2h6qlA1pJFw\u003c/a\u003e",
-      "date": "2026-10-25T07:26:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5696,
       "message": "\u003cb\u003eمقایسه‌ی DeepSeek V4.1 Flash در دو هارنس: pi در برابر DeepSeekHarness\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهارنس (Harness) لایه‌ی پیرامون مدل است: پرامپت سیستمی، ابزارها، حافظه و قواعد اجرا؛ چیزی که مدل را به ایجنت تبدیل می‌کند(توی این ویدئو به طور ساده توضیحش دادم: \u003ca href=\"https://youtu.be/9uO56F8UXQ4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/9uO56F8UXQ4\u003c/a\u003e )\u003cbr/\u003e\u003cbr/\u003eیکی از کاربران توییتر، مدل DeepSeek V4.1 Flash را با تنظیم max 1017 یک‌بار در هارنس pi و یک‌بار در DeepSeekHarness (DSH) اجرا کرده است. در pi اجرا ۴ ساعت و ۳۲ دقیقه طول کشیده، ۳۵٫۸ میلیون توکن مصرف شده و هزینه ۰٫۶۳ دلار بوده است(که به نظرم ضعیف‌تر بوده به شدت).\u003cbr/\u003e\u003cbr/\u003eدر DSH همان کار ۱ ساعت و ۵۷ دقیقه زمان برده، ۱۳۴٫۷ میلیون توکن مصرف کرده و ۰٫۷۲ دلار هزینه داشته است. نرخ cache در pi برابر ۹۵٫۲ و در DSH برابر ۹۹٫۸ درصد گزارش شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/beyondwudan/status/2113952452211012092\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-25T10:51:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +21,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/MSC68qaSucNrqp0A335uMPiVCnuPJ_f4jJV73hkjIG77CcH8NGgP2hjUqOphgDWvKQZJvKtLhHM5kgRh_dfuFUbedONrWpx8IaMxMx_zeW6kNeWfb9viyp6xAJJBUCitVPvmgmWd4Fhizo_45fyQ4WhIvPZp4YqBqBF7F0v2etFwlccHunzhLvebTLABIRGV20NwtEK6cPQrfMQT-p-dNu-wSk-kWWdKYqWt5rq2WYOhycB4394T0dVe_OQb-hKuROANSz_40tNL9GAv3VGTkpZRSKNwrM0F_jCyH_PvNAktY4wJ_wdgKzetvbG2wiKxX7hHKV88fzISKDionYUqvg",
+          "url": "https://cdn1.telesco.pe/file/XHCKm1e-QCenRqIjc8xjiNyjPjcrs4p8goVNVH5J9SUx64oxsbnToW7OuAV2lsFE0y04XgPHn-3ei345GE0bDl8I4GwtBRbjJyExtWwcFhHrbqNlGkjOFgBMhOhAWfebL_KyHfWTTOONBoCrP7x2LmjQe6EpT1JCSkAfGAco1VwhgBkporE0sLqbosN7su_W3GK5T3GwJbBNLHzBL7vCQQnPLiQlHLC3PJBaU4_d3Y5M2EjF1Lhzlz8zKLIeRmyKIiEJd0XxcJ45GiRqkqWQHm3fwUu5kg4q7d707EluUNqssKee6K0rIQafhtRI7MDQwXqUYUTQRxtv4zT0FqnwiA",
           "width": 1080
         }
       ]
@@ -66,7 +32,7 @@
       "date": "2026-10-25T12:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +50,7 @@
       "date": "2026-10-25T15:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +68,7 @@
       "date": "2026-10-25T16:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +80,7 @@
       "date": "2026-10-25T16:38:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +98,7 @@
       "date": "2026-10-26T06:13:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +116,7 @@
       "date": "2026-10-26T08:35:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +124,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hGxYV0zI737cRCe0-3yfoX4vTKdKg7o75Xgndb0TX3shbTeNXb-WrE3k18Bcx0aWXV6pD2FAFsThUmj3tiU6BIVIi3Mn8dAq6RnuGp5KOUJRWpEquyJQTfjijt7rkFknIwq58hJOlCp-g1Mu8wskVOw9AoRZbsPXvSwszAO9nuasiA7fde3sAwPhHE_Vv6p8JmU2upkwlDjeQu6QKJ9Ni_VyHZO_v8CSkVWIk3wIv7f91cssTI4iUr9a46ti4OY82RicNkMAE7mmNDESiBEpp6-CMyWjbCFZ0_NnyF3upsfYynXbAslGea3A0eR3FiFeYsSosuEvGEOaqIH_chC-EA.jpg"
+          "url": "https://cdn1.telesco.pe/file/ZJN-c9q6n39m8VX5IgTWZiBbu7lmnFVHe6t96TyxBLb6PDtXEhFow8kVIIv2hE1t-BuoYC9v6YRqIq-hCj2NF8G-cXdr869xjQgLeMSF_A8aDGLw66FgT5au5vSqd_5K-3Hug9-rLk_1UeQA5gkREmIfs6ucTPgRLnN1eYtMK1qn_Lb0v5j604EiLM4ma0iIr9GcFe4inS05_h5ecYprPVYNoxOOh1xCf8T7HGwXwAVVsv95a3DlbKOFcMc8eVAYTHOkhv6LHFlFxpwOtWxE3cVUtKlaruc5bJP-u4k06xYpSp6X6LyhpQrI6NZRj2156t3gurI0nt8aI6c3L4qQ2A.jpg"
         }
       ]
     },
@@ -168,7 +134,7 @@
       "date": "2026-10-26T09:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +142,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/lQvs-EPcw6Gt_0DUk8QRPfO9Yn_uphWu4Qmox5ybEC9b5amyOqG-YeimAm9D-oAN4ijwQJlhaafdOqeatxECecb7ceV5Z-slQW3DwEGHwg5dVUdT9pikD_W5sUqnkN4hD2DuREtaPMG71yXUKjL2_aH1pVFJnVbsNicCIHtpsEMkV7hUUh3UQUWAW8fVkoX_2jnlFd-3n5aLRisUyjDFDb3kFfTnh0PBp3ESjXFtBdJHjtuKX-zdDJqLCk_c3nFulIQcEBVe7828WwG09OjB3q6k0Gi1J9ycDycW2svd05SbqEWeH2m56yxkC0GXTsnI27tih8VA8W7zeHvkjb_Akw.jpg"
+          "url": "https://cdn1.telesco.pe/file/HFvfWbpxQLHP6k4c_8Nf_BINFN14xS5PuWgC4tfbtKE-mpoaXb7cMWi-t_G_lHt51Gju85Tu3MekouW7kWh7pfazFxVRYSpYrfLxbBXRJNqvhDl65tuHbkpQ0wR-fQ_5KTcaywxGiELD8sFvWCR3kKAJ_8ybCPuXrilwD-D2ygq0WLQ8fhvVzLV_TXKD3hXla1d3mAYIlR9Oh51L4rb9Fl9nK952rlWe-owkZrH4wWTofFzSBB0NQHEZTK1aeYP3Et-DjQfWirO5sh4AfdVf1OrPKzr9mKAKaydvu8YA27jVpz4cv1ZE_v6vB2VJtq8KrBUec6eqp9v1aRQxz4daJg.jpg"
         }
       ]
     },
@@ -186,7 +152,7 @@
       "date": "2026-10-26T10:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +164,7 @@
       "date": "2026-10-26T10:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +176,7 @@
       "date": "2026-10-26T12:35:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +194,7 @@
       "date": "2026-10-26T13:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +212,7 @@
       "date": "2026-10-26T13:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +230,7 @@
       "date": "2026-10-26T14:34:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +242,7 @@
       "date": "2026-10-26T14:36:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +260,7 @@
       "date": "2026-10-26T19:48:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +278,7 @@
       "date": "2026-10-26T21:16:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +296,7 @@
       "date": "2026-10-27T06:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,6 +305,42 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/dxSQeGR11vTh6viCZWJXH3-E0xjh1PPgfZfkQB_8NMw93RlU9_NjJ7qVi1ySFsqqm1a0xJasx4WAXWx_HkPF3k9GvBAXrATOnT2BwFosZlE4AL6hKgdvR-FlkWrNM-r8elfImusn3x2Ti1PkldKhoplJAUu_PmeDVlWDGo_GpYGiIRVyBWUr6pzR5_kFz68bt0NFsOj1L_ySKKCeZUEwXBc1G_wEFbqsYqZP5Dg8q9yZCvUS3mC933hokXuKQXzXmcDWMpOIFVXcVT1BqHE1k-NtmvcETJzBe3gt5RVUG9SxA4dWeGl3VgNiAzPOI3GNl2edJq014DAW3Bm4vgZIAA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5714,
+      "message": "خیلی خوشم میاد افرادی اینجا و یوتوب و توییتر هستن و من رو دنبال میکنن که هر روز، چیز جدیدی بهم یاد میدن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e و باعث افتخارمه",
+      "date": "2026-10-27T08:52:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vWMiM_36tBUNNw3aPCTYMLnUq7rVugh0s5DlqUq61Zuz6-nGfipLsid7H8Lon3VnpGggvehHO95LhnpSvs2a9jWGu2TP8fGBnQpswj8jxSAefpDutLCGYoEkwSVEhygBxf6IDxUwM7iBf32EC3AkIiltwqdf-cNn_FfjMA6u1zc1yOUNglDXhd4xDMXBWP6Un5_w0vMggCfKUKsI2_0gaTLe6N-mck16HwceDmb9dWo8evdle-IJ06tTIGeGz8cocQ238qijD_OSFQQ_Ndr6Sw6GCg7oZbpMJgkgEUMTUws7QqAUyIQW-ldc0pAtsqO052hABgS4Xifr80rw8dYPeA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5715,
+      "message": "\u003cb\u003eافت محسوس در صرفه‌جویی زمانی برنامه‌نویس‌ها با AI (Developer Experience)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش تازه‌ی Atlassian که InfoQ پوشش داده، سهم برنامه‌نویس‌هایی که می‌گن AI هفته‌ای دست‌کم ۱۰ ساعت براشون صرفه‌جویی می‌کنه، از ۶۸ درصد به ۲۶ درصد افت کرده. فقط ۲۸ درصد هم می‌گن اصطکاک کاری‌شون نسبت به قبل از AI به‌طور محسوسی کمتر شده؛ مدیران مهندسی گفته‌ان بیشتر از خود برنامه‌نویس‌ها وقت صرف مدیریت و اصلاح خروجی AI می‌کنن. این آمار یادآوری می‌کنه که سرعت تولید کد به‌تنهایی معادل بهره‌وری بیشتر نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content\u0026amp;amp;utm_source=infoq\u0026amp;amp;utm_medium=feed\u0026amp;amp;utm_term=global\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-27T10:28:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/I8t6RIycW2weUl8qMEnfC0PIUUxP7eQr--LRjOqIBBh6YPuRo8ba7jyOv3jmfiH8sDr3G2e02TQt-B3MuUW6ZeTdGBQc839kj8theXlNYJ5g7aTzP0tdg7ngAghZURtwdhxo_Sxv4NO8iU9uNuWA8JXsv9Py2azSHwDoA6RI2bspCuLFQaFsfzhgX5TUGcyH0lViJWKwOgIcoMrFFCiIhaL4vOUtiPHffLXsYRJVhtno0DEgRPi6H3WCJFOQeZkb2VP-yyuwbQ5hiY3mwIKmhebU-oUGlimkH5Q_Rx8_45vivnkkX630iGnAmObFxf5cb3W_6O2D13B24bTEgJ7rog.jpg"
         }
       ]
     }
