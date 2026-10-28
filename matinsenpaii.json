@@ -3,59 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/tqBzYItZU1c1WBUhfeVO90LDsBqdsGlY5kr0ivPeuOPJLUDfxuHcmDrXYNhyY7TL2Ncou-mf-6ZwpDclMDpC0FbhaPyE05IGz3faUXDNCXZyRdOEu70JgcCu3VG_0DmlHJxvAy84_ZEGWr8KwFQF5ViybmLuU98hktVNipiU53TopcziTa1aAGW_JLVO-79nLh2H0AVL_LeNJec22qfLLWAelN11_2acRONErnvJuL0j8SLl9Pbj0M5ja0tcW5CQ3-sGd8PM_78svDuu_UrnwQpXdnKiWlJ3m07KZi-Jok0ur-G9beqKo87evclWIxomsrYE1wD4JevBnh4ZFl3mGw.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/tDEZ0-Z5GmOOH6xVxP5DxdijhTLmBgnmt1ZTXcmCGpMA84T2QNhcTYYgWXwGbdtPo0BsARORnFjEZknwrKUxskaTQDYkF7UtYpgUXw9Q9eY1G9wfGye6NeSfYlWQCc1QD7YYz_E1mWn2m9I9YipWYwYl1MzXPHknlK5hrefBtNDZaC0RIYhRDHu6q79oA4Wdnz-SS_mS24FjerkpE34j4P_cK6gRWtmOhZzgb6GnlSpuk9Y7Crb9VGikv9yHm8VVW35SzUGvB2chNBL5MGWvT2aYfvvOJAZGWWgYesohLQQr7XWtbmXCxKha0VxHpGk0m6GTVjuyPWGJSm1p0tFpRQ.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5703,
-      "message": "بعد از 50 دلار مصرف توکن:\u003cbr/\u003e(دلیلی که میگم حتما حتما از Ponytail استفاده کنید همینه)",
-      "date": "2026-10-26T09:57:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fLWBxIHMurwzWJrMuSxhfuaLQp4BohgxKRLCywOh4mc1vqmlrt283JvnctT62vMIfdsoiBqBQsvAN8VyWmsJkkWJ2YhEdmFop-26MGOxgrnbuVwKwo-FgSkduK97DbRCkakCKHZ2ZCYEXw-cyGo2cCXjFMFyyIA1aH72iFrYPPY6SQF7RDnU7QKp9x6DepgkI4wnxPh5yfX8rm3Ax_z0r_zgyLgJpnAo-0nIMMpYpOD5lf5botGLkBdwRzO-f_gNawzWz3JK93o6KP6_AoLi6lP9mxt6Bh8Ehmv0bGw8UbbjjJhJZ3LhjJrGu9FsyTK5fJUGs4R-pqNKwrvL0MiqiQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5704,
-      "message": "بعد از 50 دلار مصرف توکن: (دلیلی که میگم حتما حتما از Ponytail استفاده کنید همینه)",
-      "date": "2026-10-26T10:39:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5705,
-      "message": "",
-      "date": "2026-10-26T10:39:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5706,
       "message": "فقط دسترسی به آنتی گرویتی محدود شده. جیمیل و جمنای و همه چیز اوکیه",
       "date": "2026-10-26T12:35:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-10-26T13:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-10-26T13:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +67,7 @@
       "date": "2026-10-26T14:34:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +79,7 @@
       "date": "2026-10-26T14:36:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +97,7 @@
       "date": "2026-10-26T19:48:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/R9l4ej_zNOeYeS45fKg2VyDtdaWEY-gl1fmPsEyoHb6pw2yzGM0pWPO2SwOI1DniB_5XLiICviikJOWrmGb-KrcWjDKCiaJ8c2jz1yn_YK879M0RCjdklaOvYC65OT5Ap47heC0eKM7dQz1v8RT8mKYJYH9jMykqzA6PdSUiB6cuTrx_0_PZ53iUQn3yAo6u2hT-Li_DEFqMt2jufEYJdLvRS770rXxTf3utCvaBhkgoBk1NrSDz5D4St9aoQTsjiBwgzTxUVrYWNHubzMaIhazsYptOBpTBIY3w3zYQLDa5XTlxhUnKsZh03ZbrxdjoAWNU-KSrcA6z_NlTsxui8w.jpg"
+          "url": "https://cdn1.telesco.pe/file/DoC_wuwpmE_raP6HUubl1XRLjfZJmEKaEindxBAzA5Z7Qi9BUPWn2BwaZxH7YJBHNfsyVmsmRdwNsat-Ebssk42Q3_NsO_6_3Wn8bYZ2L8QjmMn1-DsCpJRqO304oxPUz5rXBE1uTiU138saXM7UmpjMHcNUN0pT00FFXFAi1lwm5i50YqX3TGPq8BczsLs-dOlszNAZnCH6JYNKCRSXwTE3kAYQFWZa584yxLadE1wffnBqhtR3va-wBxuJPdDDVi_5iH44dh5hNF2cnPJvGE_wLeMAuVtK0pLX7MktR6cRC1YolczuYtAGxwTTmGGSZZ7xgGCC21yUZ0eWYXYlzA.jpg"
         }
       ]
     },
@@ -157,7 +115,7 @@
       "date": "2026-10-26T21:16:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +133,7 @@
       "date": "2026-10-27T06:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +151,7 @@
       "date": "2026-10-27T08:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +169,7 @@
       "date": "2026-10-27T10:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +187,7 @@
       "date": "2026-10-27T18:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +199,7 @@
       "date": "2026-10-27T18:50:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +211,7 @@
       "date": "2026-10-27T19:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +219,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DbhxHX1M3DFdS-ag5A1DWcJxTOfMnm2o_ZLRz2KodxbVMF709rPIcENi9hUaIEks2Nw96xlZGq0aW3avLZ7MH32qvNWbW2ltsV8DKpNfp9KIqK8gy8oaQz_ei0IKggQuP1NioQqhKeozTywORNYkKIkotlQBYFeCuGFRN01MN5AmHvuun7rVtqw1sUGV-mamjllBgq0fD4Ax0HAArDLVFOdfZA5OGA6F-CyjLInRL4vmoASicyfdhrCfEh1TWmIFj3iPaei8kqfEbtKU4ie4jE-_bJ7s2J7OVxT0k8olNMIfg4iQFBjDlEwJUmcOSlrs6zy4HVsc1omkYGE-3-rZfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/AFd9L0n751bdmc76aXWOgnuC4R4p5Fkd2-DuwU1exPKDrJKB7_UKm1e6eYKtQi_KLv5DHjEaGryULvesO1kRCl2KmRwyh_NUMDX4OLuH43567GoPulW08D3lFKhilll6m9aQ8VWA3hRocgca2wY2ohpBF8F83sn-0m_9YuoscphWhAVvzCO0v5CMExcII9kTjkDVZrkDVvVnmn4uWPBSPNSh84R7Lp5IuJjUKOjoKrm1El6W8XyBKf-oBbomEWfQL0hEFLbAcKOlr9ge3NCRq6AFhFhAsmNogvZ6P_wR59iu5v02v9MjsStUcxFQZz0Q_c1RlMVQhZDXliIMQ1jAxA.jpg"
         }
       ]
     },
@@ -271,7 +229,7 @@
       "date": "2026-10-28T06:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +247,7 @@
       "date": "2026-10-28T13:59:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,6 +266,49 @@
           "url": "https://cdn1.telesco.pe/file/X1PloHuwqoWlSznOiWUD3TNklOGApSCEqpvg7H3piM0yWH4G5M9Wl0mfbZdbznVIyr8oZG_LLnBMHWyXItn8jLc7cTsgHej9ibe09F_7OwIWBsbpi3o_sZ50GiEUXHXpOycgLtrzfjsKpmJgGUXGJoYzp-ozhPg2-_NYQ8KtvtD4ZnuAXHxqm8Q5cfBNV1zRe3SoDKk9rvZ7r42E_woiSVtQbDWtlVDHIBfYDhalg609-K7hP91BMbCFIEwJcbtRFZn17bEqfA4Rzw9hlQuBAtbQV9sy81qLjS4JbrQ30Iw8cXNx1RwvMqziCq-_5nF8r3ZvliAF0-P0IGdlSkmtSg"
         }
       ]
+    },
+    {
+      "id": 5723,
+      "message": "جابه‌جایی رتبه‌بندی مدل‌های هوش مصنوعی توی بنچمارک Artificial Analysis بعد از آپدیت جدید بنچمارک\u003cbr/\u003eدیپ‌سیک چرا سقوط کرد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e از اون طرف مدلهای OpenAI یهو خودشونو کشیدن بالا\u003cbr/\u003eاما واقعا درست‌تر از قبل به نظر میرسه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-28T16:00:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/aFLO-a7raOYgbIAkUOtvfxs5rW_CZSd20El7KmqWyUf_ylTRO_aSapYuYv7Wa-vndr5o48bhNgVf1DXZ3_BWAtNrhwarUhL0eLyZW8usjaVaduQ_M8e_9e3HEkR_ab-lzznlTHKdXPidKyDhfajdJWnNgtzHVr_X-cw73u8xhhLnOct6DSTUAO9tEHyfEj_W2yUgcT1R_B85t5JwPlBflZUuIm4poBx8xJwfus1G0jdX0sEbfOV7NV_bTfPoC2fLWvrkD0wAvosHrT52-jPX1ccv1R42lfQqAK5-yGGCGRIfMsp3yy3CGFpZhUat_Dpamnpo--mQMvE5hqkTUTTCIw",
+          "width": 762
+        }
+      ]
+    },
+    {
+      "id": 5724,
+      "message": "دلیلی که اینو میگم هم اصلا Grok 4.7 نیست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-28T19:09:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5725,
+      "message": "\u003cb\u003eمطالب زیر صرفا در مورد cdn/worker کلودفلر است، روشهای مستقیم و یا وارپ (masque/wireguard) همچنان مثل قبل به خوبی کار میکنند\u003c/b\u003e.\u003cbr/\u003e//\u003cbr/\u003e\u003cb\u003eفایروال ایرانسل:\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eفایروال ایرانسل تغییری نداشته همچنان میشه با متد F\u0026amp;F بدون هیچگونه محدودیتی به کانفیگ‌های پشت  cdn/worker کلودفلر وصل شد.\u003cbr/\u003e//\u003cbr/\u003e\u003cb\u003eفایروال همراه اول:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eفایروال همراه اول اما صرفا محدودیت آپلود ۶ پکتو کمی تعدادشو برده بالا، و همچنان بعد از رد شدن تعدادی پکت کانکشن قطع میشه، بنابراین صرفا در حد لود کردن سایت‌های استاتیک و یا خوندن پیام در تلگرام و يا صرفا دانلود کردن قابل استفاده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eراه حل‌های اتصال بدون محدودیت به cdn/worker کلودفلر روی فایروال همراه اول:\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eروی IPv6\u003c/b\u003e: در حال حاضر روی IPv6 بلک‌لیست اجرا میشه، یعنی اکثر دامنه ها محدودیتی ندارند و فقط دامنه‌های خاصی محدود و یا کاملا بلاک هستند، بنابراین می‌توان با یک دامنه‌ی شخصی (بدون نیاز به ثبت نیم‌بها) و یا دامنه \u003ccode\u003eworkers.dev.*\u003c/code\u003e بدون محدودیت به cdn/worker کلودفلر متصل شد، راه‌حل های زیادی هم برای سفید کردن دامنه‌های سیاه/محدود روی IPv6 وجود داره که بزودی منتشر خواهم کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eروی\u003c/b\u003e \u003cb\u003eIPv4\u003c/b\u003e: اما در حال حاضر روی IPv4 وایت‌لیست اجرا میشه، یعنی صرفا برای معدودی دامنه‌ی وایت‌لیست محدودیتی وجود نداره، و سایر دامنه ها یا کاملا بلاک هستند و یا محدود هستند.\u003cbr/\u003e\u003cbr/\u003eبنابراین بر خلاف IPv6 شما نمیتوانید صرف داشتن دامنه شخصی بدون محدودیت به کلودفلر متصل شوید.\u003cbr/\u003e\u003cbr/\u003eاما اتفاق عجیبی که الان افتاده اینه که تمام دامنه‌های ثبت نیم‌بها شده در حال حاضر روی کلودفلر کاملا وایت هستند ! بنابراین برای اتصال بدون محدودیت به کلودفلر باید دامنه‌ی شخصيتون رو ثبت نیم‌بها کنید، برای این کار ابتدا باید یک وبسایت تزئینی روی یک هاست ایرانی بالا بیارید و دامنتون رو بهش وصل کنید، سپس باید در سامانه \u003cbr/\u003e\u003ccode\u003ehttps://sso.ito.gov.ir/Member/register\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eثبت نام کنید و درخواست نیم‌بها شدن دامنتون رو بدید، پس از تایید و ثبت شدن دامنتون در لیست دامنه‌های نیم‌بها، (با اینکه ظاهرا بی ربطه) میتونید از دامنتون برای اتصال بدون محدودیت به کلودفلر حتی روی IPv4 استفاده کنید !\u003cbr/\u003e\u003cbr/\u003eدر صورت نداشتن دامنه‌ی شخصی نیز، حتی برای IPv4 راه حل‌هایی برای سفید کردن دامنه‌های غیر وایت وجود دارد (Sni-Spoofing-planB/C) که در صورت لزوم منتشر خواهم کرد.",
+      "date": "2026-10-28T20:30:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 224,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
