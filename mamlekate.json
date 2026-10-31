@@ -8,66 +8,12 @@
   },
   "posts": [
     {
-      "id": 105024,
-      "message": "\u003ctg-emoji emoji-id=\"5469654973308476699\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e بایننس هک شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتتر ۹۷۱ میلیون دلار تتر (USDT) را که احتمال می‌ره متعلق به هک بایننس باشه مسدود کرد، اما بایننس هنوز هیچ واکنشی نشون نداده\u003cbr/\u003e\u003ca href=\"https://x.com/TreeNewsFeed/status/2115912923432227128\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTreeNewsFeed\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eچانگ پنگ ژائو موسس بایننس:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسرمایه کاربرا امنه!\u003cbr/\u003eبه نظر می‌رسد این یک هک در بایننس باشه. از اقدام سریع تتر (حدود ۹۷۱ میلیون دلار) و سیرکل (حدود ۸۲۳ میلیون دلار) برای مسدود کردن این دارایی‌ها قدردانی می‌کنیم.\u003cbr/\u003eمن دیگه بایننس (دات کام) رو مدیریت نمی‌کنم، اما به عنوان یک سهامدار، انتظار دارم تمام سرمایه کاربرا به طور کامل جبران بشه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/cz_binance/status/2115915423174853077\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ecz_binance\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-10-29T23:28:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 114000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته"
-    },
-    {
-      "id": 105025,
-      "message": "\u003ctg-emoji emoji-id=\"5922360237297245792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e آپدیت هک بایننس\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eامروز (۲۹ اکتبر) مقدار بسیار زیادی رمزارز از هات‌ولت‌های بایننس خارج شده است. تخمین‌ها بین ۳.۵ تا حدود ۵.۸ میلیارد دلار روی چند بلاکچین گزارش شده. تتر بیش از ۱.۵ میلیارد USDT و Circle حدود ۸۲۳ میلیون USDC را فریز کرده‌اند. CZ گفته به نظر می‌رسد هک باشد و انتظار دارد وجوه کاربران کامل جبران شود. بایننس هم اعلام کرده در حال بررسی است و وجوه کاربران امن است، ولی برداشت‌ها موقتاً متوقف شده.هنوز عدد نهایی ضرر تأیید نشده، ولی این یکی از بزرگ‌ترین حوادث امنیتی تاریخ صرافی‌هاست.\u003cbr/\u003e\u003ca href=\"https://x.com/philarekt/status/2115934331260575811\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e \u003cb\u003eهک بایننس چطور اتفاق افتاد:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنحوه انجام این حمله (طبق داده‌های آن‌چین و تحلیل‌های فنی): مهاجم از ویژگی EIP-7702 اتریوم استفاده کرده است. این قابلیت که بعد از آپدیت Pectra فعال شد، به یک کیف پول معمولی (EOA) اجازه می‌دهد با یک امضای معتبر از کلید خصوصی خودش، کنترل اجرا را به یک قرارداد هوشمند بسپارد. آنچه روی زنجیره دیده می‌شود: آدرس مهاجم (فاند شده از Tornado Cash) یک قرارداد «سوئیپر» (Sweeper) مخرب دیپلوی کرده است.\u003cbr/\u003eساعت ۲۰:۲۰ UTC، یک تراکنش حاوی ۵۰ امضای EIP-7702 روی هات‌ولت معروف «Binance 14» ثبت شده است. طبق تحلیل‌ها، همه این امضاها با کلید خصوصی خود Binance 14 زده شده‌اند.\u003cbr/\u003eحدود ۳ دقیقه بعد، مهاجم تابع sweep را روی همان قرارداد صدا زده و در یک تراکنش حدود ۱۶۷ هزار ETH + ۱.۶ میلیارد USDT و ده‌ها توکن دیگر را خالی کرده است.\u003cbr/\u003eبا همین دسترسی، کنترل کیف پول هوشمند دیگری (Hot Wallet 34) را هم گرفته و حدود ۷۸۰–۸۲۳ میلیون USDC را هم خارج کرده است.\u003cbr/\u003e\u003cbr/\u003eنکته مهم: خود پروتکل اتریوم باگ نداشته. برای فعال شدن این delegation، حتماً باید امضای معتبر کلید خصوصی خود کیف پول وجود داشته باشد. یعنی یا کلید خصوصی هات‌ولت لو رفته، یا سیستم امضای بایننس (که تراکنش‌ها را امضا می‌کند) تحت کنترل مهاجم درآمده و این delegation مخرب را امضا کرده است. هنوز مشخص نیست کدام حالت بوده. به زبان ساده: مهاجم توانسته با امضای معتبر خود بایننس، کیف پول را موقتاً به قرارداد خودش تبدیل کند و بعد همه موجودی را در چند تراکنش خارج کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-10-29T23:33:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CbYVvcbDaaDdiJyNjI8qnUptFta4Rq3_E6OvcT27ta-d9TEcMrNWSR_2lAbB0rhLaK6w6pjtM4hAxXAlL1S5KnakQTMdlgtT5wXOYrUjYLqsmzAlHkKIIViNaDJ5mkDHDlqcBq8XO5eacbOJf_1LUcK2SF8t0JwZeEJNVwW7bGC0IbAPtgPCFKEwQ8BuWsn8WZRWxS-4aghpDUcijRAiabmmwGkk1VH-cwy6yjvNrt40Lw38c6L0dq4xXiS3ffxAgMqy2ukGX0Knwy_ajy3DisQGzUO5KK68ypcmS4kKUxJqOtKhq0QjYgtA96uh4_DiDcnbvKxpgLOiY7vRbWBHKg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 105026,
-      "message": "\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://telegra.ph/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%D9%87%DA%A9-%D8%B1%D8%A7-%DB%B6%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A2%D9%88%D8%B1%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%87%D9%85%D9%87-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2%D9%87%D8%A7-%D9%88-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA%E2%80%8C%D9%87%D8%A7-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF%D9%86%D8%AF-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبایننس ابعاد هک را ۶.۳ میلیارد دلار برآورد کرد؛ همه واریزها و برداشت‌ها متوقف شدند\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبایننس، بزرگ‌ترین صرافی رمزارز جهان، ابعاد مالی رخنه امنیتی اخیر را حدود شش میلیارد و ۳۰۰ میلیون دلار برآورد کرد و از توقف موقت تمامی واریزها و برداشت‌ها خبر داد. به گفته این شرکت، تحقیقات اولیه نشان می‌دهد نفوذ ممکن است از لپ‌تاپ هک‌شده یکی از مهندسان آن آغاز شده باشد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://telegra.ph/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%A8%D9%84%D8%A7%DA%A9%E2%80%8C%DA%86%DB%8C%D9%86-%D8%AA%DB%8C%E2%80%8C%D8%A2%D8%B1%E2%80%8C%D8%A7%D9%85-%D9%85%DB%8C%E2%80%8C%DA%AF%D9%88%DB%8C%D8%AF-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%BE%D8%B4%D8%AA-%D8%B3%D8%B1-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D9%88%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eشرکت تحلیل بلاک‌چین «تی‌آر‌ام» می‌گوید کره شمالی پشت سرقت رمز ارز صرافی بایننس بوده است\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسنگاپور - به گفته شرکت تحلیل بلاک‌چین آمریکایی «تی‌آر‌ام لبز» (TRM Labs)، هکرهای کره شمالی عامل سرقت ۶.۳ میلیارد دلاری از صرافی رمز ارز «بایننس» بوده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-10-30T06:18:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته"
-    },
-    {
-      "id": 105027,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://telegra.ph/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%D9%85%D8%AF%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AD%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبازی بلندمدت ایران در حال برخورد با ساعت سیاسی ایالات متحده است\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eگزارش تحلیلی بلومبرگ (\u003cb\u003eرسانه اقتصادی همسو با جریان‌های مخالف ترامپ\u003c/b\u003e): واشنگتن خواهان راه‌حل برای جنگی است که ماه‌ها به درازا کشیده است. تهران دلایل قدرتمندی دارد تا همچنان به وقت‌کشی ادامه دهد. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-10-30T07:59:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته"
-    },
-    {
       "id": 105028,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://telegra.ph/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C%E2%80%8C%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B7%D8%B1-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4%D8%A8%D8%B1%D8%AF-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AD%D8%AF%D9%87-%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DA%AF%D9%81%D8%AA%D9%87-%DB%8C%DA%A9-%D9%85%D9%82%D8%A7%D9%85-%D8%B1%D8%B3%D9%85%DB%8C-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبازگشت میانجی‌گران قطر به تهران \u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e۳۰ اکتبر (رویترز) - یک مقام مطلع از روند مذاکرات به رویترز گفت که میانجی‌گران قطر روز جمعه در راستای تلاش‌ها برای دستیابی به توافقی میان ایالات متحده و ایران، به تهران بازگشتند. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://telegra.ph/%D8%A7%D8%B3%DA%A9%D8%A7%D8%AA-%D8%A8%D8%B3%D9%86%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF%D9%86-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AD%DB%8C%D8%A7%D8%AA%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاسکات بسنت: جمهوری اسلامی در حال از دست دادن مسیرهای حیاتی تأمین مالی است\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاسکات بسنت، وزیر خزانه‌داری آمریکا، پنج‌شنبه شب ۷ آبان در بیانیه‌‌ای اعلام کرد جمهوری اسلامی در چارچوب عملیات «طرد اقتصادی» که تحریم‌ها علیه آن را به‌شدت افزایش داده است، در حال از دست دادن مسیرهای حیاتی تأمین مالی است و گروه‌های نیابتی آن نیز با فشار فزاینده روبه‌رو شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://telegra.ph/%D9%88%D9%86%D8%B3-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%AC%D8%A7%D8%B2%D9%87-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%AF%D8%A7%D8%AF-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF%DB%8C-%D8%A8%DB%8C%E2%80%8C%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D9%88%D8%AF-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AD%D9%82%D9%82-%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D8%AF-10-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eونس: ترامپ اجازه نخواهد داد جنگ با جمهوری اسلامی به جنگی بی‌پایان تبدیل شود؛ اهداف آمریکا محقق می‌شود\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eجی‌دی ونس، معاون رئیس‌جمهوری آمریکا، پنج‌شنبه شب در پاسخ به انتقاد یک رای‌دهنده جوان از درگیری‌ با جمهوری اسلامی، تأکید کرد که دونالد ترامپ، رئیس‌جمهوری آمریکا، اجازه نخواهد داد این درگیری به جنگی بی‌پایان تبدیل شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
       "date": "2026-10-30T08:04:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 123000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +25,7 @@
       "date": "2026-10-30T10:57:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +33,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rECRvFnHHyEk9yjwLot3cddtr1VOy1STMRYkwMcJ1juvUuriLTR1mj5zGHTtBWcLMuFO11lJHnmfQB_DS3LRKDY4be4KuGmd5x128Kr84MOPUGi2wy4NUSlwuVmUGuVoIZx64FwzPwds3NF1TVf8cq6zxbyDmq2EG8f_9IQ-s3H3VIkD_70-97jbBoS9sY5Vea7uKL71WlElaxcMODrjvscbv3uVB1aCpdse296bXib76UFjf_ZI_9OS63YNqEqulcwkvJXmXWsWyrw4ZT1Epj0IqEQYwAu3slV4Ta3V5TL0OUguD5k6aDi90JdLTOunIOP71e-ucTJAjbVWDq-dpA",
+          "url": "https://cdn4.telesco.pe/file/qmoDiMf_ok9JxyJWXKbi5iO1AGcWeQUFUgxi5XlOwaTJwz-MMKfUxdDMeWjum0GfXSMHlGoa7qgoL_Cak8tUjagb0djqiR45Z46389g3460Spdg1sVLEYawd4cDNPwJj7-vOOpvseGXE7bz3Y8G4DKMcQO9drmc2sLIIV44x-nd885Ju6Wfq_PwNZOnF73fHB0zBiKXvCYn4aNUjN0APecC08EYDZiGVt0h41cOLMN9MvdDffU7GgD6lu6pLZQj_FOcUM733VeRM49DlSbeblJFlMjdNGlz6eb8QZQT8yp7bzbigHu3odmWLW4NC8b0-kUY3aFTmKdqOONhtmPvZ1Q",
           "width": 1920
         }
       ]
@@ -98,7 +44,7 @@
       "date": "2026-10-30T13:12:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +52,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fwFs3RqEtduL3Yw3MgJ4921VZIefyHC-zRnSloODwIir6Mw5RzHSzL0LKMCY7nyFCV5v71ne16M0hzCFkFWd0A4ZSSVXTsbTfPEaeCm2LPsI8xq7eviM6itOa1hY-uuEikvJi7jbfi04mCoyGRPPqrhFz1OProMZwGPz3zbjhekzoGjnyHAoorpZ3fjtpTB0itNp9fcobG8UNBVT2aLzxbsw3Uo4Tfa99dI_uyhrQGZzx4Ohe15LeEDhli2xhjo-Vo3nlj5m59mpdHn7ponYsx4s2VOp-SKmbEjfX2NmopSTkLGQOrz6X4zwR2kJmwr_SVLGcV5-PEVwn74_76BCXg.jpg"
+          "url": "https://cdn4.telesco.pe/file/jGhhBDYe8rcbwA5lDg1OjgIdWKBHI8ounNqCr0k95-br3A9Ou7mw8dczwmw0lK_M2xCa1h7PsETU2asxw6qBcySwTOq3Zjpxg-6E8J1IlUCVIGlEFs1c2zoi5RCVc1rScVFh_KLcocAyrLpqoKncP5O9UVumB99UzN2hsu39tmOUQm-6U6HiXX9NBw4x1S-mlfLxOBlfCa2jc-hJQKTt27rUz0GpTgxrPf6gPUhe_f4rwIxtjj3x1-KiUSNIMgrPN3AMcCj48TRt2b1DEQCd62lQwSw753KAKfT9k5P_JnMoo-UTIbKGx-qFEvy2YBZf-KFn-I7GdzN9tv2LK5MnSg.jpg"
         }
       ]
     },
@@ -116,7 +62,7 @@
       "date": "2026-10-30T13:45:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 113000,
+      "views": 121000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +81,7 @@
       "date": "2026-10-30T13:53:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 117000,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +93,7 @@
       "date": "2026-10-30T15:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115000,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +111,7 @@
       "date": "2026-10-30T19:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103000,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +123,7 @@
       "date": "2026-10-30T20:05:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98100,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +135,7 @@
       "date": "2026-10-30T21:27:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85000,
+      "views": 105000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +153,7 @@
       "date": "2026-10-30T21:31:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85800,
+      "views": 105000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +165,7 @@
       "date": "2026-10-30T21:35:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89000,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +184,7 @@
       "date": "2026-10-30T21:49:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93400,
+      "views": 120000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +196,7 @@
       "date": "2026-10-31T05:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 97900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +208,7 @@
       "date": "2026-10-31T05:47:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
+      "views": 94400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +220,7 @@
       "date": "2026-10-31T06:29:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 96700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,15 +235,75 @@
     },
     {
       "id": 105045,
-      "message": "\u003ctg-emoji emoji-id=\"5929344137588384121\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام ، اصفهان خیابان آتشگاه هستم ، چند دقیقه پیش صدای انفجار شنیدم . \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5987768770989399555\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/mamlekate_pm\" target=\"_blank\"\u003e@mamlekate_pm\u003c/a\u003e",
+      "message": "\u003ctg-emoji emoji-id=\"5922360237297245792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام ، اصفهان خیابان آتشگاه هستم ، چند دقیقه پیش صدای انفجار شنیدم . \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5922360237297245792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاصفهان امروز ساعت ۱۰ صدای انفجار نسبتا بزرگی اومد و حدودا ۵ دقیقه بعدش صدای انفجار کوچیک تری اومد. انقدر هوا رو آلوده کردن که کوه‌های اطراف و داخل شهر، که همیشه مشخص بود، امروز هیچی معلوم نیست\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5922360237297245792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود اصفهان خیابان عباس آباد هستم صدای انفجار رو من هم شنیدم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5922360237297245792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eسلام منم امروز شنبه حدود ساعت ۱۰:۱۰ صدای انفجار شنیدم خیابون جی هستم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
       "date": "2026-10-31T06:52:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9630,
+      "views": 96400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "مملکته"
+    },
+    {
+      "id": 105046,
+      "message": "\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D8%A7%DA%A9%D8%B3%DB%8C%D9%88%D8%B3-%D9%85%DB%8C%E2%80%8C%DA%AF%D9%88%DB%8C%D8%AF-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B2%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%82%D8%B7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D9%88%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA-10-31\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاکسیوس می‌گوید مذاکرات «۱۲ساعته» میانجی‌های قطری در تهران با «پیشرفت» همراه بوده است\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمیانجی‌های قطری پس از «بیش از ۱۲ ساعت» مذاکره در تهران، از «پیشرفت مثبت» در تلاش‌ها برای دستیابی به توافق میان ایران و آمریکا خبر داده‌اند و قرار است گفت‌وگوها روز شنبه در دوحه ادامه یابد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e میانجی‌گران قطری روز جمعه همراه با مذاکره‌کنندگان ایرانی تهران را به مقصد دوحه ترک کرده‌اند تا گفت‌وگوها روز شنبه در پایتخت قطر ادامه یابد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-10-31T07:55:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 89300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
+    },
+    {
+      "id": 105047,
+      "message": "\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تهران خیابان اسکندری جنوبی ۱۱:۱۶ صبح برق رفت ۱۱:۴۸ اومد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برق اهواز سمت پاداد هم قطع کردن\u003cbr/\u003eآپدیت: الان وصل شد ۱۰دقیقه قطع بود\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کیانپارس بالاشهر اهواز هم برق قطع شده ۱۲ ظهر شنبه اول هفته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الان نانوایی بودم برق قطع بود و از موتور برق استفاده میکردن. برق بعضی از خیابونا قطعه. خمین استان مرکزی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گلشهر کرج هم نزدیک مترو از ۱۲:۳۰ برق رفت. صدای آژیر ماشین‌های آتش‌نشانی هم میاد\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5958780095383477723\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام مملکته\u003cbr/\u003eامروز شنبه ۹ آبان ۱۴۰۵ برق گلشهر کرج خیابون اختر غربی از ساعت ۱۲:۴۸ قطع شده و اینترنت رایتل هم خیلی ضعیف شده\u003cbr/\u003eساعت ۳:۱۸ بعدازظهر و ما همچنان برق نداریم\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://t.me/mamlekate_pm\" target=\"_blank\"\u003e@mamlekate_pm\u003c/a\u003e",
+      "date": "2026-10-31T08:33:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 84100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
+    },
+    {
+      "id": 105048,
+      "message": "\u003ctg-emoji emoji-id=\"5987768770989399555\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e صدا به همراه دود انفجار سمت شاپور جدید اصفهان امروز ۹ آبان حدود ساعت ۱۰:۴۵\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5987768770989399555\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الو شاپور ک دود اومد ی جوشکاری بود ک اتیش گرفته بود\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-10-31T09:39:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 74100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mbGP1apYkYy8G9QKpmR2uMAhe7tA1YXJ-7-X9K7-6a7VggVYWZL2xClmLaYBbv_ArST6cXKLbqtS6CDs6ngh9UQ2wu7UowRvf6r9tnLDDreK51orR8B_M78s2d5ss7tGt4n5hPxm1byfV_cbJenukoJcNUYex9Z4vBZsgb-79Sq9et8beidKJi8OUBhcGAhWqo2MfskZzbXXUkKj6L8qGcsW2uuuXeOg5YPe892mnRg0bBgSB8d7-tYBnIW9djy3fTOvAeFiX2x8llnaT4iJUdgDx4zQGTpJxqAjtmwcHMWorBs4TbWTmV5ySk_Kc-J1lgu-LJLfT-y3P7FJRG1Brw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 105051,
+      "message": "\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D8%A7%D8%B2-%D9%86%D9%81%D8%AA-%D8%AA%D8%A7-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%E2%80%8C%D8%AF%D9%88%D9%85-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%8C%D8%A7%DB%8C%D8%B1-10-31\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاز نفت تا هواپیمای دست‌دوم؛ جزئیات کلاهبرداری شرکت چینی از ایران‌ایر\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eانتشار اسناد تازه دربارهٔ بدهی بیش از ۸۲۶ میلیون دلاری شرکت چینی هائوکان انرژی به ایران و افشاگری مدیرعامل هواپیمایی جمهوری اسلامی ایران دربارهٔ خرید دو فروند ایرباس دست‌دوم، ابعاد تازه‌ای از قراردادهای بحث‌برانگیز نفتی و حمل‌ونقلی ایران با این شرکت را روشن کرده است؛ قراردادهایی که قرار بود با استفاده از درآمد فروش نفت به نوسازی ناوگان هوایی، توسعهٔ فرودگاه‌ها و اجرای طرح‌های ریلی منجر شوند، اما اکنون به پرونده‌ای نامشخص از مطالبات نفتی ایران و بدهی شرکت‌های هواپیمایی بدل شده است. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-10-31T12:20:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Fyl7d8cTG8ESlGR2TGlxveE-kYV9c8q5DYK52veuYjf7lVY6w0_ZJWdy9oIzNRXyz-pyixNaV5VzWXKq_r-46rwGmf6xEMUFJ0vSylN_eFKsegq9g6yRpSGTIipuIqJ-pf7U5wnt8GMqYMtTYjqtpq9mFSeTyf87OgpAyYmyVNajIy9F1TssL9THTZkI_DbBCNtGj4sD6vgRZ_huNc1L4XqhLP5PcUDTm55SyhLCMTEo4MW6OkPDG_UExy926nbhgPvTVOsesS7NekSfZxA7siXP5TCxOTNCbba1qMvAl5xqzAABQX8bWtcHZ9Y_mjH0S_dHGzywfkJXnVqtBLjIww.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
