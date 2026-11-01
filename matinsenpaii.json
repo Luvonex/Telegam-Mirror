@@ -3,39 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/IZvjonv--el8T8DnkL6hVbbRhe6PmBItfnEfFi-IYUAIcKpnzocu65gDDEp2LzlbWAHjDoiDgPdjhiqCbWLfLA4Q5ctb2jli3PQGz5NZNR15vkDtWptvjO1IUTu3bZmU0ZPrm8sKv6_1_j6PFZt8GQ2ikGKuqfbOARwIl7Qwxns7fWN9d0OrT67SVKk8zcJHwaRgdlwaqZvLUkk8HnbyxCvosPFaFs99bcrfL8EAhjwlBPrEaZvWYuV78EhwfRrRHBSlwxV5RukDbmuL8p_7LjLAId-Tqz96LB_Gy5lTgXdaK4NdnBzg32_AhPSX7Axmd9Xt7teuerW5R-ojYubQGQ.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/sSn_UWEGS3V6QZqinBQ1NWjW4WGEL3Mmb7vWSuNBOBX8t6c_OvZRDKgz-PnPFdLVl80pXMADfUkDw1lel3VgBWBdmB78jf2S0WDwZNy5Jab3KL98dfqy1wKxEeHqN7w9aGy0bDRwya1eHDEkUWhxy_xZ8_Y88UfECwuFUMnLQASmWqFEam2rb1WVjyGle4iXiYP_lz0OcdSlHe6vdIjneua_UN-cEhIBmqHfE1fdr1Lsu4khjRwrV3M24RYeq-5dQn3LFTcTmpW7qOKDYLP9aNHSSUtWN3ESZqcZBa60KU8cQ92xf-K_2Xbb3EE3hvMB45gXLOUgZMcJj_EaW9r2ig.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5730,
-      "message": "از کانفیگ های ورکرتون یه پینگ بگیرید\u003cbr/\u003eاینجا همراه اول اوکی شده پنل BPB و کانفیگ‌های پترنیها",
-      "date": "2026-10-29T14:07:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/C3kKSFig3s-XbD5fYRa352-ulJfVRO-A5PKDbxDBrybeyCeeCyOJ9KVF4kSmpf0hM0s6_F9RmUK4XPfdssNzbn5lI6N6VwuFl3x2NZGWnwFCeIfVlDm6lxMOQJNsT7Rg2i61EKO6Rmy41pjfuqyPYEHC7TKUiaYaEr6AiwvIz25otJVjwqoeKDuy86ooKsAIMU2ETMghdf7ild5toTr0TXxnEVfC07qbLqlXOl-oA3a6cMqu6u0XYvdqoaJTTkeaRaSpJH1kaYfImPwY6y9bv2ufILhPUkjqOcUvtc_Izfv_9RVeoER8y6XvTne5wW5nQo2rL4kfsfpybUj13P8LxA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nLwtK2-4Ia-W2WG1SPrvh_7WNKVihwscwjgy4QcrcOMjIHib1Q9Vpv4k2Ku8SMlWLXuVn0M73MVMjY3GhNvqgV3IN5l7rPFCiAa3Uh-s94zq1hnY9WLj7wsGA8i3sjeRmMWrRJop_MTbJFD3E99_T7Au4bPWw9b-CctOozvnRx6-ADHg-I8EEMN2mB0Rfboa3GfzbaWSku_h2WY9tvnkiN845xaypMSLgSb1c-q4PRta62Y27ln6u7gfb6XCK-EuqMcpkDe4MJhiG3wfLQ2qmGXoo2pIGCn29bvyI0B9iUknmLzI0slrJWcvLXjhHr5oPXVayG2-MHTsZhwc6yC5Xw.jpg"
-        }
-      ]
-    },
     {
       "id": 5732,
       "message": "توی چند روز آینده احتمالا هم Deepseek V4.1 Pro بیاد(اورکا روتر خبرشو گذاشته بود که مشغول چیدن مقدمات زیرساختیش هست) و هم Qwen 4\u003cbr/\u003eاز این رقابت شدید بین شرکت‌های چینی بین Distillation و پایین بردن هزینه خوشحالم حقیقتا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e مینی مکس و GLM انگار ناپدید شدن کلا",
       "date": "2026-10-29T19:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -47,7 +25,7 @@
       "date": "2026-10-30T06:16:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +43,7 @@
       "date": "2026-10-30T07:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +55,7 @@
       "date": "2026-10-30T10:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +67,7 @@
       "date": "2026-10-30T20:31:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +86,7 @@
       "date": "2026-10-30T20:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +98,7 @@
       "date": "2026-10-31T08:06:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +110,7 @@
       "date": "2026-10-31T09:24:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +122,7 @@
       "date": "2026-10-31T10:46:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +140,7 @@
       "date": "2026-10-31T13:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +159,7 @@
       "date": "2026-10-31T14:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +178,7 @@
       "date": "2026-10-31T17:07:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +186,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/uo-CJSauyni_n3tvq4iHBqTw7iTfbAfHCIUbxX5BM1w0HzvMef6LGl6Gpu8dScDcSOxrPlOUSkJ5q-yEICBdHD5WMKiIA2u51Ia1kga_ajM1XEBec8_keObmlGHZPC5ixZlUR5CCyTcD-xhO7K9d4Tz4G-lV9Hv2D9l51L_p8zt5dlG89MOOgyXhc6JoBcB1mPR04SH2deAVfYoCjF9njHNTjPs2qKhkxdzH-QYLfScrfnX8xfVU5y9Gc2zjpCZWxgPcvNAiu8uai-gMKChyniIaB3PNtE2juqE9PYJZW4d5HhMFT7Hj_xmhnnq1poEXhR8uFws9phadSrsxjgLhvg",
+          "url": "https://cdn1.telesco.pe/file/OBQ7MagxzoWN7dUge1aD--SzFoGHqpaoro4TbEjr8uJZO1nNNhGHvFJ_JaQp9M6PwFYZpUwISSlmmnnlZUt4LOPP85VurXyxMll0WQyCckFvr5foYp3G7L4w6anUI3tEg9mu22GUsOL0b-cGNuWQKR-9OGgi1uCRh7WIskjgmswSNtTaNb-14NLFgT41MZBCWr-POLB-kusS0T8dthwT-PXFolzYCeQ-AtvQlwAebUNVRHm88njJV2aQjyF-0rL3pk-3F7gyrCV40BQboBLz7Q3mHxMLuIUnI9slGK2MDMkusJQyzg5oz4rHR-5ZpUn7KaoH4dHxUgpWIPLF_U-Z9w",
           "width": 1280
         }
       ]
@@ -219,7 +197,7 @@
       "date": "2026-10-31T20:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +209,7 @@
       "date": "2026-11-01T04:52:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +228,7 @@
       "date": "2026-11-01T07:20:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +246,7 @@
       "date": "2026-11-01T14:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +258,7 @@
       "date": "2026-11-01T14:24:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,11 +270,48 @@
       "date": "2026-11-01T14:29:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9560,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5750,
+      "message": "\u003cb\u003eشایعه Fable 5.5 و Mythos 5.5 و Opus-Next دوباره داغ شده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیکی توی توییتر این ویدیو رو گذاشته و می‌گه خروجی مدلیه که هنوز معرفی نشده. چیزی که می‌بینید یه فایل HTML ـه با انیمیشن سه‌بعدی یه پلیکان واقع‌گرایانه سوار دوچرخه، که به ادعای خودش با یه پرامپت و یه ضرب ساخته شده. ادعای اصلیش اینه که کلاد بعضی حساب‌ها رو بی‌سر و صدا به مدل جدید وصل کرده و این ویدیو هم مدرکشه.\u003cbr/\u003e\u003cbr/\u003eپرامپت پلیکان و دوچرخه رو هم در جریانش هستید دیگه، همون تست معروفه برای سنجیدن مدل‌ها.\u003cbr/\u003eقبلا اینجا گذاشته بودم: \u003ca href=\"https://t.me/MatinSenPaii/5625\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5625\u003c/a\u003e\u003cbr/\u003eیه تست دیگه هم پیشنهاد کرده: بدون سرچ و بدون حافظه از مدل بپرسید کارپاتی ۲۰۲۶ کجا رفته؛ می‌گه فقط مدل جدید جوابش رو بلده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"http://x.com/chetaslua/status/2116882694026269148\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-01T17:27:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/RT8Fw5ODu2nWdqLtlsP8zRt8Ib1CfXfqiSC39VCrtifZKwFPycGbNAc6NEw6-ZJpuUqWkS8tLONCUZtKpRU7XMT0_WwtkEV_JPgZ_sBpFG-7fYrsGTf1FbBKGLHyH4eftNvrjl76RDGmUm51aRraHfq31erqJ9oqsQwRtac4J2PCB_-f-LA0j8Fjyj_Iryu7WYX-eY8PRBMcrOLviy7fbliezmf9wVw_rkkc-z5S6-AEzT42psdzRgkR1yn6LDWYoy7-zj4ZAsutnygWmQMkgojCxFjVaFX4iVe0baQbGtBFOwFKHGWeKqcwkVG6nKeUbLitsg18LYbEnTp95pou1w",
+          "width": 1114
+        }
+      ]
+    },
+    {
+      "id": 5751,
+      "message": "این هم عکسیه که برای اثبات حرفش گذاشته",
+      "date": "2026-11-01T17:43:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Rb6w2SKzWGqgDfVblGlINNmLXkBmbY9OWsCuRmp10huKqG7xdNeJdfBDoJpWWiAfW6pzVv1klfJ88l2UQSnewIKa-umSTvoXHmPN-JWVnlBSsWXTIt-h6ZStELKWWYCl3P8MmH7auJ5kr0kRC3YGsZ3wWIHWxYE-TxQozcngj5reIQihVc1gMvwswG1m0PkowFONBs5hC8xAWNniOw68mjY8kE8DTiu_zES87_if6zd32cvSgFDo45MeRmsnYuSbMdqD_MPxnTDCMUbAghmIs1pEo3QpR95Lyz8XM2nfMh1E0wuU8H1LYPlbwvJ-UuECb7dnYZOOj-jtVgbhj1UdaQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
