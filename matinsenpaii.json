@@ -8,67 +8,12 @@
   },
   "posts": [
     {
-      "id": 5727,
-      "message": "این شاید احمقانه‌ترین چیزی باشه که توی یک سال اخیر دیدم",
-      "date": "2026-10-29T06:26:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GKKG8UUgQd7LhISdKxwHZaPMwj8kSKaWzHni800VL4DCcy6hWeADjk7lPkV6x6fiMLBGtIJ7x1grSoocy3dUsPjorGT3RmP4aBNQjRRXMimU18oWPQDTJ4hTyHzXluksEV9x3LWqHkYsEGiTSr_S22mwZYgBlPMZQfzmkOHBHB4-MTl5SIbZCKeJ1YIKgVLqLF1y1kw4_L7CYNZ_V-LKkzR9V-fx-a1I_Yx-GF6tQdU32EyAAxWgVcONVuVXQ1WlTzYV5h1S3bIReYjQdmR2suiWTdTyX3HnVMAgO98OzvfoGGQowpb4VA9DnKC_iz8O-r3DM5ITXC6TCBCyyaiizg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5728,
-      "message": "شایعات میگن قراره قبل از پایان 2026، شاهد Deepseek V5 باشیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003eهمینطور یه سری شوخی با Fable 5.5 هم دیدم از طرف Theo که فکر نمیکنم درست باشه هنوز. اما بعید نیست",
-      "date": "2026-10-29T08:23:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cHOYGcLKpsE1QkOZpKPAiHMzQSUJumzcMSF8_lKaC8obcnM0pTViuoUeoo9DFZELygZ1VQ7Yi3GnFAEruTKLgQxwMxBRVTngeQpO3UCOC1kC41k-oJtzX2OHH-OeAabfpB23Tu_ezj7R2BMMs-TvvG57pHdddSVsq0R77dD1hdgc0UU1mnw9buKXpT9Kb-TIcm2WBwnhdlg2uZ9nfFFY1dUFWUw3hVA9OYijM8Q5Iz8iUt7bcsoNrLxWcLTY2-uMVftWi4ZJRTYuxd6dnvM0ih6bvqQ3tGzj01W1pXY05fNO0nRXLO9ifVMVH1NyOStVGvmdfQg995zVI1SFborRoA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5729,
-      "message": "\u003cb\u003eاز یه عکس ساده تا یه توپخونه‌ی عنکبوتی سه‌بعدی که شلیک هم می‌کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبه گفته سازنده‌اش، فقط یه تصویر کانسپت به Gemini 4 Argon داده و مدل از همون یه عکس، یه مدل سه‌بعدی رویه‌ای ساخته با اسکلت‌بندی و حرکت مکانیکی و حتی شلیک سریع؛ جزئیاتی مثل سرخ شدن لوله‌های مسلسل از داغی بعد از شلیک طولانی هم توش هست. کل وب‌سایت نمایش این کار رو هم خود مدل ساخته. دموی زنده: \u003ca href=\"http://spider-turret.wasmer.app/\" target=\"_blank\" rel=\"noopener\"\u003espider-turret.wasmer.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/thebuggeddev/status/2115425928503550344\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ethebuggeddev\u003c/a\u003e",
-      "date": "2026-10-29T13:45:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/c5JiVJAbVq_032GsfID-HYk8TI73ffSN6JJMx3E1ajuph6yPhNm2C_Oogf81_WE37z1HYUlgGXBQm8479eE0tCHZ-wTSn4_nTUOqDMZ-JYM2AAsWjS6iKs34hf8RQ8KesHmN2NY8aVTgXI9ZEmrHKACeYVR6bmq8UsW_DSNHiVtPuZ4fBz43zBKxhM127Z7pwjY6LvcxcXk6qRY4hZ2C69AuovM33FvxWzBw4qHqlO_8OQTpNzFgWmpYQKMDZ9Sfj3-X6SXL27DlXtl5CSr-ZWaiBORqQZtUycw7zVqV_bTNNOMeS9iVMf0gmJGh5tsg5w28GMwcHTL5QAPBaked8g",
-          "width": 1102
-        }
-      ]
-    },
-    {
       "id": 5730,
       "message": "از کانفیگ های ورکرتون یه پینگ بگیرید\u003cbr/\u003eاینجا همراه اول اوکی شده پنل BPB و کانفیگ‌های پترنیها",
       "date": "2026-10-29T14:07:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,11 +21,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GwZOK74JstY_2sjpKpeZbTy0hKXPDLoqNOZ3MExBbaT877Y6wXT7Kf917ncSde9SO836tlzGfmkS6Mw8vcVkv5YSiR21n_gj-BQlAwtWxBs9kjM4vCYOJJCRy0LWY5RREsKlL68lUoMmhDEDFmzlK5VawtSrEyaIjEBTxWQYWJceyEKLNsmeanrwxjWvWee9JEfzojYyDtDdpWwb5xDGDKG3opRp6jezoDqrMYdCKL0vcKTFqeTxXIXWUQSAHvNMOg34LgMIZbe9XK906-qk9W78ymzmyxlW1vhWWN87G2fML-nGf1kCx2BubO1wYvcTaon8qze9zHwPkW7ks-fqbg.jpg"
+          "url": "https://cdn1.telesco.pe/file/C3kKSFig3s-XbD5fYRa352-ulJfVRO-A5PKDbxDBrybeyCeeCyOJ9KVF4kSmpf0hM0s6_F9RmUK4XPfdssNzbn5lI6N6VwuFl3x2NZGWnwFCeIfVlDm6lxMOQJNsT7Rg2i61EKO6Rmy41pjfuqyPYEHC7TKUiaYaEr6AiwvIz25otJVjwqoeKDuy86ooKsAIMU2ETMghdf7ild5toTr0TXxnEVfC07qbLqlXOl-oA3a6cMqu6u0XYvdqoaJTTkeaRaSpJH1kaYfImPwY6y9bv2ufILhPUkjqOcUvtc_Izfv_9RVeoER8y6XvTne5wW5nQo2rL4kfsfpybUj13P8LxA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fN7JcgzeGa02_aeXt4yqv2APl6KKmBnyqsVc6t3V4gkPHxtRUMiMC1-_J65iCCf6KM96hbLeI7LYyeuY_g9AD9DA7lPPLRzsb29Z3YH2i-AY_a0eK9KzLwAoBPn4mKs6RHJ1qLqcyFCrqiWMkRgrvTMwFqyt_K9ukOCWT-4VuwMKEcDvTjmt7mQNncsM5q5bY9VCnQiizZY6Gb4M3DSYI0Auubli02dKmtrRBRZmrlmEuNw9096STS8ZB8opy1Oghws39WNBFvWVVqjOxe-RxDVsEcKRYGRLKVFIa9PAhvR3ALL9mJNN4NKxP_2PsK-l1ZDF6vewuj90UGu9pkcygg.jpg"
+          "url": "https://cdn1.telesco.pe/file/nLwtK2-4Ia-W2WG1SPrvh_7WNKVihwscwjgy4QcrcOMjIHib1Q9Vpv4k2Ku8SMlWLXuVn0M73MVMjY3GhNvqgV3IN5l7rPFCiAa3Uh-s94zq1hnY9WLj7wsGA8i3sjeRmMWrRJop_MTbJFD3E99_T7Au4bPWw9b-CctOozvnRx6-ADHg-I8EEMN2mB0Rfboa3GfzbaWSku_h2WY9tvnkiN845xaypMSLgSb1c-q4PRta62Y27ln6u7gfb6XCK-EuqMcpkDe4MJhiG3wfLQ2qmGXoo2pIGCn29bvyI0B9iUknmLzI0slrJWcvLXjhHr5oPXVayG2-MHTsZhwc6yC5Xw.jpg"
         }
       ]
     },
@@ -90,7 +35,7 @@
       "date": "2026-10-29T19:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +47,7 @@
       "date": "2026-10-30T06:16:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +65,7 @@
       "date": "2026-10-30T07:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +77,7 @@
       "date": "2026-10-30T10:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +89,7 @@
       "date": "2026-10-30T20:31:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +108,7 @@
       "date": "2026-10-30T20:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +120,7 @@
       "date": "2026-10-31T08:06:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +132,7 @@
       "date": "2026-10-31T09:24:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +144,7 @@
       "date": "2026-10-31T10:46:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +162,7 @@
       "date": "2026-10-31T13:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +170,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/r12PZgBExaVSP7AZVqvy-UZXSRTXPM_XkZ-CgEPXMQAeIfSGuP2eEEsSrARyKi2TzlOhkLb9a7gYIDpL6kacQmYoCAmi-SORLwplt1fAP3lO7wbDxBxRyYUyzyO10l3-JJQJDDVr1KMfWSq-SaIl_KLkIr5elwKXf9t46Vi8Ua8CGg9SB453AMLrlFyuWVy0u3farsPGFugEV_j_A_Z9SmCWude0NGG3LHTys50ikYlZew__xIR3xj1iyK2D00Bm0Op6kfAnW9PXLDDJ6Qk9GcxqnutCSWzGcISEkA4QGISYL0DlU5TpqP6L3bJwNIPFxtRc6wUN-ksIlU9xV3wKBQ",
+          "url": "https://cdn1.telesco.pe/file/n3W64yWM9HIzo_ZHqGaSuOmcS3bfdIRv1FtJPX3L7B3T7PyiVhAvn8XV0uEI8xhLoc4o6bVugfbBHjmuUOkh020XI4GEaYXKgAPq_RnYbzZtsikqIhEfKmxmobcF6__TPu9rx7tLAd-80NTX3f2FLmMwfZtIJeZhsYyEu7V8bInIrKz8m2BGQFgzQNvC0zQKU9rZhp5D_wABv5QTDZYWZW--jpD83AK9Kv7sns902ydtvPRzIRpfxs-JOsG6wtBJ8gL2BWHw283RnIFUtT2RLE3djGiXP5ranmye_JqVB3juKvRk8im9-chQGE6pBz6PUeOfoOYu9YGoZqlI9bhGrw",
           "width": 804
         }
       ]
@@ -236,7 +181,7 @@
       "date": "2026-10-31T14:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +189,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/JEoi2vblpC41JhGKv6XRHbSSaB8Y1VU7g73-hUegSmM4Pp4pgnUrJm5XlCyfkkneAIw3mlDhOgJfHhLRLCMxlOASuZqQL6avqcon8RFpgb_UKGHuACQKTF0cXEvt8ybT42nLmBFKYIpQfyL3o5jSuQr1VJ7z-hYNORdXhsNVwTB6qhg-pNPpQGP9121AAN2zB9CQ5tKCpSKYkuMMTudBtqxhiDXU0ozH8Np3pyG1pC9RzvxDBBMzZmyCMcBhPeABNF6nzwker7eMOIWeCH9fpGQpKZ76CPV1xMov6_56IzOVtUJb2f-UcGui0sIkhwoLj_m9-fDl8LvYEknQ8HbTLw",
+          "url": "https://cdn1.telesco.pe/file/G0IKggC8q8fupOFzH1mFS69dOQPRg00Ob_a7EYRznNxEVYp-FXOsIO2bcw8k7Jc5X6X0L0wVu5q2MzxJaIi771gS0jjXkQvJe1CzUfbSTs09o7u5CGq1VmcatJbsMxOT0mZTDA9midNn0-SXzGjCcyxAHJ7qL9zhqWlfTPTHiRI593_BP2gBMeTrcSXuOOIYtb8Hr5OmEck3KnHX8Elh4Mih-D4V9xA2kUjgCLlMz8g8xvevRtVzjXEznaI7PvBPHoNeJJk6fwYWQBCQY9NnN3ZWw5Bc5EZ5Eq0hY-Tg93YSwtNd1hAga3k75DcIdxjZSO7TCkNLC59DiF3RhE3wig",
           "width": 850
         }
       ]
@@ -255,7 +200,7 @@
       "date": "2026-10-31T17:07:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +219,7 @@
       "date": "2026-10-31T20:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +231,7 @@
       "date": "2026-11-01T04:52:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +250,7 @@
       "date": "2026-11-01T07:20:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,6 +261,42 @@
           "url": "https://cdn1.telesco.pe/file/dg73Vpv-H3ey3PPj3l_Jdos7ssEC7-kjySEfJbSksU2T1eSIwjrb5eDbne5rSDynz5ktt43vN-La0ZxIFYia3eI6qDp_0ilrtzyxODBxiSKtAqjvOGke9n8bv3JiWuzebKdD9kC3F-g875XKqIJ82ByNqGgSuH7CN7clSGGjtTQhJoHHqx8yMOild1G_gFa6HeWKXzpwDPWuB87inIT_v8EkalTJV-OdZg1tcFVlBorR67JaTxWyjiDWxuy-AtcQy9RCte8wczW_XoG6RzY6sustw2RiK9-ZLqFpUMtJRoibgYl_DZON8xfZdS6FeDFUI2NIwMqWxhysRLqyiDo2LQ.jpg"
         }
       ]
+    },
+    {
+      "id": 5747,
+      "message": "",
+      "date": "2026-11-01T14:18:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5748,
+      "message": "من زدم خوبه. به نظرم خوبی‌هاش به قدری هست که بدی‌ها به چشم نیان\u003cbr/\u003eسرعت و صرفه‌جویی توی زمان،\u003cbr/\u003eدقت بالاتر و احتمال پایینتر سرچ اشتباه،\u003cbr/\u003eو ده‌ها دلیل دیگه.\u003cbr/\u003e\u003cbr/\u003eدید من به استفاده‌ی عمومیه. نه برنامه‌نویسی یا استفاده‌ی تخصصی\u003cbr/\u003e\u003cbr/\u003e«درمان بیماری سرخک»\u003cbr/\u003e«کاربرد جوش شیرین در آشپزخانه»\u003cbr/\u003e«غذای خرگوش»\u003cbr/\u003e«جواب مسئله درسی»\u003cbr/\u003e\u003cbr/\u003eقبلا این عبارات رو باید سرچ میکردیم، تازه میرفتیم توی یه وبسایت که کلی متن غیرضروری نوشته بود و ته تهش با هزار جور تبلیغات، جوابمون رو آیا پیدا می‌کردیم آیا نمی‌کردیم",
+      "date": "2026-11-01T14:24:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5749,
+      "message": "هوش مصنوعی درسته که ممکنه دچار Hallucination بشه(که اونم خیلی خیلی کمتر شده با مدلهای به روز)، ولی \u003cbr/\u003e1- مگه جواب سرچ‌ها همیشه درست بود؟\u003cbr/\u003e2- خیلی از ابزارهای جدید جواب رو همراه با منبع می‌دن و By default سرچشون On هست. مثل Grok\u003cbr/\u003e3- برای کارهای روزمره، جواب سریع و خلاصه‌ی هوش مصنوعی بارها ارزشمندتر از ده دقیقه گشتن بین سایت‌های مختلفه، و اگر موضوع حساس بود، همیشه می‌شه جواب رو دابل چک کرد",
+      "date": "2026-11-01T14:29:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
