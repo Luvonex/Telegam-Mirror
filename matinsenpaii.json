@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 5725,
-      "message": "\u003cb\u003eمطالب زیر صرفا در مورد cdn/worker کلودفلر است، روشهای مستقیم و یا وارپ (masque/wireguard) همچنان مثل قبل به خوبی کار میکنند\u003c/b\u003e.\u003cbr/\u003e//\u003cbr/\u003e\u003cb\u003eفایروال ایرانسل:\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eفایروال ایرانسل تغییری نداشته همچنان میشه با متد F\u0026amp;F بدون هیچگونه محدودیتی به کانفیگ‌های پشت  cdn/worker کلودفلر وصل شد.\u003cbr/\u003e//\u003cbr/\u003e\u003cb\u003eفایروال همراه اول:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eفایروال همراه اول اما صرفا محدودیت آپلود ۶ پکتو کمی تعدادشو برده بالا، و همچنان بعد از رد شدن تعدادی پکت کانکشن قطع میشه، بنابراین صرفا در حد لود کردن سایت‌های استاتیک و یا خوندن پیام در تلگرام و يا صرفا دانلود کردن قابل استفاده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eراه حل‌های اتصال بدون محدودیت به cdn/worker کلودفلر روی فایروال همراه اول:\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eروی IPv6\u003c/b\u003e: در حال حاضر روی IPv6 بلک‌لیست اجرا میشه، یعنی اکثر دامنه ها محدودیتی ندارند و فقط دامنه‌های خاصی محدود و یا کاملا بلاک هستند، بنابراین می‌توان با یک دامنه‌ی شخصی (بدون نیاز به ثبت نیم‌بها) و یا دامنه \u003ccode\u003eworkers.dev.*\u003c/code\u003e بدون محدودیت به cdn/worker کلودفلر متصل شد، راه‌حل های زیادی هم برای سفید کردن دامنه‌های سیاه/محدود روی IPv6 وجود داره که بزودی منتشر خواهم کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eروی\u003c/b\u003e \u003cb\u003eIPv4\u003c/b\u003e: اما در حال حاضر روی IPv4 وایت‌لیست اجرا میشه، یعنی صرفا برای معدودی دامنه‌ی وایت‌لیست محدودیتی وجود نداره، و سایر دامنه ها یا کاملا بلاک هستند و یا محدود هستند.\u003cbr/\u003e\u003cbr/\u003eبنابراین بر خلاف IPv6 شما نمیتوانید صرف داشتن دامنه شخصی بدون محدودیت به کلودفلر متصل شوید.\u003cbr/\u003e\u003cbr/\u003eاما اتفاق عجیبی که الان افتاده اینه که تمام دامنه‌های ثبت نیم‌بها شده در حال حاضر روی کلودفلر کاملا وایت هستند ! بنابراین برای اتصال بدون محدودیت به کلودفلر باید دامنه‌ی شخصيتون رو ثبت نیم‌بها کنید، برای این کار ابتدا باید یک وبسایت تزئینی روی یک هاست ایرانی بالا بیارید و دامنتون رو بهش وصل کنید، سپس باید در سامانه \u003cbr/\u003e\u003ccode\u003ehttps://sso.ito.gov.ir/Member/register\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eثبت نام کنید و درخواست نیم‌بها شدن دامنتون رو بدید، پس از تایید و ثبت شدن دامنتون در لیست دامنه‌های نیم‌بها، (با اینکه ظاهرا بی ربطه) میتونید از دامنتون برای اتصال بدون محدودیت به کلودفلر حتی روی IPv4 استفاده کنید !\u003cbr/\u003e\u003cbr/\u003eدر صورت نداشتن دامنه‌ی شخصی نیز، حتی برای IPv4 راه حل‌هایی برای سفید کردن دامنه‌های غیر وایت وجود دارد (Sni-Spoofing-planB/C) که در صورت لزوم منتشر خواهم کرد.",
-      "date": "2026-10-28T20:30:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5726,
       "message": "Gemini Carbon\u003cbr/\u003eبه نظر خوب میاد\u003ctg-emoji emoji-id=\"5472423702501006989\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اما فعلا در دسترس عموم نیست مثل همون مسخره بازی Argon",
       "date": "2026-10-29T04:02:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/afCaJYM3Yq8mkILwq3_kcK_cmmVEhbbE3xLnZnTbzhTQEAwe-va_Wzm8wVkK22nCNuUrd_jIb1XWH6ZCz0L1zg8ny4VjVL_5quPC3kdzFzAxIsc5x86huuMIfLmH7jn0RF4V87ooTPS4iGx0fXEwBS0knfBEteN-wieJOCpEJhCEmT6VW-Il7nEvBxXWor1o-Gf0FhhMcbu53nVafKmmLn3hGt2jMEympHsoxGg2gEj8F2y0e_-KBONs_RrTG8WvWk2Ccds_SZ96n-IC0n8mfQPYEOETV0g_oeIaWZ8aHGsPUlEFGRaueULmfVviLTgOrK1_F-HGTghL7uIwOT2pCQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/TemmoX2AZutwCTWhKFtmLZ6xphcbCdCmydBGIx6Xod_-kpC-ofoTk2mQ5yVTXuZnsCD3_SmZSCGnYItZdoqE6RgObFsPNCIvzzJIol2Tsqmn6JOtHoIqnUYLA8dRUSO9QGiFwj9rr7FGbdBtDCmG0pWVdqLI0V5PFd26jL65PhTg9iw9QCWr2cUHjPy65_XjImwVy0DzWVVNJtFjKptQOqk1HBxcquQXjbTSNYCXph4UVr0gvAald8kDcWk_7wsfTRklgU_4QieufQ16keHqQckR5b6aFw6PDIowvTl6ctH7j2IqhcHCqypmivFZFTO5WteAIqEeXu08C4nFESQZ4g.jpg"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "date": "2026-10-29T06:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
+      "views": 34700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CPM4awdkARFLsvlVeRT--7klD1CPje2WeIP_uymnbLtLvuzzBRXyk30o-_Ne43DEJjiBv4bg5AzxRNAi2Mly9mX5iq908EM4mtM7rSjaOBV7SPOAQaECUnDwUG2yP5baSTj1FSzt8DUq4UDweJex4jf-vMPJVXF4dK1cMQQPbP3Tn18plzyhcP6eCh7JOpSaMUB-yjWnWe9ASt77riZFDryT02Etk63FYhpysjd_0VPItLJP0gLV246JZJoTFjAZ24zsdmM49vGFjdSCtdGNQSzB-kO-_tPFWiXboG8y9zcKndXqmx54IHwVzJZYrL1sxqzrfUzKjZi8bnMALZn3OA.jpg"
+          "url": "https://cdn1.telesco.pe/file/GKKG8UUgQd7LhISdKxwHZaPMwj8kSKaWzHni800VL4DCcy6hWeADjk7lPkV6x6fiMLBGtIJ7x1grSoocy3dUsPjorGT3RmP4aBNQjRRXMimU18oWPQDTJ4hTyHzXluksEV9x3LWqHkYsEGiTSr_S22mwZYgBlPMZQfzmkOHBHB4-MTl5SIbZCKeJ1YIKgVLqLF1y1kw4_L7CYNZ_V-LKkzR9V-fx-a1I_Yx-GF6tQdU32EyAAxWgVcONVuVXQ1WlTzYV5h1S3bIReYjQdmR2suiWTdTyX3HnVMAgO98OzvfoGGQowpb4VA9DnKC_iz8O-r3DM5ITXC6TCBCyyaiizg.jpg"
         }
       ]
     },
@@ -61,7 +49,7 @@
       "date": "2026-10-29T08:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +67,7 @@
       "date": "2026-10-29T13:45:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +86,7 @@
       "date": "2026-10-29T14:07:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-10-29T19:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-10-30T06:16:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NbKaloIEa-RwSQ3Ah6nZ_-4rqr5qpBinQFoLHTBPFt8cgkpLP1eJkq1aLJpV0QI7YXwHgrxnSNs-OR4wJdpHy6wHcFbWlvDeEJirIdhnGsPSwtufsYaWKk9428HYmAFs5K10UgBVLJKrjbK9i-aEcGT5mfcQkq1q8bcIeEW3KKAD4HL7SviQ61tc_15wHX4pH6l_-gti8onOejZ8Zncdt2oRW_ZnkfKPDtRq8xHsJKUF8l59vphKe4_bQiXksZ5pI0oxY7vbRX1jNzwDDT5P-34HLHG7aKvvcI794LYdJBOpy0LViIS80Y-70qlanc0lsg9areD_2CcbiJ4yWW3Lzw.jpg"
+          "url": "https://cdn1.telesco.pe/file/Bk_QPI_pEVZ26_LdVd8zhGKB0oItpWlD5dYKSimJOMlBO5EIJShCxb2b1wIK_FiItinUahuqrHMBWlCH5-Pa2A69h8lcNmEaSFpr_7mq5BlUNkof1y7KgPHTRwZFoj8OnRBxxqxi_glqGKlObZ5ZwucGhii9-KxDAFbd9OmM_jEl_zQrN22bAmZQ0d8dGD7J4bDH5xpYA0Hl-w1MGyaiyHwYdHKlkCT_cYZL388vdx74lPgWHbrbdQm5WZ3wZc3gzc_XOTYYeJ4spi2hlxTI_RfgqUbyqDTUmr0f-TRWqOdV8--pcqTF5sWmTYfZk6RGFzAGen4DO2XbCVsODG8brA.jpg"
         }
       ]
     },
@@ -150,7 +138,7 @@
       "date": "2026-10-30T07:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +150,7 @@
       "date": "2026-10-30T10:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +162,7 @@
       "date": "2026-10-30T20:31:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +181,7 @@
       "date": "2026-10-30T20:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +193,7 @@
       "date": "2026-10-31T08:06:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +205,7 @@
       "date": "2026-10-31T09:24:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +217,7 @@
       "date": "2026-10-31T10:46:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +235,7 @@
       "date": "2026-10-31T13:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +254,7 @@
       "date": "2026-10-31T14:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +273,7 @@
       "date": "2026-10-31T17:07:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,11 +292,30 @@
       "date": "2026-10-31T20:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5745,
+      "message": "\u003cb\u003eمدل Opus مدیر پروژه، DeepSeek تیم اجرایی؛ ۶۳٪ توکن کمتر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه توسعه‌دهنده پلاگینی ساخته برای کلاد کد به اسم Cheap Agent که تقسیم کار می‌کنه: Opus فقط برنامه‌ریزی می‌کنه و تسک‌های کوتاه و دقیق می‌نویسه، بعد یه مدل ارزون (DeepSeek V4.1 Flash از OpenRouter، حدود نیم سنت برای هر تسک بزرگ به طور میانگین) کد رو توی یه کپی جدا از ریپو می‌نویسه.\u003cbr/\u003e\u003cbr/\u003eشرطش هم اینه که مدل ارزون باید اول یه تست بنویسه که قبل از فیکس رد بشه و بعدش قبول بشه و خود ابزار تست رو اجرا می‌کنه؛ فقط کاری که تستش پاس بشه برمی‌گرده برای بازبینی شما. اگه مدل ارزون گیر کنه، Sonnet اون قدم رو تموم می‌کنه، نه Opus.\u003cbr/\u003e\u003cbr/\u003eعددهای سازنده روی SWE-bench Verified با Opus 5.5:\u003cbr/\u003eاضافه کردن یه فیچر: از ۱۵۴ هزار توکن Opus رسیده به ۵۷ هزار، یعنی ۶۳٪ کمتر\u003cbr/\u003e۷ باگ معمولی: ۵۹٪ کمتر و هر ۷ تا رو هر دو روش حل کردن\u003cbr/\u003e\u003cbr/\u003eاوپن‌سورس و رایگانه و مدل ارزون روی API key خودتون کار می‌کنه. نصب:\u003cbr/\u003e\u003cblockquote\u003enpx cheap-agent\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.reddit.com/r/ClaudeCoding/comments/1xjr68j/made_opus_the_principal_dev_and_deepseek_its_team/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-01T04:52:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/EPhtdfDz6FFWVga_0DPcrJDf22m4j1aQFo8NNouMX5-59DAfJSFpMxhYNpOpZadoFaube_K6VfVFnS10ujxzzBExwB_DjexO-kTH-1DP07ZZvzSxgMZMHv7ERrXjXdz0GJiIk4CUQf2NkTLSwAJLEPNCTz4Q38C0UNwQxGLlCh0GLry1fE_icoomnp0PmLQhPFb_Tuh56Q6z6Ko8-35KSdsHISfD3PFHYTMk0vjtZfBMeMT4Stz9f47OVxuhhDalMjXFAyistzwVxePeDPmDWPkNVE_TCwJQn9Otpr9wpUqnONMKgFQ900VM1cXC6YM1fLeIBOcKMBnmiKI74ARfng",
+          "width": 960
+        }
+      ]
     }
   ],
   "last_updated": 0
