@@ -13,7 +13,7 @@
       "date": "2026-11-01T16:04:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -47,7 +47,7 @@
       "date": "2026-11-01T19:14:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "date": "2026-11-01T21:19:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 9840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-11-02T07:30:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 854,
+      "views": 4400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,6 +145,44 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/B0pElPXWKdXrgcjTFuusJcoWPDIM3EEXNEBGBCQSUbsFoVWWzUCMKa8ZMcZKCYMW1EUMCjHXn4ZihoazSlyC49CKvULVPK9DU0wMcjp4qEoShcvPlKmgmWVfvJuDFp9FbSuknSpKZqYx7pIVPJfn_bv9rB5-S8sH_d6IamiCfCjQzCT-7dpml9LyF3lUEu76esKQ5JsKdhWP3f4Pc1XAmLlmXYelmcPvA6d6oqeIZAJTw9EI2WPgERR0x8JWRd5V2t2LtQFPYpPNRO7JE5RmEJRBNI2h4dT2fbuzVOl3J3V2N3xcVMMA0M2TOzBzOHaJi3F-J9WAdIVzw3Nmf73Q7Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 109050,
+      "message": "یکی از شهروندان با ارسال ویدیویی برای «گزارشگر» من‌وتو، کیفیت نامطلوب آب لوله‌کشی در محدوده نورد و لوله اهواز را نشان داده..\u003cbr/\u003eگلایه از آب کدر، رسوبات و بوی نامطبوع در اهواز سال‌هاست تکرار می‌شود؛ مشکلی که حتی تأمین آب برای آشامیدن و پخت‌وپز را به دغدغه روزمره خانواده‌ها تبدیل کرده است. گزارش‌های منتشرشده از فرسودگی شبکه توزیع، مشکلات تصفیه‌خانه‌ها و ناتمام‌ماندن طرح‌های آبرسانی حکایت دارند. در این میان، شهروندان علاوه بر پرداخت قبض آب، ناچارند هزینه خرید آب تصفیه‌شده، نصب دستگاه تصفیه و تعویض فیلترهای آن را نیز بپردازند؛ هزینه‌ای مضاعف که برای خانواده‌های کم‌درآمد سنگین‌تر است. تأمین آب سالم نباید به توان مالی مردم وابسته باشد و خرید آب و دستگاه تصفیه هم نمی‌تواند جای مسئولیت نهادهای متولی برای رفع مشکل را بگیرد.\u003cbr/\u003eکیفیت آب محله شما چگونه است؟ ویدیوها و گزارش‌های خود را همراه با زمان و محل برای «گزارشگر» بفرستید.",
+      "date": "2026-11-02T08:27:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/k6sesDoOn0dhRW9Q_OM6Cn9p5RtfZXmYbtMsa61KdbUKSNA4ul9sQqJpNCz3oEYuqZSBWdveWFTh0hI2UdBCe33rljozrWhCD38B02KMHFusmJyqDFLlRR9GdU2NzX9hDNFG7CcanI4i9a0Mqyhyw0kxCw_iY73lHUukfv_CJ14JS1_hw5E8PkESAFI8en47rqGl0e8EYs22gAed4k9yoFibypwdV4UCzqJZbkmpqliDMwcdKKLzhavUjM1am-W7v-l4yG1QPrXXYxJ4j-j7bdVBKwX1DTiFmD-t4qsaHG1YckM_T6bsm_k2Wfloh3OejwnhdkhlKPQp3_qZKaK0Rw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 109051,
+      "message": "جاویدنام پرنیان دبیری آبکناری، ۱۶ ساله، شامگاه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات بهارستان در استان تهران، در حضور پدر و مادرش با شلیک گلوله جنگی نیروهای حکومتی از پشت سر جان باخت. او و والدینش در حال کمک به یک زوج برای فرار از دست نیروهای لباس‌شخصی بودند که هدف قرار گرفت.\u003cbr/\u003eپرنیان، متولد اول فروردین ۱۳۸۸، تک‌فرزند خانواده، اصالتاً اهل آبکنار گیلان و دانش‌آموز سال دوم رشته معماری داخلی بود. پیکرش روز بعد در کهریزک شناسایی شد؛ روی کیسه حامل پیکر او نوشته بودند: «متولد ۸۸».\u003cbr/\u003eاو در بهشت زهرای تهران، قطعه ۹۰، ردیف ۳۶، شماره ۲۰ به خاک سپرده شد.",
+      "date": "2026-11-02T09:03:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VVjWdmMHiNPnS9aPM-CFsq3Rze6UaoXMj3SR_vdVFfAbEFtzrn9O4C5eIvN_ALCiVYd0yMWOMi_VdmRzqAdzjVfxuZxuAnxY-yvLXuLRh-5Cf9YKUZ3Bateef-h0U0RyTzGcyXJImuxhDsJVj1cu-endSWa4__gUY_IYh1FnsxJ8xuKyVDN_7Fkshn_dj6kYbCM93VruhbURyUGaidsarDCcSW9V1txtlQUGVl-vLzilbXJQ2AMOIw1upHtgX7kQeP6J-RvpKT2YarohaEuMUmXHKTSHaySOlrVlkMS2m6F_hUgKNs1nVgE6wDA33x02DKBKCT1uM6tX03PFVRQkFA",
+          "width": 406
         }
       ]
     }
