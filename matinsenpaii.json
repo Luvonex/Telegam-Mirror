@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 5738,
-      "message": "از حرف‌های سازنده توی ریپلای‌ها، این نکات رو برداشتم که بهتون توضیح بدم:\u003cbr/\u003e\u003cbr/\u003e۱- خود ویدئوی معرفی(که بالا فرستادم)، کاملا لوکال ساخته شده. ویس‌اور با Qwen TTS، sfx رو کلاد با API صدای خود ابزار نوشته و بیشتر تصویرها و افکت‌ها رو هم کلاد روی Canvas ساخته؛ فقط کلیپ‌های چند ثانیه اول از یه سایت استوک دانلود شدن. کد کامل فیلم معرفی هم توی مثال‌های ریپوی گیت‌هاب هست.\u003cbr/\u003e\u003cbr/\u003e۲- هزینه‌ی اضافه‌ای نداره، فقط همون اشتراک LLMای که دارید. ساخت تصویر توش نیست؛ یا با Codex تصویر می‌سازید، یا Claude یا LLM دیگه‌ای، SVG تولید می‌کنه. برای صداگذاری کامل هم مدل محلی‌ای مثل Qwen TTS جواب می‌ده. که ما میتونیم از گوگل استفاده کنیم.\u003cbr/\u003e\u003cbr/\u003e۳- پروژه از صفر نوشته نشده؛ و به نظرم این نکته‌ی مهمیه که بهتون میگم چرا. پروژه روی سه تا پروژه‌ی سنگین Stylo و Blitz و Parley سواره و رندر GPU با Skia انجام می‌شه. موقع توسعه، خروجی رو با رندر کروم مقایسه می‌کردن و کد رو اصلاح می‌کردن. دلیلی هم که مهمه اینه که از صفر وایب کد کردنِ چیزی که همین الان وجود داره، ارزشی نداره. هنر اینه که از ابزارهای موجود استفاده کنیم و چیز جدیدتری بسازیم که یه مشکل واقعی رو حل کنه.\u003cbr/\u003e\u003cbr/\u003e۴- با fframes فرق داره: اون پروژه، ویدئو رو با کد Rust می‌سازه، ولی این جایگزین مستقیم پروژه‌های آماده Remotion و HyperFrames هست و نسخه آخرش فایل‌های html هایپرفریمز هم رندر می‌کنه.",
-      "date": "2026-10-31T08:06:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5739,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتونل DNS چطور کار می‌کنه؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدوستان، توی ویدیوی قبلی دربارهٔ خود DNS حرف زدیم؛ این بار می‌ریم سراغ \u003cb\u003eDNS tunneling\u003c/b\u003e و اینکه چطور می‌شه از پرس‌وجوها و جواب‌های DNS برای جابه‌جایی داده استفاده کرد.\u003cbr/\u003e\u003cbr/\u003eاگه از WhiteDNS استفاده می‌کنید، احتمالاً بارها دکمهٔ اتصال رو زدید. ولی پشت اون دکمه چه اتفاقی می‌افته؟ وقتی سایت‌ها باز نمی‌شن و مسیرهای معمول بسته‌ان، چطور ممکنه هنوز یه پیام ردوبدل بشه؟\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیو مسیر همون پیام رو از گوشی تا ریزالور و سرور تونل دنبال می‌کنیم و می‌بینیم جواب چطور برمی‌گرده. از پایه شروع می‌کنیم و کم‌کم می‌رسیم به اینکه چرا سرعت محدوده، چرا هر ریزالوری به درد تونل نمی‌خوره و رمزنگاری چه نقشی داره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e یه نکتهٔ مهم: \u003cb\u003eباید هنوز یه مسیر رفت‌وبرگشت DNS تا سرور تونل باقی مونده باشه.\u003c/b\u003e اگه اون مسیر هم کاملاً قطع شده باشه، تونل DNS نمی‌تونه اتصال برقرار کنه.\u003cbr/\u003e\u003cbr/\u003eپیشنهاد می‌کنم ببینیدش؛ کمک می‌کنه بهتر بفهمیم ابزاری که استفاده می‌کنیم چطور کار می‌کنه و چه محدودیت‌هایی داره. اگه ویدیوی قبلی رو ندیدید، اول اون رو ببینید تا این بحث رو راحت‌تر دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e----------\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23DNS\"\u003e#DNS\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C\"\u003e#اینترنت_اضطراری\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://www.youtube.com/watch?v=d9ABLNvoctE\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشای ویدیوی تونل DNS\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://www.youtube.com/watch?v=E2MZuktvgHU\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eویدیوی قبلی: DNS چیه و چطور کار می‌کنه؟\u003c/a\u003e\u003cbr/\u003eکانال: \u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
       "date": "2026-10-31T09:24:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -37,7 +25,7 @@
       "date": "2026-10-31T10:46:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +43,7 @@
       "date": "2026-10-31T13:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +62,7 @@
       "date": "2026-10-31T14:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +81,7 @@
       "date": "2026-10-31T17:07:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +100,7 @@
       "date": "2026-10-31T20:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +112,7 @@
       "date": "2026-11-01T04:52:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/SQ4qJJ1v1Nu8aOv468EqP-PkSz_0JS1lIXlcSHLo-Z_nt9ohXqnu1zUB6_zJ4E0r1RpsB5WfIYIEkIj_oP02yHyXh9_f1mkk3IdEjWQ-MnvuiWikQLo3l3QUOhwc91IIwXnmeueK_L-yolM3PMwVaqOb0UrHWR_JhOZdTFMObm481-QkfYMinKLRkt4PVrKvlJde5GFmV1ChUvFUt8OK-vC3gbIWbswiJw6besPaa79tGZPvIJ41I1nuvimbU6o94Y5LqmoqV3hwO-9R1ibUr5Apd_S52HUR__0dA_1T7MUkCRuJi1-9l57YhBeWQZ0GZwUrKDvkVrhIrNIyWXm8tA",
+          "url": "https://cdn1.telesco.pe/file/rRWs9AX8xuFTSjLeSBMTbY4PofuwJCz4BYvm7tdam8VmcqvKVsyXDKUag1QMYX2JDRB--masC-Nv5RPjWQCrtTvbW4-fy8bTAp2AUPVKLVl56U8ks9Ax6ahtIm_RHBPCOr6Ca8BLP8a9uj56_UfAMnul_NyM9iSEvZuFLkBGtwU1qIFtEvJWVx_rJDZuKBk9qrvTQHOVAuOKWYqWoEBnRyRD5mmEwWAYdAlkwKYBF31iL_nny4zfI2Vq8kS-Q-nKYHYwW0rrEdSGXyapVUMvigVSBSWrBklxNtJKqVJ-jJbxa8MbGu2m59M0KL9ifvbHJGxqc0eEpgdKS-VU5VgFUg",
           "width": 960
         }
       ]
@@ -143,7 +131,7 @@
       "date": "2026-11-01T07:20:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +149,7 @@
       "date": "2026-11-01T14:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +161,7 @@
       "date": "2026-11-01T14:24:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +173,7 @@
       "date": "2026-11-01T14:29:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +185,7 @@
       "date": "2026-11-01T17:27:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +204,7 @@
       "date": "2026-11-01T17:43:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +222,7 @@
       "date": "2026-11-02T05:42:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/k0xlQ4XXBEGXmATfCIhWZiCela7-4hRg2YQYqeKuhgmtKdic5-5CtjPnDBtR6DbXH6BCQmZXbc4W_8BJhwNbKYGtp1NzUChcrJqYi5FaqL06O0tJ8rl3i7aumIqOH2rBkQ6Tam0u86MhxKeWcwPzk4fkFxoJQJRIwYcCIFnSHePPIQ4c58npw0inae3Y1kERN9qXC8I-LFZ-KG5G_mlg3Aoki5qP70IHFoBDRNf498K8mVSumrS61y2plghdLiDIs9Hh0VJBbbeGEQM_hH1xhwl4RNHYIlA1Oe_rgZrsWOI7gOp-zhEhzX0Xj3zPqzXfQaeeJQffFB8Ywb7xW0XQ_w.jpg"
+          "url": "https://cdn1.telesco.pe/file/GNxWdcPRvDZrf74S4ss1qYTioUzA3042JS8IQ5Y-Um8J96nyQ4BVWk7sRf3LGIDOcOt4VzwDrRDlB_3SahTet95O2wyJo-B6p30KI33qTRTEmfX4V2PVJzxisO2aXAcZX-yAQMRb_2t5WUWnDtVXgb8eyvhY5JM_g9xBjcGGoiDCq6UsegM2WjNatQB6TUYr0NnWc1qJHIx-zCDHx45zUW-jzYjjcsf_ptFrq5vqaZE4vRLHI8nvbIc5He0lMPeE2qVGiMQOn8mPmU1L5L1FySEOLL6mTDLNRtE5bfo6K0kOmOHlyJDZVAGP9bZxOHwxYEhUjbhbYKZyySSDgI0lvw.jpg"
         }
       ]
     },
@@ -252,7 +240,7 @@
       "date": "2026-11-02T05:53:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +248,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ctstXux7G0LrgxvD2S01BYBoYDGmTUnpSTWxmwp7Bk1sedPlhRJR252cxZUx4P5_h4QEgxmuuw3nY6lXbS-KiQG0iPXfsT60GA8pCrMLNsxsgD2VwastPgDobqpwlsjqecyqUO1kCxqyum4ntruwL0m4hzisFiXO5A3cA7uFLCzc5UsSDQo5UJZNiWtwPwbzemwSDYVWWigXVGJ6jSGx9G4h6fbbXFdzJIHUn2otVZNXYPl4GhTUMZH7rGMbXXHshttrertXUAbYK9rWG7UotcVdbOiXEmul5rjC-n1msmgLekYZ35OtWMhxsTwcRFbdjkezqQGQL23tMXK7rUyFBQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/dxJPxlcHfpIx_-6jLBEcl0PYuSsU4ZG_5caiEBjnHJW9VHYubNHBH6eycDPI_sCh7HLTfLJd_FWUUQd0_k4l45_-gWxxYYm1t-F8xq8i0sVVaLTSjIhoPJ0iyN_PW327_D7Q9hZf2i9JeZasGFIzFIuEEjce0U7U1zDq2OfS3Y6P8zq79b4h96a5TX-eylP3TFws_r4YvYdwv0Xr292noD-Em4B2Ht1OrjQnntdHJNQvHHkp4CYKH5FUDCI68oPge5NSYZjYFWAgDw_oWgeEcu2ub2s3c5yw_q2OHhSy0nLVqXuXrX_U3mFORNvQak9YP9KAYdJJK0kCIhzJ3hW_5Q.jpg"
         }
       ]
     },
@@ -270,7 +258,7 @@
       "date": "2026-11-02T08:24:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +276,7 @@
       "date": "2026-11-02T08:55:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +288,7 @@
       "date": "2026-11-02T17:31:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +306,7 @@
       "date": "2026-11-02T18:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,6 +318,18 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 5758,
+      "message": "حدودا ۹۰ درصد کارهام رو از Hermes بردم روی Muse\u003cbr/\u003eدلیلش رو هم به زودی توضیح میدم",
+      "date": "2026-11-03T05:59:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
