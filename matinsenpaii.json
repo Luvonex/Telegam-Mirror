@@ -8,61 +8,12 @@
   },
   "posts": [
     {
-      "id": 5755,
-      "message": "مرسی که مثل همیشه هستید بچه‌ها\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e ۴-۵ تا سرویس معرفی کردید که بررسی می‌کنم همه رو",
-      "date": "2026-11-02T08:55:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5756,
-      "message": "\u003cb\u003eدادگاه برزیل وکیل‌ها را به‌خاطر Prompt Injection در پرونده جریمه کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمفهوم Prompt Injection به طور خلاصه یعنی دست‌کاری پرامپت ورودی برای وادارکردن یه سیستم AI به نادیده‌گرفتن دستورهای اصلی یا انجام کار ناخواسته.\u003cbr/\u003e\u003cbr/\u003eگزارش Jetstream Security می‌گه یه دادگاه برزیلی، وکیل‌هایی رو به‌خاطر واردکردن Prompt Injection در یک سند قضایی مجازات کرده. این ماجرا نشون می‌ده متن‌های آلوده‌ای که برای منحرف‌کردن سیستم‌های AI طراحی می‌شن، فقط مسئله‌ی فنی نیستن و ممکنه پیامد حقوقی هم داشته باشن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-02T17:31:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ri2nW0eu3CTgafIbqROw6_pZ94t_0OgObrxrhnsp34HtVxYIn-6K4RE7FZ1P8LZ0GlVk87c0NC765HopzNCfv3lJobtCUaTKX9McYVml7H8zuUJ8Xnhq9vMR_yUPdw8UJb0WavYu2LOCTahKCM9MFYyvmiwIAbLNOPfmQsdl62XRBrXoh2C8-4tnfhEcVKgVoEbc083tP4SLtAudeE0IyWLYliJPN4iws9PvGmpKuFykUwxE2w__Z2pdmTDdYjbSh7Pw5ZXv1khFbyHGF5N7qi1S6PBBox6OZVIRLUihU-6Acx-DlVJLF80sfavKt6MMFVvKBv59TTQO89OaXs4I-Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5757,
-      "message": "قابلیت جدید Creator Mode به DeepSeek Harness اضافه شده(قبلا توی بتا بود)؛ جایی که خودت تعریف می‌کنی هارنس چی باشه. ایده‌ت رو می‌دی و ازش یه پلاگین واقعی و قابل استفاده درمیاد؛ از یه محیط طراحی گرفته تا یه بازی سندباکس و حتی یه نمایشگر سه‌بعدی برای مدل‌های زبانی.\u003cbr/\u003e\u003cbr/\u003eتوی ویدئو چند تا نمونه هم نشون می‌دن که باهاش ساختن\u003cbr/\u003eفقط ای کاش، دیپ‌سیک Coding Plan میداد که همه‌اش مجبور نباشیم بریم سراغ API\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-02T18:45:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/VuP8m88jF8HJ-n72LfNy2zyHn1ngN71UGUqMwAye3pvTYdwrUk3sKRJZ7f3z2Gyz1M0r6w3vZUpT6JizHxxXRK_Ym3Kel7mkCid5EmaCVFG4xAPYymnM-G2S5CBwDm0buEEmfybUgew2jGx8IXDTBwUhSUBeSFHutv1y_K3F8rYADtg8zjzrKWlWDIk93G_chzD5Yf2zedWbzYDtS-2yXLzGPqjvtpoxPMGrPAxxMgBY-cjxeC6ANxE3abfhFYjv1-c9LE5Ftv-GyMZzmrajwlhAL6AJDTRAyQSqmXgUnYBFgVyY-wbmfWik5TZ9BSeB3QZwjGYiO0H6r6NvSD9ryQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 5758,
       "message": "حدودا ۹۰ درصد کارهام رو از Hermes بردم روی Muse\u003cbr/\u003eدلیلش رو هم به زودی توضیح میدم",
       "date": "2026-11-03T05:59:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +25,7 @@
       "date": "2026-11-03T07:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +37,7 @@
       "date": "2026-11-03T09:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +49,7 @@
       "date": "2026-11-03T09:49:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pZ2OwAILLV6gJNdltN-3X6KWtDcvOzm5sryajq3CCQgPIC4TGBr0eRtTGUPwXI4SqwyNaqSFWoAgCq1pHxd4zZWReJx7w1Q4ta51Epnya4mjzex9InnS-HyHk3wlyjG-EqU4zZqaXgHWzPEqrPbPu-xNAV5pXwGYXIF7MCBlZeDAAcsODZs36Xpwi8u23rYd6RwTYQAPOSzZ68PAuMBdlHCH-vZKbhycIw_FzrvLoTa-1ChcXEutV_04M3clw1xevyL3G_qWQjoe5TzuvXTpbVA2S9f7NoVGiV34wrmWurt0NM20F2igATKL-81vL9eil8moFNxWRLIMehEBXdFWUA.jpg"
+          "url": "https://cdn1.telesco.pe/file/gvvJCIuYWDNHZylt8S9GkOyxYb6jT_2r7U2I5LGV0nmbZiza6hNE5MM7rN8_2DsftblByPAmgfc0idrz3iQeExpndN6yzvyekO04wsQQSuwyQgdUqVv-ZIEnVLSnGdFAq1D0SFVRT46-uq5nF8p_hiV3DlOLx6afac-S5aioHc9w9HxhA6yhqhiPCM--PYXoiTKxiiYLw59mbLWzMlcs6dHD7O4ar_JDWX53BQ5Sw8BoQ0srkIOQ0WLqY89TXhxam-0bnh3fDeoGbfNBUw5fMivxP233mwgWpxNCPELZ1sC5VZHTwmR_VEWRFwZLJtR8mYd_HrkbibpEZbxxHkpWZQ.jpg"
         }
       ]
     },
@@ -116,7 +67,7 @@
       "date": "2026-11-03T10:42:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +79,7 @@
       "date": "2026-11-03T14:49:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +91,7 @@
       "date": "2026-11-03T14:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/V0a-PnySleIx49J3x6D-kfY_nAnWURCcYpUV4iT8g_8G5cIhlRK1kW_fjPlxrswZuRO6njwJB42n7w4oRsxd-0g6W_sZjD-aZPDQrba4KeTf5K21F01QC2CZd44JRNKI20KuASTr1uZamEKAKLIYcMLTXhXC0Ykbezk5EySqdgHdXcVcW2vcJFbpPBUi-2ylXKnkAkluGn2Hfksf1X0g6V5mpxILKiR9L2NjBh9xLwIy7DcDLOvnznG8vo9bQTTQRgdbTFRku5g6GeswrkCflor56Zlci9iHOge_xiYoqqOMv9RuQ3X05mHOhEfW6hxZZEmhh6ytumbF2QTDBBAkGA.jpg"
+          "url": "https://cdn1.telesco.pe/file/d-UaBWuNlaHgz7yEg_qjz-Pdx5A6WZyDs_LZK6nESRvC5ejWXhgc74c1kSBd24PCGFodMjNXerBy66yKF1TygPX2qYetiJspNzA1LdQoZOYZl_9AapZ4CXiA-ApPrff9AElyHTnCgxhncs_G7vjumqi4W9yphpGCty8oc7ljbYp3Kup8bFXWShSzzcROeN3i5svBu1gRx8sF6V2ITleh9GQTLqgNcBQNXChco6KjVjExj0fL9KQrnodjVsSETQTzIlBWtQ2Q4eyaXPwNest9N2_pjxrZp81r9H0ORBocYm2jFy8lFROEds42K3eRL2W7hlw7lw3B7q08bxe3sgHGQg.jpg"
         }
       ]
     },
@@ -158,7 +109,7 @@
       "date": "2026-11-03T15:16:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +121,7 @@
       "date": "2026-11-03T17:39:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +140,7 @@
       "date": "2026-11-03T17:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +152,7 @@
       "date": "2026-11-03T19:31:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +170,7 @@
       "date": "2026-11-03T19:38:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +182,7 @@
       "date": "2026-11-03T21:02:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +200,7 @@
       "date": "2026-11-04T04:32:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9760,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +218,7 @@
       "date": "2026-11-04T07:16:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2890,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +230,7 @@
       "date": "2026-11-04T07:16:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +242,49 @@
       "date": "2026-11-04T07:22:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 20700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5778,
+      "message": "تصمیم گرفتم تمام  این 188 تا سایت رو با بررسی کاملشون واستون منتشر کنم به صورت غیرمتمرکز\u003cbr/\u003eکه هم کسی نتونه Track کنه که ما از ایران هستیم(یا از رفرال شخص خاصی میایم) هم اینکه خودتون تصمیم بگیرید از کدومش استفاده کنید",
+      "date": "2026-11-04T09:09:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5779,
+      "message": "\u003cb\u003eکمپانی\u003c/b\u003e \u003cb\u003eAnthropic داره ثابت می‌کنه هر خروجی‌ای، واقعا مال کدوم مدله\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگزارش TechCrunch از بلاگ Anthropic می‌گه آنتروپیک یه سیستم اوپن‌سورس ساخته به اسم FlashProve برای «استنتاج قابل اثبات»؛ یعنی یه اثبات رمزنگاری که نشون می‌ده یه خروجی مشخص، واقعا از یه مدل مشخص اومده. مثل امضای دیجیتال.\u003cbr/\u003e\u003cbr/\u003eکاربرد اصلیش جلوگیری از تعویض یواشکی مدله؛ مثلا یه شرکت نتونه به جای یه مدل گرون، مدل ارزونی رو جا بزنه و هیچ‌کس هم نفهمه. آزمایشگاه‌ها هم فقط یه Fingerprint از مدل منتشر می‌کنن و وزن‌ها لو نمی‌ره. کد و مشخصات فنی‌ش روی گیت‌هابه، ولی فعلا کار پژوهشی هست و برنامه‌ای برای اجراش ندارن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-04T11:30:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/aojH9KBhRVkPPdn6hP7wUeCEslsshzrKrPTUOR--bj4uta8bQYpc08qgMSBrlgscW9baC8C-egTCFun2pc8v373AcHokRmFbqgHltD8iBEQz8cGtCBN25pFMBOG5mtjep_0MYI0n_YfreUenbhxiWpsjJM46n-7Vz-LtjypqjGH9c2GniMrZlHklEfsFIXfQW9aBLD7R0j8f_SAhTTdlWE352IBgS_ZvKt1xnZZrqy5KmtZyL6l91j5kZlZmS22ekL-HtDm1tffz9YUJQC_7-pkzjspR_17YpWooYns8lSFqky5f_ZexYIquli32mtqrn_SSUjXiDK7UHs2T1st_Og.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5780,
+      "message": "متأسفانه یا خوشبختانه باید بگم من هرمس رو کلا کنار گذاشتم چند وقتیه. به زودی توضیح میدم کامل توی یه ویدئو",
+      "date": "2026-11-04T14:40:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
