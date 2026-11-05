@@ -13,7 +13,7 @@
       "date": "2026-11-04T15:10:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +55,7 @@
       "date": "2026-11-04T21:03:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +93,7 @@
       "date": "2026-11-05T08:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 3280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,6 +134,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/cgNWC9AUkYRX2wjLq2GPIe5wKoK4oTSJvOUThdGrCsjiND_QU79WspwBKod29blF35Uu4wHccUvsJDVmqELFo8uP6UFp8NtlS-QW3z6-KSgLSXljY0sx4x-rN7BWi-DViA14hhnl6tpEWMSm_WNhABUT2kWNVYK2FpPVWBwFPecqp3YlXeVdBFW4Z3zmsdd5RGPHlni79hz4-95s0Cmt0ZCN6gNjJgfAZpV4M_6T81cEJVDmxtfy65z8W4TjxjIz_Z54jkYuCJk4LGk5Jeq0jHSpeN_MqP6GgXZg2FJ1r1DzWhjCTbMRCb83pgpf-gnOaKQIhdAAEW-lgIH0SUp16A"
+        }
+      ]
+    },
+    {
+      "id": 109184,
+      "message": "جاویدنام کاوه افتخاری، ۲۱ ساله، روز ۱۹ دی ۱۴۰۴ در جریان اعتراضات در محدوده نهم قلمِ محله شاهین‌ویلای کرج، هدف شلیک نیروهای حکومتی قرار گرفت. بنا بر روایت شاهدان، او برای کمک به یکی از معترضان مجروح پیش رفته بود که هدف گلوله قرار گرفت.\u003cbr/\u003eبه روایت خانواده، تیراندازی از پشت‌بام مسجد نهم قلم و توسط تک‌تیرانداز انجام شد و گلوله به قلب کاوه اصابت کرد. او را به بیمارستان رساندند، اما جان باخت. مادرش گفته است که فرزندش در آغوش او از دست رفت.\u003cbr/\u003eپیکر کاوه روز ۲۰ دی به خانواده تحویل داده شد، اما اجازه خاکسپاری در کرج را ندادند. خانواده ناچار شدند پیکرش را به روستای مادری او، اوج قزوین، منتقل کنند و روز ۲۱ دی به خاک بسپارند\u003cbr/\u003eکاوه دانشجوی معماری دانشگاه آزاد گوهردشت کرج، هنرمند رپ و فروشنده پوشاک بود.",
+      "date": "2026-11-05T09:59:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 225,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/TOft9647-Z_I8-DG1K5LecGMU-qQvjH6vVy5tNfSo08maBSb0tqGn5P3294uYUMVdnouQr2wUVjIoVu6TiKuHkQ2G4xZo2tnwB_ILvi7ARDzFqBR5SVtoNUyuIWk-b0Q_GRrNcmmApV5PvgMnNP-Lkla6HOPyzKhDOEGgzhT5O9mu08lgSEWlG62v3V4sHmgW-VRf8iONlM4TcaxLosqVl_WbMeTFGBUOjjAE74_ZAcE8jcf8hP79-v0L9OnvD2t2phbhOOdiHQWhobnw2aCIN53WLuavA0kamdGDBA8-ZYSvKuAeb1jgwwDP8dL-fwVpjM7cK05L8UASPUFAwuKYg",
+          "width": 406
         }
       ]
     }
