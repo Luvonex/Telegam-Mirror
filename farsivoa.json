@@ -8,9 +8,9 @@
   },
   "posts": [
     {
-      "id": 236146,
-      "message": "آمریکا، بریتانیا، فرانسه و آلمان با حضور ناتو، پشتوانه امنیتی اوکراین پس از توافق احتمالی پایان جنگ را بررسی می‌کنند؛ جزئیات تعهدات و نحوه اجرای آن‌ها هنوز نهایی نشده است.",
-      "date": "2026-11-05T14:22:39Z",
+      "id": 236177,
+      "message": "اگرچه کرسی سنای میشیگان از سال ۱۹۷۹ در اختیار دموکرات‌ها بوده اما این بار السید با پیروزی بر رقیب جمهوری‌خواه به عنوان نخستین مسلمان منتخب سنای آمریکا نام خود را در تاریخ ثبت کرد.\u003cbr/\u003e\u003cbr/\u003eرزیتا ایراندوست که به میشیگان رفته بود این انتخابات را پوشش داد و موفق شد یک سوال هم از السید بپرسد. \u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T18:49:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 3560,
@@ -20,19 +20,30 @@
       "sender_name": "Farsi VOA",
       "media": [
         {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/hsWDhB3yS5ZxuqDVYvFdjzJiJuLe-8T85948SOIVgkqvzlcYs3u_DC1V_hr39CYVNuSXABQlmFC8J-L3G_S-jBsOZv0cpVzW81TklKLvkDmZKxpPUws6jaLda_Pz7LiAjHWVXcdbWp0qKjo-dx14qn-6un_xIrdUCIyZ9AoV7f2X4hpsvRxdmnt7NgXWqxVrE2SNOCQxYsrDV_3R0qyrBpcLk9lDLWm8o0gwqQBTi334CzkM_OOi7ygyC-SXi6jWbr_ibKmT8WGcNEGFY-nXDI6R-LlKRE1zGsyM_w3eB9zphDxHCzaEBSpprecRru2POT_LqxGlhVJEDwEnU-GxRA",
-          "width": 1280
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TP_U9QWVT8wU7psiTU-yM3sSZ5ROyUZl2KwzYxDu5hVl1LknKRsww_PWVt231s0HaJIXBNrCHys82uye5Z1iQB65nnuEoJNUjdzkcNIOMCNsP5qi-npo49hhQwoRBDIKaWe5zjDdCxFRAlURVMGXt-ExC35ITthg3a5_I8YVWZ04C-IGw8xxWwKrkp1aiDTPN7ZfbpIdYJWBysCs200U_tAyqsd7g78R0YC8vXW2d-ml9t8obRwTa6_0cTtPQcBvVGcuTS2W-6WeWxjMeZM-oj52y9Hg0aKFps6XD6DX2Y47ZcPKDUffEfqJXHU_bk6KzSk1TEnr2Asku2Givd0xlw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/HTQUPPEVYs9LKC3hndhk2TaYE5WWwDrVC1kqOlTlOffy7nAP8AFQc7inly6Dn7Xt89BDAuuldF-LV2ZNfbLOrhZ4KeNMEDZ1KymmqJmCIGqBncC6pc2cZP6X_PhhlbDQi1FwmHZNVqRIIUtKvNUGKaLwQe-sQaluqjJ1WosLv4dPwT0RptZby8l8V4FNxBDqAbkdTDmIDKYDrOAD-vTrPoCCVSgRZz_eCxwFRo1nk-BSJAXcMCChedpph0lZnXfOXnZ8ddN27GcfSe6wD7eVuKCb9DeZJSdps0qJt9EAy8azYv64yQAuvRPsKr0L6CB7-QCZvaFimd4wqGNvK7oLtw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WQUoqB597RqbPR7J5rtd7PgwBc-NMOw-SYLiDKMSUQKiJ5A7JZss5ApdhVOSO1U2_Mmfos7mjgTvCHVwaTFHpwGBcZFGzE3LRbNZ0hHDfxZdC5gRUBraBG1yoXpMiisyzqSML2PqrZjUckk26gQfY_2uLtM52WD-ffGfUrlV5Y-b9HJL4yNmx1x4jtQJqU6R0x8pbGHbssNK9RKJb5BRZpzlCd8t-DwDOTqevptbSuerFj8ueLJOMqlZMKLIYic3ZkbZ1IFBMj6dTY-2_1YeKMw1ISh08yaBOdzUuBx_RtxhGujEayZiWIGv33BWKNKIBAoOPBtn1sSG1bVIr1ucAw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/V109NGFsWKbuwMM2DAU_LrgT5ZawDVXOcgGq7l0WASRC0npQwD4XRWwPzEm2hc0LwbLpEFmaJXK9Z7oeeDAhjAUapaMhq3i_jOHh69KfgYO0sqU-Z-4quC2cTFoyQia8Yv7Vz2H3GbZk3CKNQgzV9t0527mjLO4fAMkldyR9HhmKj0_GzLWpEoDq-YvNFi8ASfTxDKAjC9HRctTdGtGi6QzcXWSxLG0DBLN55qwqTmEZjZCKNr8zJyl4uMCDruvS-jCUmgOOhR23Z35dZu0aMwSleLvryKp1hIcQElQ1Ekogo33dQYM1d03Iu9a9cac8VruNtIOyM_PihroE_Gsb7w.jpg"
         }
       ]
     },
     {
-      "id": 236147,
-      "message": "در اسرائیل احزاب موفق در انتخابات با رئیس جمهوری دیدار کرده‌اند تا گزینه مورد نظر را معرفی کنند",
-      "date": "2026-11-05T14:53:19Z",
+      "id": 236181,
+      "message": "نیروی دریایی آمریکا روز چهارشنبه ۱۳ آبان تصاویری از عملیات سوخت‌رسانی به ناو هواپیمابر «تئودور روزولت» منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eاین ناو در کنار کشتی پشتیبانی «اچ‌ام‌ای‌اس استالوارت» نیروی دریایی سلطنتی استرالیا، در جریان عملیات سوخت‌رسانی در دریا، در محدوده عملیاتی ناوگان هفتم آمریکا حرکت می‌کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T19:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
+      "views": 3150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -40,61 +51,30 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/UP_UbJRPwMopaK5nbDHXG5pWhUXaEni8YcrdsQW-gvWlp_NZ1I7pvhI4LiFh4KH8i1l5uCHGtuJCFUtSaoqsGXKu1jSmVW2veh2HLjH6VDBLOuqtQ3bwBPKed5Qx5e4e1dqQJLu7bBmI4KPOvIJ6W9aEEmIbjwJGdhflZgVWJyfYIcc8ZwklkJcFcs43JGQuZenFY922BayyaX1mVYd9ryu44k3sJWGvOGdJqeCSlUHsq-eXg8FE04HAWLiOYNu89aDfHAJYWtzCqFHwkKSG1JCA3HRRhrBjl-Dpq1KmSTy-fKlMuTI7R9rJ1rrsMylw79cXVIAYIO9W9YZ5dzW2Ew",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 236148,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eتظاهرات گسترده در فرانسه؛ پلیس برای جلوگیری از تکرار ناآرامی‌ها بسیج شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eصدها هزار نفر از معترضان فرانسوی روز پنجشنبه ۱۴ آبان در اعتراض به افزایش هزینه‌های زندگی، کاهش کیفیت خدمات عمومی، و مشکلات نظام آموزشی دست به تظاهرات و اعتصاب زدند. دولت امانوئل مکرون، رئیس جمهوری فرانسه، برای جلوگیری از تکرار خشونت‌های ماه پیش حدود ۷۰ هزار نیروی پلیس بسیج کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/france-nationwide-protests-strikes-macron-police-unrest/8219259.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/france-nationwide-protests-strikes-macron-police-unrest/8219259.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-11-05T14:55:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236150,
-      "message": "پلیس فرانسه روز پنجشنبه ۱۴ آبان در جریان تجمع اعتراضی در شهر لیون به سوی معترضان یورش برد.\u003cbr/\u003e\u003cbr/\u003eاین تجمع بخشی از اعتراضات سراسری به رهبری اتحادیه‌های کارگری فرانسه بود که با درخواست افزایش دستمزدها و اجرای اقدامات موثرتر برای تقویت قدرت خرید شهروندان برگزار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-05T15:05:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/rjEdFwUuSec_D4l-966_foGjuQaIq2b3_zxDjPSw1xM_hBGAWNwIPY7n0Pr7L2veL6UgqXJmAUvFYuMWXFVA1VenTwakzIXC50qVaBdBWKsCHZJ5s44yUnrH1FAxIL-cWlhzVzaAwi8uyJSZOHJWV3OJlBH5Nd8TTSGX2KkkZ1vtXvkGO0dPWVE3a8CpFRGTo9x31eLnznAEOiGmQBG5ZTk9gXc-ISv8nR0EetNB6db_NjXYevBI4iz4roZUfgy39gIwauNO8F3HCwmnWl9Hw1YwFU8072KJekt5mI75OuikMl4XWDNxPz7tNEp_eXek6eCbuYN4-edmrKQGPhWrkg",
+          "url": "https://cdn1.telesco.pe/file/ZI4NLqpBjJM4N6u503IcRG6hmKyzaF_CW5GLpKJP3hT0cJcyvLt2mVe_rbdB4-QeqAq-ifeXZUwFl375UeYOmuzuZT5PmHZ609cGFTkGk1JyoqwRbGfCQ47UMSFA-JagkAyEdCvvOWsYhmq1SSCVYSa7XUfpqDdPUyJEcqHuW_9WvymRAK7B41PIDBE-jeLkT9PICJ0Ia8HTSwC2PhmcoZRYkb9bg5rVheAcdQRqXfFsJ5s-LAaWG4kxtBGiaNqKloBVfCjr3G3TyBzSuXWnD6a_x79r3PO9wOGHAKWnxNeOBRpju6U6GgOfPIeCoAZXbSQxtbBnM0Es3-DQTTyX4w",
           "width": 1920
         }
       ]
     },
     {
-      "id": 236151,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eاحتمال تمرین حمله فضایی روسیه به ماهواره غربی؛ دو ماهواره روسی دیگر در حال نزدیک شدن به هدف تازه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eیک کارشناس نظامی فضایی هشدار داد مانور اخیر ماهواره نظامی روسیه در نزدیکی یک ماهواره تجاری غربی ممکن است تمرینی برای حمله به آن بوده باشد. همزمان، دو ماهواره نظامی دیگر روسیه در حال نزدیک شدن به مسیر مداری ماهواره دیگری متعلق به همان شرکت غربی هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/russia-satellite-attack-rehearsal-iceye-western-spacecraft/8219272.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/russia-satellite-attack-rehearsal-iceye-western-spacecraft/8219272.html\u003c/a\u003e",
-      "date": "2026-11-05T15:26:01Z",
+      "id": 236182,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eنقض آشکار حق آزادی بیان در ایران؛ بازداشت‌های گسترده به بهانه فعالیت‌های رسانه‌ای و مجازی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eکانون حقوق بشر ایران روز پنجشنبه ۱۴ آبان اعلام کرد جمهوری اسلامی طی یک‌ هفته اخیر دستکم ۳۲ شهروند در ۶ شهرستان مختلف را به بهانه‌های مرتبط با اعتراضات، فعالیت مجازی، و ارتباط با رسانه‌های فارسی‌زبان خارج از کشور بازداشت کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/continued-violation-speech-freedom-iran/8219352.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/continued-violation-speech-freedom-iran/8219352.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-11-05T19:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3300,
+      "views": 3310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
     },
     {
-      "id": 236152,
-      "message": "نمایندگان تازه ‌منتخب کنگره: پایان درگیری نظامی با حکومت ایران در اولویت است",
-      "date": "2026-11-05T15:27:17Z",
+      "id": 236183,
+      "message": "پلیس فرانسه روز پنجشنبه ۱۴ آبان با استفاده از گاز اشک‌آور، ده‌ها دانش‌آموز معترض را مقابل دبیرستان ماری کوری در شهر استراسبورگ متفرق کرد و به تجمع آن‌ها پایان داد.\u003cbr/\u003e\u003cbr/\u003eاین اعتراض در حالی برگزار شد که دانش‌آموزان در سراسر فرانسه بار دیگر در اعتراض به آنچه کمبود امکانات در نظام آموزشی می‌خوانند، دست به تجمع زدند. این تجمع‌ها پیش از تظاهرات سراسری علیه افزایش هزینه‌های زندگی برگزار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T19:27:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3330,
+      "views": 3080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,18 +82,73 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/WPsKJ4BXlAv9A0IyNXoI7tnF2rf-QAt5Aw9YdsnKlqCkrYjRy3pekxl9PfoCuHWEn7CxQhtEFcMRNn7P4TD_QiFzbwHRejPrnL3yqhFlqGKLwutovvKX8sEA8pV01EuMCwqM77UCJlXH2H5SHioNYB_VtHLNh6hnd0-Mssfn9gvUDggXnrUNxVllswqo86l_gsyJ8QTCp7CJzvYrD-EljA5fbN0o0pnpPAe9n5NLEEH4t515kux-p0pqAOQhxSAl63tEVPAK50WMqGo3wIjXvGd1sD1CzNvwXfTLQVuFOxM0nWgV7YeBw4P0yPYquM8y7sM9Mb1xE5NOl8nJhjLjzw",
+          "url": "https://cdn1.telesco.pe/file/Ug4mdVs-qUxftoCJX0fzY2Docak_-EASMzGaavE5tLuBd6yMFFRX-tZxHrPRF7blSIkMYmotx-pk-8MkIcqLCKkDB9de00Df-klgglv5VL-MykvgVsZ8lsfQi5ej1WBMjwj1mMh5nyhM7nj7pWctN4aisdBCavQnwSr_B1YOhcjlS2E72z7iMz3DaUbI3WppuZVtmMakyBUwkfieB8Z115IrLSrb7nclcMSmBxqR1r192JeukxNjiy8_MMv54ZQDXTzdO7357sXem92J7d1-jpyZNumBb6WHt2q4Cg5OWxaD8koftT9FPO60FpJjfhK1bzdkKYWemR0QGcyjJgw1Pw",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 236184,
+      "message": "کلوزآپ - قسمت سوم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BD.png\u0026#39;)\"\u003e\u003cb\u003e📽️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9E.png\u0026#39;)\"\u003e\u003cb\u003e🎞️\u003c/b\u003e\u003c/i\u003eکلوزآپ یک پادکست تصویری است از صدای آمریکا که توسط محمد عبدی، نویسنده و منتقد فیلم تولید می‌شود. در این برنامه نگاهی تحلیلی خواهیم داشت به جهان سینما، از اتفاقات مهم هفته تا جشنواره‌های جهانی، از نقد و بررسی فیلم‌های روز تا آثار ماندگار سینمای ایران.\u003cbr/\u003eهر جمعه با مرور خبرها در رادیو تماشا از صدای آمریکا همراه ما باشید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BB.png\u0026#39;)\"\u003e\u003cb\u003e📻\u003c/b\u003e\u003c/i\u003eهم چنین میتوانید پادکست های صوتی صدای آمریکا را از ساندکلاد ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://soundcloud.com/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://soundcloud.com/voafarsi\u003c/a\u003e\u003cbr/\u003e     \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
+      "date": "2026-11-05T19:38:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 236185,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
+      "date": "2026-11-05T19:38:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 236186,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eکره جنوبی دامنه عملیات دریایی خود را به نزدیکی تنگه هرمز گسترش می‌دهد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت دفاع کره جنوبی اعلام کرد قصد دارد دامنه عملیات یگان دریایی ضد دزدی دریایی این کشور را به آب‌های نزدیک‌تر به تنگه هرمز گسترش دهد. این تصمیم در پی درخواست‌های پرزیدنت ترامپ از متحدان آمریکا برای مشارکت در تأمین امنیت این آبراه راهبردی اتخاذ شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/south-korea-expands-naval-operations-near-strait-hormuz/8219369.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/south-korea-expands-naval-operations-near-strait-hormuz/8219369.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-11-05T19:42:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 236187,
+      "message": "آغاز مشورت هیئت منصفه دادگاه متهمان مرتبط با سپاه پاسداران در لندن",
+      "date": "2026-11-05T19:43:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Qy3qRtyzCV95GdEVPcp1ztX_TeyyooETPYlyEsmXq-gGOnxufUNMxU8rydGwEPJrm72-doPVl58P3qObxFglYAlMN07otngG6vKNFZj8aaIXrS-Q-b-0ThC1J6mADr-kRxNrzvIPen9S3HboPv2tMLc6m9Wi9nVqe41LKnWLxqPydD1xEPz1U6ZKg-rU8TUYcrO_JVgRLviQbQu-kStHse6LYBWpe-2FwNEHwx8KOVzXNVjQuDDbU0KuwGAOBElWI4I1Q5R0nEL1NzyH64M2RCaiFO2Seu9HuNaQ0cPTwZZ4UWBoL9wHdvxaZsYfRUg_rGtYBbWGx_xZ7nsERB16wg",
           "width": 1280
         }
       ]
     },
     {
-      "id": 236153,
-      "message": "به گفته رئیس انجمن متخصصان عفونی، ابتلا به کرونا و آنفلوآنزا در ایران هم‌زمان افزایش یافته و نیمی از موارد کرونا مربوط به کودکان زیر ۱۵ سال است. هم‌زمان، گزارش جهان‌صنعت از فشار هزینه دارو و ضعف پوشش بیمه‌ای بیماران حکایت دارد.",
-      "date": "2026-11-05T15:32:46Z",
+      "id": 236188,
+      "message": "اکثریت بزرگ در مجلس نمایندگان؛ دموکرات‌ها تاکنون ۲۴۳ کرسی به دست آوردند",
+      "date": "2026-11-05T19:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3360,
+      "views": 3280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,56 +156,42 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/e0J4ogLOX0PZcOhDbesD-Z4gISiPtnzxPY6pEfNzkTRhYvrZykj8gXmNlFspQ2N1me0antMHa68I8C1M6qB8WLOabSqjFJYqxzT2SRR-2sj7v0ckobUA8vmKdAQ8LeQ3Bm-3BiS0F6uiWQyzWghU-zo1SZsYFv_8FQTlb31CM6223lho-3VePd7U3n4P3lKFiXuU-AF4aUS__ZkZEnT8pRztVESQPyOVkeYcRSSrrT8hK4AMf4tpMb8jezX_IVd6_OiELkQotFE_Ah0SVCdiwfQdC0owrmMDKno_1ISDhSAGjJiK-agNvCORbua51JVdWkDXZ1vbNmcoieJdUzzt4w",
+          "url": "https://cdn1.telesco.pe/file/cmDUng2_tgpjn9oijyOC7S6oR08qYKMedTMxCpEpqkekwCPDOPqupKsYiRpywj7qArTW0mSyIP15SSC7d43OEZrgG81w1lUU0Fp3VzmCdJVvBUhPr0CXfkvSvNqszP860yC033qbMak6O74o7pkBuffTq4VpiuOoveetlymnvF70PIanMKfxebceTuCR2XYGpexeTMB2mEYa2AkugtsV_IZjpC46cbSdJy1KynYq-QhKwW0Fu72eaYkJwvHyNIjIK1Zzs_C4EOXRIZ8GtooeH2KG_tFbwGVKys0oE1jfcFSqa-r2CyLldI4y79D1SzBkuTZkwHNHCR88w1ee9SrdtA",
           "width": 1280
         }
       ]
     },
     {
-      "id": 236154,
-      "message": "تحریم‌های گسترده آمریکا علیه تامین کننده‌گان‌ تسلیحات و حامیان ناوگان سایه جمهوری اسلامی",
-      "date": "2026-11-05T15:55:43Z",
+      "id": 236189,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eتداوم سرکوب مخالفان رژیم در ایران؛ چهار معترض در مشهد در خطر اعدام \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرسانه‌های حقوق بشری روز پنجشنبه ۱۴ آبان با اعلام هویت یکی دیگر از معترضان محکوم به اعدام در مشهد اعلام کردند شمار بازداشت‌شدگانی که طی چند روز گذشته در این شهر حکم اعدام گرفته‌اند به چهار نفر رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/human-rights-violation-continue-iran/8219373.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/human-rights-violation-continue-iran/8219373.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T20:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2980,
+      "views": 3080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/rozvJWtllUbnDxwkwiKTtlc5hK7X_h_YLs3C0V8WjFTdMqXRBwsi14Dl2AU44o5YJt6rY9AAm5Y4zMEGQrOdLnkq1LDryoLc3k8FNs_5tJ6rOzqHkSNW3gWRhRFW2YWd8gt7vUmhcxhEsGKHh65oWEk2AC-bAojueltPCuwz6ULIoA4rZJC1NdDs5ArJr7XsibTe9b1dBEuC1WzH1N9GDuA_FCh7C74qF5X9o7sqoEqtmjtNfuXeNSsdiZx_czuUr92sjPS-1GOz5gAit6ndKSBsRK7C3RLJ-y3_CQVnq_VAjlsZsDPDL9ZqRynKNR5so1gS0Gky3omveSF4AbNOzw",
-          "width": 1280
-        }
-      ]
+      "sender_name": "Farsi VOA"
     },
     {
-      "id": 236155,
-      "message": "دومین موج هشدار بمب‌گذاری در یک هفته برای پرواز‌های اروپایی",
-      "date": "2026-11-05T15:59:35Z",
+      "id": 236190,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوزارت خارجه آمریکا اعدام سه معترض جوان در ایران را محکوم کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت خارجه ایالات متحده با انتشار پیامی به زبان فارسی، اعدام سه جوان ایرانی به نام‌های علیرضا رئیسی، علیرضا سپاهی، و سیاوش جمشیدی را محکوم کرد و خواستار پاسخگویی عاملان سرکوب و اعدام معترضان در جمهوری اسلامی شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/state-department-condemns-execution-three-iranian-protesters/8219380.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/state-department-condemns-execution-three-iranian-protesters/8219380.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T20:20:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2950,
+      "views": 3090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/pKFd59rqmjvWnoegL_dY_tjd68s-u8zn3cMZq0kcfle4hlX9CNTrNCvIMJFwn3lbqgtD-qgDOhRmWVP4MrS2u2AI_JOyGn5-NCkVw5J0p1mnRV1P5T-OKPdXU4UpEct5bczpDdfXsuMGRzgnozdeUudgBgt1pyRK5JD0mpf0NpuswCbbK6VnBLrgQs6gWuD08JD-M38KGFePfhcCjqXYHEdmNumFwJPUWQKgTbY75yG8ev-PvpmhYhxTWrr6Am8NHnvANg0exqLuehFmWC0zTzkC7d8BorFjSsLpk4O_RRmuh-dCjzS06NYKSbUM_HFbWsevDnb4XWylUu9M3PNjLg",
-          "width": 1280
-        }
-      ]
+      "sender_name": "Farsi VOA"
     },
     {
-      "id": 236156,
-      "message": "باقر موسوی، عکاس و فعال محیط زیست، با انتشار تصاویری از دو سمور آبی ماکسول در تالاب انزلی نوشت که هنگام پایش میدانی زیستگاه هورالعظیم، تصویر این گونه ارزشمند و کمتر دیده‌شده را ثبت کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-05T16:24:57Z",
+      "id": 236191,
+      "message": "هشدار سازمان ملل در مورد  بحران آموزش در افغانستان؛ ۵۳ درصد کودکان از آموزش رسمی محروم‌اند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T20:30:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2530,
+      "views": 3130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,27 +199,34 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/dh2HW-o2o0T677CRKWcf3u7SvtQS2bQPX5cRT7FSevyKDHsc9g5DUsDGf6e1UjiatIv3k7eNE-iRt3gm8QtWrLzOCH_-9CeYrPwhmPhMA8w_bjNc47LWOqThEnGWO_QTZWTakaTcHq-_pW2aVRcnRqKBQaPfc_-22Ol-xbqOYp-jlgnyvAfC4HmXbp6jy2aUIMpgtquuGBtqbXbsOJALtO2PnmJn2t5nu_bbRe11T6XqIdeUe3i-DPfSNOPUYf0D7yQyjnfvFZYbDlo-bE1MvPfr3yCrPBlizbY4LDxrXJMnlbNuijQW3Gg2nJyX7a8u4dWESvbJ4NfKOoTDHv1obQ",
+          "url": "https://cdn1.telesco.pe/file/SA1ZugentxKpdBZ1J8FvPP_rplhhXpglnWkYA9m5uP8R0PBsVTs-IEBu_ET2Sm2q_tkpEWE9QKTAvpdCd16nNjfm9COtxYBDx0qoOa-BimLw5xiHb2Doy-n72fSkNvNdZSwrnHzs8DkVW3clCkHGH-lIzfXjZVn9e1v7OhmzW4n8b_e231zPGEkyMlfWiePTgvfafnJhXwKambXPCvxvfzu3JxtyCpHXiQDtjyrskM7SNNq-UQ9-6j5b-khV9W_eK0L3VmFqL9ecseMEQ1omQD9L8_qMRHUa18m6h6pBmyM0-4fDUjsg-39CM_0g1DqWic5evKTYMXHyzzXdVJBAwA",
           "width": 1080
         }
       ]
     },
     {
-      "id": 236157,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eگزارش منابع محلی از «مین‌گذاری سپاه» در مسیر تردد سوختبران در مناطق مرزی سیستان‌ و‌ بلوچستان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eشبکه حقوق بشر بلوچستان روز پنجشنبه ۱۴ آبان با انتشار ویدیویی، از کارگذاری مین توسط نیروهای سپاه پاسداران در مسیر تردد سوختبران در منطقه مرزی پیرکور شهرستان راسک استان سیستان و بلوچستان خبر داد و اعلام کرد این اقدام جان شهروندان را تهدید می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/irgc-plants-mines-sistan-baluchistan/8219285.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/irgc-plants-mines-sistan-baluchistan/8219285.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-11-05T16:28:53Z",
+      "id": 236192,
+      "message": "به گفته سایت حقوق بشری هرانا، ۶۰۰ دانش‌آموز به «اردوهای راهیان نور» اعزام شده‌اند و اعزام ۵۳۰۰ نفر دیگر برنامه‌ریزی شده است؛ اقدامی که منتقدان آن را ابزاری برای تلقین ایدئولوژیک می‌دانند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T20:48:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2690,
+      "views": 2970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Farsi VOA"
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/u4Tjs12nT4omz0SzPkK50F7MHEQOm4qWvpRiX3u9xMOUaiRlgle8XQilHKeN7y8hzajujrNp8ynGfoQjycUiCh1OXiuo3imXwzXO3c1bSxdeEzA1CXEhJJd5rwo0n83leIu4JgC7yPGm7HCdMzN8c0xEvgHM9qMi4d_bRJLhVnVfwfzhZF-cuuOZOHIvsBpdf_sR0oIv3pfsa-7DCcgb6m2_BOf8Uvl74x7oGTiayiAlHz1Es4iCPQkhpdIAUYvrIogV8FeMuQ-cHm8FznMZRWUTuwZ49PRTfkhsCCgZ4oZo7fa_QhfiqkZf9D3y3MgFvX5UwMciAGsii8ZwKHc06A",
+          "width": 640
+        }
+      ]
     },
     {
-      "id": 236158,
-      "message": "رئیس سازمان بهزیستی اعلام کرد ۵۰۰ هزار مددجوی تحت پوشش مستمری دریافت نمی‌کنند و حمایت از آنها به ۱۵۰۰ میلیارد تومان اعتبار نیاز دارد. به گفته او، پایین بودن پرداختی‌ها به مراکز مثبت زندگی نیز فعالیت بسیاری از آنها را غیراقتصادی کرده و به تعطیلی برخی مراکز انجامیده است.",
-      "date": "2026-11-05T16:42:50Z",
+      "id": 236193,
+      "message": "گزارش‌؛ هزینه خوابگاه خصوصی در تهران تا ۲۰ برابر خوابگاه دولتی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T21:20:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 2310,
@@ -209,18 +237,18 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/JHhVlsVcg0U4_xGhZMJNx6YlnhCnCYB8CTpYwb3n8PmvmP3H4fqKDhpQrzpt27hhihSUOoppRI91xAWflpDfU0uq1CZjJWuJIOXOx9XDMZdAgLBtI68nz2Ks-Q4kXQQ4c79timWgu8if0V_DYRjQd7wqUBtttIlidw7kOhyVPiEx8JNkLIC24AhK521KHmgrMOaYL74H7Vr2rYXEWww3cg-5Ihj_SLflfWRzzibz3PlyHkQatnWHlON-WR1fH_t-U4khd39L9TgDW_0IvjOxGE3Ji1gegWwf2bT3aeSrRusC6BQ-X94J76oJcZ_2NOL3zRFn6vUu79hVw364uFfiSA",
-          "width": 1280
+          "url": "https://cdn1.telesco.pe/file/DcrxEyWB8sS3d6N3Yq-2b2-SVnnQgnjuiQ6B867k69XB9nI4pDVSgI-Y3c4tNzZ46ks-AO2hw-ZKj-94TPAGBd97FgJE_rwrxjCe2GZxewU6gHw3WUy1SIl0_z-syl5RDzyEL2mwVDmZ3M_W1m1i7PHoEJKiVnScShMP0clR9N0jMMmeu3Y2uiiuxYf30RAwD2M3G16DO18tz6x01ff0hadpzULmcZnLo-MgwuEPlDTX24N4aQloMHeDs6Im8MVOedDS3amQ73-Ou82Av5EzCYLVN28mibDpm_0OfpSD3I4iP2TPa0IdsKXBbmm5mULvaln0xDuqZigzvxyUNtDJ5A",
+          "width": 640
         }
       ]
     },
     {
-      "id": 236159,
-      "message": "تبادل حملات پهپادی روسیه و اوکراین در آستانه مذاکرات صلح ابوظبی",
-      "date": "2026-11-05T16:52:06Z",
+      "id": 236194,
+      "message": "سایت حقوق بشری هرانا از کشته شدن فرهاد عزیزی، زخمی شدن قیوم رئیسی و بازداشت احسان عزیزی در پی تیراندازی نیروهای نظامی در ایرانشهر خبر داده است. به گفته این سایت، نیروهای نظامی بدون هشدار قبلی به سمت خودروی آنان شلیک کردند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T21:40:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2020,
+      "views": 1910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,72 +256,30 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jmb9E7jV1PhlreVs3OZcbSdy_fJEHux9SfLusWP0UD3fOVdibv9xgBWbH2655taD0Gr_uG-Yt5ZomxJtr7RXaPi7TyuNAxY8-BUbSi_o0XlfecOWeJY445SdeeThm9XywDd8bSOn3oEFVt3pgvrlZXwmp_2La1pcQ2JkNin3Zxfc4ZUOyygz73Jsvqx4IEYSdXrIdwmiauyqG4y8tjwNf2cXpTDo0UqiKsHLdsDPue58i7K9VUrD2N9fEyXoxl1FT-jza5m0V0pmE-KhZcd_SMhVawpM6S_lOK7KBU94mhBcbxvuQ5PLj-FmwRGeF_w8OfBbKp8zyC6iZYCKv7fnuw",
-          "width": 1280
+          "url": "https://cdn1.telesco.pe/file/LoFpUGmmekZRbCVgfxlDmD_ZVK0q15n3oJvjgEDP7eSWf8ae_rX7PLEYFPVBzAeLl8AVrdoXLmOXALYuCa3wODbPZ0D4kFh9PmtKb9zwg6c9tnUG7AkmXMEKBXb-NqB00b-QQ52NqtEkc8yg0sgU7meDX6tnd2Mr6Mzt9Eda-ztKPxlh2DeVVnBsEXSrI53Wl19B0SwsU-S45VzBQUVGzxYVPPbYhJ6C5gmHeDYHlbBxC8KebntAOkCKk4QTpo470himXPHf-RMcKTLXQ005IyLtkI2LyYk54z4defYbvn62aUV_SXlivfUgnQSR5vqFlAsFF0JdYkjDwRRQ-rkNUg",
+          "width": 640
         }
       ]
     },
     {
-      "id": 236160,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست تفسیر خبر- پنجشنبه ۱۴ آبان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-11-05T16:56:24Z",
+      "id": 236195,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eواکنش ترامپ به بررسی پیشنهاد میانجی‌ها توسط جمهوری اسلامی: بررسی آنها فرقی ایجاد نمی‌کند؛ رژیم ۷۵ هزار معترض را کشت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، روز پنجشنبه ۱۴ آبان، در سخنانی در کاخ سفید تاکید کرد جمهوری اسلامی هرگز به سلاح هسته‌ای دست نخواهد یافت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8219403.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8219403.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T21:44:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 1980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
     },
     {
-      "id": 236161,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-11-05T16:56:26Z",
+      "id": 236196,
+      "message": "در صورت توافق احتمالی میان جمهوری اسلامی و آمریکا، ماشین اعدام حکومت شتاب می‌گیرد یا از سرعتش کاسته می‌شود؟ گفت‌وگو با محمود امیری مقدم، رئیس «سازمان حقوق بشر ایران»\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T22:01:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236162,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eروسیه به شهروندان خود درباره سفر به ایران هشدار داد؛ نگرانی از تشدید دوباره درگیری‌ها\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت خارجه روسیه با اشاره به تداوم خطر تشدید تنش‌های نظامی پیرامون ایران، بار دیگر از شهروندان خود خواست تا اطلاع ثانوی از سفر به این کشور خودداری کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/russia-warns-citizens-against-travel-iran/8219301.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/russia-warns-citizens-against-travel-iran/8219301.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-11-05T17:01:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236163,
-      "message": "ملانیا ترامپ، بانوی اول ایالات متحده، روز پنجشنبه ۱۴ آبان در مراسمی در کاخ سفید با حضور نمایندگان روسیه و اوکراین اعلام کرد آتش‌بس بشردوستانه در شهر اولشکی امکان خروج حدود ۸۰۰ غیرنظامی و ارسال غذا، آب آشامیدنی، و دارو را فراهم کرده است. او این توافق را گامی اولیه به سوی صلح پایدار دانست و گفت: «ما انسانیت را بر جنگ ترجیح داده‌ایم.»\u003cbr/\u003e\u003cbr/\u003eبانوی اول آمریکا گفت نمایندگان روسیه و اوکراین پس از مذاکراتی گسترده و حرفه‌ای، روز اول آبان توافق‌نامه‌های آتش‌بس را امضا کردند و این توافق از ۵ تا ۱۰ آبان اجرا شد. او افزود هر تحول بزرگی با جرقه‌ای کوچک آغاز می‌شود، و ابراز امیدواری کرد همکاری دو کشور به توافقی گسترده‌تر برای پایان دادن به جنگ منجر شود.\u003cbr/\u003e\u003cbr/\u003eکریل دیمیتریف، فرستاده ویژه ولادیمیر پوتین، در مراسم کاخ سفید از نقش ملانیا ترامپ قدردانی کرد و گفت رئیس جمهوری روسیه شخصاً دستور اجرای عملیات را صادر کرده است. ولودیمیر زلنسکی، رئیس جمهوری اوکراین، نیز نشان درجه یک شاهزاده اولگا را به بانوی اول آمریکا اعطا کرده است.",
-      "date": "2026-11-05T17:07:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gzbNI4JmsBDffxf4wNYE0v-aDcMfKCwzZT3iuQrM8qWirtvPEWxaLFdB34m-_CqasKTHLb1Mroezy7Q28iw5LQhJImfr_cU77nRpy1eynHJFclMZIa6s4bUvwZjhgVme1Ph0cOaocPacZvHWYZ-vP3KQTwb15kRMNv_wBP3sRo0-kFogSpTkyu2jNua27LCtOpq3IInuw82JCpNujQ-qUAIgNThh6dgysXgXZzNvmVEXuigs3-q9KKpNHMfJ6gv8vD7Zyg0SySYVajuRthv_Pxej_12J-88N-RN0gdzH4D9Nuh9LjF3qnT5nOvJ4_CT5VDON7Z4pKdb2DeR-x7EUmA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 236164,
-      "message": "ارتش اسرائیل روز پنجشنبه ۱۴ آبان با انتشار تصاویری اعلام کرد نیروهای یگان رزمی تیپ ۱۸۸ در جریان فعالیت‌های خود در منطقه امنیتی جنوب لبنان، بیش از ۳۴۰ قبضه سلاح و تجهیزات جنگی متعلق به حزب‌الله را کشف کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گفته ارتش اسرائیل، این تجهیزات شامل موشک‌های ضدتانک، گلوله‌های خمپاره، سلاح‌های سبک، مواد منفجره، نارنجک و مهمات بوده است.\u003cbr/\u003e\u003cbr/\u003eارتش اسرائیل همچنین اعلام کرد ورودی یک تونل زیرزمینی را در یک خانه غیرنظامی کشف کرده که در آن تجهیزات پزشکی و وسایل اقامت وجود داشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-05T17:15:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2009,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,18 +287,18 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/qhimuRgDMZBTex7wwV-lk4TI1k7gOvQH59k7QJJyMvethQ-s7zA76Ahw2bN1zGvtfr-JUmzM1yAHqSY6H3cYLYsyVzUyYIcUe9Poe6M8iLaS1DZcsWHEK-MVd-5VCxDHCW8kaS99DMcbAhtOvEU0YG83QC8o52Yl8aCmkGpebxwy2gB5F91V0Q25tP5A6qeY3OicI-JC0S3BHYFkW0mvK3aEIvbO9JoCkVKXX9QJLXZBz5Pvw8hPb4DgsxaMAvr_ZMXQ5jOLKVj17ihx4eQG2HUD1vsSmCxuLoJNMGZIHuc2cHEbcIBbnYEzUFIgCIkaKgZjNbNjHbEXzYO06axNJg",
-          "width": 1080
+          "url": "https://cdn1.telesco.pe/file/oF2x5xnTAR65aekAW7-OH0Poag7q2u9vTQSNdXPRmFtDaBnAJt2ci1tQIfdxuTlvnPI4fyCv2zHCBf9k92WEKoHXaA_nZopZXWBixtrMYqqoQ6AiT9jDVoXjgh6-dxWA68zq6qv4Ety7EtPy7JMB-roks4Tso7wSQcd8G0m4EW6iSKDCj6BvNkGeM3ZRKNm3kBGb5sSh8Pn247f9xBM9gg_P5adquqOSIFCb0coyLeUGBZ5y1mklFmYmN73C9RCK3tfIIiPqB4LKWbbNuJVJPwOT0r04966siNjQVZxU35b34ho59bu_jYSgPjGnamgXs-PE4vdQ9btaOJXJSJBGVg",
+          "width": 640
         }
       ]
     },
     {
-      "id": 236165,
-      "message": "آیا تهدید به بمب‌گذاری در هواپیماها و کشتی‌ها در اروپا، سازمان‌یافته است؟ گفت‌وگو با شاهین مدرس",
-      "date": "2026-11-05T17:22:50Z",
+      "id": 236197,
+      "message": "ایتالیا در آستانه تصویب سیزدهمین بسته کمک نظامی به اوکراین است؛ اقدامی که با مخالفت بخشی از ائتلاف حاکم روبه‌رو شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-05T22:20:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1650,
+      "views": 450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,22 +306,10 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/YHVWCf6ZLCeMc1ugzaSI2gdNCRNV7lnJ9rfA2EJq1IZMe2ofBri5yKP9WpCxh1vMh9ortNYWSSb8d9gXss4qt3aopJ8t0491YQPwRohSKoRu95tR9RRWDt3OUjmUz8mgvBJ34zRX0QdAUcFyUhE8hrrFYC2jyjnX7p3_t4Ka7Ujqcrgaip13GhnK7AfhnnHxUtl9lQ1CB7wkn0b_cwMwMZmVIytxwibljY1gmvj8K5HI-41bWqX8jng7P6ztDgfOXAle7I97e556OFZS9BHrTNjYAegK2FDlOXiN-IN_c5BqD7eUQ6i49dL78rpXffqHdMYgT-c5uUVTitL23K8tSQ",
-          "width": 1280
+          "url": "https://cdn1.telesco.pe/file/T1n6fbVaZfkxxBZq83VE6hiQI4Qoew1lPesw0-c4qVQMCEV6GcKUAznRguqVmnxbbgy2vhbhVGNFQ-6E-DztUeC9KaP8suZ4FKNm2TUG8LPwLDJCrxE2qCid4B3voA5Tt2OpCSRD2Zz0OZugRV7q1z3oT3AAVztr4LIyZtd_Kf7uiTDDx1RBU5aLBwHbBYk0hbYlcozBcOepySnFf0zOv3-nFBbC-LQqV276Jw-u7THY7DK9qWfQHLVGjiStnqDO0tsQNWxQPvEK5Fo2DQAROcHSyFbZ1dOeC0sHwrv29mLPx4hLoCpG_ayTpsZ-3mDH-MOg3R6ELYXPXYR3ZrJD8Q",
+          "width": 640
         }
       ]
-    },
-    {
-      "id": 236166,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eملانیا ترامپ: آتش‌بس اولشکی می‌تواند سرآغاز صلح پایدار میان روسیه و اوکراین باشد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبانوی اول آمریکا با اشاره به موفقیت آتش‌بس بشردوستانه در شهر اولشکی اوکراین و خروج حدود ۸۰۰ غیرنظامی از این منطقه، خواستار گسترش همکاری دو طرف برای دستیابی به صلحی پایدار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/melania-trump-oleshky-ceasefire-russia-ukraine-peace/8219316.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/melania-trump-oleshky-ceasefire-russia-ukraine-peace/8219316.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-11-05T17:43:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 879,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
