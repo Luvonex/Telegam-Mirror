@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 5780,
-      "message": "متأسفانه یا خوشبختانه باید بگم من هرمس رو کلا کنار گذاشتم چند وقتیه. به زودی توضیح میدم کامل توی یه ویدئو",
-      "date": "2026-11-04T14:40:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5781,
-      "message": "\u003cb\u003eیکی IntelliJ IDEA رو با Rust از اول ساخته و اسمش رو گذاشته OpenIDEA\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاکانت GithubProjects توی ایکس این پروژه رو معرفی کرده؛ OpenIDEA یه IDE نیتیوه با هسته Rust که همون روش کار IntelliJ IDEA رو آورده: همون کی‌مپ، همون پنجره‌های ابزار و همون Search Everywhere معروف\u003cbr/\u003e\u003cbr/\u003eعددهایی که بنچمارک خود پروژه نشون می‌ده:\u003cbr/\u003e- باز شدن پروژه: ۰٫۹ ثانیه، جلوی ۳٫۱ ثانیه خود IntelliJ\u003cbr/\u003e- مصرف رم: ۱۶۹ مگابایت، جلوی حدود ۲ گیگابایت\u003cbr/\u003e\u003cbr/\u003eامکاناتش هم کامله: ادیتور و دیباگر، گیت و ترمینال، کلاینت دیتابیس و HTTP برای بیشتر از ۶۰ زبان برنامه‌نویسی، با بیلد مک و ویندوز و لینوکس. البته عددها مقایسه کاملا هم‌سطحی نیستن، چون تحلیل IntelliJ عمیق‌تره و خود سازنده‌ی پروژه هم این رو گفته.\u003cbr/\u003e\u003cbr/\u003eلینک پروژه: \u003ca href=\"https://github.com/l0ng-ai/openidea\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/l0ng-ai/openidea\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/GithubProjects/status/2116797394683846891\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-04T16:47:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/lleIWcFf1Y48YQ6dXNrEHT8E-HHaL_l5rlROt6iNSjY2eIy_qKinlGRWkxAN7PPNzKAMgaPi9RPqx4l1hlaIRuTGEOQmJZA8jCSQGajOLhYjLNRYdimLX5UFnym1oFXyz4lWBlc3v7gBFflS0WX48IZ-yCj7r6msnV5MieCYBlB9rWSB8pS-GRA7rFTAwJaegX1q65GgwdJt3X4D1UhQW5cUs8dAqDfMZDy1EHf0VD5kdY4lp1JmTQ35xVb1o_JAHpbcL31Aqz0I2Q6WGoWtU8k1OGZtIscolIS90fqkLb2GcMK3DMqdXuJ0VIBYuz6W3rCFLPOxmapNKgS8JAZl_A.jpg"
-        }
-      ]
-    },
-    {
       "id": 5782,
       "message": "\u003cb\u003eوزن‌های Kimi K3.1 Pro بالاخره منتشر شدن؛ مدل Open Weight با کانتکست یک میلیون توکن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eصفحه Hugging Face شرکت Moonshot می‌گه Kimi K3.1 Pro یه مدل ایجنتی چندوجهی با وزن‌های بازه؛ در کل ۲٫۸ تریلیون پارامتر داره که موقع اجرا ۱۰۴ میلیاردتاش فعال می‌شه و کانتکستش یک میلیون توکنه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://huggingface.co/moonshotai/Kimi-K3.1-Pro\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-11-04T17:07:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-11-04T18:31:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cTUobtPXZ-r6aueRx11u_Avt-6sr9HpPC3gQH0w8SaBzMTbkaECKCbiLuTnWnG2lLrZlVimBQHtbp-2xzfCQ5ArUj95Thc4PwWa4I1pSC1A7lmWKU732S5iqF0ouJGJnc0ylm-nexNVG7--KKwq0cAN9KVMFqgYH-csTZBggpurpIJZJDDgpP_0yhjvscmHWjxR_lqFY8Am5ADfsfTYCOJ-T8095NqsQHbotf9xAZBCGBI83EkzlwsSAX0JPEYr_t7NSwFgIBok5_prWqryrHJ-8h5SAhy3LFEfb4BrITx-CMrUiX7KX9L21wEJ4dukmL0_ov84UYef1DHseAWRHaw.jpg"
+          "url": "https://cdn1.telesco.pe/file/lNyd6LQFTr3I63rMjsMbsy7pYxDStUtdF8-cLNkJQ0PifitdO8GXfcKDZHXHScP2hJeqYJ8UKOJEDTE4FZLYaGumvLCAyboYzcRoLI6uwyEyBlh6lN7j-pjOfZi27S55hVWJIi2IM_0tQhnafeF5XfE5Rop738WI8Yl-M9p0viLeWivFYH09EsffgAg7F5mbrQoXU4xMmsHzKMFg2ywJsUBT2Uc5uaD6eopNsj4-hDivQ1KPs58OEgoWBdVKic2pOU8RkPxgk5eBWlwpvxbzmyAl64aEEW0mXvnM27cfbX-NBXu17WZ37ODGmpkuErHxRdmM6SAU7R5Ktezy6ZbZPA.jpg"
         }
       ]
     },
@@ -79,7 +49,7 @@
       "date": "2026-11-04T18:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-11-04T19:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +73,7 @@
       "date": "2026-11-05T00:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +85,7 @@
       "date": "2026-11-05T03:40:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +104,7 @@
       "date": "2026-11-05T05:56:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "date": "2026-11-05T10:25:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +141,7 @@
       "date": "2026-11-05T11:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +159,7 @@
       "date": "2026-11-05T13:13:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +171,7 @@
       "date": "2026-11-05T14:18:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +189,7 @@
       "date": "2026-11-05T17:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +208,7 @@
       "date": "2026-11-06T06:43:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +226,7 @@
       "date": "2026-11-06T10:44:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +244,7 @@
       "date": "2026-11-06T11:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +256,7 @@
       "date": "2026-11-06T13:04:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +274,7 @@
       "date": "2026-11-06T16:14:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,11 +292,48 @@
       "date": "2026-11-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5800,
+      "message": "راه‌های زیادی برای دسترسی به مدلهای Uncensored هوش مصنوعی وجود داره، اما هرچقدر فکر کردم، دیدم حقیقتا معرفی راه‌های دسترسی بیشتر از اینکه مفید باشه، آسیب‌زاست.\u003cbr/\u003e از آموزش ساختن مواد مخدر توی آزمایشگاه مدرسه و انواع و اقسام چیزای خطرناک(اینا صرفا توی چت هستن تازه.  نه ایجنت. و چیزای خوبش رو گفتم. هزارتا کار وحشتناک و داغون میشه کرد باهاش) بگیر، تا مشکلاتی که دوستمون اشاره کرده و مربوط به ایجنت‌هاست.\u003cbr/\u003eاگر واقعا برای Cyber security می‌خواید که خودتون تا الان رفتید دنبالش و بهترین‌هاش رو هم پیدا کردید. ولی واقعا توی استفاده‌ی عمومی یا ایجنتیک، توصیه می‌کنم نه دنبال مدلهای گاردریل آزاد برید و نه تست کنید.",
+      "date": "2026-11-06T19:27:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ejdbc2Iyl9Pi_h80A189jxjzQ9sZOv3XpI1g3eEoucZn2hJ4KihC_ghafeJ6_0FYX9yC4vkcpZKPQaFmVvQEjzsYxP3jz1Kl6r7DifaKNZtGG8IZEYP7pVlLstSai2ICLl-oST_mRG2SVev5dgWfurBeNHN5D_1w4oxiuJANJVyF8TpXsCi8V1PWx720QszvrwxyiX_h4nqVjPh1gfg7Camhb9pIW7oQIpdXVv-th3QWHWof98hCosUEhettwkIYPmi6uAqEp6MYoM1_VhIdoylnVonJ9sHbCX6INQ-qMTqY6fk9mgAQJbla1dfXrowpFXqBjbXEjDD5nzr-zsiiOg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5801,
+      "message": "بهترین توصیف از یه ایجنت بدون گاردریل‌های امنیتی روی سرور/سیستم شما:",
+      "date": "2026-11-06T19:42:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/MatinSenPaii/5801",
+          "width": 320
+        }
+      ]
     }
   ],
   "last_updated": 0
