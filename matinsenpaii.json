@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 5774,
-      "message": "\u003cb\u003eیه مدل زبانی، وزن‌های یه مدل دیگه رو مستقیم ویرایش کرده و ریاضیش ۶ برابر شده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتیمی از MIT CSAIL می‌گن از GPT-6 Astra خواستن Qwen3.5-0.8B رو توی ریاضی بهتر کنه، بدون هیچ آموزش و گرادیانی. مدل فقط ۰٫۰۱۶ درصد از وزن‌های مدل کوچیک رو ویرایش کرده، دقیقا جاهایی که باعث حلقه‌های استدلالی خراب می‌شدن.\u003cbr/\u003e\u003cbr/\u003eنتیجه‌ای که گزارش کردن:\u003cbr/\u003e- امتیاز MATH-500 از ۷٫۹ درصد رسیده به ۴۸٫۱ درصد، یعنی حدود ۶ برابر\u003cbr/\u003e- پیروی از دستور (IFEval) هم ۳ برابر بهتر شده\u003cbr/\u003e\u003cbr/\u003eاسم ایده رو گذاشتن Weight-Space Programming؛ یعنی مدل وزن‌های خام رو مثل کد می‌خونه، ایراد رو پیدا می‌کنه و همونجا وصله‌ش می‌زنه. البته GPT-6 Astra هنوز رسما معرفی نشده و این فعلا ادعای خودشونه.\u003cbr/\u003eنه Fine-Tune در کاره، نه چیزی.\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل توی بلاگشونه:\u003cbr/\u003e\u003ca href=\"https://rikiyat.github.io/blog/weight-space-programming/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://rikiyat.github.io/blog/weight-space-programming/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/rikiyatakehi/status/2117313742891327994\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-04T04:32:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/EVYXHb3L5gtrygtMtKU6Ie056G4QTDAh8aqkDHw0iOSdt1GKHC-mHOrvZpu3O2Rkvt1JqVqSkXstY_m9Uw-tYKOgOXQOT4VDt-Os67ODPzTYVwlSQFYzL2ueD9pyFUUvCa-MZlWnFrbaa3pHdIroFrQSXQYnqaIRTWsWVNA_6h-ZnKtgUQPZfIlz5dMbd3OAFaex_4ezISosNzgPAHXcPZYqxoBieBattKKf3gaW3LM7vExXIKtoOICj0Osw6dlygfDBTMPtI11yYGlYPzdeMWW05Dteng2NENkFOsSu_R0K2xpNYrkUuKW1KxDaNDLg0mQKxKTcKTTmmJHHVUCk5A.jpg"
-        }
-      ]
-    },
-    {
       "id": 5775,
       "message": "دوستم با یه انیمیشن کارتونی باحال که با GPT و Ai ساخته، نزدیک 1000 تا فالوور گرفت و 100 K ویو\u003cbr/\u003eخیلی باحال بود. اگه اجازه داد پیجشو می‌ذارم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-11-04T07:16:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +25,7 @@
       "date": "2026-11-04T07:16:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +37,7 @@
       "date": "2026-11-04T07:22:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-11-04T09:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-11-04T11:30:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-11-04T14:40:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-11-04T16:47:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-11-04T17:07:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +127,7 @@
       "date": "2026-11-04T18:31:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-11-04T18:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-11-04T19:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +169,7 @@
       "date": "2026-11-05T00:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-11-05T03:40:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +189,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Y7Wu2fbWY0p9f4ePQiqaWN5J4SPEOT7fbpx8JWGV_8V5A96g4fvF75-e9wrPHMC5McqY_2bSUktvWBVZ06rA6RNV2M2Gtb07J_GBJvwgsvoyKPVsQEg4hGuMpo1tERXGnkSaVFkIKxJf3ONL8R0I0jKRS39VzTIhnolAhINb7-f18WhUJCw5CzuCVTLJmf_66mkO9hZThCcj8C2GZpJIuPK-k7mGPeNZl2I4yDQA7qXdQ8OfxefEaQnz_J0r68kZIzhwNidXooFH9ehdJt57JKn42gDkkloWB11ylOSrIL1iW9E56GrKGMnT5irGOUx5-twmYz4ass-Dho9MP1Q90g",
+          "url": "https://cdn1.telesco.pe/file/tituBH2E_7zAKP1cGCQZPXu6uT_4wBJDJBAClwbHbeuJS0bAg104hMjoGPPKWZ6vGZYWASCMwWxEUjlrX9HkC87rb6dXPXuNqTPYPCJxwEd-tg5wmVYBu02jTktFi5PtP7BEnrXR0bPB7TjdvLAppsvU8wQ7zD3EfX5njg9hsdDd1Z92sOAVuTR7ntQAzsdmUaFobb39ORdhTdXtAlI5L_8ZMJ9Deb4llK1SXZGXWIFQIRgULK6cJt2oDHvLj3vdHqNugUxHuz8uembQR_sGIuLSSR_bdeh-J4dOFc17PeNAL74hQKQfxhxGiEEzOsToK-tVuvT2OdsLPTsJhHGU8w",
           "width": 1280
         }
       ]
@@ -218,7 +200,7 @@
       "date": "2026-11-05T05:56:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +208,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Vi6drR1sW0mAqjAPorTtOVHPFxKLNJ45IT0d3JozdRteXuSIUY9G4J-CatpRhZMViE9rRA0X-4zY6UXo_wSMnUI8-j7olFMSe_IjgFIunQ83uhJeumNdFgB1HgDhqR8UfTdMHxpq1d-WNrofS4D1goMpOvdJwQetiRYKl3zN4HdQNOHZItKKBkK9oEhvBxDHbAMnsjfcBkq3Jyxo4m8CMCjY4cMolJQDlheB-vfqRurPfEZaoGPo2vDkiUS5QSwsZ0Dw_njB7TUqBScDKa5ciL7VyXJ74hmlQk8ozgeglTv7MEzO0CgBRN1TgTopkp78mgRDGYx7U1BNCISK2dppng.jpg"
+          "url": "https://cdn1.telesco.pe/file/v5bF_0zGriMYJ_MEn9UkEyrhVwB6NvY2EZmvmh3aWsKL6k4gpHjJ7GdfTIGCXOrBKkLPLq2x2ekIKQj-3WbhJuZqMLyD24qJo_kDDwrVJKuEvWieSEtAvy46DlMak1yVC6JbzrGpyJ9KzOqUwIrVXfzQk7evmXlp9vuotBipuDj8VsO_z3IvvydoUJb3dcM7vlvNB32-aQhj62ByGzrXqhuUl7a_3TWshIJ41SWLa116H5M9VGAvVTfRnJuaqBJL_t7aojVEeWEywVU-d8KsKzv0yZ7joNnSuPacZxptVRgBJxAoOWYl4osaQ2fivCHFJIfrKfpSIfxI0s6oSm3fmw.jpg"
         }
       ]
     },
@@ -236,7 +218,7 @@
       "date": "2026-11-05T10:25:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +226,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/PwZGvhQbBgG_6ZRBbEedsn_sGWGixU_s7SS3og2KmKQszkRZMk7loJM9dgsoo9V9btZYYwlL3LbAcNeCoFp5y1IT1cdOI4F1f5nvEHfeybnlQNxm4eUESCbnz0JejfPRBJIQbKuj_LQ1Lb24APsMluDZftj8k9_SKcJkF7uWR1S2k1N1ZpNu9ICz7HOOWJwankMWzKDJBUDCvz9V4BsSdaSfq9GEhttLcsfry2wogkCkk0-4L-DaPdclCHZWFRUSI1ML9ZCttGFGR8MZ3xoFJMixQvIzxgh07t3XbHixkZfTRU3isdPEr_E5Rp1pZ-j3MRGB7c0C91pFTjLSb0OynQ",
+          "url": "https://cdn1.telesco.pe/file/aRiglZV_oSOjEX0Lz9qjquSJw_byfY8dS0nW4MZgeC3N1W38a28117f0Cuuyoo-TSWS_hZZ8Q5hCTPm4rJk3rBPpOmT-OhTIAvz05Le98WTKRLRRywLPGSHuM9_t56G5fvHBi4ll-prlaXXo-QaEw7jy8gNBMOev9S6c3Q_2l4tKIPCUIT54Y0I7TOBHd9914nJeQ6APwVwgv14G9JNPbyuo-aqqd3fCXR2la7Q4Awe9hdZc0jvG6v4nmfN2WHps1thR7ffMu7OC4nIUjEefT8nGK31sSOAKmSJnZhp-FN6vtOD-q7DYajj7xr2FzWWah9J67X4mygZA8VbLXoIH4w",
           "width": 440
         }
       ]
@@ -255,7 +237,7 @@
       "date": "2026-11-05T11:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +255,7 @@
       "date": "2026-11-05T13:13:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +267,7 @@
       "date": "2026-11-05T14:18:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 19800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +285,7 @@
       "date": "2026-11-05T17:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,6 +295,24 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/hglJEq1CirqIVfwn6nGf9Ec35uUg8k1VqT875oL4j1LwI24Su4I9qYq7N4npB84wULcl9PSreu_STDgOtSsX21wH-S17A_0WCH__C_iartLSRJosDHIXN2hjJodKvfcXctPTYIsk52ko4oPAngpHu1mRzgIx3aGnYSBBAwYOcL4fdKPcw_2DgOzXaavKul8o5cVJqgcwTAHcbM1pZUn0DPlH1EMwuarqpU_vKgLTtBBcYiAhJaHLLg1gv9YqerJoeARxwc2zSUbPRst1fME5eBnKU8gAGOLX62X1BhFF7EtR1GSNWkIJVYQ7JuLwpXbUXOYMNbsN10A8I6C1xw3PUw",
           "width": 720
+        }
+      ]
+    },
+    {
+      "id": 5794,
+      "message": "\u003cb\u003eیه نفر بدون اینکه دوباره ترین کنه، با دست‌کاری مستقیم وزن‌ها TTS کوچیکش رو درست کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی ساب‌ردیت r/LocalLLaMA یه سازنده می‌گه داشته روی Silencio-2 کار می‌کرده، یه فاین‌تیون کوچیک از Pocket TTS شرکت Kyutai که تگ‌های احساسی مثل \u0026lt;whisper\u0026gt; رو می‌فهمه؛ ولی همین تگ زمزمه یا ویسپر فقط ۱ بار از ۵ بار رو واقعا زمزمه می‌کرد.\u003cbr/\u003e\u003cbr/\u003eحالا به‌جای جمع کردن دیتای بیشتر، با یه ایجنت کلاد اومده وزن‌های مدل رو پروب کرده و ریشه مشکل رو پیدا کرده، بعد مستقیم یه جمله رتبه‌یک به وزن‌های W_K هر لایه اضافه کرده، بدون حتی یه قدم گرادیان. نتیجه روی ست تست نگه‌داشته‌شده: زمزمه واقعی از ۵ از ۲۴ تا شد ۲۲ از ۲۴ تا. نمونه‌های صوتی هم توی صفحه‌ی پروژه‌ست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nikuson.github.io/silencio-2-weight-edit/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nikuson.github.io/silencio-2-weight-edit/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-06T06:43:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/qPuYzCFiJW_KwlGw91H_wxUJdzpLFlDQ9KZJC9xx82ZLsTq8NHJzr_PFvZ7Y7Qefx_5T9Er8cQ7B9INM9seV1kILPAj4FVOpKvY-D2EbTd7ucYkINj9bXR_hGvZ2k6JC3FV-WRUjRwiPlRjTdnNy_3s-QO1bO2WOgjzk_iPIIv-5wyEU_tam6vIPReoGI-0-h5POi3Uh8cnfnM77qFLFXwpf9VNZuPjAhoTe4pts3uHN7ADiHEHozw_EfqDKK4Lrbz4KT3nP5054dKanb0NnNZyFemwZeU7jTVfkHQVjS7Ymanul42M0gQHyjmsNmNyV0DeyNBG4cLDpKWsShouXBg.jpg"
         }
       ]
     }
