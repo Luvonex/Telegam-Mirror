@@ -8,49 +8,12 @@
   },
   "posts": [
     {
-      "id": 5792,
-      "message": "\u003cb\u003eتیم MIT یه حافظه برای ربات‌ها ساختن که اشتباه‌های خودش رو درست می‌کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسیستم UQ-DAAAM با مقایسه‌ی توصیف‌های یه شیء از زاویه‌های مختلف، میزان اطمینان ربات از دیده‌هاش رو می‌سنجه و توصیف‌های غلط رو اصلاح می‌کنه؛ مثلا اگه دفیبریلاتور رو با کپسول آتشنشانی اشتباه گرفته باشه. توی آزمایش‌ها ۹۲٪ ابهام‌ها رو با فقط دو کپشن اضافه حل کرده و دقت توصیف‌ها رو ۵٪ نسبت به بهترین روش قبلی بالا برده توی حالت عادی. خود کار، فعلا پژوهشیه و قراره توی کنفرانس NeurIPS ارائه بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-05T14:18:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Eb6rd4-ixExbleTaNaIi85j5TzoSRnhNlOvG1zAseSu5IgF43cGfMuDoPnOB-tQlTdl4phm0XMVcwyZSE6RyRHDUbfl0vfyN_-ZDBVnnR2Sj48xeVKa0AdEeAnGp8j9X6PJOdMpOKIXfl2zCsG3-QgNpXTs-B8l-mRpnuPia2z7wTJS60yl9Kb24zP3qM1Sxa5dLeE3CkD8KaI63P-jpyocuvycEX9y00A1OyNJal6OT5YCWqtgcCOTDACA6IsZGtVfB1pr6Vb0JgYB-tf2AzYFJmSdK_J8wozluHq7NoJUQvCfLQ_mC9u2jHC-WrgH3MBV-p95KMjzwgMhinFtfUw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5793,
-      "message": "\u003cb\u003eلابراتوار Vercel ابزار agent-desktop رو متن‌باز کرده تا ایجنت‌ها خودشون با برنامه‌های دسکتاپ کار کنن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eحساب RoundtableSpace توی ایکس معرفیش کرده؛ کارش اینه که به ایجنت کدنویسی‌تون یه دست اضافه می‌ده برای برنامه‌هایی که فقط نسخه دسکتاپ دارن.\u003cbr/\u003e\u003cbr/\u003eطرز کارش این شکلیه که به جای اسکرین‌شات گرفتن و حدس زدن جای دکمه‌ها، درخت دسترسی خود برنامه رو می‌خونه؛ یعنی همه دکمه‌ها و کادرهای ورودی رو با آدرس مشخص می‌شناسه، روشون کلیک می‌کنه یا توی اون‌ها تایپ می‌کنه، بعد نتیجه رو دوباره چک می‌کنه و ادامه می‌ده.\u003cbr/\u003e\u003cbr/\u003eروی مک و ویندوز و لینوکس کار می‌کنه و با یه دستور npm نصب می‌شه. داخل خودش هیچ مدلی نداره و حلقه تصمیم‌گیری توی ایجنت خودتونه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://github.com/vercel-labs/agent-desktop\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eریپو\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-05T17:05:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Pyztr15C6ZRo6F1MPRG3sRLgGgTyPpaJ3ubq4z-jhOYr1sc7bGMwsJcn-nw9RIXtdLqNFqW3_QH9fxGXI2es9XeiGsbLWqNU1dddt_lC5UQZHkRtdngsVBoDcPDK0888UKzXe_dczGhcrC4uGMRTwF4Dcbjrdkfc2gs8_2kyrQBv1BJR6hEPVeo7Ib6T1aY-lukbfHUZ1JSQD7sAJqO3_3Pa9YPV8z9bMqKngplXaCDAcT9lARax4LDPN24YH0FjPwmaCc28VEIfx7RgeQsWawLQEcKhivGJyIS1y4ULUKTUn9A06ukO4-gC4nv7sSUvFnn4mDCpb89MtTKJaTHYhw",
-          "width": 720
-        }
-      ]
-    },
-    {
       "id": 5794,
       "message": "\u003cb\u003eیه نفر بدون اینکه دوباره ترین کنه، با دست‌کاری مستقیم وزن‌ها TTS کوچیکش رو درست کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی ساب‌ردیت r/LocalLLaMA یه سازنده می‌گه داشته روی Silencio-2 کار می‌کرده، یه فاین‌تیون کوچیک از Pocket TTS شرکت Kyutai که تگ‌های احساسی مثل \u0026lt;whisper\u0026gt; رو می‌فهمه؛ ولی همین تگ زمزمه یا ویسپر فقط ۱ بار از ۵ بار رو واقعا زمزمه می‌کرد.\u003cbr/\u003e\u003cbr/\u003eحالا به‌جای جمع کردن دیتای بیشتر، با یه ایجنت کلاد اومده وزن‌های مدل رو پروب کرده و ریشه مشکل رو پیدا کرده، بعد مستقیم یه جمله رتبه‌یک به وزن‌های W_K هر لایه اضافه کرده، بدون حتی یه قدم گرادیان. نتیجه روی ست تست نگه‌داشته‌شده: زمزمه واقعی از ۵ از ۲۴ تا شد ۲۲ از ۲۴ تا. نمونه‌های صوتی هم توی صفحه‌ی پروژه‌ست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nikuson.github.io/silencio-2-weight-edit/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nikuson.github.io/silencio-2-weight-edit/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-11-06T06:43:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +31,7 @@
       "date": "2026-11-06T10:44:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +49,7 @@
       "date": "2026-11-06T11:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +61,7 @@
       "date": "2026-11-06T13:04:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +79,7 @@
       "date": "2026-11-06T16:14:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +87,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/iJeRRCTAk1Un0BphteF0AkEcTMiEtE_H5nE0-mEuubEAYDXlErVo4c2UHpBSqvSWem-raqUTOm9xeBaIREgQAmq6Dv7ZunqmTSxXgVqkTdWnU7zvBecHYWhA2k-PdR4ZXhdAWBZ8BYfGoLZGLbIAaYH275DEG2qQ5-wYtshOhEys0_oRWM2DaEQFQJ-N95wSnUyTsobySDamaEcCJ2wRCB4MyT02arT_4V5gxbVFF6TkNJFGIZdnxpBRNsafHny4MH3nkk_ERt8jgM1Ooc1FYUXkebh4PntMungPGhSCgjR56guyxjIDBbT-0-0SDo-DXUSOVP1tJaxTHM3CcS8KHQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/R7EPyhzga0eCpS-LuhKlZ5tFQk9oor8uGTWxJilQpBrWw5z6kUA6kGuKVdNclRvvsTKvfcWtvf7AXggJOmL5Luc6YhPX_Ckx3KS7wv_BjC0Nv6CqXG2FUAuFiXrQ6QZ-GAtfvfe4pte0vPDYzyW5LHTxvhS42zyGNu6PFcBp0vnUZiIGYR5xJl1Z2CuEOvAAp5B6yDXbtHxgawAcEMbBI2Sr_aOun-ksbXG6uWfozf5Do1cmajFIa-E1xxO-4VRE_OAQI9UmaWoqY7tfgp6mCrAznXUnsEx3UUGAN1DjmJydZwBXqqythWYQhpUiDY2LrAvV832DYoFJeoM1DKxD0A.jpg"
         }
       ]
     },
@@ -134,7 +97,7 @@
       "date": "2026-11-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +109,7 @@
       "date": "2026-11-06T19:27:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +127,7 @@
       "date": "2026-11-06T19:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +146,7 @@
       "date": "2026-11-07T01:18:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +164,7 @@
       "date": "2026-11-07T02:31:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +176,7 @@
       "date": "2026-11-07T04:24:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +194,7 @@
       "date": "2026-11-07T07:19:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +212,7 @@
       "date": "2026-11-07T08:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +224,7 @@
       "date": "2026-11-07T09:47:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +242,7 @@
       "date": "2026-11-07T12:03:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +260,7 @@
       "date": "2026-11-07T12:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +272,7 @@
       "date": "2026-11-07T14:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +291,7 @@
       "date": "2026-11-07T14:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,6 +301,36 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/c_O5LvkkP1ICAG6L1ggQ-FV7lbyT6wHfuQPk_0xYYHcRytrhlElbFlRmTBVCQoiP5s4XDlDQylCXKezumvtoZNZSqQaf5uWjS2afOc8nEaQb8bcRAm_H1vIAptnewMGvuPnoDvwo78-lex0rTorXKTlLq25iMWtA5ByEMCt_oDqttCoqenZcbxFN5yHCafVeFh4FXa9PPhjT0b_oBOuJqIJNUCXnLkKQSox1ka8QJ_pBeA8XfLrPmQ-AHyhR26MU5tNs1_8MqzeLlzc6MSeMnualzrddvxWKoZvjccKa4sMGwfPP27elGicUHflz9F5GPbrqvNOpB5JbVR55fXsh_g",
           "width": 960
+        }
+      ]
+    },
+    {
+      "id": 5812,
+      "message": "با Atomic mail ثبت نام کنید شماره مجازی هم ازتون نمی‌خواد دوستان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e محدودیتش هم «میگن» که ۴۰ ریکوئست در دقیقست و سقف نداره اما در عمل اذیت میکنه یه کم. که خب شاید بهتر شده باشه الان. تست نکردم",
+      "date": "2026-11-07T16:33:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5813,
+      "message": "\u003cb\u003eپشتیبانی Kimi K3.1 Pro به llama.cpp اضافه شد؛ ولی اجراش روی سیستم خودتون فعلا رویاست\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eریلیز تازه llama.cpp پشتیبانی از مدل متنی Kimi K3.1 Pro رو اضافه کرده؛ یعنی حالا llama.cpp می‌تونه این مدل رو بخونه و اجراش کنه.\u003cbr/\u003e\u003cbr/\u003eتغییر اصلی‌ش اینه که ۲۴ تا از ۹۳ لایه مدل به‌جای اتنشن کامل از یه ایندکسر سبک استفاده می‌کنن. فعلا فقط نسخه‌ی متنیه و بخش تصویری رو رد کردن.\u003cbr/\u003e\u003cbr/\u003eالبته وزن‌های کاملش هنوز هم حدود ۱٫۵ ترابایته(مقابل ۲.۸ ترابایت)، پس اجرای محلی‌ش بیشتر برای سرورهای بزرگه طبیعتا تا لپ تاپ و کامپیوترهای معمولی؛ ولی اومدنش به llama.cpp یعنی اکوسیستم لوکال داره کم‌کم دورش شکل می‌گیره و این خودش خبر خوبیه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://github.com/ggml-org/llama.cpp/releases/tag/b12180\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-07T19:05:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YqMI8GVGJAbfdxQ7NuRBYSR88-fcXzU5KnEfNPmJ-7eFvCcGMs6zozt0OkdFL83dD6s5nEkKHeinodbwI-qQZWiKfrEBqyHZL_vkdGTf5C0RlkJ5s1cIhEu-JurfUu-1NBUGtEpR5tputxMycazxG2WqAhIS57Ueko0aXHs6OsgmIV3zNPKu1_ho8Nieye4r-k6spdn-Hnzv1SxzLrcP7IFEgNpSQqr_7ZyiaQAxS1h9kPcwlw8gha4E3zWWSj8r4LaeMm4xGrfaAOjbEQAIIE5Sc0b9Kp467gy7SbRenphi1iA0rEJbM842OVssnphVkIpJZiRka75thCvbdyLSmQ.jpg"
         }
       ]
     }
