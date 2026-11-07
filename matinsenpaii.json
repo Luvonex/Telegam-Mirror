@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 5783,
-      "message": "\u003cb\u003eOpenAI داره Pierre Computer رو می‌خره تا Codex رو به جای بهتری برای کدنویسی با ایجنت تبدیل کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبلاگ OpenAI می‌گه قراره شرکت Pierre Computer رو بخره؛ همون تیمی که ابزارهای Open Source مرور کد Trees و Diffs رو ساخته و همین حالا هم توی اپ Codex استفاده می‌شن.\u003cbr/\u003e\u003cbr/\u003eهدفشون اینه که ورک‌فلوی Git رو برای دوره‌ای که ایجنت‌ها موازی با هم کد می‌زنن بازطراحی کنن؛ از اولین برنچی که یه ایجنت می‌سازه تا لحظه‌ای که کد دیپلوی می‌شه. ابزار Code Storage هم که با Git تاریخچه کد رو نگه می‌داره، قراره کم‌کم وارد Codex بشه.\u003cbr/\u003e\u003cbr/\u003eپروژه‌های Open Source شرکت Open Source می‌مونن و نهایی شدن خرید هم منوط به تاییدیه‌های معموله.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://openai.com/index/openai-to-acquire-pierre\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-04T18:31:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/lNyd6LQFTr3I63rMjsMbsy7pYxDStUtdF8-cLNkJQ0PifitdO8GXfcKDZHXHScP2hJeqYJ8UKOJEDTE4FZLYaGumvLCAyboYzcRoLI6uwyEyBlh6lN7j-pjOfZi27S55hVWJIi2IM_0tQhnafeF5XfE5Rop738WI8Yl-M9p0viLeWivFYH09EsffgAg7F5mbrQoXU4xMmsHzKMFg2ywJsUBT2Uc5uaD6eopNsj4-hDivQ1KPs58OEgoWBdVKic2pOU8RkPxgk5eBWlwpvxbzmyAl64aEEW0mXvnM27cfbX-NBXu17WZ37ODGmpkuErHxRdmM6SAU7R5Ktezy6ZbZPA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5784,
-      "message": "در حال حاضر، همه مدل‌های هوش مصنوعی از منابع آزاد و باز آموزش دیده شده‌اند، یعنی اونایی که در دسترس عموم هست و معمولا کدهایی که در دسترس عموم هست از نظر کیفیت و سطح حرفه‌ای بودنشون خیلی خیلی متفاوت‌تر هستند از کدهایی که توی محصول‌ها داره ران میشه و دلیلش هم خیلی ساده هست،‌ چون پول پشت کدهای باز و آزاد نیست\u003cbr/\u003eاون کدهایی که توی محصول‌ها داره ران میشه به صورت خصوصی در اختیار کمپانی‌هایی هست که دارن ازش پول درمیارن و در دسترس عموم نیست که بشه باهاشون هوش مصنوعی آموزش داد\u003cbr/\u003e\u003cbr/\u003eپ.ن\u003cbr/\u003eخواهشا نیاید در طرفداری از دنیای متن باز صحبت کنید، چون به نظرم اوپن سورس دیگه مثل گذشته نیست که اکثر آدمای فنی بیان بشینن و از روی علاقه مشارکت کنن. جدیدا خیلی این رویکرد متفاوت شده و آدما ترجیح میدن که یک متخصص متن بسته پولدار باشن، تا یک متخصص متن باز بدون پول\u003cbr/\u003eهمونطور که دیگه اکثر فوتبالیست‌ها، پزشک‌ها و ... دیگه فقط برای پول میرن دنبال کارشون و مثل گذشته از روی عشق و علاقه نیست، توی دنیای کامپیوتر هم اکثر متخصصین از روی عشق و علاقه نیومدن سمت کامپیوتر بلکه بخاطر پولش هست\u003cbr/\u003eدنیای اوپن سورس خیلی عوض شده",
-      "date": "2026-11-04T18:56:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5785,
-      "message": "با بخش اول این صحبت(که پروژه‌های بسته کدهاشون شاید خفن‌تره و اینکه AI برای از صفر نوشتن پروداکشن هنوز مناسب نیست) موافقم.\u003cbr/\u003eو قبول دارم که دنیای اوپن سورس دیگه مثل گذشته نیست. همینطور این رو اضافه کنم که حجم کدهای تکراری، پروژه‌های تکراری و پروژه‌های AI generated slop خیلی زیاد شده. اما حس می‌کنم این، چشم‌اندازیه که به سمت و سوی یه نقطه‌ی جالب‌تر از تاریخِ اینترنت پیش بریم.\u003cbr/\u003eهیچکس نمی‌تونه آینده رو پیش‌بینی کنه.\u003cbr/\u003eو همینطور به نظرم هنوز، هستن کسایی که از روی علاقه‌ی خالص کار می‌کنن. نمونه توی هر حوزه‌ای(چه کامپیوتر چه همون پزشکی و...) کم نمی‌شناسم. ولی اکثریت متأسفانه همین شکلیه که مرتضی عزیز می‌گه",
-      "date": "2026-11-04T19:10:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5786,
       "message": "\u003ca href=\"https://t.me/antimatter0x1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیزدان\u003c/a\u003e برای چندمین بار من رو توی دنیای نرم‌افزار نجات داد\u003cbr/\u003eصرفا خواستم این رو بگم که من اگر یک جا به موفقیتی هم برسم توی این چندتا کاری که دارم می‌کنم و نمی‌تونم فعلا بگم چی هستن، پشتش دوست‌هایی دارم که دلسوزانه کمکم می‌کنن و امیدوارم بتونم لطفشونو جبران کنم یک روزی\u003ctg-emoji emoji-id=\"5471981853445463256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-11-05T00:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +25,7 @@
       "date": "2026-11-05T03:40:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +33,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/tituBH2E_7zAKP1cGCQZPXu6uT_4wBJDJBAClwbHbeuJS0bAg104hMjoGPPKWZ6vGZYWASCMwWxEUjlrX9HkC87rb6dXPXuNqTPYPCJxwEd-tg5wmVYBu02jTktFi5PtP7BEnrXR0bPB7TjdvLAppsvU8wQ7zD3EfX5njg9hsdDd1Z92sOAVuTR7ntQAzsdmUaFobb39ORdhTdXtAlI5L_8ZMJ9Deb4llK1SXZGXWIFQIRgULK6cJt2oDHvLj3vdHqNugUxHuz8uembQR_sGIuLSSR_bdeh-J4dOFc17PeNAL74hQKQfxhxGiEEzOsToK-tVuvT2OdsLPTsJhHGU8w",
+          "url": "https://cdn1.telesco.pe/file/HmhCQxwh204oiOw-YN1Kzo_xAQgELkatHrJdJ91I3H42Z0yMMDK6wlg0hJH8XePhIXNp-TOs2_UnR_qr8i2Um-IGNt7P7j4_jc3G1hwxpQDmp0u08fI2f4z0v4NyPIGG4W9YmQq4PwS5GouUtEUiWvlLeJn8pgz7aIbUGmfStROXnHi44JbrpqLIume12u__3Kz-KwdeGzVNU1lfJfcwjY-mGSal8l-d3c95CNsRQ6QY56JWioSOfGE14Lm8FIEIigvbfMYCwmdJHGziGJjnnyHAzXLakJBBY5KdWNJBim0nRrChJ9zDWipcRuiNEqwsWfriiANLuv3CmygX0rDbrQ",
           "width": 1280
         }
       ]
@@ -86,7 +44,7 @@
       "date": "2026-11-05T05:56:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +52,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/v5bF_0zGriMYJ_MEn9UkEyrhVwB6NvY2EZmvmh3aWsKL6k4gpHjJ7GdfTIGCXOrBKkLPLq2x2ekIKQj-3WbhJuZqMLyD24qJo_kDDwrVJKuEvWieSEtAvy46DlMak1yVC6JbzrGpyJ9KzOqUwIrVXfzQk7evmXlp9vuotBipuDj8VsO_z3IvvydoUJb3dcM7vlvNB32-aQhj62ByGzrXqhuUl7a_3TWshIJ41SWLa116H5M9VGAvVTfRnJuaqBJL_t7aojVEeWEywVU-d8KsKzv0yZ7joNnSuPacZxptVRgBJxAoOWYl4osaQ2fivCHFJIfrKfpSIfxI0s6oSm3fmw.jpg"
+          "url": "https://cdn1.telesco.pe/file/AzM_7VLhIqlCENejG3z9N07GhIU-SZbVscFsGdT2f6d5huENRNnFFXjacQOy55_9W7yEEpXVX7XLSqZ4G8VDgpkzA0k3kdTGTWRr_OH2Gr2sMCTJFi9vaey0MkcVKCcES7WtsVHS5rXzw9FrOpQMp3XtlORHwDSJuRo9VDztMSVFm2KFB5UHnjnOK9cLbjVf4HrbayNCsvFIBYGaOXahzyPysb_1xRiJLKdes0cxVhs_I11164ROAeG_dcl-NGHOscieDNAJi4bYaMobPNhWSfSpSTqxbMjH7UD-i6YhhVCmrr3cOaPCobyPqKZFWyr5G1r8fxTlFpQFcodOnFcQyA.jpg"
         }
       ]
     },
@@ -104,7 +62,7 @@
       "date": "2026-11-05T10:25:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +81,7 @@
       "date": "2026-11-05T11:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +99,7 @@
       "date": "2026-11-05T13:13:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +111,7 @@
       "date": "2026-11-05T14:18:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +129,7 @@
       "date": "2026-11-05T17:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +148,7 @@
       "date": "2026-11-06T06:43:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +156,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qPuYzCFiJW_KwlGw91H_wxUJdzpLFlDQ9KZJC9xx82ZLsTq8NHJzr_PFvZ7Y7Qefx_5T9Er8cQ7B9INM9seV1kILPAj4FVOpKvY-D2EbTd7ucYkINj9bXR_hGvZ2k6JC3FV-WRUjRwiPlRjTdnNy_3s-QO1bO2WOgjzk_iPIIv-5wyEU_tam6vIPReoGI-0-h5POi3Uh8cnfnM77qFLFXwpf9VNZuPjAhoTe4pts3uHN7ADiHEHozw_EfqDKK4Lrbz4KT3nP5054dKanb0NnNZyFemwZeU7jTVfkHQVjS7Ymanul42M0gQHyjmsNmNyV0DeyNBG4cLDpKWsShouXBg.jpg"
+          "url": "https://cdn1.telesco.pe/file/qSayjk67-tWhjZAPvrogjDhAFsBw8jTqfQFjvKvojwproD-hpDVcMKVJp-aSMrlav9N45Mkmn5NCPFJ9kNeBsPlrR-Tbn2-D1WycGpdhXHumOrLVosUa_qgl9EHU9N3IZdTnv-ZfHdYw2t179xrJSFiO2FZuqRzByeS3__qShw2yYpQsh_A7PnqBk_wyXKjCgHF_YrghHK0vCAGcAgz6g9ALk2pB3FmMIA6aN-tNzgIP97QHPWkDjsZ_N4krDrVFJxQFv5cgt4CTVGuoJCifqctljXF3fmT2HlyzfBlBMVNojB-PlKwUEmH1j19JnyJOxiXehRW7PRQzUlajuVZHFg.jpg"
         }
       ]
     },
@@ -208,7 +166,7 @@
       "date": "2026-11-06T10:44:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +184,7 @@
       "date": "2026-11-06T11:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +196,7 @@
       "date": "2026-11-06T13:04:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +214,7 @@
       "date": "2026-11-06T16:14:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +232,7 @@
       "date": "2026-11-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +244,7 @@
       "date": "2026-11-06T19:27:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +262,7 @@
       "date": "2026-11-06T19:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +281,7 @@
       "date": "2026-11-07T01:18:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,6 +290,54 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/kmTYUg2tJkbqyeLqr6zum38I6Ruj3hR3HYZCfFUrN69kO4FsXHBx7jN-l4DumYxDmJMLZSMBtmsJufZyuWWl8sQMtuhqeUSDgLQg-NE_kLywrsDNfwS_9FA3CtrAXvYF5ZwoAr9c1uW8bXXkJLOYwXiNtdnpRYXPOdnUlnADLeWhpPSVQUkwAdfbkbyW3Q5AaXBbWpkJSN6hB5Eg6vR91EzfaKigKVh_yQDKsNkaHSbYMRrXZ-TaWChB3eIxfIWwjzbzr8BmXYyl8zq6jAZFE7XTeydm-c-17UhFGv9k-Z9zOx2L-gxn_MmnUtU4xKGfPbCFdQH_fp7fXo9P-1GvdQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5803,
+      "message": "هیگزفیلد عجب چیزی ساخته.\u003cbr/\u003eMiracle \u003cbr/\u003e عصر وقت کنم در موردش می‌نویسم\u003cbr/\u003eانقلابیه واسه خودش توی ادیت فیلم",
+      "date": "2026-11-07T02:31:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5804,
+      "message": "\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاپلیکیشن WPE2M؛ والپیپرهای Wallpaper Engine رو تبدیل کن به Lively و MP4!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه ابزار اوپن سورس خیلی خفن دیدم که والپیپرهای Wallpaper Engine(که سرویس خارجیش پولی و نسبتا گرون هستش) رو براتون به فرمت Lively Wallpaper یا ویدئوی MP4 تبدیل می‌کنه. موتور رندر اختصاصی خودش رو داره و حتی صحنه‌های دوبعدی و Shaderها رو هم مستقیم رندر می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5425094988260188065\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چیکار می‌کنه؟\u003cbr/\u003e• تبدیل والپیپر به فرمت سازگار با Lively\u003cbr/\u003e• ساپورت ZIP، PKG، MP4، WebM، GIF و پوشه‌ی والپیپر\u003cbr/\u003e• رندر صحنه‌های دوبعدی تا 4K\u003cbr/\u003e• پردازش Shaderها با GPU (GLSL)\u003cbr/\u003e• درآوردن ویدئوهای مخفی از PKG بدون افت کیفیت\u003cbr/\u003e• رندر والپیپرهای وب‌بیس با Edge و Chrome\u003cbr/\u003e• خروجی MP4، تصویر Preview و متادیتای Lively\u003cbr/\u003e• Drag \u0026amp; Drop و تنظیم رزولوشن، FPS و مدت زمان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5474323263456812803\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تکنولوژی: Python 3.9+ | FFmpeg | OpenGL | GLSL\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e هنوز نسخه‌ی BETA هست، پس ممکنه والپیپرهای پیچیده، Shaderهای پیشرفته و افکت‌های Particle دقیق رندر نشن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سورس کد:\u003cbr/\u003e\u003ca href=\"https://github.com/MamadXV/WPE2M\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MamadXV/WPE2M\u003c/a\u003e\u003cbr/\u003eاگر دوست داشتید، با یه استار به سازنده انرژی بدید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-07T04:24:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/eBkM90oMpdYCf0G4JyhZddkMtrU5LlOQ7OxgDXAr70x7GfnS75UjxX9pK6sbX-IZ7YlvFl4kd12mHPsJudRRKwhGlIELK_E5CTulOVVQaqObZixxUZAZqvUBf1vjUHA-u6TzTKxzGozirCeskpw69ucbhYado8sDYz4kWiCI-xM5zi2Yb6-k6UrlhT7JfMBoGW0V9nR6JzBA66abPIx5lkhB3yunKfP49iQhI7Tj6cdzufGAWHruyYMKpig5Ws7gyFxP9iRrgP-RHPkgyjhlI1ihT91XBKLM0hhp9Ox6uB5CSLvZFlAmgXpaC6aCOCgU5vWmfXv3bjQTx4ltp8uGqQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5805,
+      "message": "\u003cb\u003eکمپانی\u003c/b\u003e \u003cb\u003ePerplexity هم ایجنت همیشه‌روشن خودش رو داد بیرون: Teammates\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپرپلکسیتی دستیار Teammates رو معرفی کرده؛ ایجنت‌هایی که روی ماشین مجازی خودشون پروژه‌ها رو ادامه‌دار جلو می‌برن و از Slack هم میشه باهاشون حرف زد. قیمتش اما پلن Max ماهی ۲۰۰ دلاره؛ در حالی که Dots از ۱۰۰ دلار و Duet از ۲۰ دلار شروع می‌شن. چند روز پیش هم مصرف بالای ایجنت‌ها باعث شد SpaceX سقف مصرف Grok Bots رو محدودتر کنه.\u003cbr/\u003eبه نظرم حداقل توی رقابت قیمتی، نتونسته به خوبی وارد بشه و خوبی نشون بده که اصلا کسی بخره! چه برسه به اینکه نظر بدن مردم.\u003cbr/\u003e\u003cbr/\u003eحساب کنید Muse داره همین رو رایگان در اختیار ملت می‌ذاره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-07T07:19:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/rdFRRTb8ezvNoRTgP3-nnQDCBygvBh9K0vz__VIfidbSGtZSF4jceFEyCob_WCCt54pyEtNrYgt7xh2vTKZtgZok5QY-oJqlS4JB5N3Om3xskzKXyp7maZ5bRYfGYncIAMDDYxPsfDn_7wuYVT_2k7Rx4-05u9ao-jcWbU1hKwTaR4BE02CUDd3Y0QA6qRPpOepc8CR1JXQ90y9keRLggpq1Px4LCJ8gOt3MscwdJaWKw4RFmDFhfhEu5lGcoqvrXy9WqS9mE_bRyA4-LGwA79iwscB7K4S1kEIs0R9rKtVJ8z7MW7J90oTzuYiMaSpC7WP_JdQ_FD2NrDF3iwFOmQ.jpg"
         }
       ]
     }
