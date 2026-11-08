@@ -3,165 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/G5HyRU5IBseD8NOBwIFG02lxUXpYk-7tt1IHpTKp9PaBnBgtnT9Se0UKEnZ2R3Sl8ON_zClmj4PUUSiX53HOWN7wc925_cXNrLr7Mdi3uWqxTrLj_OKYPUB3H0szywu0ChLheeYoAHdYC9LKp-EVSEpkkmrJWi971zMNbXeSgFx20HElvwqSqkVar5ekq9JAbaOIj2Iwq7-lNie-Gbl-jXz5fk7UP6fTRUi6LK0UWZHkYg-Y0MDCGa3lWci3zRlGygcYA-GH_CICPAuOfSIDgDnVQ8gxBGuODZVHRylRcZFWZOQUSs8RSgciIAe1PSSKyZy5klKSS5KQ9IB4F567eA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/rnBhm5qqZXclHW8UGqJWQppWicrLt0SHJXA4lbmECJ8jhqPpJI98IfG098VUyxKdN2KW7SBRQSg73w689IVgNM3b6C8AWpv0qAqtDn4Hp3X6yTD0oR9v4DI2cg0ny6YIglDoQKMY8QYOrP5C2YU-I0AGuWASSvHAs3HPAnqhkjaXaw-zG7HPnpC3_OmUnOQ3seg-MDBRJ31ueDHgdt-pallxLfWhQl7i7s9cPggH2ZTvI9t2tG8ZPfD_vRWMFhXdheCZ5mKORS1jXJ6sBSRwGIA9zDriVofnAb5Oybd1RckiHJj95fyCJcShVLm1up8YY7Rctu3um0mruyJXZjMhlQ.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 236382,
-      "message": "رسانه‌های داخلی ایران، روز ۱۶ آبان تصاویری از مارال‌ها در منطقه حفاظت‌شده آینالو در جنگل‌های ارسباران منتشر کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eمنطقه حفاظت‌شده آینالو در جنگل‌های ارسباران، یکی از زیستگاه‌های مارال، بزرگ‌ترین گونه گوزن در ایران، است.\u003cbr/\u003e\u003cbr/\u003eدر این منطقه، مارال‌ها در فضایی حفاظت‌شده و بدون خطر شکار زندگی می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-07T19:01:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YcQY_a40xtRX3kIc8FZUopAbJ5_U0Ms7LpBktSR8YXRYOr7VLFT8UDl5dD0_0uUCGra5GYADW-Vgvr8R3CogyetZ_S1PonAnB57BmiIWqkQQhjmvZhhpkKjYGysKYm7LAFc0rK-rIVGlTtnxOKBMckJJ7hsMkNXTXJJFcvlpIX-ZcuHnAPeZ8g7SvTT0jKbeJebccbB1KthFfz1hayYM0UUQyNCcObN8YasUlvILHXWZxf10LkXS8sqPsoApfzmWtHqdPb6-LXITVsy1T81x6GHqUdyN170RfCoPXCTVU98kkmEQcvNnnaSoFigGKpb7jtWIl1nz3v7NwoATrgG85g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GsMvq_afmbJGIyFyDybyBnrvr2YUmTxB0FArcxm_3UIMagUwbNqyr_fr-V3oMXo7UWXiiWFRflFdYGMnIUVfV8P4Q0CvRihzdGh8knpiNTGeZ3-l9CIix1FNoWxXVFEpaGK1s7mZYIXyKM7tb-NnrCcixFN_WUc7sLC35EtZOWsVh5bV4vs4qzQ7Ermxm8_URTudG8pxy5TY5ZYsgPHVY-9EMbZs9KcFQCrgVj7vsarER5kuNV-sJIHnAD6ArO0Tu1IENy-Psi3FpbapWfWfxvc8jyPkZeSZsHCWJSJSKRRzXbuW-C5FF3xIlIe3HyDGxAtEhWVxplVxP2va1dudNw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ddA556wrXv_aQcnxzIBlARIrAMXr1Dg5qIBZXpYqyCfYtsRwJh9bDeUxOJqZiIYSygpy3CVyAWgxV-Ws17x4997MT8K5UgvbVgDbeIHX83Dc8yLdYajIrIJh_tOet7ltwARPPHpAxO3ugK8TuUJU5boEz3EA2ViUsDJb4QcEZPAkW7egczQ807RcOSuXDD4hFrfBWy5Z98w8WHCtl6pswcNCY3XTAuyYHpP_rS6J66qXCUQT0WJ8IYUqPxm39TG5Y0i5NQFvJbM9r86IYL7fTIwWQQKL_dGm_QsOTKrSepEi7qP31DHuJkaruu5ICLGbZMnIaUMbjBbZenBGPa18TQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/u1FHoN7owupTkxdpESX25E7AWe4KpWVCq8XfhQtU4ZW1qXSszwwBC4p_gebdr4WgkkehWft9EsyjE8-MezuguXvCStjIR03vBa5r0ki-BdgO050Q_OcDcspTHU6WhINgTXz71dvU7I8K4oSK9tqMK3Sf5l0EUXl6_2MSS680sDH0MTx9xTSU_zumAX-TnLu4OAg6w9DiNn0IKYkROHpShmtzh6NPi9n0-UCFVJJSaVS8PMa3DM3VmRgGH-oFp2MUD5fNg1FWkF1GlU-p7cKyhIfubMlMdmakAY0PX8s4nOl1cR64kzXgAhxKhz9vSsXaK8h4Q6kT_BX_fKten7-WtQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NfwEezcD7yYq-Ssj-18sayYFxPuo0vUUhxX9qpNxokGoTvR4Y6oadt3PN4HMdLGTAExZEJ-w7d9MQCENLPNA2tojBG_3NPms9GLv2Yp5dVR_Zt-RUyyl5B1_VY9inXt2CY7go2jpXghFbDFxrPsfZtAEA6jUkferqd6N03L30_rHyGFTyqYa2qD-vvXtQN1XgOcsQyvievRFvRT5QavcLDGne-sSnzOxhslylHB5pqyZbrqikfWO1_SSDbTxH_iH-JZIUp-LAWial-1p46uXwI3PgmX7Rb_X3s1mKyNjV05och9UfHW0uy8ajli9rwz8wuUTo6N43u8EPaKrJ0sPsA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/exQuVO1ZrgHiTE2a_oYW-m3lonY7dHzvcKgvwW_7YXIqrtIKSwn-NLp_BCvC0fQGAP5o45x3DoQLy04KZW2sl88lDXykfj7BFBnAR7YYG0mLWt5egBDwgac_MTNBysZf9PYujw4BJMBS1m_v9M1I5qcIa9VVPQqB2a_Tlo9j2O8bsb4YzqNDPG4o-KWYCRhVGbpLmG37ScEis-xva-GCuLnBSqqRxvo9Lo5qg_gJ1rHZdjPTWShE2OrwaOz2IVb2TD-rUxSjeLwcfVscTPa4tZOtm-LWbGJtQbYUXPjOjo-wx63ANWeCN3yr5iTbBGW9AOp9IDikddnoA5Nk37hfXQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pk_Tp9a9lDmJk74SeX0l58QLSo5vZ1tmsuj6Cwiyw55nOTUgPWOQUVKts77uCIJib6fTyIW8qMspl3XimoZNqiocoNbmQaF0LN688pbwp_c0JljnX8PL1jZsVapD2vSqsq-hGkYIjFAJB8Ll68V_FR1DHFYGBdCwFCVrCIjm8dBkOvA-4eLCH_KB7DnkS9XpXNuwrmsqfMN80qR7GPHxvkwJAs1WYFVgzLtIKICqjhuBpV_rJoprXcB3q0fH1IiObx7JnHPMl7ygwSx8SxtanHUup72jPA4PKeVBsaVS7EtYopjIEObYeI-hJ-T2fKLKEzObBtG-3eR89s4ZXzYS1Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/uKoUfX4vXTRLWr7utXbgrRkR_4iWk6uK3w7zsNqe4Qliw24qPrQHTwExb8iiRLcIAcFHnxEr94oxtb-PxTy4pdqXrqq0r6H-TjjIdYx0r_bcXzzxptwIAyVbvS39iYSjqtpyeSX5k8YmnH4bsypalGL3uTcfrIlPqBEIprdi96pqujO8KBmt3kprXJ9sYlpWwNa3nGhL70cTFPZAUJTreEHjtvcIzRZTed0SfiS0efPlEQvwrYkVWNBP0A1WF6iKGHYP6w2-y9mkhA-vLPZPQ0WzWozPfaqTKmxTwPmK4TPRS8j-8UaMPTFxF7ze_NBRR9qN0p9FrSR7m1Ij15bXzA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/JjGjspw_IWf-3zUoFpduDEQEWHlpMVyXxn_4sFfA140WbxUfcq1jgCGfeVwbBz8WpldlFm04eFxWRBjbKhsGhwzGpqRjfsfKhWLhBctqvhIO2XknODsAMRIFvdPxdtYorUqyAAsxU48AnwxmIrFSkE6cw6laPeMjG5QzF1MJg685q-QxOqMsU-FGXb9nRbpJUcZZDnQJKUn6L8fMqSkWSsHrJLU19Rz1xXZPJFXNJw_zUZaoXMRv6DAVM9ZZ2V54LZeT_sSoZtvy6kq7nUAmnxtFBrrp2V2LTVA90XCuWnWlIKmHw-8RpNyJIKxB-QCw0mQJ60o9FB0VoHgAVmv2Wg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 236391,
-      "message": "حذف کالابرگ یک میلیون خانوار ایرانی؛ تلاش جمهوری اسلامی برای کوتاه کردن فهرست یارانه‌بگیران",
-      "date": "2026-11-07T19:07:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/r6r4tCj50ID86pSrknjJ9_6lGNyyqusX67fh9clwIzXsOCR0zNNcycH_Iuh5nJJ2fbuOD_bmc2YXo1P9mLiE5ouLesiwjEoVrEC-Jy1mKhJhaTRIXPv2jUQ_0ac3qGEucNnXl4hra73yCR7Sn3Kw4ip0iz6zPxo1c1uPNoLYuw7Du8gc-erHlAAAQFQDa7IDNbpgY4cRbGYNcxWRNi1bxmmJKIZd-xMOnpfLtDmgWTWRQMse1_v2uUPk9a9HobAdF2XggfphRWJlgnxL9ucK0n7XiZA3qoCt5flUXs_U8AGHG12XeXmX_MhrD3ieQhJ-sFoDNB0Oapz9LO7YnX0vIg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 236392,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ از پیشنهاد سمت سخنگوی کاخ سفید به دینا وایت خبر داد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ اعلام کرد که سمت سخنگوی کاخ سفید به دینا وایت، رئیس سازمان مسابقات هنرهای رزمی ترکیبی یو‌اف‌سی، پیشنهاد شده است و از او خواست این مسئولیت را بپذیرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/trump-offers-dana-white-position/8220059.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/trump-offers-dana-white-position/8220059.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-11-07T19:44:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236393,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eرئیس جمهوری اسرائیل گادی آیزنکوت، رقیب اصلی نتانیاهو، را برای تشکیل دولت جدید برگزید\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرسانه‌های اسرائیلی روز شنبه ۱۶ آبان گزارش دادند که اسحاق هرتزوگ، رئیس جمهوری اسرائیل، گادی آیزنکوت، رقیب اصلی بنیامین نتانیاهو و رئیس پیشین ستاد کل ارتش این کشور، را مأمور تلاش برای تشکیل دولت جدید کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/herzog-taps-eisenkot-for-government/8220066.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/herzog-taps-eisenkot-for-government/8220066.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-07T20:13:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236394,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eتیراندازی به یک امام جمعه در سیستان ‌و ‌بلوچستان؛ حامی جمهوری اسلامی و بیعت‌کننده با مجتبی خامنه‌ای کشته شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبنا بر گزارش‌ها شمس‌الحق یوسف قاضی، امام جمعه «محترم‌آباد فنوج» سیستان و بلوچستان، پس از یک حمله مسلحانه و تیراندازی به خودرو او خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8220065.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8220065.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-07T20:29:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236395,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست میدان - یکشنبه ۱۷ آبان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از \u003cbr/\u003eنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه \u003cbr/\u003eسبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-11-07T20:33:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236396,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-11-07T20:33:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 236397,
-      "message": "وزیر خارجه عراق: آمریکا از بغداد خواست تمامی گذرگاه‌های مرزی با ایران به جز دو گذرگاه را مسدود کند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-11-07T20:56:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/eWfP9kEFuj6pHn9fWLZiFZQ0sG23WRmA2AKP3_dG262yb_rXt3seJToq17Ah5cuc7NBRIlJfLlH7_k_5y-9aLzz0bk1OS23elq-ylowvxz-IbnewRV8Wc4JBWivdrBzftW9qMVrmqgsWjPlehIt4yJIr9F6pRunle5KaXxBwPCZrjKkvTk46XIwET88MeT_nROuQz01V93wX8MvEBDF8g6RQzn1zyFVc2jF8o7Z1yqbrcyqeBHfjhikfdrQSnkwvrYHskwLDaacGsFc1pwNj_XDOKtHwPLdl4UZAyIsyY75hBTN8BH9fAa7RaUFyNzX-LLuJDsiuT0vgvAEhGINK3Q",
-          "width": 640
-        }
-      ]
-    },
     {
       "id": 236398,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسپاه پاسداران مدعی شد که جمهوری اسلامی دیگر «محدودیت برد دو هزار کیلومتری موشک‌های بالستیک» ندارد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eسپاه پاسداران اعلام کرد که محدودیت‌های «خودخواسته» برد دو هزار کیلومتری موشک‌های بالستیک جمهوری اسلامی برداشته شد. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-lifts-ballistic-missile-limits/8220074.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-lifts-ballistic-missile-limits/8220074.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-11-07T21:04:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
+      "views": 6050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +25,7 @@
       "date": "2026-11-07T21:09:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3690,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +44,7 @@
       "date": "2026-11-07T21:26:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +56,7 @@
       "date": "2026-11-07T21:46:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 5750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +68,7 @@
       "date": "2026-11-07T21:59:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 5910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +80,7 @@
       "date": "2026-11-07T22:23:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
+      "views": 5580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +99,7 @@
       "date": "2026-11-07T22:26:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2800,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +111,7 @@
       "date": "2026-11-07T23:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1800,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +130,7 @@
       "date": "2026-11-08T00:09:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 5710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +142,7 @@
       "date": "2026-11-08T00:31:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1250,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +161,7 @@
       "date": "2026-11-08T01:35:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 627,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,6 +171,164 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/hwoqk8_zwSdGCEDy8a6o9a3nbqQz7VZR-HlgYiSfj7UMf5768pI5x9NKuGJeEpqajudkZfWmPb4GrMbCLGJko5izLdk8HbkBeoOa40ffZAQiEZaAkzUES0RlbDh-oksMimhzszMi7IS_eZHkS41nNC_hZUkmqnU3RgAiNwnBlKKa4QC6hRtkaGekT3A6QJLg6v7qETZFpPAp0PGjukU9Z2xPv5lCLO0hSNlxKXX32DKOsa_z2ase4KyQKrHRsGLyfsliwqIOM_XZoEIeUQS2j6CoD3XTdV8YbcKcnGuivWlrCQh_itO2WAQhnmFrdOvzYPGLIVSfpO9kJl4o5AXx6A",
           "width": 640
+        }
+      ]
+    },
+    {
+      "id": 236409,
+      "message": "افزایش‌تنش‌ها و توصیه امنیتی مقام آمریکایی به مردم ایران: امن‌ترین مکان خانه‌ شما است؛ گفتگو با شاهین مدرس\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T02:31:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/EFHkM82_K806bHEA7qKiyPQAhajjEnBf7gIGVKKde-2U2ndyCyGuY3P9GWCb8bzXST9bVn9McZbJxZFU5A5vG0HYGpVdmZz_AzEI0m74-H8dHgaONLeYd7F5-cPJiLcMxfCJ3eWpXks8KaOP2u3mm_gnsEjBd2V0rzwHZVsWfnGJ_iS3SZOx-NKg4G9Xee9TI4LKHqbPfxZR5ZRruU8ghJPI_ARqrVH_7IUK10m-v_J38BAXFjp5f5HWr0fpyopOfpJ1Py-bm8CxwwjUdUw5fVeQif-2SovEGEFnZNfPevvHq36OxuOFpKJ3byVwGbTTjxfvldCEzXK7AGWH8wwZjw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 236410,
+      "message": "گارد ملی امارات متحده عربی اوایل روز یکشنبه اعلام کرد که ۲۲ خدمه یک کشتی باری در دریای عمان را پس از وقوع آتش‌سوزی در آن نجات داد.\u003cbr/\u003e\u003cbr/\u003eبه گزارش رسانه‌های اماراتی، تمامی خدمه که همگی تبعه کشورهای عربی هستند، به‌سلامت از کشتی خارج شدند. رسانه اماراتی «گلف‌نیوز» گارد به نقل از گارد ساحلی امارات اعلام کرد که نیروهای آن پس از دریافت پیام درخواست کمک از سوی خدمه کشتی، عملیات امداد را آغاز کرد. در این گزارش علت آتش‌سوزی در کشتی اعلام نشده است.\u003cbr/\u003e\u003cbr/\u003eپیشتر سازمان عملیات تجارت دریایی بریتانیا، موسوم به «یوکی‌ام‌تی‌او»، اوایل بامداد یکشنبه ۱۷ آبان به وقت تهران از دریافت گزارشی درباره وقوع یک حادثه مرتبط با یک کشتی فله‌بر و نیروهای نظامی در آب‌های دریای عمان خبر داده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس اطلاعیه این سازمان، حادثه در فاصله حدود ۱۸ مایل دریایی شرق بندر خورفکان امارات متحده عربی رخ داده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T02:31:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JGaAnfvtoTHWh2pGhS6C8zLUd9q933cZeCJmOFK_MLt5FojTayq8QY005PzPKZNmPsBRqbBv6g0NrlPzUetkOlj0ywLSpEi14GozpOIC5W-sUPvOxVOj_a__8Y4FKKmLThn-fUVoNNe_wA1NUkI54zN7PXHTDYtPR9VE81TcCQIgC1pFOGp88QxYUt0TfXfsWwc999AGJqAsPePvB9O1j5ntIGRuLkJys812wB48i-fBE44_YJiG0S3BSlU7NLURAn316AOQ9trEOXt-AfRlhtfgRSyL2nqnT1K8v6qiNWfhvvR0m7lC9u3vCjzkWxp_mCQTNkPrQ4C9I6cQkOSJdQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 236411,
+      "message": "منشه امیر: ماموریت گادی آیزنکوت برای تشکیل دولت جدید اسرائیل پایان فعالیت سیاسی نتانیاهو نیست\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T03:33:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/rpZtgnt9NnmtpBXZSKKJAIkY3nUgqmnCLTv6CFILUaYC4FFl3esS1TgxD-i1KRxBJAY5_3g0ASCnfKTaNUqpnqdNjgMTM8qdccMQZomUCb1_hIns3PdZUpIiIjEf36I-CuQOEEc-aA7lQ-aSnd-2TcD_is2swi2_jdibjOm2Nheu7Ml9BYF2BXSSiUoHTElIvVUCbQ4yaVZgngeBMwDyh5sH4GNxKMg0eki78qhv4YSpcXRtADlMId0TrtpSdAzUP27GOPyViltxDf9FuLBO3K-xeF4FDFDiAV7yk3KdfL1gP1ZeePmQErxhJa2MkQXBeEUM9r_A1QsBvOSYTPPb5g",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 236412,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eجمهوری اسلامی سه بازداشتی اعتراض‌های دی‌ماه در کرج را اعدام کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eقوه قضائیه جمهوری اسلامی اعلام کرد حکم اعدام سه بازداشت‌شده اعتراض‌های ۱۸ و ۱۹ دی‌ماه در کرج صبح یکشنبه ۱۷ آبان اجرا شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eحسن دیوبند، حمید کاظمی و رضا زنگنه پس از تأیید دیوان عالی کشور اعدام شدند. قوه قضاییه گفت اموال آنها هم مصادره شده و هشت متهم دیگر پرونده به پنج تا ۱۰ سال حبس محکوم شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبه نوشته خبرگزاری میزان، دادگاه انقلاب کرج این سه نفر را به «مشارکت در اقدام عملیاتی برای اسرائیل، آمریکا و گروه‌های متخاصم» محکوم کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eسازمان حقوق بشر ایران، مستقر در نروژ، روز ۱۲ آبان نوشت دست‌کم ۳۶ نفر در ارتباط با این اعتراض‌ها اعدام شده‌اند. این رقم پیش از اعدام این سه نفر بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8220178.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8220178.html\u003c/a\u003e",
+      "date": "2026-11-08T05:45:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 236413,
+      "message": "وزیر کشور لهستان گفت مردی که شنبه ۱۶ آبان در میدان اصلی کراکوف شش نفر را کشت و سه جسد هم در خانه او کشف شد، احتمالاً تحت تأثیر ایدئولوژی راست افراطی بوده است.\u003cbr/\u003e\u003cbr/\u003eمارسین کی‌یروینسکی در نشست خبری گفت «همه‌چیز نشان می‌دهد» مهاجم مجذوب ایدئولوژی‌های راست افراطی بود و این موضوع بررسی می‌شود. به گفته پلیس، مظنون شهروند ۲۴ ساله لهستانی است، با خودرو وارد میدان شد و حدود ساعت ۱۵ به وقت محلی از داخل خودرو به مردم تیراندازی کرد. چهار زن و دو مرد کشته و ۱۵ نفر زخمی شدند. یکی از کشته‌شدگان تبعه بریتانیا بود.\u003cbr/\u003e\u003cbr/\u003eپلیس مظنون را با تیراندازی زخمی و بازداشت کرد و او به بیمارستان منتقل شد.\u003cbr/\u003e\u003cbr/\u003eدونالد توسک، نخست‌وزیر لهستان، شنبه شب گفت پلیس در خانه مظنون سه جسد دیگر پیدا کرده که احتمالاً به اعضای خانواده او تعلق دارد. وزیر دفاع لهستان این حمله را «عمل تروریستی» خواند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T05:59:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SIjDcMx1ERLdFmvHbfTD89j_WDfPCHPKUbxzmaHCtPPlQX6QiiFC0O8qF76yB3yvp7oRwHMc3Q3zbJK-dDUoc0Xv3WT2WA5UBwwvlowak4ucQUZ98Gt6e6dEUNBKdauNE_Q_rsfxSBigoFnbWkreNkjHbetJ8Hn_eKm8Q9G5ZnSqm1FT3PKpza9-KPDqmmheUT3SkpqtMJJ7oi-AOfdA4JVF7BF-1x7IOfXrD9CmlfTo10363uCwThn6SnrH5Cq-vgA3RQKm4yOlr-0BcHrkva4rNWCsONE8Vh_6DiaOfYzQIRtebM4JbrysbRdpvGDznrmn4wurtcrjoiRRMB6H4A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 236414,
+      "message": "یک شاهد عینی به رویترز گفت بامداد یکشنبه ۱۷ آبان، اندکی پس از صدور هشدار دفاع مدنی عربستان درباره وجود تهدیدی بالقوه، صدای انفجارهای مهیبی در ریاض شنیده شد.\u003cbr/\u003e\u003cbr/\u003eدفاع مدنی عربستان پس از آن اعلام کرد خطر رفع شده است.\u003cbr/\u003e\u003cbr/\u003eگزارش اولیه رویترز، جزئیاتی درباره منشأ صداها، تلفات یا خسارات احتمالی ارائه نمی‌کند.\u003cbr/\u003e\u003cbr/\u003eاین رویداد در شرایطی رخ داده که درگیری میان عربستان سعودی و حوثی‌های یمن، هم‌پیمان جمهوری اسلامی، ادامه دارد.\u003cbr/\u003e\u003cbr/\u003eدر این گزارش، مسئولیت رویداد به طرف مشخصی نسبت داده نشده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T06:12:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HaAe_8iijErkN098730vKwzvuwWWDQQN-r8stT_0Xi4W9TKaB5wGAUH6-S23imt28GSrJZbx4A9ZOxhl5_areJEneZnrY-ipsPZ6dTooTDWwnWVEnvsk2YTKL0FNVKA1mFZTttilA4yaej_Ltprzxx0L8tohUQn-xDeL0FE4RWc9Pq8bJWQdZA1RI9xXBTnXyNOifJQHu_4u0A1-igvaPLHOcNbsCSrtNm2k2wNTlA-Hwpsy9eGuJM_eBlAJDB3apUdDHCVJaNmwatvZmjvlM_txeI7LBEY4gtg-EJS8KhrR0maEDP1DRZnrHkLP9vc-isKJnqTOiAlAN1K1ZamiJA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 236415,
+      "message": "تصاویر ماهواره‌ای که الجزیره روز شنبه ۱۶ آبان منتشر کرد نشان می‌دهد اسرائیل در سراسر جنوب لبنان جاده و پایگاه نظامی می‌سازد و طول این شبکه به نزدیک ۹۰ کیلومتر می‌رسد.\u003cbr/\u003e\u003cbr/\u003eبه نوشته این خبرگزاری این ساخت‌وساز نگرانی‌ها از حضور درازمدت نظامی اسرائیل را بالا برده است. در گزارش‌های دیده‌شده، توضیحی از ارتش اسرائیل درباره هدف این جاده‌ها نیامده است.\u003cbr/\u003e\u003cbr/\u003eروزنامه لوریان‌لوژور هفته گذشته با تحلیل ده‌ها تصویر ماهواره‌ای نوشته بود اسرائیل هشت پایگاه مستحکم و ۳۲ کیلومتر جاده ساخته و بیش از ۶۰۰ کیلومتر مربع از جنوب لبنان را در اختیار دارد.\u003cbr/\u003e\u003cbr/\u003eهاآرتص نیز ۱۴ مرداد از دستور به ارتش برای آمادگی تا یک سال ماندن در لبنان خبر داده بود. نیروی حافظ صلح سازمان ملل هم حدود ۳۰ موضع اسرائیلی را شمرده بود.\u003cbr/\u003e\u003cbr/\u003eمذاکرات نظامی و فنی لبنان و اسرائیل در تامپا ۲۸ و ۲۹ مهر بدون پیشرفت پایان یافت و اختلاف بر سر خروج نیروهای اسرائیلی و خلع سلاح حزب‌الله باقی ماند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T06:28:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/g1CfxdVWkACN6a1VxLfnwoVcvCkoR9cYb4nNqk2TTlOJDQsnirutq5onGMcK_ev0n6wru8NXerJw5KnM9c5VrW1F4mBWFCG5b8vtEWS6wpCNJrSxP_vvJUJmbmNBt7lKy0NYHWQ7pDcd4T3ibal-sep4dt57Ogcccqw47jdb-KGJItAYzEqpw7ztVaAsf3Uk-IWB5YLzVNwGkj6nTPu3ESQS7k-WqBSJxIGyVJ51Qg3Dk_OPVkuNyE4gRDV13rTmZig6UQW5_vrAN4P4I1YynixrlqaEx9aYZxBXwH4Jev-Mbe1bmW73WJHydEQyPddwku6X6xStQygMhOX-_hOTkg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 236416,
+      "message": "ائتلاف به رهبری عربستان سعودی اعلام کرد پدافند هوایی این ائتلاف دو موشک بالستیک شلیک‌شده از سوی حوثی‌های یمن به سمت ریاض را رهگیری و منهدم کرده است.\u003cbr/\u003e\u003cbr/\u003eاین اعلام ساعاتی پس از آن صورت گرفت که ائتلاف از رهگیری یک موشک بالستیک دیگر خبر داده بود که، به گفته این ائتلاف، حوثی‌ها به سمت استان شرقی عربستان شلیک کرده بودند.\u003cbr/\u003e\u003cbr/\u003eپیش‌تر، رویترز به نقل از یک شاهد عینی گزارش داده بود بامداد یکشنبه، اندکی پس از هشدار دفاع مدنی عربستان درباره وجود تهدیدی بالقوه، صدای انفجارهای مهیبی در ریاض شنیده شد.\u003cbr/\u003e\u003cbr/\u003eدفاع مدنی عربستان پس از آن رفع خطر را اعلام کرد. گزارش اولیه رویترز جزئیاتی درباره منشأ صداها یا تلفات و خسارات احتمالی ارائه نکرده بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T06:47:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uwtsDO0fW1Vy_E6BGlw4I1RUUZbsaUjs8cdW7RjonXqe-cBEKDKbEKqZyg19VhOIqy__eRyQ7oHcucMrqiR6WCcrHTBSZERU3giNbYiJ_ip59h5faRjkOl7PDi0HmLR_glMSxn1TC6pkjoSL1UYNt_PtFal2iuAswYZ58C-86Op6YB6yk-mVy9peKP94HbmS1O60LZAfhBIqsGhc5DYw3OK46Iul4Vv8Xne7KrbMkB1UTaswbozluPVyxar4ghWlfzj61Ci7F9C0GVEAXMjdaL-FNfYo4777nry_lld7w0ne3DcJk0uwknkG_ZDa4E_vwJLlg-1vPJ_Ba9H81HKxTQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 236417,
+      "message": "خبرگزاری فرانسه یکشنبه ۱۷ آبان، به نقل از چند شاهد عینی گزارش داد ساختمان شرکت آرامکو در مرکز مالی ملک عبدالله در ریاض آسیب دیده است.\u003cbr/\u003e\u003cbr/\u003eیک شاهد به این خبرگزاری گفت برج آرامکو در این منطقه هدف قرار گرفته است. دو شاهد دیگر نیز مشاهده آسیب به ساختمان را تأیید کردند. در این گزارش، جزئیاتی درباره میزان خسارت یا تلفات احتمالی ارائه نشده است.\u003cbr/\u003e\u003cbr/\u003eاین گزارش پس از آن منتشر شد که ائتلاف به رهبری عربستان اعلام کرد دو موشک بالستیک شلیک‌شده از سوی حوثی‌های یمن به سمت ریاض را رهگیری و منهدم کرده است.\u003cbr/\u003e\u003cbr/\u003eپیش‌تر نیز صدای انفجارهای مهیبی در پایتخت عربستان شنیده شده بود و دفاع مدنی پس از صدور هشدار، رفع خطر را اعلام کرده بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-11-08T07:57:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 435,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/S_fjpY5noMyjGiLLk3eme2N5GEK1Eajl1XPCtgFvfgnt2ZM70GjtXgWB2Gr7cws8C7fWrzB2Wh-xKZW8DFlBZ6EgtdlYnHtLLIA-OU2VtKk2kmtSsebVoFWKy7VnmEcOjYlh6y8mEMsbFYjCpVb91J1_hKiagWCw2I1kV6yc7tOskyrA3ZPou1MXvE6jvBmoPaHH3sI4jrDyo13-JUlVkg3uO4JDgGuHroCmwSelnAeaVfLlhBJjZKENmXMPSlvkiCfwkxTigPuycBGcl6W_Xdk-e6hGk3XeUBO2TH9C8-Wi0GidTFs7ubG_ZNXhkavi8esESxhOoW2QECmgfcmbCw.jpg"
         }
       ]
     }
