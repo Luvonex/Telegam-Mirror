@@ -8,36 +8,12 @@
   },
   "posts": [
     {
-      "id": 5828,
-      "message": "外面卖的「Google AI Pro 12 / 24 个月」实质就是换了一串 offer token，不是真订阅。点订阅后浏览器会向 Play 发送 eacquire/multiline 请求，ear 参数里的 items 挂着 offer token，服务端只认 token 不认页面价格——换成 12 个月免费的 token，弹窗就显示 US$0.00。\u003cbr/\u003e谷歌浏览器插件",
-      "date": "2026-11-09T19:04:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5829,
-      "message": "این، روشیه که برادران چینی دارن باهاش با استفاده از آفر سامسونگ و توکن یوتوب پریمیوم، اشتراک ۲۴ ماهه جمنای می‌گیرن\u003cbr/\u003e\u003cbr/\u003eکارش در کل تقلب توی پرداخته. از لحاظ امنیتش بررسیش کردم و، بدافزاری داخلش نیست.\u003cbr/\u003eاین افزونه با دسترسی کامل داخل صفحه‌ی پرداخت گوگل می‌شینه و محتوای درخواست رو جعل می‌کنه تا آفرهایی رو بگیرید که گوگل به اکانت شما نداده.\u003cbr/\u003eصرفا نیاز به وارد کردن یه کارت پرداخت دارید.(که \u003ca href=\"https://t.me/MatinSenPaii/5650?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمن از این کارت\u003c/a\u003e استفاده کردم)\u003cbr/\u003e\u003cbr/\u003eدر نظر داشته باشید اگر گوگل این رو بفهمه، که ابزارهای ضدتقلبش دقیقا برای همین ساخته شدن، نتیجه‌اش می‌تونه پس گرفتن هر ۲۴ ماه، بستن اشتراک و در حالت بدتر از دست رفتن کل اکانت باشه؛ جیمیل و درایو و عکس‌ها هم همراهش.\u003cbr/\u003e\u003cbr/\u003eبرای همین لطفا روی جیمیل اصلیتون نزنید به هیچ وجه.\u003cbr/\u003eموفق باشید",
-      "date": "2026-11-09T19:08:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5830,
       "message": "بنازم بچه‌های توییتر\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-11-10T04:24:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -59,7 +35,7 @@
       "date": "2026-11-10T06:40:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +65,7 @@
       "date": "2026-11-10T07:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +77,7 @@
       "date": "2026-11-10T07:53:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +99,7 @@
       "date": "2026-11-10T10:35:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +107,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AhmilIGfHAiQFoZjhE7SMWjIUrK9IYrPYxyI4uNEYOWyGBID6yvuMTfCIGFnhKuSaZE24cDSnyhWKZOrcjvF0Ex_MBpsVLMeueCgeEo4eUS3a4HnExxC5rqTwQgCkf3QmWTpIuK2VxaS6gPyvsTt6e9PXQAJoIx6miQH8K0eL1fERbCxmnu3Mp7jH0gGC3zoB5JxZFpJD7SST_fvfb7OBKNRrFTE2D1NtHYad1taZBh18a5kYj8Is_TaqjDI0J2ieKUUbrp4ZXA6rkYJqUg6QvpOSt3dqnVcfYRpckRErRHkZaqblHq-2OSiJbrmHKYgnKg6URgDfmAz8MPTQwNvpA.jpg"
+          "url": "https://cdn1.telesco.pe/file/MwqOP9-I5vPsDb0v0OfwUmPwSTZulvLEN349FnubtCwkTz2ubws8OzeK27ny-4P1zT_39PI7tlPyAIV_kAyglAmHHXHNv5ktwVjG1jagBm4Wp6W10CTA2PhOlOc9Kiis9nUzukjydM7w4KrfLEOmEjHI5xs56MtFwVPuhoZktg5MN9_0fHZ9MHE4THYhx0Es8TDMASaJ5BNoNiUul6USj6uN9U_mzO-UD2ZaOH_v2s3gT2_MEHQJhlB7R11va6dR6FP54r4SouaXEcsjiAusUxGmBfyXJkvLBC1XNv3E3hWq3xbqUVW9SgdG04tn50Bh3o1qKEdslbhlZUS-Pud63Q.jpg"
         }
       ]
     },
@@ -141,7 +117,7 @@
       "date": "2026-11-10T12:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +125,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/iUWbDqKAiZXYmtJZMp-pvqcTch4ywW14TW0DT2o_T570FmTBivxKKANAkK8vhL7eKOQNTk0SCiSMSGvkJTMZM1G29L4zkQ9fyLROt8SntI76jWZhz-Q3TGry9tvkNNupva9IdmfTCeAXcYc4TIWtVXNvIPK3JKUyf-qxUxnVtDKHFicczQZm2lX87NwujYeEiKzaye6xGVAI1hHle9Mywu0bM-Gb9iylhALCBXMUntaB0k1ZdPx3KqngCDKRzd-0a_hgrOBlVKnd_CMseCNtPnx0wheL3tRt0g3LUfdNRgfdbXtCPSanFK5OJShS-eEng2jAoKHmNJbrm4O9QG1kGg",
+          "url": "https://cdn1.telesco.pe/file/oXRw8FhpZcqWZrOeH-6kTHQr6aWgoeKQ3aydzTe98ylXKjGDqYHcXeDspedJSQdOUgLNT8a0mh1boh2f5ZRPTOuUcK8M7wJioH2shz47mlvfQ4uAt4mDjgYKjQKuuaiDwqkK_k8Cf8QbJG8x2BiePrQFjbZ9q05x7Uqq4t7zKRSYzgtC8AhXcWbRbqDBZfyllfKvIPzIGwazqWdlIayhkjfUxQGjaouV2HoAp02rivajobXdazfi7EAEtqXyxzj7bqkeZZKjH7a7253l2WYv4Bky6sr_M-La4SLMGXfrBoMBAQLD-zwx-ADmE23xl0jkpTaVFmjoWah0N-XiI8GvQg",
           "width": 1280
         }
       ]
@@ -160,7 +136,7 @@
       "date": "2026-11-10T17:44:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +155,7 @@
       "date": "2026-11-10T18:01:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +167,7 @@
       "date": "2026-11-11T06:17:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 19800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +186,7 @@
       "date": "2026-11-11T08:54:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,6 +217,30 @@
           "url": "https://cdn1.telesco.pe/file/U030BZaj7T0aI2SEfcYJM_mySwBSNBuOQhOTGXqsEMwhoszsNcLub7A3XEfjVAa2mdLBCU_eUOxfuLBwrvQ0_tJNBHPmzFVKMCljiQdT0-_qInlFmyykcTX1gczyD7jeY5-gf1vjOtHmK7_XuZXt_npRozPGfEA5cg3xAIYYI6kTuu8y45J8SBtbdJQDDgifpzYN95lZWXn_B44LJZm_igN_OvaFb7LLKvXsdgseJjbZn12ueYXgev0AqZePx3-Iw1h_M4sTvbAZA8pUoIdQ-qok0qkWhuqhVxQsIXD75t3I5Wv9HC9XDND--PgjloFZq_aNMSkcy2ycpQ2MpUxY2w"
         }
       ]
+    },
+    {
+      "id": 5848,
+      "message": "می‌دونم اینکه ری‌اکشن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9294.png\u0026#39;)\"\u003e\u003cb\u003e💔\u003c/b\u003e\u003c/i\u003e میزنید به خاطر فردا و لایحه‌ی جدید آنتروپیکه.\u003cbr/\u003eنگران نباشید منم به زودی بن میشم. دلیلش رو هم توییت می‌کنم یه کم دیگه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-11-11T10:17:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5849,
+      "message": "\u003ca href=\"https://x.com/MatinSenPai/status/2120510916378653092?a=ASCnyaZe9XdhcwAS-Zw\u0026amp;s=20\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/MatinSenPai/status/2120510916378653092?a=ASCnyaZe9XdhcwAS-Zw\u0026amp;s=20\u003c/a\u003e",
+      "date": "2026-11-11T13:36:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
