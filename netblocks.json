@@ -3,28 +3,10 @@
     "id": 0,
     "title": "NetBlocks",
     "username": "netblocks",
-    "photo_url": "https://cdn4.telesco.pe/file/PZiwnHJ7ZJA8uNEFwad1WqejuHMPQHmnXcUriKiKlSM6R7XJHwx_wuWzGxVcpXQ-YgC5oNGmfs25rck-riEjKDsy8li01EH9cQO5S3miqZIsiU1qG2g3Xg-xmnFtJnl2xZ9nHK_0Nez8EQtKRfTzMO8hyx8PIg4aULSDB33i6Tygm5glfOKkU31pkJahBAr4md-gR5u0TEmsSPKfDGbnelXh4icj2BjsCkNFalF41yF88sR77bvOsXLolGYL3QNlQPTya5bnbW3KeHyaayus7Ejz_LqGQXMkBVjkTHnqySsr8WkD48wFn5ywHWW61obm1Ant_jZYHY_EDMj2uKyq2Q.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/O-XcWAPIqcy8dLXq1hJljDrb6HQNYVDTWA6d_tua1i5CgLrETAJQq3JJ47zmDqRZuGsl4Faix82-g6fXgfMuXOlt_7kzZp5HbsH1-NKuWI5pL02TkaBC-wKFgo2D9IHrqoInK4HXBeCEiRRq6K3HX9oBHXt8JIT379TiX5bR6XHgz4k12SZeq9dK7VpWvIEi-23WNrGwh1nIgWICWvLGh_KAclHS95Yil0iICkQLJ8j87f9HN_KcAZSBgRVWTvsyXun3y2sTbFHVw4958wg7KG79RsCdoXIdQTCLfKCDglifmXX2OJ2UAMu2JWKHeZv_CT9XPU2B0jv21gKVVanw2A.jpg",
     "description": "The Internet's Observatory: Tracking network disruptions and shutdowns • tools and policy for change • bridging the digital divide • https://netblocks.org"
   },
   "posts": [
-    {
-      "id": 1562,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Update: Further internet outages have been registered in Florida and Alabama after the landfall of Hurricane Isaias near Destin, now a post-tropical cyclone, causing damage to infrastructure and widespread power outages  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23FLwx\"\u003e#FLwx\u003c/a\u003e",
-      "date": "2026-10-10T11:28:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uMzXqenqUyeBjmww2n1nR6MlHz4e1M46EOkAOUwoPoEN8vfMEgcgxau2HHjBjkr_d20X8GKz-b4M_No9kys_TZAQi5GS8tNeh9ZTmbXsNPUOlyy5YcnPpmJfXSop5v151Xkbs0Y2s9m95qYcDVq62VvzHqqUskIu3mpqvPgeHtfUcY8TpNJRus4RiX4QdBS_c_tnVmuX6bBXzQtodT6KoDv7rBdvlr6w7S9Q2jhs5RaBqhaQy0Z_gRzLSgKIr7zMiFNGSrerKGEUjsogJarTXpw2X6U7gPeMDiq-BHGXbdR6Rmwd4O2nO3j5eiOny1SDqJ2qGUwAzePsjV8RUtXl6A.jpg"
-        }
-      ]
-    },
     {
       "id": 1563,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a second collapse in the networks of Russian tech giant Yandex after a new Ukrainian drone attack on data centers in Vladimir this morning. The campaign comes not long after Russia\u0026#39;s threat to give Ukraine a \u0026#34;digital detox.\u0026#34;",
@@ -39,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EFEqxxCNZswRQ0HXBQVzuzYrEQE8ChBw9VF0ZFYyqx9a8-fmjkFhij5OrbPN7rY7jGODW2usQLi9vtOJg2rfGC0maSOgyRU1ZWrGA4r19flza5AHnSIqkub5b21bc3e9TlXkuPkRrhr97_MXyCWT6E4ahOmXX0Rqt8SnfqTJrUVGLjfz_DYgiGDjXDhw80U-GWLGUC8-0qlsFfvfGQCRk_c9Z3p0uvaB2oDOOm6WcYTP5hC6zJUdlHpZmoSSos2BNrlrHDIeFdxWTmjNkBctLFCOPpSClhERk3-gQJtj1wggv2JKBJVDV9XDBB2g9dq6J1bq6S4t1wVTb2StSY53VQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/OJCJG6VhxU_0aPyalbpQlWSKD5IZj4Ja2bWLgi7rWh09g2Z-V4iJE5fTuVqcZXpJe8CPZjPj7xlH21dAWEFPYJ5ClIc0OPCQ8xGspubOtjSo8ABGF8aex973uvtiTA1R9hGRXu48GYvbVndytePccnuOdCHvj_ltUbeS6aKGXv3QdWFCeGl5YgCAw24PVQL2_ildYtD6PvMvP3DFbaQyR079uf3Wd0snIvLio3SAhVqKEEYxeWQSCYLoswNt51sdmw0sKZ4tCTCrdIjXUhWSwLw03IRs760EdvigX-AivjgCLZidSuKBsQ8m74aJ0v1Q4LSDqj1dsfD6KKm1mSo-yg.jpg"
         }
       ]
     },
@@ -49,7 +31,7 @@
       "date": "2026-10-11T18:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +67,7 @@
       "date": "2026-10-12T13:46:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "date": "2026-10-16T09:54:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-10-17T00:10:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-10-17T12:02:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-10-17T12:51:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-10-17T22:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-10-18T01:48:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "date": "2026-10-18T23:15:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-10-21T18:06:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 30900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-10-22T14:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-10-24T00:36:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-10-24T14:55:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-11-02T12:15:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-11-02T23:33:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,7 @@
       "date": "2026-11-03T14:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +337,7 @@
       "date": "2026-11-03T15:19:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9170,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,6 +346,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/D4jYpBrBV_uRogj1xw5g4hhaWhoyhyyKiP8iq5zdh7Qs25WoXmgCsdI03Hzw05CszfVSiBFkO7KuEo15WdqrC0WzE3TIWgW4gUzQ1cjqDdgLT8fc2FAqhpex8UsSC3Pld3HelMkHrA_ta72iA0ovwSTIj_bVrZmshem-_rzTEb4YaYU1nBnSc088yEhzDgyslX7XwWbM_kSoook93ndTVs2GBfOzikv-Fgt_TXvuZGGYoh-ip_Hpk5gWOgMBbZfDjBi_X6yjfWSe5WrjYlldJIJrirpP1bJNnhEfC1aQ89u3nGsjtzo93GPpb40ZfM1-s-j0AQUznsD6QBYA8bLEsQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1583,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a disruption to internet connectivity in Casablanca, \u003ca href=\"?q=%23Morocco\"\u003e#Morocco\u003c/a\u003e, falling to 67% of ordinary levels. The incident corresponds to a major power outage attributed to strong winds and storms per utility company SRM Casablanca-Settat.",
+      "date": "2026-11-11T21:41:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t3i9jaqtMEgWd6do2WUKMVD5Kq0iKL1Z-QtwNhNqaEMMp_5tIaP9hNHlj7XZ6gzuf4rS2SFv2ZqMgkm8Xu68EAtlbRVHlPOsWG85lTjsWjjSA1kGoX51BkJWHQTEWNAkNDd1LvLBR1djh9FVQeukJZ9BzkDHyqq1neQqSaMefmRLS4sKYmUlYWpHWmPtDUtlM_-qNxvptl61GV1QVfKOm7axA0Q72SDeriQ8hUD8aginDkAZS8aBEMviR8TA4bytzXOjOI9n8oBLdkHFBim25dWRHtvPyHskCRygTD7BqPAAtNmdPiYgOC2scn4MBjcGsVTdZqlfMFwOdIqlsfM03w.jpg"
         }
       ]
     }
