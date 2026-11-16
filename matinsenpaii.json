@@ -8,78 +8,12 @@
   },
   "posts": [
     {
-      "id": 5870,
-      "message": "\u003cb\u003eکمپانی کلودفلر مرورگر مخصوص ایجنت‌ها رو متن‌باز کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبلاگ کلودفلر می‌گه Kitesurf، موتور مرورگر سبکی که برای ایجنت‌های AI ساخته، حالا با لایسنس Apache 2.0 روی گیت‌هابه و می‌تونید خودتون اجراش کنید یا روی اکانت خودتون دیپلویش کنید. این موتور به‌جای کانتینر کامل کرومیوم روی Workers اجرا می‌شه، HTML رو پارس می‌کنه، جاوااسکریپت اجرا می‌کنه و اسکرین‌شات می‌گیره، با CPU و حافظه کمتر. از پروتکل Chrome DevTools هم پشتیبانی می‌کنه، یعنی با Puppeteer وصلش می‌کنید و ایجنت مستقیم کنترلش رو می‌گیره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://blog.cloudflare.com/kitesurf-open-source/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-14T07:20:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/T9u-YS12o9sbnqXhlZK_Z3KnlINh6nDNYfozKYpbGmD_nO9xedbIe5Vte1y_-dzzIwaW8QsXOVEc-hGalRQw7F0oQE6VRRSeLVgGkKwS7APDUl6kC_Y8BfCwjhBkV1vE3Zhu8gHde_-0KB47qgr24s8T91P5CzckHpcw7xSoYriKG8csknZeFboPDHzp5lxycULgdeaTymTff_z6hlVSjDmwwsoaorAPYOOtOQRrPcSTLb2dpVNUKSu85ZrH4SmajJB5cnJMmVaOnIB4BD1trYgu47MyFMe0lP0wOw3kCwwjrw_4Lcb_hQsyAB9U0sUr0ViHkpOuwooLzr0ysegQZw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5871,
-      "message": "\u003cb\u003eمدل DeepSeek V4.1 Flash اولین اوپن‌ویتی شد که توی بنچمارک SWE-sweep از ۱٪ رد شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسازنده‌های بنچمارک SWE-sweep لیدربوردشون رو با مدل‌های اوپن‌ویت تازه کردن و DeepSeek V4.1 Flash با ۱٫۷٪ اولین مدلیه که از ۱٪ رد شده؛ خود این بنچمارک، بنچمارکیه که به مدل یه Repository بزرگ پر از باگ می‌ده، بدون اینکه بگه باگ‌ها کجان، و مدل باید خودش پیداشون کنه و درستشون کنه. همه مدل‌ها توی یه هارنس و زمان یکسان تست شدن و کد ارزیابی هم اوپن‌سورسه.\u003cbr/\u003eبرای اینکه بهتر دستتون بیاد، Opus 5.5 نمره‌ی 3.6 و Astra 6 نمره‌ی 9.5 گرفته. قیمت‌هاشونم عجیب غریبه و در کل بنچمارک عجیبیه؛ اما دیپ‌سیک به نظرم خوب عمل کرده\u003cbr/\u003e\u003cbr/\u003eنکته‌ی خنده‌دار اینه که گوگل ادعا کرده Gemini 4 Hydrogen نمره‌ی 13.5 گرفته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-14T09:28:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pzJNEfd-RD2Wu70uwBc2pCGYVrEtN7mDL-YdrVKFpBV32Za8jW2-n3ULsduR9UFOaFXR3EExocIDTaSbqmRJxSA7W4W28fY3RQgkHemxFP4QG4J_I03UzJRv7v54l59W9dQtP_qRk2l_V8_Mt2GR2OWMrjXnHNFENMY_ouwRQ40Rv-8acN7t2vjjpZFpqKWJqH0T9HD2ELeuaFoLwd9w_vGopc-8Tw8_O6dqZVh6R7peQRVfcc9jWXk226A4TwDSb6AEy_QUVhONVb3qeE7HDX420lWAy6cweVcyokz6FHDGg-R4HnfhW_qhnNz-7cj49JwSglhEnLK6Fq8EPLu8dg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5872,
-      "message": "‏آپدیت جدید CoreForge \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8695.png\u0026#39;)\"\u003e\u003cb\u003e🆕\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e‏این نسخه چند تا چیز مهم آورده، بریم ببینیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e‏پروتکل‌های تازه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‏• L2TP/IPsec با shared secret — همونی که تو VPN خود آیفون هست، از مسیر Add Server › Manual یا با لینک l2tp://\u003cbr/\u003e‏• تنها استفاده کن یا به‌عنوان هاپ اول زنجیره\u003cbr/\u003e‏• پراکسی HTTPS حالا یه پروتکل کامله، با بخش «Use TLS (HTTPS)» تو ادیتور و سرعت بیشتر\u003cbr/\u003e‏• فایل‌های OpenVPN خروجی sing-box با پسوند .bpf و سرویس‌هایی مثل KeepSolid هم وصل می‌شن\u003cbr/\u003e‏• دو تا لینک که مسنجر به هم چسبونده، درست جدا و ایمپورت می‌شن\u003cbr/\u003e\u003cbr/\u003e‏سایفون \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‏• پروتکل جدید CDN Fronting تو Settings › Psiphon، با اسکنر داخلی که مسیر کارکننده رو روی شبکهٔ خودت پیدا می‌کنه\u003cbr/\u003e‏• سرورهای meek خیلی سریع‌تر شدن: ۵ تا ۱۷ مگابیت، اتصال تو ۴ تا ۹ ثانیه\u003cbr/\u003e‏• زنجیره با همهٔ پروتکل‌ها و هر دو ترتیب کار می‌کنه\u003cbr/\u003e‏• حالت «سایفون آخر» با هر کانفیگی، تقریباً هم‌سرعت سایفون تنها\u003cbr/\u003e‏• لیست سرورها خودش از تو تونل آپدیت می‌شه\u003cbr/\u003e‏• اگه کانفیگی از مسیر سایفون در دسترس نباشه، اپ می‌گه کدوم پورت و چیکار کنی — دیگه کانفیگ رو «خراب» علامت نمی‌زنه\u003cbr/\u003e\u003cbr/\u003e‏صفحهٔ Configs \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9381.png\u0026#39;)\"\u003e\u003cb\u003e📁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‏• علاقه‌مندی‌ها: از منوی ••• هر کانفیگ بزن Add to Favourites\u003cbr/\u003e‏• پوشه‌ها حالا یه کارت یکپارچه‌ن که نرم باز و بسته می‌شه\u003cbr/\u003e‏• اسکرول پوشه‌های بلند روون شده\u003cbr/\u003e\u003cbr/\u003e‏لینک‌های نصب — TestFlight \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‏• اپ CoreForge نسخهٔ iOS \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8E.png\u0026#39;)\"\u003e\u003cb\u003e🍎\u003c/b\u003e\u003c/i\u003e — \u003ca href=\"https://testflight.apple.com/join/vAaXH9Cv\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنصب\u003c/a\u003e\u003cbr/\u003e‏• اپ ForgeCore نسخهٔ iOS \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e — \u003ca href=\"https://testflight.apple.com/join/YqwS1qtj\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنصب\u003c/a\u003e\u003cbr/\u003e‏• اپ CoreForge نسخهٔ macOS \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e — \u003ca href=\"https://testflight.apple.com/join/Z4rvxEwk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنصب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e‏\u003ca href=\"https://t.me/coreforgeios\" target=\"_blank\"\u003e@coreforgeios\u003c/a\u003e",
-      "date": "2026-11-14T11:19:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5873,
-      "message": "\u003ca href=\"https://ns1.rmft.tech/l2tp/sub\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ns1.rmft.tech/l2tp/sub\u003c/a\u003e",
-      "date": "2026-11-14T11:19:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YVYI-Aj5ckVgnn87Xguf82EHvzhI-n5_lX9ZKYAWJS5BDGhUcfbKJAULrZMKregSQ1OU9WcGSyUjK_Pku7pqjJK5qTA5W9_dbQL3WS8zb3O2h9nTYZtEdYAe1rHUSzj9zYDjnzMcXr0WvTssblm3Gl2K8K2Fk_Do39EGatVwno9VMq28UdVQFKgrqe69_dzsmO2AD_vJ3dP5esSjhdl6jnuXykktNwQ_VR2gByo2oW6oJD8ByoHTZv5qv1IBvxpkbgvOQbXSo-c6RpkKJRnnCaBmXvhsQHn7OHF5_lT6GVhg7ObQqAjg5GdfjEhrElukOZx_FrMgqs_A9_f6eQNoKQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 5874,
       "message": "\u003cb\u003eیه باگ ۲۲ ساله توی PostgreSQL پیدا شده که به RCE می‌رسه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمحمت اینجه توی قسمت سوم سری «ریسک‌های سیستمیک PostgreSQL مدیریت‌شده» می‌گه یه باگ قدیمی از نوع type confusion پیدا کرده که ۲۲ سال توی هسته PostgreSQL بوده و به اجرای کد از راه دور (CVE-2026-6460) می‌رسه. طرز کارش این شکلیه که یه مقدار رو داخل یه composite type می‌ذاری، نوع یکی از فیلدهاش رو عوض می‌کنی و بعد از دیتابیس می‌خوای همون مقدار رو بخونه؛ دیتابیس هم چون نوع داده رو فقط از روی برچسبش می‌فهمه، بایت‌ها رو اشتباه تفسیر می‌کنه. خودش می‌گه این آسیب‌پذیری رو با کمک یه ایجنت کلاد که نقش معلم رو داشته، قدم‌به‌قدم یاد گرفته و کشف کرده. این ماجرا یه بار دیگه نشون می‌ده اعتماد کورکورانه به تگ دیتاتایپ چقدر می‌تونه خطرناک باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-11-14T11:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/rqi68kqQI-Ju48tz9kjocDs4rgf5NR2AusOULraX_fRdU1s4mE7BI8erIaf7BputRmNhCvSDsufyCbj0MCj5ihr71QQvZF62LegxcB-8WnNmBS9IF4Rf--qSTMtKpqJk69GOmUqm4AUvl4Q2SlkAaA_PY2qBRJ8Qu6V-yyVyCEcyEwNqHCW0SIZKjpnB4N5BDnYogrTEFi_igCQrOAj41SRBh1Ssvtvlh1v2xRyjLFuAcQ_xsk36UlBKgCLBK7f6g7RgKze6pXnIGUyKx8ZTbVjqotPrLK9PYW6lvsCBOpk8G14B2aiCcmJTtXYNSKJ0Gfz5JTPRa5ZEZ4lCeXuvuw.jpg"
+          "url": "https://cdn1.telesco.pe/file/nMAdDPT0snOAVNwQUWosQ9ZJl4_oCCRLoYX4tpSSA-lW4f_-Y6YgE9CO8p5OtkHlJ7i165GJYiZmp8K9EHnJC84CMR4iRiMxnxmW8CjrCDVo205OHA5K0Vh0kgmKrfBz_HWS2LxcgSvrN6cB7NEdo7AUKGWsYoEFr7dVeNv5Uh090KWnr0xmqKjigSX_smYDhIvMj14K0Fa_Zz-sKQnOjLScabBfo5PdSOvzOiYz11Iq7ZWKesspzpC_zqH2D9pjXGqaEulS3gi6S848uaiX2muistVePYFDwO2zKiFQMpco2A2kYrf2_YoiqCh7kyafKhRxVH2D2JM8EJiRqIOzIg.jpg"
         }
       ]
     },
@@ -97,7 +31,7 @@
       "date": "2026-11-14T16:26:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CSbopv4eJX42ZkWRKabZbzG4E1nALeA_7DGPSypWmbrnl0U32MGfop8txGgwM46Z6xCSlKAqVQ_4Zsm_Ftkej-syrUun_U6LILWdwyEOfwRprYVKqTJuFF3RQzSnHHfa6XZFHInwyMzsMiYObKwuyFYgxwdmjh22TMWqO_irSxXfaZXwz9a3BVgYsRCZfkrCM5R4ZRWp-iWL2Bcdx5XijPyvqQVTbhpc55Z9AdzlYz8zmc32YKIkW8zP_ciu_iTUzuF3BoxV9Be0tdpNi_5bwqtC-JTuockqJ8odynCESm2bkjPBMWMh1NTka_oZQatg4FPq3N6LaZ1lzU3NsslvWg.jpg"
+          "url": "https://cdn1.telesco.pe/file/F8AZkGeb7DqQGi88eLuy1oFqKfMtIeP5AEPzwQrYG83H7eHWJim7iBkzMQnHUXAPhOPN3hD_GiwjEkYcYNWYA85DlOIhYD5VyjwXEfixYD4W7FQ4uxyToZ0ux2b8YvAI90ip2kq4xnn2m_RSM0t00dGQBkIvGHiA33yIPSRwsDjUv3b3Jdm2DF0wsapuzAMZterkmHjEgs9BRpR-CETSSu3VF9B1jHazDidd2n30UIRpxHWJeORmzOtxnFgli1yzQGUOA06CjQtDMfqVVK29ThQwxgbyRPPPLQ9DgzLjFw20E_Ro__0k-Irr_uOcGx3haeaYSXCjeiYeKwf9dB1dyg.jpg"
         }
       ]
     },
@@ -115,7 +49,7 @@
       "date": "2026-11-14T17:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AxNO8UcMKTy07vLqU4idwMPoahilaXKYf-4UCxkG-wH0vUQLDdoIRh_PnoFw4juaQBTq-EOz3cYh5eaEYoO1TpGv8tBpaOTPu5hN-Elwn1fPoDZOfwcIWUzaXw5psTXbehfelL8MMF3jYG9CpYJcK1DO2UbCu_ZpgBAvNe5QTt-fboJ9o_SCKJQRcliapf7s1wbeXQNQ57Uu8blsuvlJVDhm_UYXN-KfyxamKT50bhkHYA3EwawALc-A0woU8BqDYw7_TP-j-pj8IN6ZNRWA3eeKL257V3JgMILbJLQ_RSsLfF6PzuCDHdSv-5YLLPje3y7PcOZavQHFyoQnBr_t2w.jpg"
+          "url": "https://cdn4.telesco.pe/file/R8XDJZ_d8K-7-96ojlYBWLGZuhEjhKRYqcJ9YBGEEDykT2uQbSS04yLI5hbH-LGbnIXHC4EVWdMwOwEnQ4Z56js7BVnK9LaKoOAaTEhxRyLzCPHeIQoIXREhscryUZiK39jay_bsPxa0hBApmQg7_OKyps8pFdM85TCF5XDkNO74wgumFlZkvD9Qf929SVBU7P0UWRsMDS-GLldC7dQ2XtreOL_1pJB40PIrVFA0QaP3GzfFNgRYFko0pO4z54H_6Ysf8Zk3ClL-uAQmzLYOMAjumuI85mAWZJl8K2BkjpPKJbef142tQKXdGFEvlIp8yn9AySd5zW8AUgIW4zI17Q.jpg"
         }
       ]
     },
@@ -133,7 +67,7 @@
       "date": "2026-11-14T19:44:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +85,7 @@
       "date": "2026-11-14T19:55:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +97,7 @@
       "date": "2026-11-15T04:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +115,7 @@
       "date": "2026-11-15T06:33:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +133,7 @@
       "date": "2026-11-15T08:34:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +145,7 @@
       "date": "2026-11-15T09:57:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +157,7 @@
       "date": "2026-11-15T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +169,7 @@
       "date": "2026-11-15T10:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YmKuZFMjXDBLwPAWr5NL1pKQRgRC0DO05wt5R5ukW3AxoL0O80onAjvHz55UY1VWhRZMVKbT5msr6r4sgmDGb-LrO8Nm5nZ-selcc9zVru-sWtsyRmjfYjgaWBMcOD_q3nZukzH9RU_41CWBMR6i6wlsB7hil6pJeJkneWaz77YhwWLFkfFBsbQBw4-WLdGyEriBwB4ncrQcZfVswpM8oNZ5UAMvnOSv_Yq9gx5ft_CGE6Y0fvRtx0uz0xQC73HNKb0_EvUBa7yKlNkupgBi_TUkp8r-8I1lKn56qAYWsPzZBTB9rr2YnIBmPtjwRp_QpGWQ6BHbBtxV4PkwbgCLVQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/DGdhBK5DrwxYTFTLcAAbcQm1o_wZLbHxpte4c1GTC52oqacIlFVgup521qjYX1x14pdB7T8Fz2Iu5b0YGfGmQ_mMgZBAnQU-qbASEawF9U32o-vFL5n3v5Xa19jRTgc58G1DGDBQnfLzXQGsLmg9jXCv1BMqit_a9aghNU3lLUZYYQ4Zhfqcxbq4c_f0S4AHg0h9UzVl_T7Xk-CngAuAV2dQ5WFyI34eqoW45iET7z_b8z3faszJuNkOZpgEHbJ6yNYwdRGQT8BZrPnh1Y7CPWtT9ALQ6vssuFJq5_T8dIjdklQhBsA_Vknn1yeGM0rBH8lhIi_zssDeNv__9BDcrQ.jpg"
         }
       ]
     },
@@ -253,7 +187,7 @@
       "date": "2026-11-15T14:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,11 +195,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vPASi35KZA5se8dcSQnA4Z9NPofpIoJt_wtNx3b5F1sqtydBfEThqngI6o-r_-W4cnrRKtzitDY9XxXveiKFSbL7uJ1bnfUOAsGK-z9hbMCX6aG0LXmlyozAtLKLCuIjdINNQED1MFgnpEP6PrUApumKALzRxuQfFf0Wg3G8mPztMd_sBrNt-m12LpNrJPo61S8ZJlzLC5cnQ_5NCbVXZscDnKxSSxmv8Gf74wMFiN-Hzdk1Csk3NT8RIqdbDIJBau6V3sYSh5Rikv051UHtSsxr_G8hFTLYmjtJ2xWqNbc8fQH79iDZvVpnLuHLNRI4Ngrk3Jzb6OkMHVTvqvMTig.jpg"
+          "url": "https://cdn1.telesco.pe/file/lxDgmwgAWZ7cKT4Jh4bmq-KtKwrecnmwei5VukzgewDHnLcgv6qlcf5U5e0P3aFteR894EfHpk-D3IyLeDwOl9HXUNHyAWGYhaCvVCqh6EnmMWLy-vK5Ibjm-kDhP_TI9MV1DG6PZT2BG9aWei7ORQLEN5BxsadEkPmNoNkd4qYIT8ph9A9F9ZRhvdhYbpRET-ejC_hcYJXOWMClK2DVNBA3DGPNfuYpJF3MvyUPhs3nCG7p2wIXLvPW_1LYy0lbiYYB1ubhYV81WnFP3bHEGZv6Qh-b_Otbc9ZFpd91KsYc7mzEoXNOBCJqVewsNthiXOeKA-YmMoj81S6owfZ3dQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hhhJciA-vWR4_poAE__zr-0PG_GbK13BsFZwWZLDGxMvoWzILQ17jCu8WL5XI4mJ0VJnXTO7pP2QQMpxQzW2Jt4ULEK6mWRFkHlxtCAs6EY0CU8uy1yllosJbz2PbqLZqpq1ZbNxNakQFLdlKYvMz1UvqI6H-BCmE_3-4FzOXxT4C6f1K0YSh-9cNAHL6bj2xuILOpOl26VDnuo8IJhhsM_OOZ5qkuMzumSDxg2iff5fUt0Uy56Eada1y-9BnT1aOztufSv0ZYpBEMLNh9MAqtnOektzazaoMzsP6XME2YZpU3CJaH22YIVkjBKgZfYIeUUrrmdmn8M35Q1GFjjQaw.jpg"
+          "url": "https://cdn1.telesco.pe/file/mDrMRp2Sqs0JKfDv8pBY8XFWAmxry0ldL096Kd44i6tZpRoRe8Xio9jINVkjDa9ZvL-_DnobXfOOY_G_e8R7HkkL9FOF7tx-Hkj3WLyuZkF7TdldJh9ZV1H4f2CiNTcE6UuJL6T42P3SbUG8e6UGpVXHK5h8O5IFbPevGsK2LYn1c-kNKYPSBZTbV9aLooOcxd_NKv6GfemLKeQo7dH4jqfwdQk_-Z6Hsgm3lo221oTcEvn6VBv3msX3k68KQhKRheldtEhNMFyCzuHC2kfC0U7hVQohi_FJ0-wQtmOXreBovkNDMlfqNkCko_33sxhgkAI0n7uNphf0VSAV9efOIQ.jpg"
         }
       ]
     },
@@ -275,7 +209,7 @@
       "date": "2026-11-16T05:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +227,7 @@
       "date": "2026-11-16T06:04:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +239,67 @@
       "date": "2026-11-16T06:15:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 21800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5890,
+      "message": "\u003cb\u003eیه ابزار اوپن سورس که می‌خواد توکن‌سوزی ایجنت‌های کدنویسی رو کم کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eابزار اوپن سورس QMD یه موتور جست‌وجوی لوکاله که به‌جای اینکه ایجنت با find و grep کل پروژه رو بگرده، سرچ معنایی می‌کنه و فقط چند فایل مرتبط رو می‌خونه. توی تست یکی از کاربرهای ساب‌ردیت r/LLMDevs روی یه ریپوی ۱۲۳۱ فایلی، هزینه یه تسک از ۰٫۰۳۰۲ دلار به ۰٫۰۱۶۶ دلار رسید، یعنی حدود ۴۵٪ کمتر؛ ولی عدد ۵۵٪ که این یوزر گفته مال ترکیب QMD با GitNexus بوده، نه QMD تنها.\u003cbr/\u003eنکته‌ی مهم: روی یه پروژه‌ی کوچیک ۲۷ فایلی، QDM هزینه رو ۶۰٪ بیشتر کرده، پس فقط برای کدبیس‌های بزرگ به درد می‌خوره و حواستون به این قضیه باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LLMDevs/comments/1xxhdsl/stop_burning_tokens_on_file_searches_how_qmd/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-16T15:40:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/GD8CK-_Am0bwR1eswa_9GNMTAyN7M2OrFIZc_5QlwnrWZ4U5cPsOsf-KPY7h0V7CaXOtD4mI834tPhzpvnQjUWvoITML276XciM0fQj4-aW4ZcF75FyLbeAtjAv3TaHwYBihNCf9O2SUtfxNn2MGXwJARZcFObCQSPubGqylbCvzuZnpgb-ZnnO9lZolFsDhKCb1YO5c1KErn2V56iKYA6H6TX9-YNsmF-jASZ9gGakUaS9SB5SmDN72wxjxVxb9ilmU3cHvKvohh7KZQ8Yo8-WB1aqHxyzEkHNnf3YNm0fWvPznx1ALxEmaZiinSWxaFTV_j-cx5qivKnLDbKoHOg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5891,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C98.png\u0026#39;)\"\u003e\u003cb\u003e🌘\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا زمین صاحب یک ماه جدید شده؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر اواخر اکتبر ۲۰۲۶، مرکز سیارات کوچک اتحادیه بین‌المللی نجوم (Minor Planet Center) وجود جرمی به نام \u003cb\u003e2026 QQ8\u003c/b\u003e رو به‌عنوان یک ماهواره طبیعی موقت زمین تأیید کرد.\u003cbr/\u003eبه این اجرام اصطلاحاً \u003cb\u003eMinimoon \u003c/b\u003eگفته میشه؛ اجرامی که برای مدتی تحت تأثیر گرانش زمین قرار می‌گیرن و به دام اون می‌افتن و به دور زمین حرکت می‌کنن؛\u003cbr/\u003eالبته این همراهی دائمی نیست و بر اساس محاسبات مداری، انتظار میره 2026 QQ8 تا حدود دسامبر ۲۰۲۶ یا اوایل سال ۲۰۲۷ در کنار زمین باقی بمونه و بعد از اون دوباره به مدار مستقل خودش در اطراف خورشید برگرده.\u003cbr/\u003e\u003cbr/\u003eپس ظاهراً زمین برای مدتی یک همراه کوچولوی جدید پیدا کرده!",
+      "date": "2026-11-16T17:09:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pJVgSpiVUD4071_0swrLK7o27bYgwSSdzPlp9AuEPFukLJtli2lOKDT5nBptIeau-ziVi9EakSI1q4jfZZ8n3yc-Tzajk_WBRUsDzLwHu29y0YYegcnyCtRPxrLipbOKKwnyOVX7E1PJqxHy4Ilg-DPEhyZAWG2M_3tbxYfrUIW24RKtHTjj95Cohluo6_LYsby7eGFsXQTPUQS4dyybiwBxTmDk1PD95Deyt_vh_S-H6lQdPvR7qFwjQOpNcU1o0OOizAYB8XLwb4ducbSJocesKxL461AWcmRebUTSMrSeQ91W3BjP0UfDY6G1RlOmynIikyk5JAZO4A9T3HMHKw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5892,
+      "message": "من از بچگی عاشق فضا بودم و کلی کتاب راجب نجوم و... خوندم\u003cbr/\u003eآرزوم هم این بود فضانورد بشم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e شاید یک روزی",
+      "date": "2026-11-16T17:10:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5893,
+      "message": "اخیییی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-11-16T17:35:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
