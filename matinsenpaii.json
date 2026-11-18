@@ -8,130 +8,12 @@
   },
   "posts": [
     {
-      "id": 5881,
-      "message": "طبق لیک ها، Gemini 4 Krypton رو به زودی خواهیم داشت. قدرتمندتر از همه‌ی مدلهای گوگل",
-      "date": "2026-11-15T08:34:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5882,
-      "message": "یو‌آی اش پیشنهاد من بود\u003ctg-emoji emoji-id=\"5422609593765241366\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eمبارکه",
-      "date": "2026-11-15T09:57:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5883,
-      "message": "اگر طرفدار این آثار آسیای شرقی هستید پیشنهاد میکنم برید و آیدی‌های خوبش رو بگیرید: \u003ca href=\"http://taleo.ir/\" target=\"_blank\" rel=\"noopener\"\u003etaleo.ir\u003c/a\u003e \u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-11-15T10:12:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5884,
-      "message": "\u003cb\u003eیه ابزار متن‌باز که با کلاد کد و بدون هیچ مدل ویدئویی‌ای، موزیک‌ویدئو می‌سازه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eابزار schu-video-generator یه ابزار متن‌بازه که به ایجنت اجازه می‌ده از روی یه توضیح متنی، یه ویدئوی کامل بسازه. طرز کارش این شکلیه که ایجنت یه فایل video.yaml می‌نویسه، خودش چکش می‌کنه و بعد MP4 رو رندر می‌گیره. ۲۸ نوع صحنه‌ی آماده داره؛ تیتر، نمودار، معادله، کد، نقشه و صحنه‌های کارتونی با کاراکتر، به‌علاوه صحنه‌های سه‌بعدی و HTML/CSS. موزیک و افکت صوتی و زیرنویس و تامنیل رو هم خودش تولید می‌کنه. نصبش با pip انجام می‌شه؛ فقط پایتون ۳٫۱۰ تا ۳٫۱۳ و ffmpeg لازم داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/ClaudeAI/comments/1xwk0md/escapement_a_music_video_coded_by_fable_52_with/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-15T10:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oWoaa3AG6kUYRD6nNuWgXWzrC1_gojm8ZwEPe6KQb0z9OL-DC-OBDG0wE-7xSLW0zYr3HKWxW5JbCpi2wwYpt-_wIlDz3NwMWbLYfj52YV30_GnWIseVintL5Td-x_EOqqVNAHHaGrm04Hn2haLEGIVaO76hbAJ-n4VOT7YMIOp9i1_471jeyUszlbuTtw0qCtm3jEWq_SOy44ot_Ot-kFtrLgQWc3on6ijfcBHSBNdN7AxzcLOXxVz1fYPCn6147Itebwkmq9gDvr77ihQdnFZ4P4iFvVz1EpaF2QuIWRTDC-bXT4W61-ktDku46rAB5Cu3EKzBtpAm25NjTQxmAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5885,
-      "message": "\u003cb\u003eمدیرعامل سابق انویدیا جلوی ۳۰ تا از مدیرهاش به معاون فروشش گفته امیدوارم بمیری\u003c/b\u003e(فکر نمی‌کنم درست باشه. وگرنه چرا زودتر از اینا نیومد)\u003cbr/\u003e\u003cbr/\u003eنیویورک پست به نقل از چند نفر از داخل انویدیا می‌گه جنسن هوانگ فوریه امسال(بهمن ماه پارسال) توی یه جلسه پشت درهای بسته با بیشتر از ۳۰ تا از مدیرهای ارشد شرکت، به جی پوری، معاون فروش جهانیش، اول گفته امیدوارم آنفولانزا بگیری و بدتر هم بشه، بعدش هم گفته: «امیدوارم بمیری و همه‌مون رو از این بدبختی راحت کنی». می‌گن کل اتاق ساکت شده و پوری هم هیچی نگفته.\u003cbr/\u003e\u003cbr/\u003eتوی همون گزارش اومده که هوانگ یه بار هم توی یه جلسه بطری آب پرت کرده سمت یه مدیر ارشد دیگه.\u003cbr/\u003e\u003cbr/\u003eاین حرف‌ها فعلا فقط ادعای چند منبع بی‌نامه و سخنگوی هوانگ هم حاضر نشده چیزی بگه. هوانگ همین چند روز پیش، ۱۲ نوامبر، از مدیرعاملی انویدیا استعفا داد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/AlphaWireHQ/status/2121848880400613511\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-15T14:40:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/V6IzDO6-8gsBPpeWRLC7UO96p1bK7rbNwpcacD6hNjWdLuXJZMd2K1Rk5_iikTgubzyE-ihm3vM6zIqWIY8t8DPxG2jYkwyRfx7ERylLkpHuXcS1-g2UBvOwh86l83_E70IjrLyu6ejsyx_7yS3oDJXL9-R1g4hSAhLJLs2ZYgBqgDV80qiuFlaUaJV7G6SbFpqwOWOdp9wEri0X_GrRpTN76sKt8PfiBpwNc-VKA2u12zhEc4PhtLIQ6gIdcIy8Z_x7A-y4sYWcF41phN_LvvfqlGi9GNj-IGHnU7F4gVUqmk52usJv3OzMNhHh2mp5k9_v9iqMAJDFfvqy3kS36Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/iP79qwIruItJiFfDhorvw3Z1kyDuDsqeqbIYlXWnI-pa1D7Qt551CNMB1b5YHkZpnM43mCkVRTzNItaxg5HBC-ot57B4kJudN-NebchjCl6NpYo9mAgXIJkL4DMQppA3N_iT0Z7qu0p_hOidTyXcPuZ1J0ShZnJh7ab6jxdXHXg1wRIzhPXeXoeFL4a_qGyoSSKL-RaqaGS-rZdT97XjANwx756HblGOjk7_lpT851Ln8K51k5wZ-2DNMJj_23bHD8fas-0eTb6kJHinwW2fKR1DL9O9aexYisChptRt46X0FfE-Qazd7L8nRBFQYZKSYCTZYg3FVrDcSWQTCsMaAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5887,
-      "message": "\u003cb\u003eمدل Fable 5.2 عکس تولید نمی‌کنه، نقاشی می‌کشه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکلاد Fable 5.2 به جای اینکه پیکسل حساب کنه، با کد پایتون صدها هزار ضربه قلم‌مو روی یه بوم مجازی می‌ذاره؛ یعنی نقاشی رو واقعا مثل یه نقاش می‌سازه، با بافت موی قلم و رنگ خیس. یه صحنه پارکینگ با سبد خرید که نزدیک به عکس واقعیه حدود ۷۰۰ هزار ضربه برده و هر نقاشی یه برنامه پایتون هزار تا دو هزار خطیه.\u003cbr/\u003e\u003cbr/\u003eمهندس Anthropic جیک ایتن می‌گه مدل بدون هیچ مدل تصویری خارجی کار می‌کنه و اشتباهاش رو مثل نقاش واقعی با یه ضربه دیگه می‌پوشونه. همین توانایی برنامه‌ریزی قدم‌به‌قدم به ربات واقعی هم رسیده؛ تو تست داخلی RoboDojo خود Anthropic، بازوی رباتیک Fable ‏۶۴٫۹٪ گرفت و GPT-6 Astra به ۲۹٫۸٪ رسید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-16T05:48:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sWY5B8XaCIlyXZv9YzcJVrq7YGy-SlrMWDgJ2HOIBb71apzM6HAQ-KpfWNhT328dZsjnlYk3Ho32mIOdvJNTqzK8MRzpxf2uIR35yPKXoZULBxYXynYoshXTxnDHPXIVOIvpxJJjxshPwVsuBVEF7OBQyZPSZrqYf32gI4q1BAUqW0zwYCoYbDSBgVI8LVYMl8NZL0EN6u8zNTjE27Cmb2WqsPs5_o60t2hPqL9s1KYrNZsCEeqWKL_uDfLsMHYgJSuplFkkb5ByuiwG9ffAe0cuF_mPYjse5IufYb4Bd-ZWNRgV3KBOeO12B4HS55wWpZQMDw9Iv9WYnoXI9TNYqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5888,
-      "message": "این رو دوستم نوشته: \u003ca href=\"https://t.me/HexDLBot\" target=\"_blank\"\u003e@HexDLBot\u003c/a\u003e\u003cbr/\u003eاینستاگرام و تیک‌تاک دانلودره.\u003cbr/\u003eبدون دانش برنامه‌نویسی و صرفا با ایده‌هاش نوشته؛ و از تبلیغاتش هم کلی پول در میاره.\u003cbr/\u003eصد البته با کمی مطالعه راجب بک‌اند و دواپس در اواسط راه.\u003cbr/\u003eصحبتم اینه که به حرف کسی گوش ندید. کار خودتون رو بکنید. هیچکس درست پیشبینی نمی‌کنه، حتی من؛ چون هیچکس نمی‌دونه AI قراره به کجا برسه. اما این وسط شمایی که منتظر موندی و دست به هیچ کاری نزدی و شروع نکردی به ساختن/یادگرفتن/... ، ضرر می‌کنی",
-      "date": "2026-11-16T06:04:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5889,
-      "message": "آیا AI قراره جای برنامه‌نویسا رو بگیره؟\u003cbr/\u003e\u003cbr/\u003eبله --\u0026gt; خب لااقل تا نگرفته، شروع کن باهاش یه چیزی بساز. کار با ابزارهای جدید رو یاد بگیر. شما که نمیدونی علم قراره به کجا برسه!\u003cbr/\u003e\u003cbr/\u003eخیر --\u0026gt; خب بشین برنامه‌نویسیت رو بکن پس. این منتظر نشستن چیه؟\u003cbr/\u003e\u003cbr/\u003eپست انگیزشی نیست صرفا اعصابم خورد میشه که می‌بینم خیلیا نشستن و هیچ کاری نمی‌کنن و ناامیدن.\u003cbr/\u003eیا می‌گن اکانت Claude 20X نداریم یا ...\u003cbr/\u003eدر صورتی که با کمی تلاش بیشتر، با همین مدلهای چینی و رایگان می‌تونید ایده‌هاتون رو بسازید",
-      "date": "2026-11-16T06:15:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5890,
       "message": "\u003cb\u003eیه ابزار اوپن سورس که می‌خواد توکن‌سوزی ایجنت‌های کدنویسی رو کم کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eابزار اوپن سورس QMD یه موتور جست‌وجوی لوکاله که به‌جای اینکه ایجنت با find و grep کل پروژه رو بگرده، سرچ معنایی می‌کنه و فقط چند فایل مرتبط رو می‌خونه. توی تست یکی از کاربرهای ساب‌ردیت r/LLMDevs روی یه ریپوی ۱۲۳۱ فایلی، هزینه یه تسک از ۰٫۰۳۰۲ دلار به ۰٫۰۱۶۶ دلار رسید، یعنی حدود ۴۵٪ کمتر؛ ولی عدد ۵۵٪ که این یوزر گفته مال ترکیب QMD با GitNexus بوده، نه QMD تنها.\u003cbr/\u003eنکته‌ی مهم: روی یه پروژه‌ی کوچیک ۲۷ فایلی، QDM هزینه رو ۶۰٪ بیشتر کرده، پس فقط برای کدبیس‌های بزرگ به درد می‌خوره و حواستون به این قضیه باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LLMDevs/comments/1xxhdsl/stop_burning_tokens_on_file_searches_how_qmd/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-11-16T15:40:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QuVSPM4BlqaJXLLhudGLFbfg1WEXP--IqUchMudUaAKkkFRzqLGnvY91s3xQqTosCIWj5ygb4En5OJMj40pGLlgGn6tA06Pvu9M5GZhqD_wpLmRW5uS52x67CPZgquGefptMvZ2sfy1xPxLl-NU4yTfaKcjadlM28rXNPVZwecDR8bPjpqnxbk3UkB2hvdCBpQjRjD2o4n_nFGbBCeptcJUKEJ1sibfUV2ZRA2SGmI6XtEVxJ_Xp2UFuapYXILm6FQy-8NcyJg0aUBrIpAh95pTwwrjbv8mDyCPIgIiPeFIW-NE9rUtF4JAJbDaxg-ar6fqhJR2GOZGyWeNSGhSdzA.jpg"
+          "url": "https://cdn1.telesco.pe/file/QXBEfJfIK4LiDv1Y6EH8mCowjBJuYHFRI6ipeHREMIsd7XbL0bPG2exnH6qNkT4oTVvKeu0qvh0Q8AD7u87M_yjXOWc0kSrcTe-HmEVuCdBRwmNQALU4mezsJRpZA9vYZ32LwDUNxVS0ncexFnfIa85FhroIBB8qz2RhvCqWEsQWf0PEaxQCbheI-ZWD4S8cv4ooweo2NMw5nffceoIJYvHYSUbsA6kihFWvbooV0y6y2cdF0cNVV0JeSdPKMpn4_1A3eQtTPFG3hDAYrA4VJ--y7EUUBjaOhPJnsM8Kw3tr4rMBy-tS7KRAgtJcE4X_zbWTEf1zg2fIamb16Oodig.jpg"
         }
       ]
     },
@@ -149,7 +31,7 @@
       "date": "2026-11-16T17:09:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OnE5vVrxmutSBXs963kmdWDmkpArRNopx12QQVo2PHYKDrljhaEDHQAn3wp19iz7mWWvctxPrX1fj-IyhJqFGsEepO4Yj-thhWUE1S7KOFFgsS8YVPvElUbcYQnckU73pgs5RARc9wkxXgH1nZ27MAeLHRP_UtjeeFhqj_mQXnvo5mEc7Dmxvtfz8lo9TFMiSfHhtGKjHwrnZl9aOzgzafQHC_pyTM9gP46-yIdt_8gCarxBedWstdbUXkx5BAmncj6-oRBZJmCKeEB7ooO4W_rs9N_CehkwrVBc26DU-r1XugjaddYz6lhAwpWysHGBlh0-2YMJo2RaQx2rmDB3GA.jpg"
+          "url": "https://cdn4.telesco.pe/file/U6lrn8IS6qnCKX3BtoATSWNBXntMQEZVnZbyRjP8jCalmRLm_ZniZvrjCs5D4xhpzUBs-2nj_R5kNtLjt33UtnFIiVRkOeJp4ZSVQBAqMzLY7RBcJK23n1SIjKwyIe2kvqbUiiGTzYR4Ou_tAxUcw-pS7pmtbSXcUoO1AeU4qYkl48ALTHf714x4xdVWjIWu1nA5-_7zwC2ER1gUe35XjOn1hu6QNM5exU0SKenyOJeto_PKkzImuDXSdPvgSPlUwN-vHvhXjD2KUtwsmIX34AlwLaS2jVFIgnkR4A2FdUem0IkIid22-PFhly-cqp0bVf_YhwdzQANduVTOJg-CdA.jpg"
         }
       ]
     },
@@ -167,7 +49,7 @@
       "date": "2026-11-16T17:10:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +61,7 @@
       "date": "2026-11-16T17:35:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +73,7 @@
       "date": "2026-11-16T20:02:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +91,7 @@
       "date": "2026-11-17T09:56:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/A8fmcqZBZCdhJ1wmRaUUsnvS0EviIVRIveyWcs-o2FureHnwYTlA0IuGpomehZos2bssnlwJ0cq2ijse0rJFZHIedCcPL41CyfngZhljdF9Zc6daR2phKwxoGUgiu9ANnovGvNon2FDOtEsN4p2fFEEduMYLlUCYh4m4pga1v3F3kuPXxFJ1vRcmwHakCIHFJWaE_HGQ1kiM73pRWn5ieqBY0oE1KHJK_o8dKBb-Xi__z10q_CySJgMQtZT8kBtISaN5nfL3IIapLkFZrx8QYNaagd_JuAR0HipzbWl2ir4P882OkvOutMp6j5zFXNcb2UhNLYTQl-1ux116FQ7-Ig.jpg"
+          "url": "https://cdn1.telesco.pe/file/P2lwk_jKlMzRQ0U8kHkWZQSV0vFXkfpCV9opJahLYN0ddmzikEl2ic4Qztn_gHXnfh1NWH7NutnM76M2xb9XWCVBw9UAg9c_0YqBhmhVqi4OG6bTUe8kW6PVO49mmaZgFNHZbxUwMYjnovf-QDStbrWfkPgdYpL4we-T0k77ULLAXFZelx5Wxj38YCGmn6qCJ3w2bros3PQ5mawU3WiWtoFFRSJAlLzQC7Ui5RV-WcPRtzqad_7-WWyu0ks6esXyE8g-GOTctDx6qUZi2czMuVUZstra-eUA9CGzOuZcZODuKHl-cccoEUYajHfUGSYnyF4t8q39lCZ41k12BLs7Rg.jpg"
         }
       ]
     },
@@ -227,7 +109,7 @@
       "date": "2026-11-17T11:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +117,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/o1hQj56MlP-Wmh0Yu7_2ZxONobDhfXw4yoX91nVOicu29Bjv0-ANYtGrsNoO01TOUJRrnCuWYxgmAItIuGn4WhHy2D0han_7vGTjIJVGITPJbwdHZN0SjD8D0DegVNhDyIF9RNgk_Cq2PmPyaIB03FN6ym93OntT6XsqJZ_elbGRmSVL_jg0nBh-uPlhgVHfeTRs1ad1eX4NyqGXpm6GCWSOz5vIFShkpuCJ9YoqpyIW6M4X4biJdPL6A-7d4Daw9oi1Azxxy_77e05ZdYKJq2PocdeTwpX1BT68x-6IwF35CyCRtsEsfPuEN6E0k7CLbi_YiXLY3qPOPyqbqCBFDw.jpg"
+          "url": "https://cdn1.telesco.pe/file/oAKVI8vjMbQPAWqpNKa1cuJw7zI-tvkfbpSCYXrFBS_AKIzEor6niTmGFeSTHvi5cJpoopIdEE3LZ5jEyw37NuEKuPi1ZUSoLY2ht6fOAfYENCA0W3gTWf_XkFGbJUVkXgpdFze6XorDoGH0zds8hZ2yE7vecmqFSvI2K10iDXeTSe3QgBh2xLpd7qssAEshkSZwXkS5dzNGiIVwC1IX84TCST_xsmCYOyWCdvJosdgnVujr54Ubu7b00HSqy-Qfbip4fId6yjCL5wCiVJVzct3o1qJvfLkx6YOU1wQIAU5fU_Xu20dfS2LItllTf-lI5S2DXcd4ff8gJFQC_LLIuQ.jpg"
         }
       ]
     },
@@ -245,7 +127,7 @@
       "date": "2026-11-17T16:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/o2yzktUGAtQKCswo2_DHu61aLU-64iIc9Jxjn5nuRPpfu3tP2ggjMo9bpoWRvBklTk2F0z9xBRByPeRVP6mZnCPQ-j0vuWVjO2xOxvX5twchLMmBUHkAxIZJHVlQFSERC9eTQf88c1nXSRTALFydcQwGVyKjGjDJNawnG-c6LmCbMTu1cwL1Ao-wgY3fbEgPNjqzH-ndBo_027wUGzh31ux8m6XiQ02YhAgfdFu9tEk9_EIOsYuM8YjhJwyWHTU9asvIy4EQT7Om_zL3u6JVhOV_GF2pR0zbGn-7jPDn02OPnI5OrWdlt65HB-K_rx6t1j3jaxAQ6lSkiAbNXk89tg.jpg"
+          "url": "https://cdn1.telesco.pe/file/kJrXdc2v3ZMb9HIPmuWYq0kqjWCBOs3l7C-ujo7m86inwNul9qJ8iivEENgRxcMcqdPTuSUxIV1EpOE_WCBiCoqqyw-QgmGA-3hgE2RBdUU5Dr_DlZG2ZEfry0q0ZLsg2m-AEh5OZuYrK4siwzeYGBwqZVzmSP-sO5prFQfNmMQ8FQIIXFhASRizRMZ1X82AFS9wBQuIcFv5MMGF-08ZC1qWf0P9MIq30aDdu9a4gcGv37csGwndBn2C6qx_8fk94_WAlCY3H0i8igMLySdwTqn2CdCP9BlpmEkxKhD_2ptK3BVbGKldfU0USjtoxcG8Ud90NmVcWdiqmSVhHu59Ag.jpg"
         }
       ]
     },
@@ -263,7 +145,7 @@
       "date": "2026-11-17T20:24:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +157,7 @@
       "date": "2026-11-17T20:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +169,7 @@
       "date": "2026-11-18T08:41:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,6 +180,133 @@
           "url": "https://cdn1.telesco.pe/file/U1fb3zRJCu56398zRpoYpXAJ9vAvG4uu15U3NNQCe7KvB87uzhiC5LRnfg81J9kNh1nH3PO23_dI_k5q-U6mO18Hl0DJOiMpZ46Rxe5oUK988d4dKbpwhpvb3jYjPLCx75zyEl5CBLVo4Z03VnulX-TQ-y04vG9nBkcUueimAalObzGPs07Zob6TyYLuF5BBOJ7rJ1YpYOylw483IbzzBgZ135Y8bi5eu8X01gSwW11l5h7zzwnTc7cGKeIiYvdkgyC9s6h6VaFhIGQnUu_ZCJupBhwi6OG9CmsT62eHDg73ZS5esn4oFCwK11i4WJJRStAueRRIRAQdQIafHVC-mg.jpg"
         }
       ]
+    },
+    {
+      "id": 5903,
+      "message": "\u003cb\u003eساخت ویدئو با Claude Fable 5.2 و Higgsfield mcp\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5899837428797020489\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9892.png\u0026#39;)\"\u003e\u003cb\u003e😒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیو با Claude Fable 5.2 و Higgsfield MCP یه ویدئوی تبلیغاتی برای تیلو ساختیم: ویدئوی تیزر، به علاوه‌ی روش استفاده از REA Video و کلون کردن ویدئویی که ازش خوشمون اومده. همینطور توی تلاش اول می‌بینید که وقتی یه نفر چیزی از هنر، کارگردانی و فیلمبرداری نمی‌دونه، وقتی تلاش می‌کنه حتی با بهترین ابزارهای دنیا هم چیزی بسازه، نتیجه باب میلش در نمیاد(نمیگم نمیشه. صرفا نیاز به کمی مطالعه و تلاش بیشتر داره)\u003cbr/\u003e\u003cbr/\u003eاین ویدیو با حمایت Higgsfield ساخته شده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشا در یوتوب: \u003ca href=\"https://youtu.be/YcDSDSrxaH4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/YcDSDSrxaH4\u003c/a\u003e",
+      "date": "2026-11-18T12:04:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fxdOJynGnZIAis9dtFNUKuv9keZbltKdjfi2Wn9rwnJxc0FH9lkdpoqQ-excc5LWIZ3A9B4gGeNiFgR37hHaGsvhn0cNZXnWN1Ig7-agZk4dOO753jc8DXAYjl8VifSYhGHVRFrU7iGW2yJGgXatUlZm8JB9QX8uqfTIyg4DSMo_Rot1NQePNTO0gQJiVKZA0YcmesVEp6VfUJR19xq80lUPSxIPH5w4mavL4mn8-iqfJKNdRjLv8h1tJHoc6b8i17wtPHeFOeDIe3P1rRq138sx-j9DrnwURJfZb7aMFniLw7TWX9-hOX7c8pe4mSLtSnZy1UKMGG6OQsO4ia_-Iw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5904,
+      "message": "ویدئوی منو ندیدین هم ندیدین. ولی ویدئوی پدرام رو ببینین\u003cbr/\u003eدر مورد اینه که توی عصر AI، آیا هنوز باید برنامه‌نویسی یاد بگیریم و اگر آره، چطور و با یه نقشه‌ی راه مفهومی:\u003cbr/\u003e\u003ca href=\"https://youtu.be/7LQEWL5E3Vw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/7LQEWL5E3Vw\u003c/a\u003e",
+      "date": "2026-11-18T12:18:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5905,
+      "message": "و، کنکوری‌های عزیز\u003cbr/\u003eامیدوارم که ترکونده باشید و نتیجه‌ی دلخواهتون رو گرفته باشید\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-11-18T12:23:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5906,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-11-18T12:34:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/oj3wagJhVdbQs7KygiK1NEb9PJzuQy7kCGs0PVLpnPB7FcaHvhHFY4EryZNg2_B3PTqGGOrUvlO3N0DfWFalHiq6E1YalLLW2o4_nvCuI8IsPGIhAV4lgw4sn1eTrMoPGktbmuh8oz1B657SQiY_GL9jz9TtwNEaX9YWO-ENcA2IZRFErjF4IfI24YXdEQov1s3pxJzIMxJpTZLnvoRVyhgicvagIlpjb3GbV2cTRaJ4FpCN-I01H1cZXhLEld__ExtBaQrErrpeX98Vz1KsSHxflf-R-gwCCTIi61FFE5qIafYYudNU-YdCSSVpA-pLujlZayh_3VZPbjR8UvXegQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5907,
+      "message": "این همون توهم فهمیدنه بچه‌ها\u003cbr/\u003eو بسیار مهلک",
+      "date": "2026-11-18T12:37:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5908,
+      "message": "بچه‌ها Meanwhile من این وسط یه چیز وحشیانه‌ای ساختم با Kimi K3.1 pro که یه جوری ماینکرفت بازی میکنه ریش به صورتم نمونده\u003cbr/\u003eبه زودی ویدئوی این رو هم می‌ذارم\u003ctg-emoji emoji-id=\"4911394922310927689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-11-18T12:44:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5909,
+      "message": "و از اونجایی که خیلی ایمیل دادید(و میدونم واقعا دغدغه‌ی بزرگیه و حق دارید) هم راجب بن شدن اکانت‌های کلاد ویدئو دارم و اینکه چه راهی هست و چه جایگزینی هست، و هم راجب راه اندازی ایجنت Muse به صورت رایگان و هم اینکه چرا هرمس رو گذاشتم کنار",
+      "date": "2026-11-18T12:54:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5910,
+      "message": "\u003ctg-emoji emoji-id=\"5397669646390282694\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تلگرام داره آماده می‌شه تا ایجنت هوش مصنوعی اختصاصی خودش رو با اسم «Dictator» منتشر کنه.\u003cbr/\u003e\u003cbr/\u003eظاهراً معماری داخلی این سیستم بر پایه پلتفرم Hermes اجرا می‌شه، از مدل‌ها و پلاگین‌های مختلف پشتیبانی می‌کنه و قراره یه ماشین مجازی (VM) اختصاصی هم برای خودش داشته باشه.\u003cbr/\u003e\u003cbr/\u003eتو رابط کاربری هم یه کاراکتر شناور از Utya (همون اردک معروف تلگرام) ظاهر می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321160207080901158\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/mohammad_zammani\" target=\"_blank\"\u003e@mohammad_zammani\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.instagram.com/mohammad.zammani.offical?igsh=MWhwM3M4cjMwb3h0YQ==\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMohammad.zammani.offical\u003c/a\u003e",
+      "date": "2026-11-18T17:17:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/GmHMogRFQSf4JdY_nkzCDwGXlu0clbfSK8rxkVwETjaS6phATI2_5y3P2DY-xVEGxUvglXpbVkllLsuWYMfuVmowX09ZH_2Q1V4FgknwL5l1SgEOwV2ua9iaFn-DkPVwPx80Vj88DI3ism6Rhm5R0yXi6OYCLKjJbN_B9vcP2_Zveh5ktpvIMEvBzFmboSjsD8S1vdAGgQZdbzaF5rNVQcJzZlQ7ITvthTyXsZ4G4LDfHxF4D1eMTQJkjxRwVyDRkitsZS_oKxfY4c4u8VOP-NFBFPaTsdkx9WeD9rIF15TG0Qv8P4XKgUl0lI92Sc5B144Gt_PYtcse45206aenZg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 5911,
+      "message": "اسمش جالبه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-11-18T17:17:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
