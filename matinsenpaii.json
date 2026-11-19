@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 5890,
-      "message": "\u003cb\u003eیه ابزار اوپن سورس که می‌خواد توکن‌سوزی ایجنت‌های کدنویسی رو کم کنه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eابزار اوپن سورس QMD یه موتور جست‌وجوی لوکاله که به‌جای اینکه ایجنت با find و grep کل پروژه رو بگرده، سرچ معنایی می‌کنه و فقط چند فایل مرتبط رو می‌خونه. توی تست یکی از کاربرهای ساب‌ردیت r/LLMDevs روی یه ریپوی ۱۲۳۱ فایلی، هزینه یه تسک از ۰٫۰۳۰۲ دلار به ۰٫۰۱۶۶ دلار رسید، یعنی حدود ۴۵٪ کمتر؛ ولی عدد ۵۵٪ که این یوزر گفته مال ترکیب QMD با GitNexus بوده، نه QMD تنها.\u003cbr/\u003eنکته‌ی مهم: روی یه پروژه‌ی کوچیک ۲۷ فایلی، QDM هزینه رو ۶۰٪ بیشتر کرده، پس فقط برای کدبیس‌های بزرگ به درد می‌خوره و حواستون به این قضیه باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/LLMDevs/comments/1xxhdsl/stop_burning_tokens_on_file_searches_how_qmd/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-16T15:40:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QXBEfJfIK4LiDv1Y6EH8mCowjBJuYHFRI6ipeHREMIsd7XbL0bPG2exnH6qNkT4oTVvKeu0qvh0Q8AD7u87M_yjXOWc0kSrcTe-HmEVuCdBRwmNQALU4mezsJRpZA9vYZ32LwDUNxVS0ncexFnfIa85FhroIBB8qz2RhvCqWEsQWf0PEaxQCbheI-ZWD4S8cv4ooweo2NMw5nffceoIJYvHYSUbsA6kihFWvbooV0y6y2cdF0cNVV0JeSdPKMpn4_1A3eQtTPFG3hDAYrA4VJ--y7EUUBjaOhPJnsM8Kw3tr4rMBy-tS7KRAgtJcE4X_zbWTEf1zg2fIamb16Oodig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5891,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C98.png\u0026#39;)\"\u003e\u003cb\u003e🌘\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا زمین صاحب یک ماه جدید شده؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر اواخر اکتبر ۲۰۲۶، مرکز سیارات کوچک اتحادیه بین‌المللی نجوم (Minor Planet Center) وجود جرمی به نام \u003cb\u003e2026 QQ8\u003c/b\u003e رو به‌عنوان یک ماهواره طبیعی موقت زمین تأیید کرد.\u003cbr/\u003eبه این اجرام اصطلاحاً \u003cb\u003eMinimoon \u003c/b\u003eگفته میشه؛ اجرامی که برای مدتی تحت تأثیر گرانش زمین قرار می‌گیرن و به دام اون می‌افتن و به دور زمین حرکت می‌کنن؛\u003cbr/\u003eالبته این همراهی دائمی نیست و بر اساس محاسبات مداری، انتظار میره 2026 QQ8 تا حدود دسامبر ۲۰۲۶ یا اوایل سال ۲۰۲۷ در کنار زمین باقی بمونه و بعد از اون دوباره به مدار مستقل خودش در اطراف خورشید برگرده.\u003cbr/\u003e\u003cbr/\u003eپس ظاهراً زمین برای مدتی یک همراه کوچولوی جدید پیدا کرده!",
-      "date": "2026-11-16T17:09:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/U6lrn8IS6qnCKX3BtoATSWNBXntMQEZVnZbyRjP8jCalmRLm_ZniZvrjCs5D4xhpzUBs-2nj_R5kNtLjt33UtnFIiVRkOeJp4ZSVQBAqMzLY7RBcJK23n1SIjKwyIe2kvqbUiiGTzYR4Ou_tAxUcw-pS7pmtbSXcUoO1AeU4qYkl48ALTHf714x4xdVWjIWu1nA5-_7zwC2ER1gUe35XjOn1hu6QNM5exU0SKenyOJeto_PKkzImuDXSdPvgSPlUwN-vHvhXjD2KUtwsmIX34AlwLaS2jVFIgnkR4A2FdUem0IkIid22-PFhly-cqp0bVf_YhwdzQANduVTOJg-CdA.jpg"
-        }
-      ]
-    },
-    {
       "id": 5892,
       "message": "من از بچگی عاشق فضا بودم و کلی کتاب راجب نجوم و... خوندم\u003cbr/\u003eآرزوم هم این بود فضانورد بشم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e شاید یک روزی",
       "date": "2026-11-16T17:10:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +25,7 @@
       "date": "2026-11-16T17:35:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +37,7 @@
       "date": "2026-11-16T20:02:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +55,7 @@
       "date": "2026-11-17T09:56:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +63,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/P2lwk_jKlMzRQ0U8kHkWZQSV0vFXkfpCV9opJahLYN0ddmzikEl2ic4Qztn_gHXnfh1NWH7NutnM76M2xb9XWCVBw9UAg9c_0YqBhmhVqi4OG6bTUe8kW6PVO49mmaZgFNHZbxUwMYjnovf-QDStbrWfkPgdYpL4we-T0k77ULLAXFZelx5Wxj38YCGmn6qCJ3w2bros3PQ5mawU3WiWtoFFRSJAlLzQC7Ui5RV-WcPRtzqad_7-WWyu0ks6esXyE8g-GOTctDx6qUZi2czMuVUZstra-eUA9CGzOuZcZODuKHl-cccoEUYajHfUGSYnyF4t8q39lCZ41k12BLs7Rg.jpg"
+          "url": "https://cdn1.telesco.pe/file/aLR9PJCsjckKQlT8AmK20omvDlRqEPJGusFm480ysmESWo2eMZqNfay-tDs5_uyfBSucgamcG-9xHfbPdNu-C--X3PlZadJqPIo-wvRj4AKY9wgLIsXw4-frdnKCXlTCW2WcfJV-gyFigCVmiY6b1TXhH5EOjFaNFPvpsgXrhwF4AD6s5o_sZ6lXl3SOHNms27SSsswQj0vqmQ_xPwUYXT8U97cmj6TstPA1AyBUbqC2gTb1-V15v5SHZtjjq23PZLp5sR7sR5JQN70C3kZJVN-XHhPF33NfCnG8gGMmHbc0Bw7gqmqTBMIJrzbVm-Fb-YgLPwGGE9RaX_pcwkAm3w.jpg"
         }
       ]
     },
@@ -109,7 +73,7 @@
       "date": "2026-11-17T11:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +81,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oAKVI8vjMbQPAWqpNKa1cuJw7zI-tvkfbpSCYXrFBS_AKIzEor6niTmGFeSTHvi5cJpoopIdEE3LZ5jEyw37NuEKuPi1ZUSoLY2ht6fOAfYENCA0W3gTWf_XkFGbJUVkXgpdFze6XorDoGH0zds8hZ2yE7vecmqFSvI2K10iDXeTSe3QgBh2xLpd7qssAEshkSZwXkS5dzNGiIVwC1IX84TCST_xsmCYOyWCdvJosdgnVujr54Ubu7b00HSqy-Qfbip4fId6yjCL5wCiVJVzct3o1qJvfLkx6YOU1wQIAU5fU_Xu20dfS2LItllTf-lI5S2DXcd4ff8gJFQC_LLIuQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/tR_uzjjgvsxopG26KZo6KRWnltgnskNEOZv3zy2zfVWIvFLzX2kmNCXBMt3SzICE04fLvKvDNh5l0EZzEU5bVTr7xsxlIL9JWT7_itJLu1TUJ2l4DlyzCV6bWwzvgy8o38QJ8_hV2NOScbEIBvS26WYgV8lZOGODn-98FNken5v2bhyf-dYFELz472ysL5NqndeEp4yBed1yMoYqIdlS1XlSGv_WZJE6qHxmWYtVvi6wNNXuus4ntZKErfy-3x40WV1zDkzDBABxDFl4LNQj2uGJRJeb-2pgncruMOw3xylVIXy-vvOKoG1x8dUx8rTgzh5dMwil-OUxhuVWv0CndA.jpg"
         }
       ]
     },
@@ -127,7 +91,7 @@
       "date": "2026-11-17T16:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-11-17T20:24:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +121,7 @@
       "date": "2026-11-17T20:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +133,7 @@
       "date": "2026-11-18T08:41:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/U1fb3zRJCu56398zRpoYpXAJ9vAvG4uu15U3NNQCe7KvB87uzhiC5LRnfg81J9kNh1nH3PO23_dI_k5q-U6mO18Hl0DJOiMpZ46Rxe5oUK988d4dKbpwhpvb3jYjPLCx75zyEl5CBLVo4Z03VnulX-TQ-y04vG9nBkcUueimAalObzGPs07Zob6TyYLuF5BBOJ7rJ1YpYOylw483IbzzBgZ135Y8bi5eu8X01gSwW11l5h7zzwnTc7cGKeIiYvdkgyC9s6h6VaFhIGQnUu_ZCJupBhwi6OG9CmsT62eHDg73ZS5esn4oFCwK11i4WJJRStAueRRIRAQdQIafHVC-mg.jpg"
+          "url": "https://cdn1.telesco.pe/file/O-fkWrxxNrcL__lbrGXRTOMZoFOwyZ7xJFpIi8J9jMZh9uXq90aQAOiN659CBfh_qY4RzQImFtuhYJZr2llgGKy7wAQPhFGIQu9Yr4OZc1U4-hkFN-GbU2389Gak8nikOUSSxByR9Yxp9M0XHlGnkg5FMXFYCvUq6HHvyd3TPyhuBbRqIvXtAO7DRGZ6OeQbJcK2pdzTLgx4SfPVJJHTdlv8UEW26UQ8yxikdAQD_O5X9gpvyQRSr6HYY_y_JHvsHcSVdYH91TcpNPMi0qdCVMK1Tt4MEYnFgsZGdYvv5HAWXWCvqLJe9YrFO32CTe57QZ-4YIgVixk5jDO5sc7Zrg.jpg"
         }
       ]
     },
@@ -187,7 +151,7 @@
       "date": "2026-11-18T12:04:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fxdOJynGnZIAis9dtFNUKuv9keZbltKdjfi2Wn9rwnJxc0FH9lkdpoqQ-excc5LWIZ3A9B4gGeNiFgR37hHaGsvhn0cNZXnWN1Ig7-agZk4dOO753jc8DXAYjl8VifSYhGHVRFrU7iGW2yJGgXatUlZm8JB9QX8uqfTIyg4DSMo_Rot1NQePNTO0gQJiVKZA0YcmesVEp6VfUJR19xq80lUPSxIPH5w4mavL4mn8-iqfJKNdRjLv8h1tJHoc6b8i17wtPHeFOeDIe3P1rRq138sx-j9DrnwURJfZb7aMFniLw7TWX9-hOX7c8pe4mSLtSnZy1UKMGG6OQsO4ia_-Iw.jpg"
+          "url": "https://cdn1.telesco.pe/file/EykdoX7HgLi3-cE9ykx9j4Cn9-KwCO1nC1cZ2P0Bx1TwvaVo9IBALVYxr8nyixQImewmgtwUg9cb88jNbkr73JiG-GxiYq6wffh2G07DW6ExsYSg6GvQ3ibxhI3LHKw69T_clbpM3TeM2QGs2TBncjgYytT97r_i7Rxyhmql6J4MK6APtuwZA8bJ7SCdQRiIQOBXBk3bDYPxTv31owCOZhNfdOIUAoeFbmmIGoGYrd7WcTsBWy-ApgrxQYHiwZzvoshkGcZAYphkpUGucJ2w6hCTaWRVPw9avHRf8gvdcz5s7AjhEMZnyS-aLJzkPm6qZoPO7_1J9eaKT04Qtchv2w.jpg"
         }
       ]
     },
@@ -205,7 +169,7 @@
       "date": "2026-11-18T12:18:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +181,7 @@
       "date": "2026-11-18T12:23:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +193,7 @@
       "date": "2026-11-18T12:34:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +201,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oj3wagJhVdbQs7KygiK1NEb9PJzuQy7kCGs0PVLpnPB7FcaHvhHFY4EryZNg2_B3PTqGGOrUvlO3N0DfWFalHiq6E1YalLLW2o4_nvCuI8IsPGIhAV4lgw4sn1eTrMoPGktbmuh8oz1B657SQiY_GL9jz9TtwNEaX9YWO-ENcA2IZRFErjF4IfI24YXdEQov1s3pxJzIMxJpTZLnvoRVyhgicvagIlpjb3GbV2cTRaJ4FpCN-I01H1cZXhLEld__ExtBaQrErrpeX98Vz1KsSHxflf-R-gwCCTIi61FFE5qIafYYudNU-YdCSSVpA-pLujlZayh_3VZPbjR8UvXegQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/dMyCL3kwZipVRhhQEEgInsliFgRoKUO_2Vja4xSj9PHt6sNmOuzuYWiqeQ6gVKvU6hAt-2qugiWPPaU91UikLCcKmvPHsIy0BdtJjkCYLe9FZJVCbnJr1PqhDJw2xUGm8JObDFEt4eZe23yhXp_fv6JRNWm3cU51kl06NHkHXNEYcqnipcC0SVee-QcrP2lLq1FdqRxM7s4jy9ZW9jJwf4LCKYWFc3T-475g90cvr4FqkHHopctP6xVHJ9DYthRMdwQ2hCRZYbYqpKhRLNwK-OsZwtvyZq4MDunnd2XA4JRp2KgWvseXuFSdjXNxlNx5mh8fWqOkwF6h6AhixDgXFw.jpg"
         }
       ]
     },
@@ -247,7 +211,7 @@
       "date": "2026-11-18T12:37:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +223,7 @@
       "date": "2026-11-18T12:44:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +235,7 @@
       "date": "2026-11-18T12:54:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +247,7 @@
       "date": "2026-11-18T17:17:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,11 +266,41 @@
       "date": "2026-11-18T17:17:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5912,
+      "message": "دوستان اگر nginx دارید آپدیت کنید\u003cbr/\u003eCVE-2026-123007\u003cbr/\u003eCVE-2026-123634\u003cbr/\u003eCVE-2026-123633\u003cbr/\u003eCVE-2026-121810\u003cbr/\u003eCVE-2026-113425",
+      "date": "2026-11-19T12:04:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5913,
+      "message": "\u003cb\u003eگوگل مدل Gemini 4 Neon رو منتشر کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل یه مدل تازه به خانواده Gemini 4 اضافه کرد که جاش بین Carbon و Hydrogenه؛ یعنی Carbon برای سخت‌ترین کارهای طولانی می‌مونه، Hydrogen مدل سریع و ارزون روزمره‌ست و Neon تعادل بین عمق و سرعته، برای مهندسی نرم‌افزار پیچیده و کارهای دانشی و پژوهشی.\u003cbr/\u003e\u003cbr/\u003eقیمتش برای هر یک میلیون توکن ۳ دلار ورودی و ۱۵ دلار خروجیه و پنجره متنش یک میلیون توکنه. توی جدول خود گوگل، Neon توی شاخص هوش Artificial Analysis امتیاز ۶۱ (از ۱۰۰) گرفته و سوم شده، بالاتر از Claude Opus 5.5 با ۵۹ و GPT-6.2 Sol با ۵۷.\u003cbr/\u003e\u003cbr/\u003eمدل از امروز توی اپ Gemini برای مشترک‌های Pro و Ultra هست و توی API و Antigravity هم اومده؛ نسخه رایگان نداره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/iSegar0/status/2123178489922900413\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eiSegar0\u003c/a\u003e",
+      "date": "2026-11-19T12:27:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/mKubzRgsbYHKezK8rW11F-2-ttADbZ18V4tIXmFLGBHZKoBryFu1ZVCUVVGxyRclGNTsC54bpNeY67nqMhjnrE213H9ejyi_zY1F05c4X5n7LZN6eqHhTQSXSIZCDLsobwjDI9PNHKurGn2q3M9_bc6TnTGY1CesY252A7evAOsVLykCPfFZgcXYGDU03sUUMfWAKWLlot9lR_v9QMHzSkJHpZn0XZ5_9ZsYlRHh3cN-rFa0rYirc6iXYIX7E5aNiXykgO61HHiaNJEjA_ZOGhndzuXZffkC_uoPMUo3ly7F0ls_AyXy_8eqPO8B9E2QsaUVeO2UUjwe-UY7_HPCIg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
