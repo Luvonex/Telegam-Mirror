@@ -3,35 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/fmKHT58Mj9K2wbkKppGD7SqvfqIluDbu7MWRmZrpr1-xtlsfzmjduIeKKROZpHxGhAojFcXCszS0azaN1ZVSJmddXWpGtOd-ovlhv6rod3ngGT0XRhFmR8fBnnZUb9pl5E0cuGTNRSOJR1S3b5_Ez_ZNikqV7oTOriMmCX6cPfyu2NXmWJOx2pYE1qPdkRnNvn9sXHgeTVVcxgDsMXhQxXbAVFWGl-TnQorLc-Ol2aByw-UQMHfD-2Eem5vHWsEdrbJLMQWmvQnWAzEQKtCeQNrCHvVgTeJJBO9YPmjrJMwyoytz6yHEdrBqzLLaMn1vNVXv_cvhRgfo4c8Us7ofZQ.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/bDSto1gSbPBHDH4-_pVbsQf4NRY1fyhDCSf27cqlX0kLbAIeZDe4Lq22CH62uzRHLF97qLOVnpR4Dh4rBnGALUnJeeXwPrV7yurepPyUxLsn-dyAKYZpOJELDdBrtQtPQXeHFEFWxGyimw56cGarNihjfwXecwHwMDWinhPiD_wJlu_XJb-7XON2EvyoLWTHXq6ybTUNCUmCZypraHop8AJWj6C4LFs21gk5d7TQrdq15MoXo84wMMtIRI53SX61XWf89dREMgcPQo54lQbJDwHEaDw-FDw3cNZesLg_PO57iQ5ZLUDzgkSGKoJT2V1dugO4-DqwE5WMuvjKoQL-ZA.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5939,
-      "message": "ریاضیدان آنتروپیک ادعا می‌کنه با کمک کلاد فرضیه ریمان رو اثبات کرده  لونت آلپوگه توی یه یادداشت کوتاه می‌گه با کلاد به اثبات فرضیه ریمان رسیده؛ یعنی مشهورترین مسئله حل‌نشده ریاضی، درباره اینکه صفرهای تابع زتا دقیقاً کجا قرار می‌گیرن. به ادعای خودش روشش فرضیه…",
-      "date": "2026-11-21T09:07:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UueoKx6dVGEeHQhZ5Cztl4BvJckaTScjb06T_4jKuVljvZYlu4kmbgdiDEFrPiajYWvJVl0mP6DLmFi_PWG-n90CZlWCOOBJQI8Mzs0AmgusJyyMMUdO6sQpMiNxHbLUgSgHO-PYf7YSQ2hKIGncn2srWGvbHhKHELXM42pYiaePu664y1xAbvBh-14KpfugIRQHV-mhQQv71QHPj_IndZDVUEqNpaPh-DSX4-NUHfuvbZcpGdyJi6V_AemrBC8zNWWspGgCrr0KoG2i3CCTLo4r-CRzgWfbT2HfdJS6JqHP-1y4Vfa6fPAYWHYhfpl1mFKx6tgPUq4q-zkdNo5I2w.jpg"
-        }
-      ]
-    },
     {
       "id": 5940,
       "message": "توی ویدئوی امروز(که نمیدونم کی حاضر بشه) بهتون نشون میدم چه شکلی می‌تونید با API رایگان و با ترکیب OpenBot و قابلیت ورک‌فلو و ایجنت چنلش، با کیفیت بالا کتاب/مقاله ترجمه کنیم و ایجنتمون رو واسش تربیت کنیم عملا",
       "date": "2026-11-21T13:20:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-11-21T16:49:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "date": "2026-11-21T18:50:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +65,7 @@
       "date": "2026-11-21T19:39:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +83,7 @@
       "date": "2026-11-21T19:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +95,7 @@
       "date": "2026-11-21T19:40:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +107,7 @@
       "date": "2026-11-21T19:42:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +119,7 @@
       "date": "2026-11-21T19:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +131,7 @@
       "date": "2026-11-21T19:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +143,7 @@
       "date": "2026-11-21T19:54:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +155,7 @@
       "date": "2026-11-22T07:37:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +163,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/X4xI01_vJ7YeQRpNaCqeuJtmFZ2E_re7ZBAiUPG7i3hQOfJKaw1ECorFXKdtBdrjBxoHfqC57bi31nbUYjUChbN44-e15QstE3l_bFeylws3JnjaCm1vpoM6WIutvyJfnn-jXSTtmNhcHta9btj19s67-CW_BnuDkdTZXVBmsYQ7Fxstg9bpxRxKZNcCOTNSikFs4zUYTm885IZGD6YJ_7a-9x7VgwaejD7k3KGLSd-luGhr7nJmNo_zy7Vxa4k9_jlNJLnwuH31ZtBS3_YJRuELh4LYzimIOSUasCmXmrfetrv_wxlqttJ83Od4kksc5JXksEIwjL4BFdkTZoqjCw.jpg"
+          "url": "https://cdn1.telesco.pe/file/vPCflyHMmCyh1MXFAVEUb_tMDjSKupVTcusdio55cZ1XFogLFyKZxjlSwAEaqmm4S2UeuaBwQO2MvCXxxESHzwxQthJ-86Npep7PCXrmXcm07okSgqYjWXLeqin2WcJLVpi6KUe1UeKeGNvVVntycNaZkMDknbTp_YY51rbNCU8UuX29-JtowZzWsMz-okOINfNRrqE7e3kMFq3T7RnBzOSz6csAMToUmHC9AyetNmUV1fYdt9b5tXbJqhY75FASIfpLW0XWV0cbH_s6iPJt_uXPLkJGbpSR-U-zcuLSpgEr7y7q7PWs-3sejXI7fobfD24GqSKsHjUqOPPl0OTvug.jpg"
         }
       ]
     },
@@ -191,7 +173,7 @@
       "date": "2026-11-22T07:37:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +185,7 @@
       "date": "2026-11-22T09:40:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/N2opxo1Q2sZnlIoQkz_4ErgLDwWVeVjnmUJSmYdEtxdY1SOvEvdOTt7sdu2FsJHLEG86QU_ThrP5ak6lG2pH_450-ifK3jZiRTOFcPmMDz1oeA0O9h2k-8TBCLc9yXOJxErbc1ovqI_hwQHonD6wQsYi7KPFsUMyACXAgF38dGbQTtOjiM_yUi7m229c6dzCbXoLXTLBF559VH9bobtsyFOdVOcIYcmlz3bci6ZS897l--8SYXmN88eANX-ks0LNxajY0NXHkhwbj-jst6y9KhwxeCksg6PI15U-BQ1kL55yKcmkcgEsuHaxduk5VZwN1yEVYlV4ilPuNvw1TdUrmQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/Si-BIz-5KZKintMv_CpBLUfyutlO09Ujdh_oEtG6W1EupMgANmZmnvNP-En6gh__N-4sLWViEmIRo62RfWU09-qcTOa9cVbDU2E3v89yxUbZJRQKJGs3DjjO4mKY4V_7RgpQ74DZBcZC04UOXO2jOFh0ssFCWXydmGu3BoTeGrfHL9jRCggN8SVjPuEfljBfrrFME_oB7Yl4jR_9PLDQpQhJdFbKV0d9RrqdVqIneqi6jFT-CK6oN1bBPwJENf5FMhwMS6fzrx0D9kZPguvmfcJbde909GB1AKe4L7rjZIul1DTMh7DmxYUCznZRWIVzWBu7ykYDqerk0r-19rq_FA.jpg"
         }
       ]
     },
@@ -221,7 +203,7 @@
       "date": "2026-11-22T10:21:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +215,7 @@
       "date": "2026-11-22T10:54:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +233,7 @@
       "date": "2026-11-22T18:16:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-11-22T21:11:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9940,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-11-22T21:13:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9810,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,6 +273,25 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/coqJPVdEO8xFNOby676ksX74SoKtfeK_PnqLurPkWsSmZZmXh8ygtdj9GiB0CNbjjol3ZPOmYsgn5YqZdL3dJEsSzVxKFnIAhEC0qWKD3Rxs5676K3xt9BkaUH2M2MUNx4Eheq5Ru7L6k8UsZ9eP-GVXcBWpx3UCjjPMwGxmpmtHBt8kKcm-XsYkKQISyldK9BP-CF_9-ntJdTORHsNK0H3BylPKYsIWVXZxinpm9ZL4f1-DciRHL5CfK7GU16wRweOfqdbriA6vAt_gdQ1RgbS0iog3_lwKOjXOnBOBRm1gL6GXr1LrgIl4y6xIdsnf0-ilUXRVHUoZXHiVed8RZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5959,
+      "message": "\u003cb\u003eجادی می‌گه هیچ روز صفری نداشته باشید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eحرفش ساده است: لازم نیست هر روز کار بزرگی بکنید، فقط صفر نباشه. استمرار، حتی خیلی کم، توی طولانی‌مدت اثر خودش رو می‌ذاره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/ItsRealAhmad_x/status/2124510754552287284\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eItsRealAhmad_x\u003c/a\u003e",
+      "date": "2026-11-23T09:21:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Xe7Qix6txkbD106778HFAQoitci3UOaZHU5yg2TbimOv1oiJymKWig50h8Ztvo4EGgDAF4mYFwsCICPUve0FRKetVMLxBATsa-AvXszkrRxY_BYGQkf_DUZj-n4P5C2LZV1s91GfsjTt-IUjhxT5GQR-jo1Pm0Az-y8FzlGynkTMMRvpwT_1nimgTUc8Utq7_pKwoIpJSQy9YUvv0GdnMK3BP2gJVL43NM-wmRsWo9owA5zwRjoShquZgRe3ruZyCNeMb7Kx_Nea-NzsvmTApKOdRzapqe-62XvOsnjTEdet0JHvyd-WmGXl5lNI5u2AZGk_UiRFSnZ7L6W-IvsFCQ",
+          "width": 720
         }
       ]
     }
