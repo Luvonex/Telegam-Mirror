@@ -8,142 +8,12 @@
   },
   "posts": [
     {
-      "id": 5942,
-      "message": "قابل قبول؟",
-      "date": "2026-11-21T18:50:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/APd4slpl0GF7jIs_Gng9gaSmbbY5QYEfSTplC8IfNACTn_crKWNqPTew9Y9aTQBlSFI_AFVSj4GkWZNoZRd6a-78724QdrwmRLuHBJTy5psZXGPzvcJadItkc8tamR5UKLFPzVyj7OdL4wR7JDV5QbT62hYXAdKQO0M7fPiqbDabfj2YJzmuqI-R5tWGEy6VXOuv98UXWrwDbssdJRA5epWEU7ySBziM3jEHpy6QDDx0-OmHsKir3vTW8c4WH8KkedjiF6ouRpv4govP-xzIcKHdENcEWta7CsnR7fCu8cALy8rjjAdNn1rt8ee0Am1lk9jKfhbZigJm3jwSxMCsqg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kbWCxa7-UXESicvMpMqs_XvkhT9G9FuUu_k8DxbpgW6mKbM2ZHOnJY9GOYivjZ_Jsf-NKhbFHJd58LTTU_3sIwtYlswDvUgw0sSYtfvh2TMx3jMVPMetFBBm5utwNZjiMrEZjfmeOPtqMO0pdNNcRTojmS_Cp-qHBr8ZCjTVnjmmB1j7oQsFkPO0tc_7t9-Xr9C2QUOtsXsGRAOAAHLtI2hQ3GtE8hTJJGrlFbT1uSnE4RAgf7fyFKhk00Yl3WWW7nb-Mf2JmLbv8O04vW2zLWkn-UsNqwg-6g2QOgNCi6Wp0PWGGO2pXTfu5YfG_M6TAJhGgwYaI4ob1Z8Es4QJ_w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5944,
-      "message": "",
-      "date": "2026-11-21T19:39:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qfo7HyDd96nkjC4gSOsVXytIYffwDg-jCPVMWf5GApVT_WdJpW9JO2uLybvOOkXMN6yirf-9Y6n5neVwDFzyzmD8-h6nKfhAQIjnDYV8wJlyYp5WI0_M8wLbCDqBIIQDGiSnb3TXmNvl-NexqyKSX615OSJgff8BwevdhCB44fSSqwYIdqJEfySiXnM59q-1iQu0yczAadRec0leRTfj1r-zZbBoXTYqnxjK5jw868w-AWWFiryZ2JDR-Vo72w3j52BzDrxqmdempWwfeVzmE7VZY_Z3_ilKCWHU2WeZ-O7yyog5bBk3wo5M1pOgp-9-uWGQ4eu5kLjwD-RgASflVg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5945,
-      "message": "توهم آگاهی وحشتناکه و اگر حواسمون نباشه، خودمون هم درگیرش می‌شیم بدون اینکه بفهمیم.\u003cbr/\u003eخیلی هم شایع هست توی دنیای امروز و یکی از دلایلش هم Fast science هست. ما هر روز به صورت انفجاری اطلاعات مختلف و نامربوط به هم رو وارد ذهنمون می‌کنیم: یکم فیزیک، یه مبحث از زیست، یکم پزشکی، دو تا فکت از شیمی؛ و وقتی روزانه و به صورت سطحی این اطلاعات رو می‌گیریم، توهم تسلط و دانش میاد سراغمون.\u003cbr/\u003eیادگیری و علم بد نیستا، اما آگاهی به اینکه با دیدن صرفاً ریلز نمی‌شه تسلط به یک موضوع پیدا کرد.",
-      "date": "2026-11-21T19:39:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5946,
-      "message": "",
-      "date": "2026-11-21T19:40:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5947,
-      "message": "توهم آگاهی وحشتناکه و اگر حواسمون نباشه، خودمون هم درگیرش می‌شیم بدون اینکه بفهمیم. خیلی هم شایع هست توی دنیای امروز و یکی از دلایلش هم Fast science هست. ما هر روز به صورت انفجاری اطلاعات مختلف و نامربوط به هم رو وارد ذهنمون می‌کنیم: یکم فیزیک، یه مبحث از…",
-      "date": "2026-11-21T19:42:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5948,
-      "message": "",
-      "date": "2026-11-21T19:43:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5949,
-      "message": "تونل کارپال امانم را بریده\u003ctg-emoji emoji-id=\"5472189549473963781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پس ویس میدم راحت",
-      "date": "2026-11-21T19:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5950,
-      "message": "و رفقا خیلیا ایمیل دادید راجب رشته کامپیوتر\u003cbr/\u003eتوی این لایو با یزدان کامل صحبت کردیم راجب همه اش:\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=nbOls9zPckM\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=nbOls9zPckM\u003c/a\u003e",
-      "date": "2026-11-21T19:54:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5951,
-      "message": "\u003cb\u003eخبر تازه از اثبات ریمان: اثبات آلپوگه توی Lean کامپایل شد؛ یه اثبات کاملا انسانی هم منتشر شده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eداستان اثبات فرضیه ریمان یه قدم جلوتر رفته. چند ریاضیدان مستقل از جمله اندرو ساترلند از MIT تایید کردن که اثبات لونت آلپوگه (ریاضیدان آنتروپیک، با کمک کلاد) توی Lean یعنی زبان اثبات صوری، کامپایل میشه؛ یعنی از نظر ماشینی سازگاره، ولی هنوز کسی نمی‌گه ریاضیاتش درسته و جامعه ریاضی داره روش کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهم‌زمان راوی وکیل هم اثبات فرضیه ریمان تعمیم‌یافته رو از الساندرو ماسولو، پست‌داک استنفورد، منتشر کرده که به گفته خودش کاملا انسانی و بدون AI نوشته شده؛ ولی اون هنوز توی Lean پیاده نشده، پس زوده درباره‌ش قضاوت کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-22T07:37:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vPCflyHMmCyh1MXFAVEUb_tMDjSKupVTcusdio55cZ1XFogLFyKZxjlSwAEaqmm4S2UeuaBwQO2MvCXxxESHzwxQthJ-86Npep7PCXrmXcm07okSgqYjWXLeqin2WcJLVpi6KUe1UeKeGNvVVntycNaZkMDknbTp_YY51rbNCU8UuX29-JtowZzWsMz-okOINfNRrqE7e3kMFq3T7RnBzOSz6csAMToUmHC9AyetNmUV1fYdt9b5tXbJqhY75FASIfpLW0XWV0cbH_s6iPJt_uXPLkJGbpSR-U-zcuLSpgEr7y7q7PWs-3sejXI7fobfD24GqSKsHjUqOPPl0OTvug.jpg"
-        }
-      ]
-    },
-    {
       "id": 5952,
       "message": "",
       "date": "2026-11-22T07:37:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +25,7 @@
       "date": "2026-11-22T09:40:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +43,7 @@
       "date": "2026-11-22T10:21:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 29900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +55,7 @@
       "date": "2026-11-22T10:54:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +73,7 @@
       "date": "2026-11-22T18:16:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +81,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/vW30obiHfeUi6JoWLZGe6gkpexZYBYVMRwu8NASMbNkf-OgOuT8CLIO8pKwesJURoUg7DF4o6qFmIYOy4KqSJtr7pJ5BbIBDQaKW1XL7uTzHAGAUXzGFkIpW-fbcjVblGoLqIhK3hiJCu5sCWu1YzAOTErZLmc5NcOqYh_s4cNxhSN8QXo-wJfzyLYuqMRwBZorrUAHgJATk792HnEf3YSm5IIpeKVhm1McfbMwbgXj2zFQXx3lPLgoF1jVzBZkWn-fipij0nBrbhm4vvlBS-PIOrdpDiC68sZxdEbFmsF2ihox2LU_hYBM_GOUNdbVM2bF9fPqFbkTJ1a2wV-owpA",
+          "url": "https://cdn1.telesco.pe/file/VJ_VTpBCtkWAdQkjG9B0rlfjUGgUguxIXI9JTTllpw5xb56-MH3X241JsOT5rdNYUhm63xDUzIUUi7Z35u5ETYhoPUGCCI6uzsAVChllYR-6UNQwKerHRmAVjD0Kz4IU5TuM2s23aopatvugSekuYJYPKzxUgk9AaOEa254tK3QFsI-fpRcdcgzC6bxjcPIhVHOdbVg6X7xNZukA_MRK-UfTOBs2Q3XjSqlpGiNFEWw1e8PRBgSk9Wk3hYiVDU_pFAyWOCgqPFTASoSIHGkoAx5raivxY9XCefVoIca-srNE-5_ta4s0wKq2peIJfPmr0dSOPy9gUKB-68NfFRuWkw",
           "width": 1280
         }
       ]
@@ -222,7 +92,7 @@
       "date": "2026-11-22T21:11:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +104,7 @@
       "date": "2026-11-22T21:13:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +112,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/coqJPVdEO8xFNOby676ksX74SoKtfeK_PnqLurPkWsSmZZmXh8ygtdj9GiB0CNbjjol3ZPOmYsgn5YqZdL3dJEsSzVxKFnIAhEC0qWKD3Rxs5676K3xt9BkaUH2M2MUNx4Eheq5Ru7L6k8UsZ9eP-GVXcBWpx3UCjjPMwGxmpmtHBt8kKcm-XsYkKQISyldK9BP-CF_9-ntJdTORHsNK0H3BylPKYsIWVXZxinpm9ZL4f1-DciRHL5CfK7GU16wRweOfqdbriA6vAt_gdQ1RgbS0iog3_lwKOjXOnBOBRm1gL6GXr1LrgIl4y6xIdsnf0-ilUXRVHUoZXHiVed8RZA.jpg"
+          "url": "https://cdn1.telesco.pe/file/ZvYjfpPv_hQ4px4dB9sajxFDW23dFb3pAHfjzAVDGy8iHRLRRftqaEGlJR_q30zU5K72jL88dXXw377Hanbtu_kcc44LDEpd3H_6f2qWRo1slqLbdwlGTf4ZHMPrTEkARrDdJCOVWjQc5RPcQv_N9Y9l79Q1AmcwlnqOSKyr9cotbLIBRB-pnkNVFmaMxxqNRX1RK9HpHGnj9XgCdFR2wh-kHecSgVK77p-I0Qt-a68pv6QRy0Vav5R4kKqh0x3NegiwFtqt5_o1PnwvW027-U108fYaX9UzgVYLlMfAQGUkY3d4NCCofs8JMfPcqeuZOp30BJbO2U8_aRXhRvnEEg.jpg"
         }
       ]
     },
@@ -252,7 +122,7 @@
       "date": "2026-11-23T09:21:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +141,7 @@
       "date": "2026-11-23T09:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +153,7 @@
       "date": "2026-11-23T10:42:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +165,117 @@
       "date": "2026-11-23T10:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9080,
+      "views": 21100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5963,
+      "message": "یه ویدیوی کوتاه ساختم برای \u003cb\u003eمعرفی Herdr\u003c/b\u003e؛\u003cbr/\u003eیه ابزار رایگان و متن‌باز برای مدیریت ایجنت‌های کدنویسی.\u003cbr/\u003e\u003cbr/\u003eبا Herdr می‌تونی:\u003cbr/\u003eایجنت‌هایی مثل Claude Code و Codex رو یک‌جا مدیریت کنی.\u003cbr/\u003eببینی کدوم ایجنت مشغوله و کدوم منتظر جوابته.\u003cbr/\u003eترمینال رو ببندی و بذاری ایجنت‌ها به کارشون ادامه بدن.\u003cbr/\u003eماشین‌های ریموت رو اضافه کنی و از گوشی هم به ایجنت‌هات سر بزنی.\u003cbr/\u003eایجنت‌ها رو برای انجام کارها و بررسی کد با هم هماهنگ کنی.\u003cbr/\u003eظاهر، چیدمان و نحوهٔ کار برنامه رو مطابق سلیقه و نیازت تغییر بدی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771749860373962541\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e لینک تماشا در یوتیوب\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/7gAK2oIPnRQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/7gAK2oIPnRQ\u003c/a\u003e",
+      "date": "2026-11-23T13:02:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5964,
+      "message": "جنسن هوآنگ دوباره به سمت مدیر عاملی انویدیا منصوب شد\u003ctg-emoji emoji-id=\"5208965692690276934\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-11-23T15:18:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TBObHt0rT4zHboBeSRtL8r2Ozm_a41zDySaP4VMkifsl-IpUaw0sAEvT7h-Am4CyGwqJ6HrgLubDcU-0oAJ0xeBlroKHkgrMniifAXu0U_LXip4Gjz8H-H7RlXogHeUUdd5rB0wXhqzklXU1LqggMJov7y8ioirNhjERAV5icrAwFpTUI88S6JSz6XcV7oxvxUAs8yiURdEo7b1ewK4QhHcEczDQkI1usqXWDUY-jMg84wp4oKpOpBS9qUlKOmkXTLLYGQC2kYFJrrpCHsPWTZ0e8xFcFp9ZSO5rMFfAyCX01KK-GwvPB7Jp1oK3Wrn21Ogs8Uqa3q7S3hSvExAnDw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5965,
+      "message": "همونی شد دقیقا که یزدان گفته بود \u003cbr/\u003eچقدر زووودد\u003cbr/\u003eفقط 12 روز طول کشید",
+      "date": "2026-11-23T15:39:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5966,
+      "message": "\u003cb\u003eقدرت نامحدود ایجنت‌ها با OpenBot: از ترجمه کتاب و مقاله تا کنترل شبکه‌های اجتماعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو OpenBot رو معرفی می‌کنم؛ یه ابزار اوپن‌سورس و کاملا لوکال که باهاش می‌تونید ایجنت بسازید، چندتا ایجنت رو توی یه چنل کنار هم بذارید و ورکفلوهای پیچیده درست کنید.\u003cbr/\u003e\u003cbr/\u003eمن با OpenBot یه تیم 7 نفره از ایجنت‌ها ساختم: مدیر ترجمه، استخراج‌گر PDF، مترجم، گلاسری‌ساز، ویراستار، بازبین و صفحه‌آرا. این تیم فصل اول یه کتاب زیست‌شناسی رو توی ۷۹ دقیقه به فارسی ترجمه کرد و عکس‌ها و صفحه‌آرایی رو هم نگه داشت. نکته جالب اینه که این ایجنت‌ها و روابط بینشون رو یه ایجنتِ \u0026#34;ایجنت‌ساز\u0026#34; ساخته، نه من!\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیو اینا رو یاد میدم:\u003cbr/\u003e- نصب و راه‌اندازی OpenBot (نسخه Nightly Labs)\u003cbr/\u003e- معرفی یه سایت برای گرفتن API رایگان Qwen 3.8\u003cbr/\u003e- ساخت «ایجنتِ ایجنت‌ساز» برای مدیریت کل OpenBot\u003cbr/\u003e- ساخت چنل و ورکفلو برای ترجمه کتاب، مقاله و خبر\u003cbr/\u003e- دسترسی دادن به مرورگر برای کار با تلگرام، اینستاگرام و توییتر\u003cbr/\u003e- تنظیمات مموری، اسکیل، روتین و پرمیشن ایجنت‌ها\u003cbr/\u003e- ایمپورت کردن داده‌ها‌ی قدیمیتون از Hermes\u003cbr/\u003e- اضافه کردن یه مدل قوی‌تر و Aggregator به‌عنوان ویراستار نهایی(تسک‌های حساس)\u003cbr/\u003e- تفاوت OpenBot با هرمس و میوز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/XvR1y4eajIw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/XvR1y4eajIw\u003c/a\u003e",
+      "date": "2026-11-23T17:31:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FgKT-j0O0cgi4cLhc4cyTFPd1IYOeym5Ih6a5iYXuZ6mzHDR9rq7G0YYlh62xddrlfnSoW9NFou_LmINK89QabuqMP6armw3vic70q9qS90qMAjAvk9yYl2vw5dljXsw9atQHbeHi98IahD6eThr-vjCT7CRJDMqDsiAwFHHddPsMpRLBsKidJ33rvpKHbKfvXllCM4BPzwUGowb0TwAcTo_Y4KdZUdBDYDTGmQSr21KnsGlOmCL5BVxha95TQ34zsq1YMTtgJEktvCIXu04Y9knDZDtTxUP9NtbjXKszxkFhX-lUVWu4bqCCLcSvQsdE7yGqZOIEEMM4SpuFkmu6A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5967,
+      "message": "دوستان من دارم میرم سر ضبط ویدئوی بعدی هیگزفیلد و اونم تا شب می‌ذارمش که ممنون میشم اگر دنبال کنید و حمایت کنید.\u003cbr/\u003e\u003cbr/\u003eاما یه نکته قبلش بگم راجب OpenBot:\u003cbr/\u003e\u003cbr/\u003eمن خیلی خیلی محدود قابلیت‌هاش رو نشون دادم (چون زمان‌مون محدود بود و حتی همین ورکفلو ساده‌ی ترجمه هم 17 دقیقه شد!)\u003cbr/\u003e\u003cbr/\u003eمنتها شما می‌تونید کارهای خیلی خیلی زیادی باهاش بکنید.\u003cbr/\u003e\u003cbr/\u003e1. یه ورکفلو که هر روز توی اینستاگرام‌تون پست می‌ذاره\u003cbr/\u003e2. یه ایجنت که با MCP وصلش می‌کنید به جاهای مختلف و با ابزارهای سیستم‌تون کارای روزمره‌تون رو انجام میده\u003cbr/\u003e3. یه دستیار که تیکت‌هاتون رو جواب میده و خلاصه، محدودیتش دقیقا مثل Hermes، خلاقیت شماست.\u003cbr/\u003e4. میتونید Skill واسش نصب کنید\u003cbr/\u003e5. مموری دقیق واسش بنویسید\u003cbr/\u003e6. خودتون رو بهش بشناسونید\u003cbr/\u003e7. بدید بره سابقه‌ی IMDB یا anilistتون رو در بیاره و بره برای شبتون یه فیلم یا سریال که ممکنه دوست داشته باشید دانلود کنه\u003cbr/\u003e8. و یا یه دیتای خاص رو از سایت‌هایی که ایجنت‌ها نمیتونن توی حالت عادی واردش بشن هر چند ساعت یه بار Pull کنه.\u003cbr/\u003e9. باهاش مقاله بنویسید، بعد توی ورک فلوش فقط یه ایجنت بذارید که مسئول چک کردن رفرنس‌ها باشه، و...\u003cbr/\u003e\u003cbr/\u003eخلاصه باهاش کار کنید و کسب تجربه کنید، هرچی هم باهاش ساختید، یه خلاصه از کارتون بگید و توی توییتر من رو تگ کنید و پستش کنید.\u003cbr/\u003eبررسی می‌کنم و ری‌پست می‌کنم حتما \u003cbr/\u003e\u003cbr/\u003eموفق باشید \u003ctg-emoji emoji-id=\"5274117846899632751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-11-23T17:48:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5968,
+      "message": "هرچی حساب میکنم منیجیت داره ضرر میکنه",
+      "date": "2026-11-23T18:02:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TWaOYfuOELWxcfJC7blr3983L2SWAKEKNhVpwthXthSOmvQHNaWcgxF8n5KRBCLcHBIRfCDGeUAEQaWnLXxYM_dxerHueApqNzt84fZxhiY-2Yj80BWVS0uiWF5emNukHouYqH47GHslZ76Ot3C7VW1jef9L74CMv6VGk2h6gk_j7nAefIpg0WN6SbiU9hCEy4_q6mbHZRxad57JPRrY_bklHVEytmH4PdKZxgTDfJTHTX-DIZ5cGOaFiwxxJyPVyy7FuPCMcm2-plzjiLmFWfWvupELCLct2Q-U0sNZYT2HvR_5uZ9mvgSyqWmmQe9AYcmmqJboJrZI4Li3G6Nnlg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CLs78elFZIaRrYsDLl2vAOFfOMJqfXvx_dqFssqWEBTvAHekyBW69oSNOQ9_rv00JBiWWLWYL2SdDXdaBCx7UM-rip-NBf8cInp7AlSjV5o5tU0vytMT90atstEhx8kAw_70bdFfn2_yp-l4QBU3UeWBQ9p4at8OGfpmY2HZfR49d5MeK2I7wsYDjHGLmOredLwZ_FIrV7g-qMpG66zc6ZkTVagkeuwl9DeJ8GqpSYGyLo8oV_lkNCKjh7ygS6pZoUoYpxLX4bC-ZcOfDaJZAkSFVQSKgOxuS3yCz99KCtsOXqRNSVSoE8g2IcnW3HpCtuAgr3eK3rYGzreOs6ERLw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/aOUrn5q-N934IoAZN0RXN_kLNZCgtHqVl40Uy1X-1FF_ZmHwqcCyKC-tsx4tjYPcO3n19M13Gh3Qv5P_FrNunFcezp9ygoMfBBQgzDV4TkfIfBzaGacci4GPeIR36UmtjAyhYpA1qQAR1pm4RZlXDww34VVYxYaAqY6eyliiBtLo8t18KQvWO94KdHr6Uurz3Su-gJekucVwuZKTf7QbexdR6aS4URTD6o4NaqcbvQN_5LQ_2r3CwPTmLoK07sClwQS-Y1VlFyslz1B9Jjm3GCd-Penwh0_WOVKCc311JXUmdSTDORftElEQ8cL-9GHUzBbnfzbA_yxxMLhhqIHV4Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5972,
+      "message": "\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e‌",
+      "date": "2026-11-23T18:04:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
