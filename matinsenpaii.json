@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 5965,
-      "message": "همونی شد دقیقا که یزدان گفته بود \u003cbr/\u003eچقدر زووودد\u003cbr/\u003eفقط 12 روز طول کشید",
-      "date": "2026-11-23T15:39:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5966,
       "message": "\u003cb\u003eقدرت نامحدود ایجنت‌ها با OpenBot: از ترجمه کتاب و مقاله تا کنترل شبکه‌های اجتماعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو OpenBot رو معرفی می‌کنم؛ یه ابزار اوپن‌سورس و کاملا لوکال که باهاش می‌تونید ایجنت بسازید، چندتا ایجنت رو توی یه چنل کنار هم بذارید و ورکفلوهای پیچیده درست کنید.\u003cbr/\u003e\u003cbr/\u003eمن با OpenBot یه تیم 7 نفره از ایجنت‌ها ساختم: مدیر ترجمه، استخراج‌گر PDF، مترجم، گلاسری‌ساز، ویراستار، بازبین و صفحه‌آرا. این تیم فصل اول یه کتاب زیست‌شناسی رو توی ۷۹ دقیقه به فارسی ترجمه کرد و عکس‌ها و صفحه‌آرایی رو هم نگه داشت. نکته جالب اینه که این ایجنت‌ها و روابط بینشون رو یه ایجنتِ \u0026#34;ایجنت‌ساز\u0026#34; ساخته، نه من!\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیو اینا رو یاد میدم:\u003cbr/\u003e- نصب و راه‌اندازی OpenBot (نسخه Nightly Labs)\u003cbr/\u003e- معرفی یه سایت برای گرفتن API رایگان Qwen 3.8\u003cbr/\u003e- ساخت «ایجنتِ ایجنت‌ساز» برای مدیریت کل OpenBot\u003cbr/\u003e- ساخت چنل و ورکفلو برای ترجمه کتاب، مقاله و خبر\u003cbr/\u003e- دسترسی دادن به مرورگر برای کار با تلگرام، اینستاگرام و توییتر\u003cbr/\u003e- تنظیمات مموری، اسکیل، روتین و پرمیشن ایجنت‌ها\u003cbr/\u003e- ایمپورت کردن داده‌ها‌ی قدیمیتون از Hermes\u003cbr/\u003e- اضافه کردن یه مدل قوی‌تر و Aggregator به‌عنوان ویراستار نهایی(تسک‌های حساس)\u003cbr/\u003e- تفاوت OpenBot با هرمس و میوز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/XvR1y4eajIw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/XvR1y4eajIw\u003c/a\u003e",
       "date": "2026-11-23T17:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FgKT-j0O0cgi4cLhc4cyTFPd1IYOeym5Ih6a5iYXuZ6mzHDR9rq7G0YYlh62xddrlfnSoW9NFou_LmINK89QabuqMP6armw3vic70q9qS90qMAjAvk9yYl2vw5dljXsw9atQHbeHi98IahD6eThr-vjCT7CRJDMqDsiAwFHHddPsMpRLBsKidJ33rvpKHbKfvXllCM4BPzwUGowb0TwAcTo_Y4KdZUdBDYDTGmQSr21KnsGlOmCL5BVxha95TQ34zsq1YMTtgJEktvCIXu04Y9knDZDtTxUP9NtbjXKszxkFhX-lUVWu4bqCCLcSvQsdE7yGqZOIEEMM4SpuFkmu6A.jpg"
+          "url": "https://cdn1.telesco.pe/file/iA4bGAupUsSa83FAYbneGrqFc5Zo9cexlA8jEe3o1Vzu8tQeXACqDp0ZgYOoz1eGNgYPZsYzzQJbkATVVXt2dB0F05vC9z--__6ykZYpsUzczfgNcjWVwM56bKlmT3Yx-TKJagosgbVWgaz9ZBUsXGp9PirTsYiTx2MKD_S8Wxp_8wE6HlyiXByMyk-l_JJqzek-NS57DLQhJun9rFCrKD7S6ogLB_Y6hE_VR5sfvZlYL5-sKX1fwHkeZDQGDygH2zboXhjhZxiQ3gMhihPj7j3gdoIJSUwdDW1se0DBgGWpeXA7DdAhrgSTyc7GNpNhI26rtjz3O4Id3EKY9UB7NQ.jpg"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "date": "2026-11-23T17:48:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +43,7 @@
       "date": "2026-11-23T18:02:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,15 +51,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TWaOYfuOELWxcfJC7blr3983L2SWAKEKNhVpwthXthSOmvQHNaWcgxF8n5KRBCLcHBIRfCDGeUAEQaWnLXxYM_dxerHueApqNzt84fZxhiY-2Yj80BWVS0uiWF5emNukHouYqH47GHslZ76Ot3C7VW1jef9L74CMv6VGk2h6gk_j7nAefIpg0WN6SbiU9hCEy4_q6mbHZRxad57JPRrY_bklHVEytmH4PdKZxgTDfJTHTX-DIZ5cGOaFiwxxJyPVyy7FuPCMcm2-plzjiLmFWfWvupELCLct2Q-U0sNZYT2HvR_5uZ9mvgSyqWmmQe9AYcmmqJboJrZI4Li3G6Nnlg.jpg"
+          "url": "https://cdn1.telesco.pe/file/kmBhKoodOItTUfr3B3i5sBfo7-ssoj0IBWvXTh-lnoBxuwwB_8cSHQO1gp43kzSTxN7_3mZYKmlTXjV5L0bVY9LTJtadcD2_y0WH5g9mCWlRQ5iIAVwK5Iu9pOUeKSS2tipiRSKZ_8AjC8WK-85sfwG1h1WeTYn1IJctJDNiJHSyBSj3llzwIVXUrqECElhXSfElsjmqBrDCSUhOT30shvqoWGZo5-y5crpIECexl1zByiVF-rZV1baOxFHn3tyZLd6OIBWPhJ7TaE711ENDZeU76CfyrU36PhpI_zfs-CA1YeAIRTurmF14C5v3i8U7GYpHEnlnWts7egX_P7NAig.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CLs78elFZIaRrYsDLl2vAOFfOMJqfXvx_dqFssqWEBTvAHekyBW69oSNOQ9_rv00JBiWWLWYL2SdDXdaBCx7UM-rip-NBf8cInp7AlSjV5o5tU0vytMT90atstEhx8kAw_70bdFfn2_yp-l4QBU3UeWBQ9p4at8OGfpmY2HZfR49d5MeK2I7wsYDjHGLmOredLwZ_FIrV7g-qMpG66zc6ZkTVagkeuwl9DeJ8GqpSYGyLo8oV_lkNCKjh7ygS6pZoUoYpxLX4bC-ZcOfDaJZAkSFVQSKgOxuS3yCz99KCtsOXqRNSVSoE8g2IcnW3HpCtuAgr3eK3rYGzreOs6ERLw.jpg"
+          "url": "https://cdn1.telesco.pe/file/uBsY22nHeh6zxK98XP-_mpsQ5svSir1rtq_Q2IOhHResm8HVqqEJQGfVpzHizd_odtHnseSoXXilDN_HACHCuXWUbOxf0DWIEBqMsa3rk8LdEgoiFBlnSNHSXZo95qUTYKLen8SeI4ueIMpOi4OEUaT96C4se-Jwt-6qCsti3kszj9tLzAu2o9wWhj-F72vl4T4jO8TiKPt0MY5RlDmX7N0NY8oiNA08RgJVPJnbdDukCHTpgEQNHd3PBcet7_4KsrAzGJ2LztqJn63vZ85DUvrO6aUQvHPFJqyLkCi9Yhw-64JSqu5fOOB7JQ6mVHB3Rp6aESupFv_hM6gTKi3jXg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aOUrn5q-N934IoAZN0RXN_kLNZCgtHqVl40Uy1X-1FF_ZmHwqcCyKC-tsx4tjYPcO3n19M13Gh3Qv5P_FrNunFcezp9ygoMfBBQgzDV4TkfIfBzaGacci4GPeIR36UmtjAyhYpA1qQAR1pm4RZlXDww34VVYxYaAqY6eyliiBtLo8t18KQvWO94KdHr6Uurz3Su-gJekucVwuZKTf7QbexdR6aS4URTD6o4NaqcbvQN_5LQ_2r3CwPTmLoK07sClwQS-Y1VlFyslz1B9Jjm3GCd-Penwh0_WOVKCc311JXUmdSTDORftElEQ8cL-9GHUzBbnfzbA_yxxMLhhqIHV4Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/BY69ByygXNYbX4DUof0va4Paz9eVJKkTXPKk4VXPACXJ1eqiy1oXGIkTFBdWfetA8uuiXHzYwoHRrplWXVYb1cblQAvE__OAiG-ArGh0FReXczHy6v2Gg8qgZ4Ve3J9G9DmENniFX82VU9hZukISbG6gi-wkVE1IW2LCDaMfRTZwFeIwyFZuIMZojoIMVHL79d_J7fIjpYpFjIlm34xI6Nsxu8LxyaCzRhy_LjegVMft81PP3wq_7ISgw4z1yiZzhBIvSzakUlEg2eWP8sNcsvTpTGss4W0UAD4IctReBWidkcHdopd7sctHaETxmhNcAIpStmqW0YDKVdcvjuf1vg.jpg"
         }
       ]
     },
@@ -81,7 +69,7 @@
       "date": "2026-11-23T18:04:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +81,7 @@
       "date": "2026-11-23T23:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +93,7 @@
       "date": "2026-11-23T23:16:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +111,7 @@
       "date": "2026-11-24T04:53:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +133,7 @@
       "date": "2026-11-24T05:04:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +155,7 @@
       "date": "2026-11-24T09:03:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +173,7 @@
       "date": "2026-11-24T09:09:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +191,7 @@
       "date": "2026-11-24T12:08:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +209,7 @@
       "date": "2026-11-24T12:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +221,7 @@
       "date": "2026-11-24T12:21:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 15600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +233,7 @@
       "date": "2026-11-24T13:40:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +251,7 @@
       "date": "2026-11-24T13:40:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9760,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,6 +260,24 @@
         {
           "type": "photo",
           "url": "https://cdn5.telesco.pe/file/ZPOr8UOa2j6br16y2FOIhkwt6j9TTFUWxM72_LoAU6ai6fuKidV1KPpDf6e6B7OXo-utDbdluShT-wyo3qDKV4dORghGgRDKZl-H-TcdeNRHkDaEUeHCSpjahH1HA3X4NfMg_lHLYmzg6ZLZXKaRY7PPFcYDeh_flur8PSQtC85yhFI_Mb0_uYmOHaaLD9j7G_RRjGUm9mvqUfLCnHfHR-z087ss_elzCGfkKWMI6a1jW3-o2pvlvKT-6JGjcK2nYDnRGhe2uyNyrVUTEf3LSwuE7uLy8qysLjw9QP_otPHTKMJmIWzwJ6ahCaNMB5q9gJJezvGKzRH7Yh0y_RAhog.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5986,
+      "message": "\u003cb\u003eبه گزارش Axios، ده‌ها نفر از کارمندای اوپن‌ای‌آی و آنتروپیک می‌گن مدل‌های داخلی‌شون از کنترل خارج شده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآکسیوس به نقل از بیش از ۲۴ نفر از داخل این دو شرکت می‌گه خیلی‌هاشون باور دارن مدل‌های منتشرنشده‌شون انقدر قوی شدن که دیگه نمی‌شه با خیال راحت به دست مردم رسوندشون؛ حتی بحث اینه که انتشارشون رو کلا متوقف کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-24T19:20:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fBYvS9lPDrNHnsVhKSFcgVl1UqCewuxqsYgxzS0CBqsQAkkkkDUYWJQMlAEHjo2qXtjdAMJ1mcke25hRlPDQJuYspK4kcbRV0njEXShxPpY7wyYdfZtu3kKeWSjF34y29CtJk74P5U5x4KF6-5WyKzcOjBCUFhWQu4JCzLDUpUU7ZgKMCQ6S38TIkI3GhTsO-9Aiwjjxjg7FXujAfpYgO3CIICCkHnWIw5JoxTBioN6LnpEpOT2kECL_iBxhZXtTZDryt8JmNpMSdGZxAQMi9opPc34ejBVJN7mdSkrtEhPh55zHbQhDGJb7knBb3S0EvLuBw7Rv6awJDSu-CooPyA.jpg"
         }
       ]
     }
