@@ -3,78 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/bDSto1gSbPBHDH4-_pVbsQf4NRY1fyhDCSf27cqlX0kLbAIeZDe4Lq22CH62uzRHLF97qLOVnpR4Dh4rBnGALUnJeeXwPrV7yurepPyUxLsn-dyAKYZpOJELDdBrtQtPQXeHFEFWxGyimw56cGarNihjfwXecwHwMDWinhPiD_wJlu_XJb-7XON2EvyoLWTHXq6ybTUNCUmCZypraHop8AJWj6C4LFs21gk5d7TQrdq15MoXo84wMMtIRI53SX61XWf89dREMgcPQo54lQbJDwHEaDw-FDw3cNZesLg_PO57iQ5ZLUDzgkSGKoJT2V1dugO4-DqwE5WMuvjKoQL-ZA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/JZoJT3ohBlzW1eKsObu5PJER9MPSA1Hs-44LnaTsjwZbRBxsmbUtqI7esA8PsT0IHgi40qGtVn_E3FZAKXWPxy0hVFJ496NGjf0Rf5iMS8K4ah12Egdz9U-RIjPXFeixWVYFdcOLGJvrxNqsXvOmXazg2PzE9lrWzasAJ1jqLR62XbQ9KrX2Go7yiWM1IERA-GTQUMPUutTg1ydxLCE0u2zKxFgEpeFgFbiBlIDYzGra5Rgg7GH9JiP8VPhSO_wMeB6tKut4Ok6i9OHsPDeBlwsroCBoWksQyYHs19zNrPaRsPa1NYTig6t8BH1gvxY2BV4JzOeGBc9udM5C7RolsQ.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\nارتباط با من: https://linktr.ee/matinsenpai"
   },
   "posts": [
-    {
-      "id": 5954,
-      "message": "برق رفته و متأسفانه تمام برنامه‌هام عقب افتاده. حتی نمیدونم کی میاد برق. ویدئو میره برای امشب یا فردا",
-      "date": "2026-11-22T10:21:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5955,
-      "message": "ما منتظر بودیم گاز قطع بشه، نگو برق رو قطع کردن که گاز کم نیاد.\u003cbr/\u003eبرنامه‌نویس بودن توی محدوده‌ی قدرت اول منطقه چقدر کیف میده",
-      "date": "2026-11-22T10:54:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/S1SCO2rTNnVt01nx61KhhTm75BIpnG7TmqobOlzH4-IJ-NaY9voSFxLJpmgG4gX4ctMOAoxG7RvvvBaY36BZGompvIOxDVd43l5XVPkVImIW01nFKS6sKH8bjIYuDMWRCeV53-uH2afe-qb0JRoRpewGJLTd6NOhgOmfMcC6mGXSN5lduFCBT2wTBMIWzsmVsOfNyUuxFKFmIXBLbsWqSl0uvFnhLs2doC9m9QhMzn4LAhmCKrDCRDafmV4fX8J5Fi1vqtmYxBCYtyaAsqii9XBx3B99RfureRaaYU4rfyeAUgaEOYzJiB0L3-yB0kDjDx4UcQB65Kkt8hwQJL2_2g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5956,
-      "message": "پخت و پز ویدئوی امشب\u003cbr/\u003e4K\u003cbr/\u003eعلت گرون شدن قیمت رم و ssd\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-11-22T18:16:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/VJ_VTpBCtkWAdQkjG9B0rlfjUGgUguxIXI9JTTllpw5xb56-MH3X241JsOT5rdNYUhm63xDUzIUUi7Z35u5ETYhoPUGCCI6uzsAVChllYR-6UNQwKerHRmAVjD0Kz4IU5TuM2s23aopatvugSekuYJYPKzxUgk9AaOEa254tK3QFsI-fpRcdcgzC6bxjcPIhVHOdbVg6X7xNZukA_MRK-UfTOBs2Q3XjSqlpGiNFEWw1e8PRBgSk9Wk3hYiVDU_pFAyWOCgqPFTASoSIHGkoAx5raivxY9XCefVoIca-srNE-5_ta4s0wKq2peIJfPmr0dSOPy9gUKB-68NfFRuWkw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 5957,
-      "message": "\u003cb\u003e۱. مجسمه\u003c/b\u003e (Seedream 5.5، نسبت 3:4، کیفیت 2K)\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eHigh-detail digital clay sculpture of a big old adult male orangutan, one full-body figure. The face is the main feature: enormous wide rounded cheek pads that form a big half-moon disc around the face, the cheek pads are the widest part of the whole figure, a flat broad face in the middle, small deep-set eyes under a heavy brow, a wide flat nose, a long upper lip and a wide mouth with a slight closed-mouth smirk at one corner. A large saggy throat sac hanging over the chest, a heavy round body, long thick arms with long shaggy hair hanging from them, big human-like hands with long fingers. Pose: leaning back lazily in a half-sitting position as if slumped on a sofa, belly forward, both hands raised together in front of the chest with palms facing each other, about to clap, chin slightly up, eyes half closed. The whole figure is one plain matte grey clay with no paint and no surface texture. Single view, soft main light and thin rim light, black background, dark ground with soft contact shadow\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e۲. تکسچر مو\u003c/b\u003e (Seedream 5.5، نسبت 1:1، کیفیت 2K)\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eExtreme close-up photograph of real long orangutan hair, warm reddish-brown auburn colour with darker chestnut roots and lighter copper tips, coarse strands that hang in loose wavy clumps, a little tangled, soft natural sheen, even overcast light, texture fills the whole frame\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e۳. تکسچر پوست\u003c/b\u003e (Seedream 5.5، نسبت 1:1، کیفیت 2K)\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eExtreme close-up photograph of real orangutan cheek pad skin, dark slate grey to almost black, thick and leathery, covered in a fine dense grid of tiny wrinkles and folds, a soft matte surface with slight oily patches, a few sparse fine hairs, even overcast light, texture fills the whole frame\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e۴. تکسچر روی مجسمه\u003c/b\u003e (Seedream 5.5؛ Image 1 = مجسمه، Image 2 = مو، Image 3 = پوست؛ نسبت 4:3 یا برای ریلز 9:16؛ کیفیت 2K)\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eUse Image 1 as the exact base: same pose, same proportions, same huge face shape. Turn the clay figure into a real photograph of a living old male orangutan, real full size, heavy and massive. All its hair is the real reddish-brown auburn orangutan hair from Image 2: long loose clumps hanging from the arms and shoulders, thinner on the chest and belly. Its giant cheek pads, face, throat sac and hands are the real dark slate-grey wrinkled leathery skin from Image 3, with a slightly lighter grey area around the mouth and muzzle. Small warm amber-brown eyes with wet reflections. A calm, wise, slightly amused expression, mouth closed in a subtle smirk.\u003cbr/\u003eScene: it is slumped back on a worn brown leather sofa with brass studs along the arm, its back against a big brown cushion, a crumpled light blue blanket beside it, both hands raised in front of its chest, eyes half closed, a smug knowing look.\u003cbr/\u003eThe photo itself: a quick phone snapshot with direct on-camera flash in a dim living room, harsh frontal flash, a hard shadow on the sofa behind it, fast light falloff, slight grain, plain realistic colours, nothing cinematic. A real animal with loose hairs, dust and small imperfections. Not a sculpture, not clay, not plastic, not a toy, not a figurine, not a costume, not a person in a suit, not CG or 3D, no glow. Keep the pose unchanged. No text.\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e۵. ویدیو\u003c/b\u003e (Seedance 2.5، ۵ ثانیه، Quality: 4K؛ Image 1 = عکس مرحلهٔ ۴، Audio 1 = صدای مرحلهٔ ۵)\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"https://t.me/Image\" target=\"_blank\"\u003e@Image\u003c/a\u003e 1 is the orangutan and the scene; keep its face, body, hair and the sofa identical to \u003ca href=\"https://t.me/Image\" target=\"_blank\"\u003e@Image\u003c/a\u003e 1.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Audio\" target=\"_blank\"\u003e@Audio\u003c/a\u003e 1 is the final, fixed dialogue track. Use it exactly as it is as the orangutan\u0026#39;s voice: the same voice, the same words, the same timing, pitch, rhythm and intonation. Do not re-voice, re-generate, translate, speed up or change it in any way, and do not add any other speech. The orangutan lip-syncs precisely to \u003ca href=\"https://t.me/Audio\" target=\"_blank\"\u003e@Audio\u003c/a\u003e 1: its lips and jaw open and close on every syllable, mouth still and closed in the silences. It says the first line from 0.7 s to 2.1 s, slowly and drawn out; silence from 2.1 s to 2.9 s; then the second, shorter line from 2.9 s to 3.8 s; then silence to the end.\u003cbr/\u003e\u003cbr/\u003eOne continuous 5-second shot, static handheld phone camera with a tiny natural shake, slightly low angle, the orangutan centred from the belly up.\u003cbr/\u003e\u003cbr/\u003eAction: the orangutan stays leaning back on the brown leather sofa and claps its big hands together fast and continuously, about three claps per second, quick light energetic claps the whole time, never stopping, like an excited sarcastic applause. Its head sways and bobs side to side in rhythm with the claps, chin up, eyes half closed, a smug knowing grin. While speaking it keeps clapping and keeps bobbing its head; during the pause it tilts its head further to one side and narrows its eyes. Real animal movement with weight: the belly bounces with the claps, long arm hair swings with every clap, the heavy cheek pads wobble with each head bob and each word, fingers spread and meet.\u003cbr/\u003e\u003cbr/\u003eSound: \u003ca href=\"https://t.me/Audio\" target=\"_blank\"\u003e@Audio\u003c/a\u003e 1 as the only voice, plus fast light hand claps in a quiet living room, matched to every hand contact. No music, no other voices, no text on screen.\u003c/blockquote\u003e",
-      "date": "2026-11-22T21:11:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5958,
       "message": "\u003cb\u003eویدئوهای AI رو دیگه نمیشه از واقعیت تشخیص داد | Seedance 2.5 4K\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو، مدل جدید Seedance 2.5 رو توی کیفیت 4K تست کردم و قدم به قدم نشون دادم چطور یه ویدئوی هوش مصنوعی بسازید که پوست و جزئیاتش واقعی به نظر بیاد: از ساخت مجسمهٔ خاکستری و تکسچر واقعی، تا ساخت صدا، لیپ‌سینک و خروجی نهایی 4K.\u003cbr/\u003e\u003cbr/\u003eاین ویدیو با حمایت Higgsfield ساخته شده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/FfhSbPnRa-A\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/FfhSbPnRa-A\u003c/a\u003e",
       "date": "2026-11-22T21:13:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +31,7 @@
       "date": "2026-11-23T09:21:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +50,7 @@
       "date": "2026-11-23T09:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +62,7 @@
       "date": "2026-11-23T10:42:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +74,7 @@
       "date": "2026-11-23T10:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +86,7 @@
       "date": "2026-11-23T13:02:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +98,7 @@
       "date": "2026-11-23T15:18:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +116,7 @@
       "date": "2026-11-23T15:39:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +128,7 @@
       "date": "2026-11-23T17:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +146,7 @@
       "date": "2026-11-23T17:48:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +158,7 @@
       "date": "2026-11-23T18:02:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +184,7 @@
       "date": "2026-11-23T18:04:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +196,7 @@
       "date": "2026-11-23T23:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2810,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +208,7 @@
       "date": "2026-11-23T23:16:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2710,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,6 +217,50 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/vUUe6ZG1C7_7HssWdwuL4ljpIu77vMMJQqw6aqND6c8BePZYmD-jHDq1KWE00Cdi7lHUchhAg3-5dty7SqXXsNKFfSWhOtiOa6-foYwHXuswqqrd3-W0AQ5D7KXHiC5RTAwb7ousKbZC6KJgF8scLaNy6mdUEOx-qLLf5jRhtVdPyiE9oNgUcc4hbvvPSa5GUFMjwg9PkycnfNSCFvhhri2ja22ZtXNHWoxkTyV_8s_5CxdKT1gSqZlteCbBemLahaAjw-TB-OGCvIGVqJGHCnxvpriIHJIQLW7ghwJj_eSxO6A34yi1vuHtF0K3SFh3MoY9W1CIxROf6DPWMD1xMw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5975,
+      "message": "مهندس هوش مصنوعی با سیبیل\u003cbr/\u003eباعث خوشحالیه توی جمع این بزرگان باشم. قراره در مورد ساختار هارنس‌ها، و پیکربندی محیطش و راه‌اندازیش صحبت کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://starcoach.ir/bootcamp/ai-product-builder?utm_source=linkedin\u0026amp;utm_medium=social\u0026amp;utm_campaign=product-builder\u0026amp;utm_content=matin-senpai\" target=\"_blank\" rel=\"noopener\"\u003ehttps://starcoach.ir/bootcamp/ai-product-builder?utm_source=linkedin\u0026amp;utm_medium=social\u0026amp;utm_campaign=product-builder\u0026amp;utm_content=matin-senpai\u003c/a\u003e",
+      "date": "2026-11-24T04:53:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/e8Sa1JgPsRvG2sofqIXRyWPUNrfmBEPp1AAKhmq9uOVexvdA1uv9CGxONkJLdGD_T9WXtDGksY_WrVR18I5Q9Tkvf4jhp1DuvHs6AWdVMtwQjiG6N23uewtZrzixLpv15IqOrg7OQye273-e-TymrL46CBQnFnyLpXLHHAwNFd9FNg3tzJErxYP8LIXiiWLAEKtFRbtW9ANqxzRry-hRpPXH8Pu8fn6V8DBFuZ_d-ROmn15alSyICk8ycHOx9_trGZoBLthruzXNk9Qgd5N-BiNsijcqAtDOcA3SC4tCt8kW1CGwHYzQhjBdcTig1lNtKENkZnkgGQrrFmNgLCq1og.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ipdYsY99Q5wzIFhFqSdiWpSsUJB-G5KFSW8-EMKnprpdM8kfhndITNBP3oTBzCUbr35YnlBATojB3VxbhicBTbawWGuWAuiSvGcNlLXB8JKVrn3i0548LzOA5pkHQr7BI2r_2HTZ_Rh3zRq95_AklVNmeeBYKq6QoCC9ebRAFrmHgYkppf_2DJ3khxI69qrNpPlrnjwUDrLv_2e5ytYQ9TZSONgtMxfRa0vukQb-DFcP-R1Dp9pIeAJjinEl2hMr0ljsJ-FBDUkRlDPOX_vWvES7QpnWgN-12mbIXmvwxgDnz_P6DhfhuoBCcnRjbFtInzRxgyUyfS7WKJsyy9fvXA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5977,
+      "message": "این پیجی که توی ویدئو ساختم از دیشب تا الان 33 تا فالوور گرفته. یه مامان بزرگ که نمیدونم اسپانیاییه یا کجاییه هم فالوم کرده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-11-24T05:04:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/hl3hGnxMOe17aEDG1ZBWr5iauow_2t2mFB7zRCOScDp1mpoBsQ4GrC_qlR5q-VfA_IwlehNFboGzQ7WgVXn-iymhKiLuEq43zL0azPdH6sQkpqzuRqxfmC_aYQ_HhoNyucQrT06GIbN9Yvh9EOoIRWlf-7KtdRBMoMFmx_yP_aJRMeZGxiC1PF-W7EOhIA2Ork4SQQTyG1i5YnmZv9zKPGtcx2TF0fXNsxE1ES8j0j5beSVw8OHV8boGQcGg13NYWDjjrfNbXv4OFryhtddUvrXAhOX5eLYX9JAI3_wWsUtZicU0xmsEoiL29LWQxNeqhnIF1gWvaHEtfV_5zlcNrA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vCY_qD6i8_UT6Cw0WCgv5k7wR8rms0YwBLzd-Zc1ErK1YzI8-OOLnoG-KnT8UjHPbu4ZngGgdWsKXE5p8u73hAd69jgcxW4FJs7CBK-u8M7Tu-Tcft9a9mQ2BvYnCBYcaHtC4Qz436GmgQdmFWuKDeLd_Srq9DNSRzlSmGXgFZk1kgP1kvFFknGM6VJEG8k1oMApH3IungoQ_2KaZ065uHb5Rl3hlnIH7Djx85y4KquuZ6yBs_8aUlYDsgWBeeg7nMKD-XddEAiKd6gLKHb-0mso_Ifd9L-1ZLl-2hVmaCAg9kPr_ikx7krD7c1RXqPm1sZgz54ld_u86m1B3R3h8A.jpg"
         }
       ]
     }
