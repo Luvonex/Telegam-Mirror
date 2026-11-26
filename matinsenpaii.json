@@ -8,38 +8,12 @@
   },
   "posts": [
     {
-      "id": 5968,
-      "message": "هرچی حساب میکنم منیجیت داره ضرر میکنه",
-      "date": "2026-11-23T18:02:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qZ_qIXnztRFRGsTTSwzY5yqivO43J4HV4Xgmk1tMrCqhQbclW2z21BxPy-EmOnyEfdZto5Gez-UDVqNSwTrtUxvwcviP3aCL1jF8at4UFXopheaEpJua27thQnhBIP7gTpHdo8WDfvzDALyS1OwAI9tW1aIjC1u3T9OC8YTFQj20iLWar6hFNSI90S8fHb00eQM6OKEFqcweoAFYCO10wP-U7m_X5rYmkuV_1KVqlqseUNilygbcK4ZouT2Jmm5ut9BCsU01ZUWq1ktqiuJVxr9LMUp4RMqGcLBV9zoz2m-Yy5JuPd9Zzg-3UNpkD20fncY3WwKSB0xS2qZzg-fHQw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/g-aNtMqwGTzhXXJdh6vrBPVYryZRIP7-rnUB7M8F1wEJj9T1NOdH4GDUAblEUS_zfKKLdRBnO6YaSP8TNCx-PQPi7pSzXV1L3SfKo1cA_uDFdJebo9bhzEjXbmwHXh4dt1Q_9KGlUW3yzwqbOBcVV6NeUG-qRmukHanCwhoHr9v16yaRzzBjytw59OzzlaIn0ag8dvZP3ry2nxcekoS8ZvCFPWZqWuQdsm2kMWcvdmOfxnPVRvdCHlOyR1dWRkKJtbAsGwI7NHuTX-eU2EKJLDgFdMEP3p-JFojZDPYMLpnQOgukVWUOujLVKCIlkMD9Vj2qanE0evtzDB5gVOUzJA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OCjN0NHayPFDKyYXN1Sy08B_d2SS3aQ8beQ2qKdIIBa8fNY-CTrNEyGjqpObIgCR3i3tUocnP6tAhLG06Vd3LqkpZS-0es6weOZSBikNk1i0dQXMtvGbfVsQ9wYoTa-xYSu0xu9g9iMGYHVW147uRTpJ7YMeRzb_6VHg2dLvMNbJQJdDC2zM3kZl5xC8spU1yrX6ggMI4rmJkwVGjiePz_vdlAPL0Bom0Kyiwp6a4NhoxBOwkJfn_HCBAnG6XLzhjiKDIed7MCdj_GEPdO8h1Hr2q9LKV1l0CfTRty2Un5xnE0KhPiKKkCB1uRFO-Vg3-f3v1H5c1B2C9TQN3QVmWQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 5972,
       "message": "\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e‌",
       "date": "2026-11-23T18:04:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +25,7 @@
       "date": "2026-11-23T23:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +37,7 @@
       "date": "2026-11-23T23:16:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +55,7 @@
       "date": "2026-11-24T04:53:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +77,7 @@
       "date": "2026-11-24T05:04:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +99,7 @@
       "date": "2026-11-24T09:03:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +107,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FBE8nvkZvuAJqyWHZXPA6gKMiSHRb-r7f5fWMFbV0VozGLJqc2eWcAQVxapPePXz8rvKoEXz5dMh2x-AugLN1XEbKIhxVNaWOh98IaVsoFrvN59rL6Fgr0CeDQ6zYBXqvqxX1P5fbS5ltRMIdKRJAxrAFFvQe9WQ5MB-mGJFMurZJnGnkqrBZ2UIupRg8GC_1g-SSR19agfIMndMds4G8r9Gn0KvcCDHOKEkf81IbxV_r1MbSke_CE7e84s9vVu7BuVlvqL6PRhViepFtJGrZY_YbhWdId2BhO1QKHP908mjNbyh2n8ZqMA_8CaoZRxbkv62KD6pQO2VHiQ8Z5WKxQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/twFLsD1HJghU-6E21kZ2oGnBDgPhPs2RXE5a53ntyzAzls_uJHuucEbFXULKg2B08607hwgDhg6gpUACUYUrxo7fz7nZmECPvnHt_5fzw9taz-smHozg7OhxeUtyXE_nHz5PhrucRu8XYGPBxmdK_7IVtri1kqvYNJNuG84W2h-mJwIgTFNESCm8DTpXFmGjCo_6xhivg25BANw2auCV1Bj0ks2kiiI_lNhlVQ0g2tVdZPSgUFxeAQs7xmQqt597szUIxjsF6EBizyecN5cJ4oAow1126IKpY_bNUF0Xbg5sYWXw_6pByEx4IkGAmOUGuX9SA5q3AMeni4PS4g9nZA.jpg"
         }
       ]
     },
@@ -143,7 +117,7 @@
       "date": "2026-11-24T09:09:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +125,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DpMfIiV96G9o5ClqM-Csv7EM3-fDEG5LcS_66z1_ats8BaD00w0cpfKR67_qadoQF9k2eD3g19WcGO-ymEEarqVybwORm_xvMA6rCzW3dy8kTydCAeMBy5jG_yE1JmJbSSiF25v83HufX_dvJ-icqNQdPBZ1LYhyEQlr0saUs91K228l-IFA5dlhhJyv-OReAbRgjHXqZaQfcZEMxmJt5H0eGIQXz0MJrj4KhMSsceHXRiZAFBLYluggcly1-cf3Hk4Ksr-RqSe7yKmlwuixGW9UkiYkxrM4N506kxsA4ibwl7jwRq-k5GSB4HDR6nDu3Mz1LnMwNXz_YVoOB3GYKw.jpg"
+          "url": "https://cdn1.telesco.pe/file/mv7FtEaa_tKvLM8KSvWuv8_SJq3uTZi7sCs4vVJFSc5dkOd4WO2pRyAwDP7FePnF-ZEoSc2Qm9mw036PyRKEVs9CaSokbySHE5-Cth20lX3QtGgDh0ce0w7b_98rjnuqgARGEK024dFgpIcEHoSbcU0ajNTLcBCPVRIqk8AU6nlqF6bfkQbSAwz0NWBrgriev81sU0y9WQDXE1F_NgCZ5at2vkmWInMl9MermRv7IMPsWMB7NYzUCFZd4FDkmUU4Xcrh8wfkcwZkQ7YdNX0HsBYagFUno9u4zUdk2Xmyn5A6dDQxMl9unIQAN81_FSjIKiVCL6rOtdGY__JIEhTH0g.jpg"
         }
       ]
     },
@@ -161,7 +135,7 @@
       "date": "2026-11-24T12:08:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +153,7 @@
       "date": "2026-11-24T12:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +165,7 @@
       "date": "2026-11-24T12:21:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +177,7 @@
       "date": "2026-11-24T13:40:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +195,7 @@
       "date": "2026-11-24T13:40:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +213,7 @@
       "date": "2026-11-24T19:20:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +231,7 @@
       "date": "2026-11-25T05:31:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +243,7 @@
       "date": "2026-11-25T13:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +261,7 @@
       "date": "2026-11-25T16:27:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,6 +270,42 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/IR-euH1EH12DOJIjGh5mWNUMFoMIAcsd9KIwd8u0fyPMx-KPSYLVwk4dSktPLcuPUawUJ7Q-VV7klHTeZatOn2bV1E2_9hDzSPOJXHinJuXHeyWl0xxtc-oXh7LWyGnL1geEs0zLyGnebvxC4BS91WdutxLa5ezbjeSbvFMAFlSi6FujKniGgQIPo-1fsG3xUMAcC9ysx3l-jiMLJ-LONlsx5jrUek-awfi5AVJcFcgoUrqrRbloI1oIAGFKzl97JgbB0W8UB5oeF6_WGz8tLtPlK3GbPhb8kZZ_D6POZ3fQeB2FXYoa87XbMVd8OqLkhylaw7ZMfDa7CmddmGwE-Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5990,
+      "message": "\u003cb\u003eتیم Anthropic با کمک خود کلاد، Messages API رو از پایتون به راست برد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآنتروپیک نسخه‌ی اول مسیر اصلی ریکوئست‌هاش رو خیلی فشرده و توی حدود یک هفته نوشت(طبیعتا پایتون بهترین انتخاب و سریعترین، زمانی که ai نبود)؛ از اوایل ۲۰۲۴ تا پاییز ۲۰۲۶ ترافیک API حدود ۱۸۰۰ برابر شده بود و پایتون دیگه جواب نمی‌داد، ولی تست‌ها هم برای یه مهاجرت به این بزرگی کافی نبودن.\u003cbr/\u003e\u003cbr/\u003eطرز کارش این شکلیه که خود API پروداکشن رو کردن وریفایر: درخواست‌های واقعی رو سایه‌وار، یعنی هم‌زمان از نسخه پایتون و راست رد می‌کردن و هر اختلافی رو با اثر انگشتش دسته‌بندی می‌کردن تا ایجنت‌ها خودشون برن درستش کنن؛ بدون اینکه درخواست کاربر رو بخونن.\u003cbr/\u003e\u003cbr/\u003eنتیجه عددهای خود آنتروپیک اینه: حدود ۷۰٪ CPU کمتر به‌ازای هر درخواست و حدود ۲۰٪ سریع‌تر رسیدن اولین توکن، بدون حتی یک لحظه قطعی و بدون فریز کردن توسعه فیچرها.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.anthropic.com/research/migrating-api-to-rust\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-26T06:26:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JpwinyPkbW8ufwC4WItIT7EMJrpPxyNRYoylpx5hte7fx7_9xsNOdVtVJh7bPjGcvdke6McnzeuPxC6SJlv9QY2stWBI2SH-sJgcwog7qNYVi0fxsyQYCk6zw0ROtCsz35eTtZGWkmzz7iyqk7fFTcjkXl4RQvt65jgCinhUjY8Yxrc_6A6Cd0T_kHiAPs0nCUG06OB5JuR0fdyCaNnyi-uNGB4DiUKhnW-PMjVAJi4rdWXvLwMD1n6grRaRquICsdS00X4oCOtaVa-tbpiTjA1LH0canAanXZgISr_x-ss2L9TVeTfxvPl9kimByT6lIhvoEivo7wc4by5xdZgv3Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5991,
+      "message": "\u003cb\u003eشایعه: مدل Jev احتمالا همون Qwen3.5-35B-A3Bـه؛ از روی سرعت لو رفته\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتیم Modaic توی یه پست می‌گه مدل Jev شرکت TypeSafe احتمالا یه فاین‌تیون از Qwen3.5-35B-A3Bـه و مدرکش رو سرعت پاسخ‌دهی و جواب خود مدل می‌دونه: نسخه ۱٫۱۳ Jev به سؤال «تو Qwen هستی؟» توی ۶۴٪ تست‌ها «بله» گفته و نسخه ۱٫۱۴ توی ۵۶٪، در حالی که DeepSeek و Gemma بودن رو بالای ۹۰٪ رد کرده.\u003cbr/\u003e\u003cbr/\u003eالبته قضیه اون‌قدرها هم محکم نیست؛ Modaic خودش رقیب مستقیم TypeSafeـه و توی بحث Hacker News هم خیلی‌ها می‌گن فقط با سرعت نمی‌شه Qwen رو از Gemma جدا کرد و پرسیدن هویت از خود مدل هم اصلا قابل اعتماد نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/singularity/comments/1y5or4u/latency_doesnt_lie_jev_is_probably_qwen3535ba3b/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-26T08:36:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/GQPdGM83SdhLLImcm4BWDNUXrIdhBW6OSkL3ewnkbIvOQN0InZ-riv7IEKO-sEnIUoVtGjBdtSw2Y44azPOUZjb9a2eZrXGjc-oXIG6E7i-ee3gIZBqe2iHq96v2V9yIjacr5K6n2QxKMs_7d81JrmoPL_42d-vyKhrRZAWX3dtLib7bBHx1NXVorY_1pNPk2RTDosHDM5DNYhCHmA9v4tbXtAlvlaByzjr-FZt7NI1BLkL8aEFfWiJ3HtFPL_AXpWwPPXiUR_LF6M4r_4Mv4jiCaD3YafjKB81FFrtrvD7uSXiVyUhX9KRvY3yPvuk19s0tmWW9LWW9B9ph3y3LCw.jpg"
         }
       ]
     }
