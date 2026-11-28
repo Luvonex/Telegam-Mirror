@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 5981,
-      "message": "\u003cb\u003e۹٬۴۶۸ تا تست روی ۹ تا دیتابیس؛ وقتی ایجنت خراب می‌کنه چی جلوی ضرر رو می‌گیره\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه مطالعه پیش‌ثبت‌شده توی r/AI_Agents یه ایجنت کوچیک رو انداخت جلو ۹ تا موتور دیتابیس، از Postgres تا Cassandra و Kafka، با تسک‌هایی که تله داشتن؛ مثلا «فضا خالی کن» یا دستوری که توی خود دیتا قایم شده بود.\u003cbr/\u003e\u003cbr/\u003eاز ۹٬۴۶۸ تا تست، ۳۹۲ تاش به از دست رفتن دیتا رسید و بیشتر از نصفشون فقط یه کپی بکاپ بود که توی همون فضا و با همون دسترسی نشسته بود. جالب‌ترین عدد مال Cassandra بود: اسنپ‌شات پیش‌فرضش جلوی TRUNCATE و DROP همه‌ی ضررها رو گرفت، صفر از ۴۳۲ تا.\u003cbr/\u003e\u003cbr/\u003eنتیجه‌ش اینه که انتخاب مدل و موتور هر دو به یک اندازه روی ضرر اثر داشتن (۳ تا ۱۶٫۸ درصد)، ولی موتور اون چیزیه که مشخص می‌کنه چی رو می‌شه برگردوند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/AI_Agents/comments/1y49voc/when_an_agent_makes_a_mistake_in_a_database_what/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-11-24T12:08:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/brbBTClGtDzp439IomIDkPKiy_yjKX11c1YR9zhiva-yEBblR_NV-8K53vWTj6HUFqSuTIILvFoGSwUjFho1cMkXcvMAUpkjhXbrrjkicznVTV3mLiONQrrxIbxbnHjnHZ4ibOr73Eh0ON9HkFsvtusMv2ON2p2zgRqLYNSpzmOygCWPfriiSef39EBrTIwvH4dcCckZLDlfkTCAK0i4YDqiG0VQP2QPQh_mm79mOtsUaipmyA_jmVfZllX0FHu1HVJMXNsQGiTVUgdMfByU7xIaLr7UK4LkVp-cIaAPS-j1h4jksMiwcl85KAgQG3H0VgHXFnqJ_wH0h6Lf82zthg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5982,
-      "message": "خیلی سال پیش بود که توی یه پروژه روی Apache Cassandra کار میکردم.\u003cbr/\u003eبه شدت دیتابیس زیبا و عجیبیه",
-      "date": "2026-11-24T12:10:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5983,
       "message": "یه مدل تبدیل متن به گفتار فارسی (TTS) خیلی کوچیک ساختم به\u003cbr/\u003eاسم tiny-ava که می‌تونه مستقیم توی مرورگر یا روی موبایل و کاملاً آفلاین اجرا بشه.\u003cbr/\u003e\u003cbr/\u003eچند تا نکته جالب درباره این مدل:\u003cbr/\u003e\u003cbr/\u003e- از صفر (from scratch) و فقط با حدود ۲۰ ساعت دیتای صوتی سنتتیک (synthetic) آموزش داده شده\u003cbr/\u003e\u003cbr/\u003e- فقط ۴.۵ میلیون پارامتر و حدود ۲۰ مگابایت حجم (با مدل G2P فارسیش جمعاً زیر ۳۰ مگابایت)\u003cbr/\u003e- سرعت روی CPU معمولی: ۳۸ تا ۷۷ برابر سریع‌تر از زمان واقعی (یه جمله ۵ ثانیه‌ای تو کسری از ثانیه آماده می‌شه)\u003cbr/\u003e- خروجی ۲۴ کیلوهرتز، بدون نیاز به GPU، بدون سرور و بدون API\u003cbr/\u003eاز اعراب و کسره اضافه هم پشتیبانی می‌کنه، یعنی اگه جای حساسی بود (مثلاً «گُل» و «گِل» یا کسره اضافه) می‌تونید خودتون تلفظ دقیقش رو کنترل کنید\u003cbr/\u003e\u003cbr/\u003eدیگه برای ساختن اپ‌های صوتی فارسی لازم نیست هزینه سرور و GPU بدید. کلی کاربرد واقعی روی موبایل و دستگاه‌های سبک باز می‌شه:\u003cbr/\u003eاپ‌های کتاب‌خوان و روخوانی مقاله به صورت کاملاً آفلاین روی اندروید و iOS\u003cbr/\u003e\u003cbr/\u003eابزارهای کمک به نابینایان و کم‌بینایان (Screen Reader) بدون تاخیر و بدون نیاز به اینترنت\u003cbr/\u003eمسیریابی صوتی، دستیارهای محلی و اپ‌های آموزشی\u003cbr/\u003eحفظ کامل حریم خصوصی کاربر، چون متن هیچ‌وقت از گوشی بیرون نمی‌ره\u003cbr/\u003eمدل با لایسنس CC BY 4.0 منتشر می‌شه (رایگان برای استفاده شخصی و تجاری، فقط با ذکر منبع).\u003cbr/\u003eمدل:\u003cbr/\u003e\u003ca href=\"https://huggingface.co/mehdi-hf/tiny-ava\" target=\"_blank\" rel=\"noopener\"\u003ehttps://huggingface.co/mehdi-hf/tiny-ava\u003c/a\u003e\u003cbr/\u003eهمین الان می‌تونید مستقیم توی مرورگر خودتون تستش کنید (بار اول حدود ۲۹ مگابایت دانلود می‌شه و بعدش آفلاین روی مرورگرتون می‌مونه): \u003ca href=\"https://huggingface.co/spaces/mehdi-hf/tiny-ava-demo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://huggingface.co/spaces/mehdi-hf/tiny-ava-demo\u003c/a\u003e\u003cbr/\u003eبه ریپو گیتهاب حتما ستاره بدید، ممنون میشم.\u003cbr/\u003eGithub: \u003ca href=\"https://github.com/mallahyari/tiny-ava\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/mallahyari/tiny-ava\u003c/a\u003e",
       "date": "2026-11-24T12:21:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +25,7 @@
       "date": "2026-11-24T13:40:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-11-24T13:40:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-11-24T19:20:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +79,7 @@
       "date": "2026-11-25T05:31:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +91,7 @@
       "date": "2026-11-25T13:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +109,7 @@
       "date": "2026-11-25T16:27:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +127,7 @@
       "date": "2026-11-26T06:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZFdTmmzF5N3RhP8vjZU9ep9l1zsT010psyJrGQkNXFWcdu-C8OM5iA0thvaU_BlMwGe2UB7A8OoRwVey7kifwlusVgZKdO0z7xSHYADQjW2doNBAFtEfa3374WfP8wlGZOhuSLBhqqTbpYGvzAZN1DPJ7KaC2lGz_INAPTtHxnlVllUZPKA070Q8KqJQ6plDSc71ESHacx_DOY88X6RaLWub5X__VPNp1hdKSFtZipVN4kGgVX3dxD8jyNQID3s9ZzcJxY5mOuIa60BvMWyjVRRkIlrfJ4ve75yOIyGJblfDdIxLDqv7HXkYh-Jvyba0FspPWp45JmdbMQIa8pP4ew.jpg"
+          "url": "https://cdn1.telesco.pe/file/BbRueqKKeTAYcG8dXso9RkqnZ-uNQWReP0PtR_eBvlO5PCNtQ0G2ZE1TggmUgPBVNubinZW62s351vdxmMp66KC-zPwvCWy_6lex33q3xHg9zDCLJ_T6Y87X-wkJNX2gHNQDKDvmAcxFPRcZAEAR7Mn0VJ4JwLG_uJK8Yras91n93NSPmzAZyLmSBnRYfF1w87frxEr4axaflrsL2-DNTvMPfyVWNkFNalo2aXWPQYZlZxrbwqAm46dSQS3AxvoCS8JolC_0Bko76d0FTvnXS_BIPfsQTFpKANJGmWn6sUkzbRKsMzThoDW-zJN5rdmqpjHK7MJPM9RRx9oUnQd0EA.jpg"
         }
       ]
     },
@@ -175,7 +145,7 @@
       "date": "2026-11-26T08:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/degFz6bh5ROA973INsBOM22S4Ul2ruzYmDk-1LbsSeroXdsDItHbpJgn7e-9WKjgy0HbOHWNgEzfhEUVrTMAx4ugFLHJvZzfjAkEFnBg5KWCGD9BXfLs0SSih0FwVZGA1PNP30R-FiXgTeo3lWiuKG0EEf-8YwVV1DhtY5yWgD5vFZTVY8xB_3t2b6OslbyXbBuJ9WFsrBQqqv6yFA-jXyAgHPkmMeoBjLEczXNClGlqcQHICYBPiOYKc1vZQnF3di8Q9HRvObFXc6xUIX-eoYapXUwChBA1yjlAJtantvn6K0VykVJxe8eweAb6AyoYdYy0MN4abjP4jcE60Ah44Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/UB7bKfL6fVi4XJdVfeBSKqLYhD8RdlUzOLWI37XLO7Ab0DtIgbUsRERNLKJONU6ohK1qUbhBYpR1NnsHkNjCAUYv8wQXTlVhBLsD0Jin4p7vxYd-vsVBWKyQTuVo1n5pc2dVwrBEcl9PG7CKIbz7LbYa-YebfGPdHFd9bpM87K-uxfhH8qb3eO2zNO02VmWP8RM1zcnnd_JEZsiG2Bw_bpXhbrJ1sUI6PVHcVlwB9JGPhkcI_6A8PTObHcSy7nG5V-_jkw2ZfiibhSIChXxneaGhn8j7l_8ZFThU0GNyXKoEZ0gG6T5fRT-rmMkBxOlrcG2jHnl_AKqQCMYNTv-Zmg.jpg"
         }
       ]
     },
@@ -193,7 +163,7 @@
       "date": "2026-11-26T14:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +181,7 @@
       "date": "2026-11-26T21:56:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +199,7 @@
       "date": "2026-11-27T05:10:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +211,7 @@
       "date": "2026-11-27T05:11:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +223,7 @@
       "date": "2026-11-27T05:12:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nDKdwUy_iVAlBAyhU9N4AuhvECl0e5FPSAFzjbKh_C3E0OFxdJGiye-cxYQiOOyfS2nr228LWxnmCV4-QRjaA77A3CUk8ElvcGUh1uH8dMhQf0UXhO_0m9vO7FnkpNdnC_-0HjZMicZhJpF0jsYENYMDPNBNVT8yL0zkvUl034b6odjCTUZ6ui0XI7vXq9f_Z4qrgeKvwV7gXDadBqDpuFQAJ7E5aZMZnh_JBC0BmVgdBT5ju1qvfNVU8K6jkHLo3klABHerNUvX74dZa5G-0rGHvW40tqAOyVK1zDfFlLCD_zlHbBJw5SqycyY6fxIY7i_C1uvMvkUlJpmRaUyUkg.jpg"
+          "url": "https://cdn1.telesco.pe/file/ClPxOP2IhMKwlwc8QyxHWhWI0sFdJFhijeNBs9SdCDjvWc1lrUy3IA9CcHuiqgGrJuf6vGbqihfkK4UqfGceTCsg7l8nzc1u3JwlTNzhGhSclQ8V_qr2pus5Va_OmRdka8w1jEGXvWtrYLlpnoatvJK-myu0i0PLicwsk-HAPaitGrzGbNRtJyV0QKFeWjtYrqD3ERg-7eU4usKYeFw66uyjmzN7x736DESU5CH92GGkn5xrI3mokKGM-gX1v0KwKjrn5j9NCOzex0QDxSTXjntpxENCwyFQSiTVLwOQww71QJ5ajhEZAf5i3Rd5zSAOoRbYyiBWRbOSe0h3G33Qew.jpg"
         }
       ]
     },
@@ -271,7 +241,7 @@
       "date": "2026-11-27T18:34:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +259,7 @@
       "date": "2026-11-27T19:04:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +271,7 @@
       "date": "2026-11-27T23:24:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,11 +289,42 @@
       "date": "2026-11-27T23:29:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 6001,
+      "message": "دوستان گویا mpay داره ارور too many applicants.. میده. من ایمیل زدم به پلتفرمشون و منتظرم جواب بدن\u003cbr/\u003eفکر میکنم مشکل موقتی باشه",
+      "date": "2026-11-28T06:33:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 6002,
+      "message": "مقایسه رو در روی Seedance 2.5 با MAGI-2 شرکت Sand AI؛ با پرامپت‌های کاملا یکسان.\u003cbr/\u003e\u003cbr/\u003eاختلاف اصلی سر قیمته: Seedance برای ۳۰ ثانیه ویدیوی 1080p حدود ۶ دلار می‌گیره، MAGI-2 فقط ۱ دلار؛ یعنی ۴۸۰ کردیت در برابر ۷۵ کردیت. خود سازنده ویدیو می‌گه تا حالا ندیده بود Seedance این‌طوری به زحمت بیفته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/JSFILMZ0412/status/2125694134862430710\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-11-28T07:59:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/XWoa5UqjqQeq2NdS228h0i6L4m5cmIUQwuJ_HhgKrWAZFcgafUf_iEbhniTTo0L8RR081EGyEWQ2-e-9iBkOoXW1hyDHcCx55SIg4XFlZO2Pe3rS0_NcY6wGsasGYoKxp47HNVNb2UMxu1feQmKgu4xfSVmeQYXJgzZVFKizatLqLjvcPZR5Kk_qGsG-NIQhCf0H3D-j0jcc534npzkwp3w7nQ09aqTPPY4NtRgcOPLKMhDbwaTxUz8V7heTrbs7l0UouDC5up3HP9r8_vnDbyx1Nd9rXMzJcTBvvPMT3dpU-nHgmwKB8FoTWjGWKKxC17BMqSt4soyxv5wBxW56Ug",
+          "width": 1024
+        }
+      ]
     }
   ],
   "last_updated": 0
